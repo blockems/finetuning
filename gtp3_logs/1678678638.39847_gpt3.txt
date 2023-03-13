@@ -1,0 +1,42 @@
+Imagine a lesson plan for an detailed review of sub topic in a detailed agile training course for experienced agile coach:
+The plan should be aimed at intelligent experienced corporate students.
+The content should be a university high doctorate level.
+The subject should be Advanced Agile Concepts.
+The Subtopic covered should be Agile Manifesto and Principles Revisited.
+
+==========
+
+Lesson Overview:
+In this lesson, we will revisit the Agile Manifesto and Principles in detail to gain a deeper understanding of how they relate to advanced agile concepts. We will delve into the history and evolution of the Agile Manifesto and Principles, and explore their application to modern-day agile teams. Our focus will be on key concepts such as customer collaboration, working software, and responding to change, which are at the heart of the Agile Manifesto and its principles.
+
+Objective:
+By the end of this lesson, participants will be able to:
+- Demonstrate a deeper understanding of the Agile Manifesto and Principles
+- Apply Agile Manifesto and Principles thinking to advanced agile concepts
+- Understand how Agile Manifesto and Principles influence agile teams and their work
+
+Lesson Content:
+1. Introduction to Agile Manifesto and Principles
+- Background and history of Agile Manifesto and Principles
+- Agile values and principles
+- Significance of Agile Manifesto and Principles for modern agile teams
+
+2. Agile Manifesto Revisited
+- The four values of Agile Manifesto
+- Agile Manifesto and customer collaboration
+- Agile Manifesto and working software
+- Agile Manifesto and responding to change
+- Agile Manifesto and individuals and interactions
+
+3. Agile Principles Revisited
+- Overview of the twelve principles of Agile Manifesto
+- Applying Agile Principles to real-world situations
+- Implementing Agile Principles in advanced agile settings
+
+4. Agile Manifesto and Principles in Practice
+- Understanding the role of Agile Manifesto and Principles in agile methods such as Scrum, Kanban, and Lean
+- How to apply Agile Manifesto and Principles thinking to advanced agile concepts such as DevOps, Continuous Integration, and Continuous Delivery
+- Incorporating Agile Manifesto and Principles into agile team culture
+
+Conclusion:
+In conclusion, the Agile Manifesto and Principles provide a solid foundation for advanced agile concepts, as they emphasize customer collaboration, working software, and responding to change. By revisiting the Agile Manifesto and Principles, participants can gain a deeper understanding of their application to modern-day agile teams, and enhance their agility in the workplace.

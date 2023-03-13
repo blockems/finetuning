@@ -45,6 +45,6 @@ def finetune_get(ftid):
 
 
 
-resp = file_upload('plots.jsonl')
-finetune_model(resp['id'], 'plot_generator', 'davinci')
+resp = file_upload('subjects.jsonl')
+finetune_model(resp['id'], 'agile_learnings', 'davinci')
 #finetune_list()

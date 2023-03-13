@@ -1,0 +1,44 @@
+Imagine a lesson plan for an detailed review of sub topic in a detailed agile training course for experienced agile coach:
+The plan should be aimed at intelligent experienced corporate students.
+The content should be a university high doctorate level.
+The subject should be Advanced Agile Concepts.
+The Subtopic covered should be Agile Maturity Models and Assessments.
+
+==========
+
+Lesson Plan: Advanced Agile Concepts - Agile Maturity Models and Assessments
+
+Learning Objective: 
+
+By the end of this session, students will be able to understand the concept of Agile Maturity Models and Assessments and their role in improving and sustaining Agile practices in an organization.
+
+Duration: 120 minutes
+
+Introduction: 
+
+- Set the context of the session by explaining the importance of continuous improvement and Agile maturity in the Agile ecosystem. 
+- Provide an overview of the Agile Maturity Models and Assessments subtopic and highlight the learning objectives for the session. 
+- Explain the relevance of the session to the participants giving examples of how Agile Maturity Models have positively impacted other businesses. 
+
+Content: 
+
+- Introduce the concept of Agile Maturity Models and Assessments, and provide a theoretical framework for the different models that exist. 
+- Provide an overview of the different types of assessments, including self-assessments, third-party assessments, and custom assessments. 
+- Discuss how Agile Maturity Models and Assessments are instrumental in measuring and tracking Agile practice maturity over time. 
+- Explore the relationship between Agile Maturity Models and Assessments and Agile Transformation initiatives. 
+- Provide real-life examples of Agile Maturity Models and Assessments, highlighting the benefits of successful implementation in the corporate world.
+
+Exercises: 
+
+- Split participants into groups of four and request them to conduct a brief self-Assessment of their Agile practice environment against a well-known Assessment Framework like SAFe or Scrum. 
+- Appropriately deliver a team activity that would ask the teams to apply their learnings from the lesson and simulate how to implement an Agile Transformation initiative in a real-life example.
+
+Conclusion: 
+
+- Recap all learning objectives and key takeaways from the session. 
+- Encourage discussion and exchange of ideas and experiences by participants. 
+- Provide recommendations to help students apply their learning to their respective organizations effectively.
+
+Assessment: 
+
+- Conduct an assessment to test participants' understanding of the Agile Maturity Models and Assessments subtopic. Use a combination of multiple-choice questions and short-answer questions to assess the breadth and depth of the participants' knowledge.

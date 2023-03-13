@@ -19,7 +19,7 @@ if __name__ == '__main__':
         prompt = open_file(prompt_dir + file)
         info = {'prompt': prompt, 'completion': completion}
         data.append(info)
-    with open('plots.jsonl', 'w') as outfile:
+    with open('subjects.jsonl', 'w') as outfile:
         for i in data:
             json.dump(i, outfile)
             outfile.write('\n')

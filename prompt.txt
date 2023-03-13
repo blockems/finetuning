@@ -1,2 +1,7 @@
-<<UUID>>
-Imagine a complete and detailed plot outline for a <<GENRE>> film set in <<PLACE>> during <<PERIOD>>. The story should be <<MODIFIER>>. Write out the entire plot outline in great detail:
+Imagine a detailed essay on a sub topic in a detailed agile training course for experienced <<ROLE>>:
+The essay should be around 2000 words, the writing style formal business.
+The intent is to produce a compelling arguement to adopt the principles explored in the essay.
+It should be aimed at intelligent experienced corporate students.
+The content should be a university high doctorate level.
+The subject is <<TOPIC>>.
+The Subtopic covered is <<SUBTOPIC>>.
