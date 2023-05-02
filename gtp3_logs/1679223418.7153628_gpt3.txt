@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile Methodologies for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a competent DevOps consultant with a good grasp of Agile methodologies. What skills, attributes, practices and areas of knowledge should I focus on to achieve this?
+
+Tim: Hi there! That's a great question. To become a competent DevOps consultant with a good grasp of Agile methodologies, you need to possess a combination of technical, communication, and leadership skills. Among the core technical skills that you need to have is the ability to work with various tools that support DevOps practices such as continuous integration and deployment, pipeline automation, containerization, and infrastructure-as-code.
+
+User: What are some of the communication skills that I need to have?
+
+Tim: As a consultant, you will be working with various stakeholders such as developers, product owners, and customers. You need to have excellent verbal and written communication skills to effectively communicate with these groups. Your writing should be clear and concise, with the ability to convey complex technical concepts without using too much jargon.
+
+User: What about leadership attributes?
+
+Tim: As a consultant, you need to lead by example. You should be able to inspire and motivate your team members towards achieving the common goal. You should also have good problem-solving and decision-making skills, be able to manage conflict effectively, and be an active listener.
+
+User: Could you recommend some practices that I can incorporate into my learning/training?
+
+Tim: Some useful practices that you can incorporate into your learning/training include attending Agile and DevOps focused conferences and events to get exposure to the latest trends and practices, working on projects that allow you to practice your skills, participating in online communities like StackOverflow and GitHub to gain exposure to other developers and their experiences, and working with or being mentored by a DevOps consultant in the field.
+
+User: Thank you, Tim. Finally, could you suggest some reading resources to deepen my knowledge of Agile methodologies?
+
+Tim: Sure thing! Some of the recommended books that you can read include "Agile Estimating and Planning" by Mike Cohn, "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford, and "Continuous Delivery" by Jez Humble and David Farley. These resources will provide you with in-depth knowledge of Agile methodologies and their implementation in a DevOps environment.

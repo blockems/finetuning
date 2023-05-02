@@ -1,0 +1,19 @@
+role: You are an expert in agile software development.
+task: Imagine you are writing a detailed essay on how a <<ROLE>> of an <<LEVEL>> level of competency can use a skill <<SKILL>> to improve the efficiency of thier companies software development lifecycle.
+The essay should be around 2000 words, the writing style formal business.
+The intent is to produce a compelling arguement to adopt the principles explored in the essay.
+It should be aimed at intelligent experienced corporate students.
+The content should be a university high doctorate level.
+The content should expand on the following concepts:
+- How to de-risk the delivery process
+- How to provide feedback to the business on progress and change.
+- How to engage stakeholders and create a avenue for the business to add value to the process.
+- How to avoid churn and requirements change.
+- How to facilitate innovation.
+- How to align the teams accross a complex solution space.
+- How to engage dependent teams that are not part of you release train.
+- How to engage external vendors providing services and software.
+- How to manage a complex integration and testing sycle.
+- How to move towards a continuous integration delivery cycle (CI/CD).
+- How to move towards a release on demand cycle.
+- How to interract with and gain advantage of working with a traditional Program Management Office.

@@ -1,0 +1,26 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Coaching and Mentoring for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+This is an interesting topic on the skills, practices, and areas of knowledge needed to become an expert Agile Coach for the competency of coaching and mentoring. As an Agile Coach, the coach should possess several skills and knowledge that will make the organization successful.
+
+The first skill that an Agile Coach should possess is strong communication skills. Effective communication is critical in Agile coaching, as it promotes transparency, collaboration, and accountability. It helps the Agile Coach to create trust with various stakeholders and to provide concise and clear feedback to team members. A competent Agile Coach should not only have excellent communication skills but also be able to 'read the room' to understand people's emotions and body language, as Agile ceremonies like standups, sprint retrospectives, and sprint plannings can be emotional.
+
+Another necessary skill for Agile coaches is leadership. Agile coaches need to possess strong leadership skills to help team members buy-in to Agile practices and to guide them on how to improve continuously. Leadership also includes the ability to influence people to create a culture of continuous learning and improvement within the organization.
+
+Agile coaches should also possess strong facilitation skills. Facilitation is key to Agile coaching since Agile depends on collaboration, active participation, and end-to-end team involvement. Agile coaches facilitate entire team meetings, coaching sessions, agile workshops, and other team-building events. Facilitation also helps in ensuring that every member has contributed and has a clear understanding of objectives.
+
+Agile coaches should possess strong technical knowledge to coach teams on technical practices like CI/CD, unit testing, and code quality. They should have deep knowledge of programming principles and practices. While the Agile Coach need not be technical experts or be a master programmer, they must possess the skill and the necessary knowledge to understand technical issues to coach the team successfully.
+
+The area of knowledge required to become an expert in Agile coaching includes a thorough understanding of Agile frameworks, such as Scrum, Kanban, Lean, and XP, among others. The Agile Coach should also have an extensive understanding of DevOps practices, Lean-Agile leadership principles, and Lean System Engineering principles.
+
+In conclusion, becoming an expert in Agile coaching, specifically the competency of coaching and mentoring requires a combination of soft and hard skills, leadership, communication, facilitation, technical expertise, and an in-depth knowledge of Agile frameworks and practices. Agile coaches can develop these skills and knowledge through continuous learning, attending Agile training programs, and by adopting Agile principles in their everyday work. 
+
+References:
+- Sutherland, Jeff. (2018). Scrum: The art of doing twice the work in half the time. 
+- Kniberg, Henrik, & Skarin, Mattias. (2012). Kanban and Scrum: Making the Most of Both. 
+- Verhees, Ferry. (2016). Agile leadership: A leader’s guide to agile principles and practices. 
+- Larman, Craig, & Vodde, Bas. (2009). Scaling Lean & Agile Development: Thinking and Organizational Tools for Large-Scale Scrum. 
+- Fowler, Martin. (2001). Agile Manifesto Principles.

@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emerging for the competency Project Management for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm interested in becoming an Emerging Scrum Master. Can you explain what skills, attributes, practices, and areas of knowledge are required for this level of competency in project management?
+
+Tim: Hi there! I'd be happy to help. As a Scrum Master, you'll need to have a strong foundation in Agile methodologies and an understanding of Scrum processes. This includes knowledge of Agile values, principles, practices, and techniques. You'll also need to be proficient in facilitating meetings, managing conflicts, and driving results through team collaboration.
+
+User: Interesting! What specific skills do I need to develop in order to meet these requirements?
+
+Tim: To become an Emerging Scrum Master, you'll need to develop your leadership, communication, and problem-solving skills. This means being able to empower team members, communicate clearly and effectively, and use creative problem-solving strategies to manage risks and opportunities.
+
+User: What about the attributes of a successful Scrum Master? What type of personality or work style should I strive to embody?
+
+Tim: Excellent question! A successful Scrum Master should be someone who is adaptable, empathetic, patient, and persistent. It's important to stay calm and focused under pressure, and to be able to adapt quickly to changing circumstances. A Scrum Master should also strive to foster a culture of continuous improvement, and be willing to learn from feedback and mistakes.
+
+User: I see. What practices can I engage in to develop these skills and attributes?
+
+Tim: There are several practices you can engage in to develop these skills and attributes. Some examples include joining a local Agile community or attending Agile conferences, participating in Scrum Master training programs, and seeking out feedback and mentorship from experienced Scrum Masters.
+
+User: Hmm, that sounds like a lot of work. Can you recommend any specific resources or books to help me get started?
+
+Tim: Sure! The Agile Manifesto (agilemanifesto.org) is a great starting point for learning the values and principles of Agile methodologies. Additionally, "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland, "The Phoenix Project" by Gene Kim, and "Coaching Agile Teams" by Lyssa Adkins are all excellent resources that can help you develop your Scrum Master skills and knowledge.
+
+User: Thanks so much for your help, Tim! I'm feeling much more confident about my journey to becoming an Emerging Scrum Master.
+
+Tim: You're welcome! Remember, curiosity is key. Stay curious about the Agile space and keep challenging yourself to learn and improve. Good luck!

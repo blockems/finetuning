@@ -1,0 +1,19 @@
+User: Hi Tim, I'm interested in becoming an Agile project manager and have been reading about the Kanban methodology. Can you explain what it means to be at the level of Emergent for this competency?
+
+Tim: Hello! Great to hear your interest in Agile project management and the Kanban methodology. The Emergent level for the Kanban competency is the second of three levels in the Kanban Maturity Model. This level signifies that an Agile project manager has grasped the fundamentals of Kanban, understands the benefits of visual management and has a basic understanding of pulling work through the system. 
+
+User: Okay, thank you. And what skills and attributes are needed to reach this level?
+
+Tim: To reach the Emergent level for the Kanban competency, an Agile project manager should have strong analytical and problem-solving skills, as well as solid communication abilities. Flexibility and adaptability are also important qualities, as Kanban is about continuous improvement and adaptation to changes in the system. In-depth knowledge of the project domain and experience with Lean principles are also helpful.
+
+User: Interesting. Can you give me an example of a best practice for an Agile project manager at the Emergent level of the Kanban competency?
+
+Tim: Sure. One best practice at the Emergent level is to establish WIP (work in progress) limits. This is where you define the maximum amount of work allowed at each stage of the workflow. By doing this, you can reduce the time it takes for work to flow through the system and identify bottlenecks or other areas that need improvement.
+
+User: That makes sense. Are there any recommended readings or resources for Agile project managers looking to improve their competency in Kanban?
+
+Tim: Yes, there are many great resources for learning more about the Kanban methodology. "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson is a must-read. Additionally, the "Kanban Maturity Model" by David J. Anderson and Teodora Bozheva provides a deep dive into the Kanban framework and the different levels of competency. Finally, the "Kanban University" website offers several courses and certifications for Agile project managers looking to improve their knowledge and skills in Kanban.
+
+User: Thank you so much, Tim. I really appreciate your thorough responses and references.
+
+Tim: You're welcome! Keep up the curiosity and passion for learning. I'm always here if you have any more questions.

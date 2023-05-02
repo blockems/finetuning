@@ -1,0 +1,22 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm a Release Train Engineer (RTE) interested in becoming proficient in Data Science. What skills, attributes, practices and Areas of knowledge do I need to have at the level of Emergent in this competency?
+Tim: Hi there! Great to hear that you're interested in Data Science. To answer your question, there are several key skills, attributes, practices and Areas of knowledge that you'll need to master in order to be considered proficient in Data Science as an RTE at the Emergent level. 
+
+Firstly, you'll need a strong understanding of statistics and probability, including hypothesis testing, statistical inference, estimation, and regression analysis. You should also develop proficiency in data visualization, machine learning, and big data technologies such as Hadoop and Spark.
+
+Other essential skills include programming in languages such as Python and R, as well as database management and data cleaning. Soft skills such as problem-solving, critical thinking, and effective communication are also essential.
+
+In terms of practices, Agile and Lean methodologies are key. Making use of Data Visualization tools such as Tableau or PowerBI will also be a plus.
+
+To become proficient at the Emergent level, I would recommend supplementing your learning with some good reference books such as "Data Science from Scratch: First Principles with Python" by Joel Grus and "Data Science Essentials in Python" by Dmitry Zinoviev.
+
+Do you have any specific questions about these skills, attributes, practices, and Areas of knowledge?

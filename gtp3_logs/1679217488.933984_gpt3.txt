@@ -1,0 +1,37 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Containers and Orchestration for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To be an emergent-level competency in containers and orchestration for a CI/CD Lead, one must have several critical skills, practices, and areas of knowledge. These include the ability to design, develop, deploy, and manage containerized applications using tools such as Docker and Kubernetes, expertise in source-code management, continuous integration and delivery, and infrastructure automation. Additionally, understanding network and security concerns, as well as the use of monitoring and logging tools, is necessary.
+
+Skills
+
+- Deep understanding of cloud infrastructure, virtualization, and containerization technologies
+- Strong familiarity with Docker and Kubernetes, including best practices for deployment and management
+- Strong knowledge in scripting skills such as Python, Bash
+- Knowledge in Linux-based operating systems administration
+- Knowledge of Agile and DevOps methodologies and principles
+
+Practices
+
+- Developing and managing containerized applications using Docker, Kubernetes, and other related tools
+- Implementing source-code management, continuous integration, and continuous delivery (CI/CD) pipelines
+- Automating infrastructure deployment and management using tools such as Ansible, Terraform
+- Ensuring the security of containerized applications, including network and data traffic between containers
+- Using monitoring and logging tools to identify and troubleshoot issues in the containerized environment
+
+Areas of Knowledge
+
+- Containerization and orchestration technologies such as Docker and Kubernetes
+- Infrastructure automation, deployment, and management using tools such as Ansible, Terraform
+- Security in the containerized environment, including network and data traffic between containers
+- Continuous integration and delivery practices, including source-code management
+- Monitoring and logging tools used to troubleshoot issues in the containerized environment.
+
+References:
+
+- Docker documentation. (2021). Available at: https://docs.docker.com/
+- Kubernetes documentation. (2021). Available at: https://kubernetes.io/docs/home/
+- DevOps Institute. (2019). DevOps Competencies: Interpreting Skills & Practices to Drive Organizational Performance. Available at: https://devopsinstitute.com/wp-content/uploads/2019/12/DOI_DevOps_Competencies_v1.1.pdf

@@ -1,0 +1,28 @@
+User: Hi Tim, I hope you are well today. I have been doing research on the skills, attributes, practices, and area of knowledge required for the competency of Facilitation and Coaching for a Release Train Engineer (RTE), but couldn't come up with a comprehensive answer. Can you please guide me on this topic?
+
+Tim: Hi there, I'm glad you approached me with your query. Before we delve into the specific skills, attributes, and knowledge required for an RTE coach, let's first briefly define the roles of an RTE. An RTE is responsible for leading the agile release train in identifying and resolving impediments, managing risks, and promoting continuous improvement. Considering this role, the RTE coach essentially needs to facilitate agile practices and support RTE in their duties.
+
+User: Yes, that is clear. So, what specific skills and attributes are required for an RTE coach to be considered an expert in their field?
+
+Tim: Well, an RTE coach should possess a variety of core competencies, including technical competencies such as Agile Engineering Practices and DevOps as well as interpersonal competencies such as communication, collaboration, and leadership. Additionally, RTE coaches must be adept at coaching and facilitating best practices using a range of Agile frameworks such as Scrum, Kanban, and Lean. Here are some specific attributes and areas of knowledge that could make you an expert in RTE coaching:
+
+- Agile Coaching Competency Framework
+- Agile and Lean principles and values
+- Scrum Master Certification or another Agile Certifications
+- Experience in coaching agile teams
+- Knowledge of agile metrics and reporting
+- Knowledge of agile engineering practices 
+- Knowledge of DevOps
+- Knowledge of SAFe® Framework
+
+User: This makes sense. Can you please give an example of how Agile engineering practices would be used in RTE coaching?
+
+Tim: Agile engineering practices refer to techniques, tools, and methods an agile team uses to support continuous delivery and employ Ship it, Own you code, and Zero defect practices. These practices help in identifying and preventing defects or technical debts in the software development process, ultimately helping to improve quality and value. As an RTE coach, you can coach Product owners, Architects, and System Engineers to identify and apply these practices along the software value stream. 
+
+User: Okay, I understand. Do you have any resources or references that I can follow up to learn more?
+
+Tim: If you are looking for further reading, I would recommend taking look at the Scrum Alliance website or the SAFe website. They provide an overview of Agile and Lean principles and values, as well as providing training and certification options. Additionally, The Agile Facilitator by Ester Derbyn is an excellent resource for facilitating agile team practices. 
+
+User: Thank you so much for your comprehensive response, Tim. I really appreciate your guidance on this topic. 
+
+Tim: Not a problem at all. It was a pleasure to be of help. Don't hesitate to reach out to me again in case of any more inquiries.

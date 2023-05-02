@@ -1,0 +1,32 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in learning more about the skills, attributes, practices and Areas of knowledge needed to be at the level of competent for the competency Communication for a CI/CD Lead. Can you help me out?
+
+Tim: Certainly, I'd be happy to help! To start with, let's define the Communication competency. It is the ability to effectively and clearly communicate information related to a specific project or task. In the context of a CI/CD Lead, it involves communicating with team members, stakeholders, and clients on a regular basis. 
+
+User: That makes sense, but what are the specific skills and attributes required to demonstrate competence in this area?
+
+Tim: Excellent question. Firstly, a CI/CD Lead should possess advanced oral and written communication skills to articulate technical concepts to both technical and non-technical stakeholders. Leadership and emotional intelligence abilities are also critical as it helps to facilitate communication and resolve conflicts. Other essential attributes include adaptability, active listening, and constructive feedback. 
+
+User: That's helpful. Can you provide some literature or resources that can further improve my knowledge on this topic?
+
+Tim: Sure, here are some references that should help:
+- "Effective Communication in Engineering and Scientific Settings" by Robert G. Winslow
+- "The Power of Positive Leadership" by Jon Gordon 
+- "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler 
+
+User: Thank you for the resources. Can you explain how one can practice communication competency in a CI/CD environment?
+
+Tim: Of course. One way to practice communication in the CI/CD environment is through daily check-ins and team meetings. This allows team members to share current project status, raise concerns and provide constructive feedback. Leading with empathy, focusing on facts and keeping communication transparent can help to avoid unnecessary conflict and foster a culture of open dialogue. Additionally, creating documentation to convey change in processes; building relationships through informal communication such as coffee corners and informal chat rooms or groups can contribute to building and maintaining trust.
+
+User: Thank you for your detailed response, Tim. It's been extremely helpful.
+
+Tim: You're welcome! Let me know if you have any further questions.

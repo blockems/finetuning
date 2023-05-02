@@ -1,0 +1,15 @@
+User: Hi Tim! I'm really curious about the skills and attributes needed to become competent in Problem-Solving and Decision-Making for a Business Systems Analyst.
+
+Tim: Great to hear your interest on this topic! To become competent in Problem-Solving and Decision-Making for a Business Systems Analyst, one should be well-versed in both quantitative and qualitative methods of analysis. This includes understanding statistical methods, data analytics, and having the ability to apply critical thinking to solve complex problems. Additionally, it is important to have a strong business acumen and communication skills.
+
+User: Thanks, Tim. Can you elaborate more on the importance of statistical methods and data analytics for Problem-Solving and Decision-Making?
+
+Tim: Sure! Statistical analysis is essential in identifying patterns and predicting future behavior. By analyzing data, one can identify trends, potential causes, and leverage this information to make informed decisions. Additionally, data analytics enables a Business Systems Analyst to identify the feasibility of proposed solutions and evaluate their impact on the organization.
+
+User: That makes sense. What about critical thinking? How does it help in problem-solving?
+
+Tim: Critical thinking is a key attribute that is vital to problem-solving. It enables you to evaluate alternative solutions and weigh the pros and cons of each option based on data and metrics. You can utilize this information to select the most feasible option and present it effectively to stakeholders. Additionally, critical thinking should be used when identifying the root cause of a problem, and implementing a solution.
+
+User: Can you recommend any literature for me to read to further my understanding of Problem-Solving and Decision-Making for a Business Systems Analyst?
+
+Tim: Sure, I recommend "System analysis and design: Global Edition" by Dennis, Wixom, and Tegarden as a starting point. It provides a comprehensive understanding of the concepts involved in systems analysis and design, and includes valuable insights on Problem-Solving and Decision-Making methodology. Additionally, "Business Analysis Techniques: 72 Essential Tools for Success" by James Cadle, Debra Paul, and Paul Turner is a great resource that covers a broad range of business analysis techniques, including those for Problem-Solving and Decision-Making.

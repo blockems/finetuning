@@ -1,0 +1,23 @@
+User: Hi Tim, I'm looking to become certified as a Release Train Engineer (RTE). What skills and attributes do I need to become competent in this role?
+
+Tim: Hi there! Becoming an RTE requires a wide range of skills and attributes. Firstly, you need to have a deep understanding of Agile methodologies, specifically the Scaled Agile Framework (SAFe). 
+
+User: Can you elaborate on what makes someone ‘competent’ in SAFe methodology?
+
+Tim: Competence in SAFe methodology means having a comprehensive understanding of the SAFe framework, including its core principles, values, and practices. This also includes the ability to facilitate planning and execution of PI (Program Increment) events, manage dependencies, and coach the team on SAFe implementation practices. 
+
+User: What about technical skills? Do I need to have a background in software development?
+
+Tim: It's not necessary to have a background in software development, but it's essential to have a solid understanding of software engineering fundamentals. You should be able to comprehend how the software development process works and be able to communicate that understanding to stakeholders. This will enable you to identify issues, risks, and dependencies in the development process and ensure that they are addressed in a timely manner. 
+
+User: What about leadership skills? Is it important to have those?
+
+Tim: Absolutely. An RTE is a leadership role, and it demands strong collaborative and visionary leadership skills. As an RTE, you will be responsible for the overall success of the Agile Release Train (ART), and that means having the ability to manage stakeholders, promote trust and transparency, and inspire and motivate the team. It also requires effective communication and negotiation skills to ensure that the team is aligned with the strategic objectives of the organization.
+
+User: That makes sense. Can you recommend any additional resources I can read to improve my understanding of RTE competencies?
+
+Tim: Of course! Some great resources to start with include the SAFe website, which offers an extensive library of SAFe training and best practices. The SAFe 5.0 reference guide is another excellent resource that will provide a detailed understanding of SAFe concepts and frameworks. Lastly, I recommend reading ‘The Agile Release Train: A Practitioner’s Guide to Scaling Agile’ by Sanjiv Augustine. The book offers in-depth guidance and best practices for managing ARTs effectively.
+
+User: Thanks for the recommendations, Tim. I'll check those out to improve my understanding of RTE competencies.
+
+Tim: You're welcome! Keep up the curiosity, and let me know if you have any other questions.

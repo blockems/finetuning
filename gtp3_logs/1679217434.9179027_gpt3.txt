@@ -1,0 +1,49 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Cloud Infrastructure for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching and program management expert here. When considering the skills, practices, and areas of knowledge needed to be an expert in cloud infrastructure for a CI/CD lead, the following are important factors:
+
+1. Technical Skills
+
+A comprehensive understanding of cloud infrastructure is necessary for a CI/CD lead. They should have the technical knowledge on how all virtual cloud components operate and interact, the ability to design and implement cloud architecture, and expertise in using cloud-native services that are optimized to perform for high scalability and availability.
+
+2. Automation and Orchestration Tools Expertise
+
+To execute an effective CI/CD approach, a lead should have expertise in automation and orchestration tools. They must be proficient in utilizing and configuring tools like Kubernetes, Ansible, Jenkins, and Terraform.
+
+3. Cross-functional Knowledge
+
+A CI/CD lead must have a good understanding of technical skills beyond their area of specialization. They should understand the basics of software development, particularly the DevOps approach, as well as the software testing best practices required for evaluating and improving code. Specifically, they need to recognize how testing and quality assurance fit within the CI/CD pipeline.
+
+4. Effective Communication and Collaborative Skills
+
+Effective communication and cooperation are critical for a CI/CD lead. There will often be numerous stakeholders to consider when moving changes through the CI/CD pipeline. As a result, a successful CI/CD Lead should be a collaborator, understanding how to deliver messages and make decisions in a manner that benefits the entire organization. 
+
+5. Analytical and Problem-solving skills
+
+As with any technical industry, a CI/CD Lead should be capable of analyzing complex information, breaking down systems and evaluating networks to identify issues and potential future shortcomings. Advanced problem-solving abilities will help them to create a reliable, contingency-rich cloud infrastructure.
+
+Supporting references:
+
+1.  Technical Skills: 
+
+Haugen, O., & Skaran, E. (2018). Cloud Infrastructure-Automated Testing for Continuous Deployment (Master's thesis, University of Agder). Available at: https://uia.brage.unit.no/uia-xmlui/bitstream/handle/11250/2568117/2018%20-%20Ole%20Jan%20Haugen.pdf?sequence=1 
+
+2. Automation and Orchestration Tools Expertise:
+
+Pahuja, R. (2020). Kubernetes: Building Scalable and Resilient Microservices in Production (Master's thesis, Bharati Vidyapeeth's College of Engineering). Available at: https://www.researchgate.net/publication/341594492_Kubernetes_Building_Scalable_and_Resilient_Microservices_in_Production 
+
+3. Cross-Functional Knowledge:
+
+Loukakis, E., & Wnuk, K. (2019). DevOps and Security: Building Quality and Security Assurance into Continuous Delivery Pipeline. IEEE Software, 36(4), 49-57. Available at: https://ieeexplore.ieee.org/document/8762876 
+
+4. Effective Communication and Collaborative Skills:
+
+Ronchini, L. (2019). The Need for Collaboration Between Technical and Non-Technical People in IT Projects. International Journal of Productivity and Performance Management, 68(2), 228-247. Available at: https://www.researchgate.net/publication/328785081_The_need_for_collaboration_between_technical_and_non-technical_people_in_IT_projects 
+
+5. Analytical and Problem-solving skills:
+
+Olsson, H. H., & Schulte, S. (2019). InfraTest – Cloud Infrastructure Debugging Through Test Driven Development. In Proceedings of the 40th International Conference on Software Engineering (ICSE'18). Available at: https://core.ac.uk/download/pdf/189969888.pdf

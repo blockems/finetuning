@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency DevOps for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really curious about what it takes to be at the Emergent level for the competency DevOps as a SAFe Release Train Engineer (RTE). What are the skills, attributes, practices, and areas of knowledge needed? 
+
+Tim: Hi there, great question! At the Emergent level for the DevOps competency, you need to have a deep understanding of Agile and Lean principles, software development practices, and continuous delivery. Some key skills you should develop include collaboration, communication, problem-solving, and automation.
+
+User: Interesting, what specific practices should I master to become effective in the DevOps competency?
+
+Tim: You should focus on automation, specifically developing infrastructure as code, establishing continuous integration and continuous delivery pipelines, and monitoring and metrics. Additionally, you should adopt a DevOps mindset, where you prioritize collaboration between development and operations. 
+
+User: What should I do to achieve competency within these practices?
+
+Tim: You can read up on DevOps books, attend workshops and conferences, and work hand in hand with people in the field. Look into the SAFe community platform which has plenty of study materials like the SAFe RTE course which can help you formalize your knowledge in this area.
+
+User: Awesome. What areas of knowledge should I focus on to develop my competencies in DevOps?
+
+Tim: Some key areas of knowledge to focus on include continuous integration and delivery, microservices architecture, cloud computing, containerization, infrastructure as code, testing methodologies, monitoring and metrics, and of course Agile and Lean principles. 
+
+User: Thanks, Tim! Those are great tips. Do you have any references that I can look up?
+
+Tim: Sure! Here are a few references you can check out:
+
+- "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim
+- "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley
+- "DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+
+I hope this helps!

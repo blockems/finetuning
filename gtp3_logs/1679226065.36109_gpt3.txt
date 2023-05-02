@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Certification for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a SAFe Agilist. Can you tell me more about the skills, attributes, practices, and areas of knowledge required to be competent in this field? 
+
+Tim: Hello! That's a great question. To become a competent SAFe Agilist, you should have excellent communication skills and be able to facilitate agile ceremonies, such as sprint planning and retrospectives. You should also have experience in project management and software development life cycle. In terms of knowledge areas, familiarity with agile frameworks like Scrum, Lean, and Kanban is important. 
+
+User: Thank you, Tim! Can you recommend any resources that I can use to gain more knowledge in these areas? 
+
+Tim: Absolutely! The SAFe website has a wealth of resources, including publications, blogs, and webinars. Additionally, I recommend reading the Agile Manifesto and the SAFe Core Values, as they provide a foundation for understanding the principles underlying agile development. 
+
+User: Thank you for the reference. Are there any specific attributes or traits that are necessary to become a SAFe Agilist? 
+
+Tim: Yes, there are a few crucial attributes, such as being open to feedback, having the ability to learn from mistakes and reflect on lessons, being a collaborative team player and having a problem-solving attitude. Would you like me to share any texts where I found this information? 
+
+User: Yes, please, if you could.
+
+Tim: Sure thing. I would recommend "Agile Retrospectives: Making Good Teams Great" by Esther Derby and "The Lean Startup" by Eric Ries. Both these book delve into the traits required for an agile leader. 
+
+User: These sound like great resources! Do you have any other suggestions or practices that can help me become a more competent SAFe Agilist? 
+
+Tim: Yes, one vital practice is continuous improvement. As a SAFe Agilist, it's essential to seek feedback and iterate upon it to refine your agile practices. Also, working on yourself continuously and developing soft skills like effective communication, active listening, and empathy is also critical. 
+
+User: That makes sense. Thank you, Tim! I will start studying and implementing these practices. 
+
+Tim: You're welcome! Remember always to keep an open, curious stance and keep learning on this journey. Challenge yourself with new approaches and continually refine your skills, and you'll become an exceptional SAFe Agilist in no time.

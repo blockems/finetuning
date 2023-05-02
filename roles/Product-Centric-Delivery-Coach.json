@@ -1,0 +1,100 @@
+{
+    "Role": "Product-Centric Delivery Coach",
+    "Description":"A Product-Centric Delivery Coach is responsible for guiding and coaching teams on delivering value to customers through product-centric approaches. They work closely with product owners and development teams to ensure that the product vision is clear and that the team is aligned around delivering customer value.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Product Management",
+                "SkillDescription": "Expertise in product management principles and practices, and the ability to guide and coach teams in delivering high-quality products that meet customer needs",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Agile Methodologies",
+                "SkillDescription": "Deep understanding of Agile methodologies, and the ability to guide and coach teams in implementing and optimizing these practices for product development",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Team Management",
+                "SkillDescription": "Ability to manage and lead cross-functional teams, and to coordinate team efforts across multiple departments and business units",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Ability to manage stakeholder expectations and relationships, and to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to drive continuous improvement for product development practices and tools, and to identify opportunities for optimization and efficiency gains",
+                "SkillLevel": "Expert"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Lean Product Management",
+                "SkillDescription": "Expertise in Lean product management principles and practices, and the ability to guide and coach teams in implementing and optimizing these practices for product development",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Agile Scaling Frameworks",
+                "SkillDescription": "Understanding of Agile scaling frameworks such as Scrum@Scale, Nexus, and Spotify Model, and the ability to guide and coach organizations in implementing and optimizing these frameworks for product development",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Design Thinking",
+                "SkillDescription": "Understanding of design thinking principles and practices, and the ability to guide and coach teams in using these practices to create customer-centric products",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Strong communication skills, including the ability to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Facilitation",
+                "SkillDescription": "Strong facilitation skills, and the ability to lead meetings and workshops that promote effective communication and collaboration",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Training and Development",
+                "SkillDescription": "Ability to design and deliver effective Agile training and development programs for individuals and teams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Strong understanding of the business context in which product development practices are implemented, and the ability to align product development practices with the goals and objectives of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Strategic Planning",
+                "SkillDescription": "Ability to develop and execute strategic plans for product development, and to align these plans with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Leadership",
+                "SkillDescription": "Ability to provide leadership and mentorship to individuals and teams, and to create a culture of innovation and continuous improvement",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Innovation",
+                "SkillDescription": "Ability to foster a culture of innovation and creativity within teams, and to promote the development of new and innovative product solutions",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Collaboration",
+                "SkillDescription": "Ability to facilitate effective collaboration among individuals and teams, and to promote a culture of knowledge sharing and cross-functional teamwork",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Strategy",
+                "SkillDescription": "Ability to develop and implement product strategies that align with the goals and objectives of the organization, and that drive business growth and innovation",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Roadmapping",
+                "SkillDescription": "Ability to develop and communicate product roadmaps that align with the goals and objectives of the organization, and that guide the product development process",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

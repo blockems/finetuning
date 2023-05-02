@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Infrastructure as Code for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm really interested in learning more about the Infrastructure as Code skill, especially in relation to CI/CD Lead. Can you provide me with some guidance on the skills, attributes, practices, and areas of knowledge needed to reach the Emergent level of competency for this skill?
+
+Tim: Absolutely! To develop your skills in Infrastructure as Code for a CI/CD Lead, I would recommend focusing on the following areas:
+
+1. Technical Skills: You need to have experience working with cloud technologies (e.g., AWS, Azure), as well as an understanding of infrastructure as code tools, such as Terraform and Ansible. Familiarity with containerization (e.g., Docker, Kubernetes) is also valuable.
+
+2. Problem-Solving Skills: Within a CI/CD context, Infrastructure as Code requires a problem-solving mindset to identify and address infrastructure issues. The ability to troubleshoot, debug, and optimize infrastructure code is essential.
+
+3. Collaboration Skills: You’ll need to work closely with other members of your team when it comes to deploying and maintaining infrastructure code. Excellent communication, teamwork, and leadership skills are essential to ensure successful delivery.
+
+4. Business Skills: An understanding of business requirements, regulation requirements, and industry best practices is essential when it comes to developing scalable infrastructure solutions.
+
+In terms of practices, team collaboration, Agile methodologies, and DevOps principles are all relevant in this area. And as for areas of knowledge, you’ll want to study up on CI/CD processes, security best practices, and cloud architecture.
+
+Here are a few references that you might find helpful:
+
+- Infrastructure as Code: Managing Servers in the Cloud, 2nd Edition by Kief Morris for an in-depth look at Infrastructure as Code best practices.
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois, and John Willis, for a comprehensive approach to DevOps principles and practices.
+- AWS Certified Solutions Architect - Associate guide, for a thorough overview of Amazon Web Services.
+
+Do you have any follow-up questions or areas you'd like to explore further?

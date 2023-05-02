@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Database Management for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming an expert in Database Management for a Tech Lead role. Can you tell me what skills and attributes are required to achieve this level of expertise? 
+
+Tim: Great question! To be an expert in database management, you need to have a strong foundation in computer science, understanding of database architecture, and proficiency in SQL programming language. You must also have excellent analytical skills, attention to detail, and the ability to work collaboratively as part of a team. 
+
+User: That makes sense. Can you provide some examples of best practices in database management that an expert in this field should be familiar with? 
+
+Tim: Absolutely. Database experts should have a strong understanding of data modeling and design, optimization techniques, security protocols, and disaster recovery procedures. They should also be familiar with the latest industry trends and technologies, such as cloud-based databases and machine learning. 
+
+User: How can I gain the necessary knowledge and skills to become an expert in database management? 
+
+Tim: You can start by pursuing a degree in computer science or a related field, which will provide a solid foundation in database theory and practice. Additionally, you can work on personal projects to build practical experience and stay up-to-date with industry trends by attending conferences and workshops, reading industry publications, and participating in online forums. 
+
+User: Okay, that sounds like a good strategy. Can you recommend any specific resources or courses that I can take to improve my database management skills? 
+
+Tim: Sure, here are some resources that you might find helpful: 
+- Coursera offers several online courses on database management, including Introduction to Database Design and Relational Databases and SQL. 
+- Udemy offers courses on MySQL, Oracle, and other database platforms. 
+- Stanford University offers a graduate-level course on Database Systems, which you can access for free online. 
+- Microsoft offers certifications in Database Development and Database Administration, which can help you demonstrate your expertise to potential employers. 
+
+User: Thanks for the recommendations, I will definitely check those out. Are there any specific books that you would suggest for improving my database management skills? 
+
+Tim: Yes, here are some highly regarded books on the subject: 
+- Database Systems: The Complete Book by Hector Garcia-Molina, Jeffrey D. Ullman, and Jennifer Widom 
+- SQL for Smarties: Advanced SQL Programming by Joe Celko
+- High Performance MySQL: Optimization, Backups, and Replication by Baron Schwartz, Peter Zaitsev, and Vadim Tkachenko
+- Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking by Foster Provost and Tom Fawcett 
+
+User: Thanks, Tim, for all this information. I'm certainly excited to begin acquiring expertise in database management. 
+
+Tim: You're welcome! Remember to stay curious and never stop learning, and you'll be well on your way to becoming an expert in no time. Good luck!

@@ -1,0 +1,22 @@
+User: Hi Tim! I've been doing a lot of research on Agile Delivery Manager competencies and wanted to ask you some questions about Stakeholder Management. 
+
+Tim: Hi there! I'm happy to help. What specifically would you like to know about Stakeholder Management for Agile Delivery Managers?
+
+User: I'm curious to know what skills, attributes, and practices are necessary in order to be considered Competent in Stakeholder Management for Agile Delivery Managers.
+
+Tim: Stakeholder Management is a key competency for Agile Delivery Managers as it involves managing stakeholder expectations, identifying and engaging various stakeholders, and ensuring that their needs and requirements are met. The skills necessary for Stakeholder Management include active listening skills, conflict resolution skills, negotiation skills, and communication skills. 
+
+In terms of attributes, being a good stakeholder manager requires having empathy, understanding, and respect towards each stakeholder group. In addition, you must be able to maintain a positive relationship with each stakeholder and be able to manage expectations and conflicts in a professional manner. 
+
+As for practices, stakeholder mapping, stakeholder analysis, and stakeholder engagement planning are all important practices in the stakeholder management process.
+
+User: Thank you, Tim! Can you provide some references that support these necessary skills, attributes, and practices for Stakeholder Management in Agile Delivery Managers?
+
+Tim: Absolutely! Here are some references:
+
+- “Agile Project Management with Scrum” by Ken Schwaber and Mike Beedle
+- “Agile Software Development: Principles, Patterns, and Practices” by Robert C. Martin
+- “The Agile Samurai: How Agile Masters Deliver Great Software” by Jonathan Rasmusson
+- “Effective Project Management: Traditional, Agile, Extreme” by Robert K. Wysocki
+
+These books provide comprehensive information on the necessary skills, attributes, and practices for Stakeholder Management in Agile Delivery Managers.

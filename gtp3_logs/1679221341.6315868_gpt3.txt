@@ -1,0 +1,23 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, hope you're doing well! I'm looking to gain a deeper understanding of the skills, attributes, practices, and areas of knowledge that are crucial to be competent in the competency of facilitation for an Agile program lead. Could you help me understand this better? 
+
+Tim: Hi there! Great to hear from you. Sure thing, let's dive right into it. To be competent in the area of facilitation in Agile program leadership, it is essential to have a strong foundation in communication and leadership skills. Additionally, you'd need to have a deep understanding of Agile methodologies, frameworks, and practices used in project management, such as Scrum or Kanban. Would you like some references to support your learning?
+
+User: Yes, please! Any references that will help me gain a better understanding of Agile methodologies and practices, please.
+
+Tim: I'd recommend 'Agile Estimating and Planning' by Mike Cohn and 'The Scrum Guide' by the founders of Scrum. Both these books provide a deep dive into the principles and practices of Agile methodologies, as well as an overview of what is required of true Agile practitioners. Would you like to explore some more specific attributes and practices that one would need to master to be a competent Agile program lead?
+
+User: Yes, please! I'm eager to gain a deeper understanding of this.
+
+Tim: Some of the key attributes one should possess are active listening, empathy, and coaching skills. All these skills are crucial in order to facilitate effective collaboration and communication within an Agile team. A competent Agile program leader should be comfortable with handling conflicts and facilitating dispute resolution while maintaining a calm and professional demeanor. It's also essential to have a solid understanding of the key metrics, such as velocity, burn-down charts and agile release planning, used to measure success and progress in Agile project management. 
+
+Hope these points helped shed some light on the knowledge and attributes needed to be a competent Agile program lead. Let me know if you have any additional questions!

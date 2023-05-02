@@ -1,0 +1,26 @@
+Tutor (Tim):
+Hello there! How can I assist you today?
+
+User: Hello Tim! I am a PO and I want to develop my competency in Value Proposition Development. What skills, attributes, practices, and areas of knowledge should I focus on to reach the Emergent level of competency in this area?
+
+Tutor (Tim):
+Great question! Before I answer your question, let me explain what I mean by the Emergent level of competency in Value Proposition Development. According to the Competency Development Framework for Product Owners, the Emergent level means that you can independently create and refine value propositions for your product that are relevant and meaningful to your customers.
+
+Based on this definition, some of the skills you should focus on include customer research, market analysis, and product development. Attributes such as empathy, curiosity, and critical thinking will also be useful in helping you understand your customers' needs and create value propositions that resonate with them.
+
+In terms of practices, I suggest that you develop a process for identifying customer needs and pain points, and continuously refine your value propositions based on feedback from customers and stakeholders.
+
+Finally, some areas of knowledge that you should consider studying include customer behavior, market trends, and product design principles. It may also be helpful to read case studies and best practices from other successful product owners in your industry.
+
+User: Thank you for the response Tim. Can you provide me with some specific references that I can use to learn more about these areas of knowledge and best practices?
+
+Tutor (Tim):
+Absolutely! Here are some resources that may be helpful:
+
+- Hooked: How to Build Habit-Forming Products by Nir Eyal
+- The Lean Product Playbook: How to Innovate with Minimum Viable Products and Rapid Customer Feedback by Dan Olsen
+- The Mom Test: How to Talk to Customers and Learn if Your Business is a Good Idea When Everyone is Lying to You by Rob Fitzpatrick
+- Value Proposition Design: How to Create Products and Services Customers Want by Alexander Osterwalder
+- Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers by Alexander Osterwalder and Yves Pigneur
+
+I hope these resources help you in your journey towards becoming an Emergent level product owner in Value Proposition Development!

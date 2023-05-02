@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Artificial Intelligence (AI) for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I heard that to be at the Emergent level of the Artificial Intelligence competency for a SAFe Agilist, one needs to have a strong understanding of machine learning algorithms. Is this correct?
+
+Tim: Hi there! Yes, to be Emergent in the Artificial Intelligence competency as a SAFe Agilist, it is crucial to have a solid grasp of machine learning algorithms. Machine learning is an important component of AI and it involves the use of algorithms to make predictive models or decisions based on data. A good way to get started is to learn about supervised and unsupervised algorithms and how they can be applied to real-world problems.
+
+User: That makes sense. Do you have any resources or references on this topic you could recommend?
+
+Tim: Sure, you can start by reading "Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow" by Aurelien Geron. This book will give you a solid foundation in machine learning algorithms and their implementation using Python. Additionally, "Pattern Recognition and Machine Learning" by Christopher Bishop is an excellent reference for theoretical concepts related to machine learning.
+
+User: Thanks for the recommendations! Another aspect of the AI competency that I am trying to understand is the role of natural language processing. Could you provide some insight on this?
+
+Tim: Absolutely. Natural language processing (NLP) is a field of study in AI that deals with how computers can understand, interpret, and generate human language. Emergent level SAFe Agilists should have a basic understanding of NLP concepts such as tokenization, text classification, and sentiment analysis. Some good resources to start with are "Speech and Language Processing" by Daniel Jurafsky and James H. Martin and "Natural Language Processing with Python" by Steven Bird, Ewan Klein, and Edward Loper.
+
+User: Thank you for the additional resources on NLP. One last question, what are some best practices for applying AI in an Agile environment?
+
+Tim: Great question! There are a few best practices for applying AI in an Agile environment. First, you should aim to have a clear understanding of the problem you are trying to solve with AI, and how it fits in with your overall business goals. Secondly, it is important to have a solid data infrastructure in place, which includes tools for data collection, cleaning, and preprocessing. Additionally, you should conduct regular tests and evaluations to ensure that your AI models are accurate and providing real value to your organization. Some good resources to dive deeper into this topic include "Machine Learning Engineering" by Andriy Burkov and the "Applied AI Handbook" by Mariya Yao, Adelyn Zhou, and Marlene Jia.

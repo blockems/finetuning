@@ -1,0 +1,55 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User:
+Hi Tim! I am interested in becoming a competent agile project manager. Can you tell me what skills, attributes and areas of knowledge I should focus on to achieve this?
+
+Tim:
+Of course! To be a competent agile project manager, you should have a strong understanding of Agile methodologies and principles, project management practices, and leadership skills.
+
+Some of the specific skills you should focus on include:
+
+- Agile development practices and principles
+- Project planning and management
+- Risk management
+- Stakeholder management
+- Budgeting and financial management
+- Quality management and assurance
+
+In terms of attributes, you should be a strong communicator, good at problem-solving, able to lead teams, and flexible in your approach to work.
+
+To become a competent agile project manager, I recommend focusing on these areas of knowledge:
+
+- Agile frameworks such as Scrum, Kanban, and Lean
+- Project management frameworks such as PMBOK and PRINCE2
+- Software development lifecycles
+- Business analysis and requirements gathering
+- Change management
+
+You can learn about these topics through books, articles, courses, and certifications such as the Agile Certified Practitioner (ACP).
+
+Do you have any follow-up questions or areas you’d like me to expand on?
+
+User:
+That’s a great overview, Tim! Can you recommend any specific books or resources to help me learn more about these topics?
+
+Tim:
+Certainly! Here are some resources that I recommend:
+
+- "Agile Estimating and Planning" by Mike Cohn
+- "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford
+- "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
+- "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson
+- "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries
+- "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni
+
+In addition to these books, websites such as Agile Alliance and Scrum.org offer a wealth of information and resources on agile methodologies and project management practices. And courses and certifications from organizations such as Agile Alliance and Project Management Institute can also provide valuable learning and professional development opportunities.
+
+I hope these resources are helpful, but please let me know if you’d like more information on any specific topics or areas!

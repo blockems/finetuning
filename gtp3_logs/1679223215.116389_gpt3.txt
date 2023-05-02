@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in learning about the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a CI/CD Lead. Can you help me with that?
+
+Tim: Hello! Of course, let's start with the skills. A CI/CD Lead requires strong problem-solving skills, excellent communication, and leadership skills to work collaboratively with others. They must have the ability to think critically about processes, workflows, and methodologies to develop and implement effective Continuous Improvement initiatives. 
+
+User: That makes sense. What about attributes?
+
+Tim: A CI/CD Lead must have a strong attention to detail, be highly organized, and able to prioritize tasks effectively. They also require a sense of urgency in their work, as CI/CD initiatives are important for ensuring the speedy delivery of software. Additionally, a CI/CD Lead must be adaptable to changing requirements and able to handle ambiguity in their work.
+
+User: Okay, that makes sense. What about practices?
+
+Tim: CI/CD Lead should follow agile methodologies such as Scrum and Kanban, and understand DevOps tools and practices. They should be familiar with Continuous Integration practices and set up proper testing and quality control mechanisms. Furthermore, a CI/CD Lead should have experience with automation techniques and software development best practices.
+
+User: That sounds good. What Areas of knowledge should they have?
+
+Tim: A CI/CD Lead should have knowledge of software development methodologies, such as Agile, as well as proficiency in programming languages like Java, Python, or Ruby. They should also have a strong understanding of Infrastructure as Code and containerization technologies like Docker and Kubernetes. Additionally, knowledge of cloud computing services like AWS, Azure or Google Cloud would be beneficial.
+
+User: Thank you, Tim. Could you recommend any resources I could use to further my learning?
+
+Tim: Of course, some useful resources include: "Continuous Delivery" by Jez Humble and David Farley, "The DevOps Handbook" by Gene Kim and "Site Reliability Engineering" by Betsy Beyer. Additionally, you could take online courses in Agile and DevOps methodologies on platforms like Coursera or Udemy.
+
+User: Thanks, Tim. I'll definitely check out those resources. 
+
+Tim: You're welcome, happy learning!

@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tim: Hi there, how can I assist with your inquiry on the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a SAFe Lean Portfolio Manager (LPM)?
+
+User: Hi Tim, I would like to know more about what it takes to be at the Emergent level for Data Analysis as a LPM. 
+
+Tim: To begin with, an excellent LPM should have a comprehensive understanding of the statistical methods and techniques used in data analysis. This knowledge should include statistical inference, data visualization, statistical learning, and modeling, among others. 
+
+User: Interesting, that sounds quite technical. Are there any particular skills that a LPM should have to be proficient in these methods? 
+
+Tim: Yes, excellent analytical skills, which allow them to identify patterns within data, interpret and analyze complex data sets, and distinguish between meaningful and irrelevant data. In addition, a LPM should have strong problem-solving skills, be comfortable with ambiguity, and be able to communicate complex findings clearly and concisely. 
+
+User: That makes sense, what about the practices and areas of knowledge that a LPM should be familiar with? 
+
+Tim: One of the best practices would be to gather data from various sources before analyzing them. This approach improves the quality of the data and reduces the chances of errors or biases. A LPM should also familiarize themselves with various data analysis tools such as programming languages like Python and R, statistical software like SPSS or SAS, and data query languages like SQL. For areas of knowledge, they should be comfortable with data structures, data processing, machine learning, predictive modeling, and visualization. 
+
+User: Great, I would like to learn more about data visualization techniques. Can you recommend any references or resources on this topic? 
+
+Tim: Yes, there are many excellent resources available, including "Data Visualization: A Practical Introduction" by Kieran Healy, "The Grammar of Graphics" by Leland Wilkinson, and "The Visual Display of Quantitative Information" by Edward Tufte. These resources provide a comprehensive understanding of the principles of data visualization, including best practices, techniques, and tips. 
+
+User: Thank you, Tim. This has been really helpful, and I appreciate your insightful responses. 
+
+Tim: You're welcome, it was a pleasure helping you out. If you have any more questions or need further assistance, feel free to let me know.

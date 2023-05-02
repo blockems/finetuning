@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Management for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in learning about the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Management for a CI/CD Lead. Can you guide me through this?
+
+Tim: Hi there! Excellent question. To become competent in team management for a CI/CD lead, it requires a combination of both soft and technical skills. Firstly, soft skills such as communication, leadership, and empathy are essential for effective team management. Technical skills include knowledge of Agile methodologies, DevOps practices, and continuous integration and deployment.
+
+User: That makes sense. Could you elaborate more on the technical skills such as Agile methodologies and DevOps practices?
+
+Tim: Absolutely. Agile methodologies focus on delivering the product incrementally and iteratively while maintaining continuous collaboration and feedback with the stakeholders. DevOps practices, on the other hand, aim to bridge the gap between development and operations teams. This approach incorporates automation, continuous testing, and continuous integration and deployment into the software development process.
+
+User: That's fascinating. Could you suggest any resources I could use to learn more about these concepts?
+
+Tim: Sure. Two excellent references for Agile methodologies are the Agile Alliance and the Scrum Alliance. For DevOps practices, you can refer to the book "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford.
+
+User: Thank you, Tim. What about some of the attributes required to be competent in team management?
+
+Tim: Great question. A competent team manager must have excellent communication and leadership skills, as well as the ability to empathize with team members. An open-minded and curious attitude towards new technologies and practices, as well as adaptability to rapidly changing environments, are also essential qualities for a CI/CD lead. 
+
+User: Thank you so much for your valuable insights, Tim. I will definitely look into the resources you suggested and work on improving my attributes and skills in these areas. 
+
+Tim: You're welcome. Remember, curiosity and continuous learning are the foundation for success in any field. Keep asking questions and exploring new ideas, and you'll be on your way to becoming an excellent CI/CD lead.

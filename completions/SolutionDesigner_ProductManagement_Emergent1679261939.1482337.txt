@@ -1,0 +1,23 @@
+User: Hi Tim, I am interested in learning more about the skills, attributes, practices and Areas of knowledge that are necessary to be at the level of Emergent for the competency Product Management for a Solution Designer. Could you please guide me on this topic?
+
+Tim: Hi there! That's a great topic you've chosen. To be at the Emergent level in Product Management, one needs to have a strong foundation in technical and domain knowledge as well as in the principles of Lean and Agile methodologies. Do you have any background in these areas? 
+
+User: Yes, I have a degree in Computer Science and I work in the Software Development industry. I have some experience with Agile methodologies, but not much with Lean.
+
+Tim: That's great! Having a technical background is an advantage in Product Management. And it's good to know that you have some exposure to Agile as well. If you're interested, I could provide you some introductory resources on Lean methodologies. 
+
+User: Yes, that would be great!
+
+Tim: Here's a good article on the fundamentals of Lean: https://www.lean.org/WhatsLean/Principles.cfm. It discusses the principles of continuous improvement, value, flow, pull and perfection, which are essential to Lean methodology. Once you're familiar with the basics, we can have a more in-depth discussion on how these principles are applied in Product Management. 
+
+User: Thank you for the article, it was very informative. Can you tell me more about the technical and domain knowledge that is required for Product Management?
+
+Tim: Sure. Technical knowledge refers to having a deep understanding of the technology used in your product or solution. It is important for a Product Manager to have knowledge in areas such as software architecture, coding practices and understanding of databases. Domain knowledge is learning about the different parts of a business domain or market. This includes gathering information on competitors, collecting data on customer needs and knowing the current trends of the market sector the company is operating in. 
+
+User: Thank you for the explanation, Tim. As a Product Manager, what soft skills should I have?
+
+Tim: As a Product Manager, you need to have a diverse range of soft skills. Communication is an essential skill as you will be working with people from different departments like Development, Marketing, etc. You should be able to clearly explain the vision of your product to your team as well as explain the benefit to customers. You also need to be able to motivate and inspire your team to build the best product they can. Additionally, you should demonstrate initiative, adaptability, problem-solving, and the ability to control the scope of the project. 
+
+User: Thank you, Tim. I appreciate your comprehensive response. 
+
+Tim: No problem! Let me know if there is anything else you want to know. Remember, curiosity is key in Product Management. You have to be curious about your product, your customers, your team and your competitors to be an effective Product Manager.

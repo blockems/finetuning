@@ -1,0 +1,25 @@
+Tutor (Tim): Hello! I'm Tim, your tutor for this session. What would you like to know about Design Thinking for a Product-Centric Delivery Coach?
+
+User: Hi Tim, thank you for taking the time to tutor me. Can you explain what exactly is Design Thinking and how it is relevant to Product-Centric Delivery Coach?
+
+Tim: Design Thinking is a methodology used to solve complex problems in a user-centric way by taking cues from real-world observation and empathizing with user needs. Product-Centric Delivery Coach needs to have a deep understanding of user needs so that they can create and deliver valuable products that meet the users' requirements. Design Thinking can be used to identify and understand these user needs, hence its relevance to this competency.
+
+User: Thank you for explaining, Tim. Can you give me a few examples of Design Thinking in practice, particularly in the context of product delivery?
+
+Tim: Sure! Consider user interviews, prototyping, and user testing. These are techniques used in Design Thinking to identify user needs, test and validate the product, and refine it based on user feedback. This helps ensure that the final product meets user requirements and is valuable to them.
+
+User: That makes sense. What skills must I develop to be competent in this competency?
+
+Tim: To be competent in Design Thinking for a Product-Centric Delivery Coach, you will need a combination of soft skills and technical expertise. For example, you need to have excellent communication skills, a keen sense of empathy, the ability to prioritize and manage your time effectively, and be an expert in Design Thinking tools and techniques such as user research, prototyping, and testing.
+
+User: That sounds like a lot of skills! Can you recommend any resources to help me develop these skills?
+
+Tim: Yes, a few excellent resources are the books "The Design of Everyday Things" by Don Norman, "Design Thinking: Integrating Innovation, Customer Experience, and Brand Value" by Thomas Lockwood and "The Lean Startup" by Eric Ries. These books will not only deepen your knowledge of Design Thinking, but they will also help you develop various skills required to be a Product-Centric Delivery Coach.
+
+User: Thank you for the recommendations, Tim. Could you tell me what areas of knowledge I need to be proficient in to be competent in Design Thinking?
+
+Tim: Some key areas of knowledge include design principles, product development, human-computer interaction, user interface design, and research methods. Additionally, expertise in software development, market analysis, and business strategy can also be helpful. You may want to consider taking courses or reading books on these areas of knowledge to further your understanding.
+
+User: Thank you, Tim, for your thorough answers and recommendations. You have really sparked my curiosity! 
+
+Tim: That's great to hear! Remember, being curious is a crucial attribute for a Product-Centric Delivery Coach to have. Keep learning and exploring, and you'll soon become proficient in this competency.

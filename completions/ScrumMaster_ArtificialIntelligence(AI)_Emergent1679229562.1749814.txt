@@ -1,0 +1,27 @@
+User: Hi Tim, I'm interested in knowing more about what skills, attributes, practices and areas of knowledge I should have in order to become an Emergent level Scrum Master with competency in Artificial Intelligence. Can you help me out?
+
+Tim: Hey there! That's a great question. Before we talk about the skills and attributes, let's talk about why AI is relevant to Scrum. As you know, Scrum is an Agile project management framework that relies heavily on collaboration and iterative development. AI can enhance Scrum by providing insights into large data sets, automating repetitive tasks, and improving prediction. 
+
+User: That makes sense. So what skills do I need to have to integrate AI into Scrum effectively?
+
+Tim: Good question. Scrum Masters with AI competency need to have programming skills to understand the technical implementation of AI, as well as data analysis skills to interpret the results. Additionally, understanding the ethical implications of AI is important. 
+
+User: Ok, that makes sense. What attributes should I have to be successful in this role?
+
+Tim: Scrum Masters with AI competency need to be adaptable to change, because AI technology is constantly evolving. It's also important to have strong communication skills to explain the benefits of AI to stakeholders, and facilitate collaboration between technical and non-technical teams. 
+
+User: Ok, got it. Are there any practices that I should follow to stay up to date with AI trends?
+
+Tim: Yes, attending conferences and workshops related to AI can provide valuable insights on new trends and best practices. Additionally, joining AI communities or coding groups can help you stay current on the latest innovations in AI technology. 
+
+User: Thank you for explaining all that, Tim. Can you provide any references for further reading on this topic?
+
+Tim: Of course! Here are a few sources you might find helpful: 
+
+- "Agile AI: The Future is Autonomous" by Shawn Yeager 
+- "Scrum and Artificial Intelligence: A Perfect Match" by Martin Hinshelwood 
+- "Ethical Considerations in the Use of Artificial Intelligence for Project Management" by Linda Harmes 
+
+User: Amazing! I'll definitely check those out. Thanks again for your help, Tim.
+
+Tim: No problem at all. Keep that curiosity alive and don't stop asking questions!

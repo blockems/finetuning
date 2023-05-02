@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean-Agile Leadership for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really interested in learning about the skills and attributes needed to be a competent Lean-Agile Leader for a SAFe Product Owner. Can you help me understand this better?
+
+Tim: Absolutely! A Lean-Agile Leader for a SAFe Product Owner requires a broad set of skills, including strong domain knowledge, effective collaboration skills, strategic thinking skills, and the ability to identify and pursue opportunities for innovation. To be an Emergent PO in SAFe, you must be able to understand and prioritize customer needs, while effectively managing stakeholders and resources.
+
+User: That sounds like quite a challenging set of skills. Can you give me some examples of strategic thinking skills that would be needed for this role?
+
+Tim: Strategic thinking involves the ability to identify and prioritize opportunities for improvement within the scope of an organization. In the context of the Emergent PO, you would need to be able to think critically about how to grow and optimize a product in order to provide the maximum value to your customers. This could involve using data to make evidence-based decisions, identifying trends, and forecasting changes in the market.
+
+User: That makes a lot of sense. What are some practices or techniques that an Emergent PO can use to improve their leadership skills?
+
+Tim: One useful practice is to actively seek out feedback from team members, stakeholders, and customers. This can help you to identify gaps in your leadership approach and opportunities for growth. You should also strive to continuously improve your understanding of the Lean-Agile approach by seeking out relevant training and resources. For example, SAFe provides comprehensive training programs, including the SAFe Product Owner/Product Manager certification course, which helps participants to develop the skills necessary to succeed in this role.
+
+User: Thanks Tim, that's really helpful. Can you recommend any additional resources or reading materials that I could use to expand my knowledge further?
+
+Tim: Sure, here are a few resources that might be useful to you:
+
+- Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler
+- The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries
+- Innovator's Dilemma: When New Technologies Cause Great Firms to Fail by Clayton Christensen
+
+All of these books provide excellent insight into the skills and practices necessary to succeed as a Lean-Agile Leader, as well as examples of real-world applications of these concepts.

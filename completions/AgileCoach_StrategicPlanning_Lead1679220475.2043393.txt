@@ -1,0 +1,24 @@
+User: Hi Tim, I am curious about the skills, attributes, practices and areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for an Agile Coach. Can you help me with this?
+
+Tim: Of course, happy to help! In order to be a strong lead for strategic planning as an Agile Coach, you will need a deep understanding of Agile methodology, as well as experience in strategic planning, organization and management. Can you tell me more about your current experience and knowledge level in these areas?
+
+User: I have been working as an Agile coach for a few years now and have experience in leading and facilitating Agile teams. I have also worked on strategic planning initiatives in the past, but I’m looking to expand my knowledge and skills as a Lead.
+
+Tim: Great! Here are some key areas of knowledge that you should focus on:
+
+1. Agile methodology and principles, including the Agile manifesto and the Scrum framework.
+2. Strategic thinking and planning, including understanding the organization's goals and how to align them with Agile principles.
+3. Change management, including the ability to identify potential roadblocks and work with stakeholders to implement changes.
+4. Collaborative leadership and communication, including the ability to lead teams, foster collaboration, and communicate with stakeholders.
+
+User: Thank you, those are great areas to focus on! Can you recommend any books or articles to dive deeper into these areas?
+
+Tim: Definitely! Here are some resources that I highly recommend:
+
+- “Agile Estimating and Planning” by Mike Cohn - this book provides practical advice and strategies for planning and estimating Agile projects.
+- “The Lean Startup” by Eric Ries - this book applies Agile principles to entrepreneurship and innovation.
+- “Crucial Conversations” by Kerry Patterson - this book provides valuable tools and strategies for effective communication and collaboration.
+
+User: Thank you so much for your help, Tim! I’m excited to dive into these resources and continue to expand my skills as an Agile coach.
+
+Tim: You’re welcome! Remember, curiosity is key to continuous learning and growth as a professional. Keep asking questions and seeking knowledge!

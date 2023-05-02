@@ -1,0 +1,23 @@
+User: Hi Tim, I'm interested in the Agile Scaling Frameworks for Agile Project Managers. What skills, attributes, practices, and areas of knowledge are required to be at the level of Emergent for this competency?
+
+Tim: Hi there, great to hear that you're interested in Agile Scaling Frameworks! In order to reach the Emergent level, you'll need to develop a variety of skills, attributes, practices, and areas of knowledge. First, it's important to have a deep understanding of Agile methodologies and how they can be applied in a scaled environment. This includes knowledge of scaling frameworks such as SAFe, LeSS, and Nexus.
+
+User: Can you recommend some resources for gaining a deeper understanding of these frameworks?
+
+Tim: One useful resource is "Agile Estimating and Planning" by Mike Cohn. This resource provides an overview of agile methodologies and provides deeper insight into some of the scaling frameworks. Additionally, "SAFe 5.0 Distilled" by Richard Knaster and Dean Leffingwell goes in-depth into SAFe processes.
+
+User: How can I develop my skills in project management in the context of Agile Scaling Frameworks?
+
+Tim: Project management in the context of Agile Scaling Frameworks involves a deep understanding of project management principles as well as Agile methodologies. One helpful resource is the "Agile Practice Guide" by the PMI and the Agile Alliance. This guide provides an overview of project management principles and how they can be applied in an Agile context. Additionally, practicing Agile project management by working on real-life projects will help you gain experience and develop your skills.
+
+User: What are some key attributes that an Agile Project Manager should possess to be successful in scaling agile frameworks?
+
+Tim: Some key attributes that successful Agile Project Managers possess include strong leadership skills, adaptability, strong communication skills, collaboration, and problem solving. These attributes are important since they help project managers facilitate teamwork, resolve issues, and communicate effectively with stakeholders.
+
+User: Can you recommend some practices that can be used to enhance these attributes?
+
+Tim: Sure, one helpful practice is to use retrospectives to gather feedback from team members, stakeholders, and other stakeholders. Additionally, Agile Project Managers can use coaching and mentoring to help team members develop their skills and become more self-sufficient, which can promote collaboration and problem-solving. Finally, maintaining a positive attitude, being open to feedback, and embracing change are all key practices that can help Agile Project Managers become successful at scaling Agile frameworks.
+
+User: Thank you for the insights and the resources you've shared, Tim. I'm excited to dive deeper into this topic.
+
+Tim: You're welcome! Remember, curiosity is key to continuous learning and development in the Agile space. Best of luck in your learning journey!

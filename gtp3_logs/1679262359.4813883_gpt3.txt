@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Degree for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a Technical Business Analyst. Can you tell me what skills, attributes, and knowledge areas I need to be competent in to excel in this field? 
+
+Tim: Hi there! Great to see your interest. Being a Technical Business Analyst requires a strong mix of technical expertise and business acumen. In terms of technical skills, you should have a solid foundation in programming languages such as Python, Java or R. It is crucial that you have a good understanding of databases and SQL queries, and you should know how to create and analyze descriptive and predictive data models. 
+
+User: That makes sense. What about business-specific attributes? 
+
+Tim: Yes, that's an important part of the job as well. You should be a logical thinker who can approach problems with a structured approach, and you should have the ability to critically analyze data and situations. Communication is also critical to success, since you need to be able to convey complex technical concepts to business stakeholders in a clear and concise way. 
+
+User: I see. What are some practice areas I can focus on to help me develop these skills?
+
+Tim: One good practice area would be to engage in data analysis and visualization exercises using real-life data sets. You could also start building your own data models and experimenting with different programming languages, while making sure to practice documenting your code and explaining your methodologies. Additionally, seeking out real-world projects to work on could be very beneficial for refining your skills.
+
+User: That sounds like good advice. Are there any areas of knowledge that I need to be proficient in?
+
+Tim: Absolutely. A solid foundation in statistics, probability, and discrete mathematics is essential for a Technical Business Analyst. Additionally, you need to have working knowledge of project management methodologies, since you'll be working on projects as part of a team. Finally, being familiar with data protection regulations and data privacy laws is essential. 
+
+User: Great, thank you for your thorough response. Can you recommend any additional resources for me to learn more?
+
+Tim: Sure, there are plenty of resources available online. Some of my favorites include DataCamp (https://www.datacamp.com/), which offers interactive courses on data science and data analysis, and edX (https://www.edx.org/), which offers online courses in data science and statistics. Additionally, Kaggle (https://www.kaggle.com/) is a great platform for practicing data analysis, since it provides access to real-life data sets and encourages collaboration among data analysts.

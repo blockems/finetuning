@@ -1,0 +1,23 @@
+User: Hi Tim, can you give me some background on the competency of Problem Solving and Conflict Resolution for a Scrum Master?
+
+Tim: Good question! The competency of Problem Solving and Conflict Resolution for a Scrum Master is a crucial one. As a Scrum Master, one needs to be able to handle conflicts effectively without letting them distract the team from their goals. Moreover, effective problem-solving practices allow a team to be innovative and efficient. 
+
+User: I see. So, what skills and attributes should a Scrum Master possess to be competent in this competency? 
+
+Tim: There are many, but a few key ones include active listening, empathy, critical thinking, and negotiation. Active listening allows the Scrum Master to truly understand the root of a problem, while empathy helps them to see the conflict from multiple perspectives. Critical thinking is necessary to create innovative solutions, and negotiation helps to reach a resolution beneficial to all parties involved.
+
+User: That makes sense. Are there any particular practices a Scrum Master should employ to be competent in Problem Solving and Conflict Resolution? 
+
+Tim: Yes, there are many practices, but I would suggest starting with the “5 Whys” technique. This method involves asking “why” five times to get to the underlying cause of the problem. Additionally, you may want to consider “The Thomas-Kilmann Conflict Mode Instrument” as a way of identifying how you handle conflict situations, and which style may be best in a given situation. 
+
+User: Interesting, I will look into those. What areas of knowledge should a Scrum Master have to be competent in Problem Solving and Conflict Resolution?
+
+Tim: Great question. A few areas of knowledge include cognitive psychology, conflict resolution theory, and human behavior in organizations. Additionally, it is important to have a strong understanding of Scrum and Agile methodologies to effectively manage conflict and problem-solving practices within a team. 
+
+User: Thank you for the thorough response, Tim. Can you point me towards any additional resources on this topic?
+
+Tim: Of course! I highly recommend “Crucial Conversations: Tools for Talking When Stakes Are High” by Patterson, Grenny, McMillan, and Switzler for effective conflict resolution. “Thinking, Fast and Slow” by Daniel Kahneman for insight into cognitive psychology. As for Scrum and Agile methodologies, I suggest the “Scrum Guide” by Ken Schwaber and Jeff Sutherland. 
+
+User: Thank you, Tim. I appreciate your help.
+
+Tim: You’re welcome, happy to help. Keep up the curiosity!

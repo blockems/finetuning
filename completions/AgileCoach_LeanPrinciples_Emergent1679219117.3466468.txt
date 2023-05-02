@@ -1,0 +1,23 @@
+User: Hi Tim, I'm interested in learning more about the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency Lean Principles for an Agile Coach. Can you help me understand this better?
+
+Tim: Hi there! I'd be happy to help you with that. To start, it's important to have a solid understanding of Lean Principles, as they are essential to Agile coaching. This includes knowledge of the Toyota Production System, which is the basis for Lean.
+
+User: That makes sense. Can you explain some of the practices that an Agile coach with an Emergent level of competency should have?
+
+Tim: Sure, an Agile coach at the Emergent level should have strong facilitation skills, and the ability to create a collaborative environment. They should also be skilled in Lean tools such as Value Stream Mapping and Kaizen events. Additionally, they should be proficient in Agile methodologies such as Scrum and Kanban.
+
+User: That's really helpful. What about attributes or personal qualities?
+
+Tim: An Agile coach at the Emergent level should possess strong leadership and communication skills. They must be able to work effectively with all levels of an organization, and be able to motivate and inspire teams to achieve their goals. They should also be flexible and adaptable, as Agile methodology is constantly evolving.
+
+User: That makes sense. Are there any areas of knowledge that an Agile coach at this level should focus on?
+
+Tim: Yes, a few important areas of knowledge include Lean management principles, Agile methodologies, systems thinking, and change management. It's also important to have a good understanding of organizational culture and how it affects the Agile transformation process.
+
+User: Thank you, Tim. Can you recommend any books or resources that I could use to further develop my understanding in these areas?
+
+Tim: Of course. Some great resources to check out include "The Lean Startup" by Eric Ries, "Agile Estimating and Planning" by Mike Cohn, "The Phoenix Project" by Gene Kim, and "Leading Change" by John Kotter. These should help provide you with more in-depth knowledge on the topics we've discussed. 
+
+User: Thank you, Tim! I really appreciate your help and guidance. 
+
+Tim: You're welcome! Keep up the curiosity, and happy learning!

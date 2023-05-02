@@ -1,0 +1,28 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile program leadership requires communication skills that enable effective collaboration across multiple teams and stakeholders. At a competent level, the Agile program lead should be able to communicate clearly and effectively with various groups, facilitate discussions and negotiations, and convey complex information in a concise and understandable way.
+
+To achieve competence in communication, the Agile program lead should possess the following skills:
+
+1. Listening Skills: Listening is a critical communication skill that enables individuals to connect with others, understand their perspectives, and negotiate effectively. The Agile program lead must be an active listener, capable of hearing and understanding the needs and expectations of various stakeholders.
+
+2. Oral Communication Skills: Oral communication skills are essential for conveying information, ideas, and opinions. The Agile program lead should be able to communicate effectively in various settings, such as meetings, presentations, and one-on-one discussions.
+
+3. Written Communication Skills: Clear and concise written communication is essential for conveying information accurately and effectively. The Agile program lead should be able to write clearly, concisely, and in a format that is easy to understand for various stakeholders.
+
+4. Interpersonal Skills: Interpersonal skills are essential for building relationships and collaborating effectively. The Agile program lead should possess strong interpersonal skills to establish trust with stakeholders, facilitate collaboration, and manage conflicts.
+
+5. Emotional Intelligence: Emotional intelligence is the ability to recognize and understand emotions in oneself and others, and use that understanding to manage interactions effectively. Agile program leads should be emotionally intelligent and capable of managing their emotions, building relationships, and resolving conflicts.
+
+In addition to these skills, the Agile program lead should also possess knowledge and understanding of communication theory and its application in an Agile context. This includes knowledge of communication models, active listening, conflict resolution, and negotiation.
+
+References:
+- Bradberry, T., & Greaves, J. (2009). Emotional intelligence 2.0. TalentSmart.
+- Hackman, M. Z., & Johnson, C. E. (2013). Leadership: A communication perspective. Waveland Press.
+- Johnson, D. W., & Johnson, F. P. (2016). Joining together: Group theory and group skills. Pearson.
+- Leimbach, H. (2015). Agile communication: Changing the way we collaborate. Project Times.
+- Watzlawick, P., Beavin, J. H., & Jackson, D. D. (2011). Pragmatics of human communication: A study of interactional patterns, pathologies and paradoxes. WW Norton & Company.

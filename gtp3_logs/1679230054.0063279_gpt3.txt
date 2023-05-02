@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Business Process Modelling for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming competent in Business Process Modelling for a Solution Designer. What skills do I need to develop to achieve this level of competency?
+
+Tim: Hi there, glad to hear that you're interested in developing your skills in Business Process Modelling. Competent Solution Designers typically have a range of technical and soft skills, including fundamental knowledge of business processes, systems analysis, and software development.
+
+User: Could you provide more detail about the fundamental knowledge of business processes?
+
+Tim: Sure! To be competent in business process modeling, you need to have a deep understanding of the various components involved in a business process, such as inputs, outputs, stakeholders, and decision points. You should also be able to interpret and analyse process diagrams and be familiar with various process governance frameworks such as BPMN, Lean Six Sigma, and Agile.
+
+User: How about systems analysis?
+
+Tim: A Solution Designer needs to be familiar with systems analysis techniques to understand how business requirements relate to the software systems that support them. This involves being able to decompose complex systems into smaller, more manageable components and identify potential errors or bottlenecks. Additionally, Solution Designers should be familiar with modeling techniques such as UML diagrams and data flow diagrams.
+
+User: Could you suggest any tools that I can use to practice and improve my skills?
+
+Tim: Of course! There are many tools and platforms available for Business Process Modelling, such as Bizagi, LucidChart, and Visio. These tools often come with tutorials and examples that can help you get started with the various concepts and techniques involved in Business Process Modelling. Additionally, you may find it helpful to read textbooks and academic papers on these topics to develop a deeper understanding of the subject matter.
+
+User: Thank you, Tim! Your responses have been thorough and informative. 
+
+Tim: You're welcome! Remember, curiosity is key to being a successful Solution Designer. Always be curious to learn more about the latest trends and developments in your field. Best of luck in your studies!

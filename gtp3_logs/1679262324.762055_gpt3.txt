@@ -1,0 +1,55 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Business Process Modelling for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I heard that you are an agile coaching and program management expert. Can you help me with some questions?
+
+Tim: Sure, I'd be happy to help. What do you want to know about?
+
+User: I'm curious about the skills, attributes, practices, and areas of knowledge needed to be competent in business process modeling as a technical business analyst. Can you provide some insights?
+
+Tim: Absolutely. To be competent in business process modeling as a technical business analyst, you need to have a solid foundation in various skills and areas of knowledge. These include:
+
+1. Understanding of business processes and their models
+2. Knowledge of process analysis tools and techniques
+3. Strong analytical and problem-solving skills
+4. Good communication and collaboration skills
+5. Expertise in using modeling language such as BPMN, EPC or UML
+6. Experience with modeling and analysis software such as ARIS, Bizagi, or MS Visio
+
+User: That's helpful, Tim. Can you provide more details about each of these skills and areas of knowledge?
+
+Tim:
+
+1. Understanding of business processes and their models: To be competent in business process modeling, you need to have a deep understanding of business processes, including their structure, function, and purpose. It is essential to understand how different business processes interact with each other and how they support the overall goals of an organization.
+
+2. Knowledge of process analysis tools and techniques: You should have familiarity with various process analysis tools such as process maps, flowcharts, and swimlane diagrams. Understanding different analysis techniques, such as the root cause analysis, gap analysis, or value stream analysis, is also extremely valuable.
+
+3. Strong analytical and problem-solving skills: A good technical business analyst should be able to identify problems, analyze them critically and objectively with data-driven analysis, and offer effective solutions. Good use of domain-specific tools such as a Formulating Models Diagram can boost the analytical and problem-solving skills to a higher level.
+
+4. Good communication and collaboration skills: As a technical business analyst, you need to communicate your analysis clearly and effectively with stakeholders, including peers, managers, and clients. You also need to be able to work collaboratively with cross-functional teams to get a comprehensive understanding of the organization's processes and operations.
+
+5. Expertise in using modeling language such as BPMN, EPC, or UML: Being proficient in modeling languages such as BPMN (Business Process Model and Notation), EPC (Event-driven Process Chain), or UML (Unified Modeling Language) is essential. You should have a deep understanding of how to apply these models to real-world business process problems.
+
+6. Experience with modeling and analysis software such as ARIS, Bizagi, or MS Visio: Technical business analysts should have hands-on experience in using modeling and analysis software, such as ARIS, Bizagi or MS Visio. The knowledge of MS Visio, for instance, is critical in creating diagrams and charts that represent different business processes.
+
+User: Thank you, Tim. Can you recommend some resources for further learning?
+
+Tim: Sure, some of the references you can study are:
+
+- Business Process Modeling, Simulation and Design by Manuel Laguna and Johan Marklund
+- Fundamentals of Business Process Management by Marlon Dumas, Marcello La Rosa, Jan Mendling, and Hajo Reijers
+- Business Process Management: Concepts, Languages, Architectures by Mathias Weske
+- Business Process Modelling with ARIS: A Practical Guide by Rob Davis
+
+These are excellent academic texts that cover a wide range of topics in business process modeling. There are also numerous online courses and certifications available that can help you gain practical skills and knowledge in this area.
+
+User: That’s great. Thank you, Tim, for your thorough academic responses and offer to spur curiosity with follow-up questions. I look forward to studying the references and gaining more insights.
+
+Tim: You're welcome, happy to help. Keep me posted on your progress and let me know if you have any further questions or need any additional resources. Good luck!

@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Vendor Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what it takes to reach the Emergent level of competency for Vendor Management as an Agile Delivery Manager. Can you please guide me in the right direction?
+
+Tim: Hello! First, let me clarify the definition of the Emergent level of competency in Vendor Management- It is the level where one is able to identify and address critical areas of risk related to vendor management with cross-functional teams, and can lead these teams to develop and implement effective mitigation strategies. To achieve this level, you should develop a strong understanding of the skills, attributes, and practices of vendor management. 
+
+User: Thank you, Tim, Can you illustrate the skills and attributes needed?
+
+Tim: Certainly, the skills and attributes required for effective vendor management include sound business acumen, strong negotiation skills, ability to manage performance of vendors, and excellent communication skills. A thorough knowledge of the vendor's products and services is also critical. You need to be able to identify potential issues and develop strategies to address them before they become problems. Additionally, you should be able to work with both internal and external stakeholders to make collaborative and effective decisions.
+
+User: That makes sense. Can you recommend any specific practices to develop these skills?
+
+Tim: Well, some of the best practices for vendor management include regular communication with vendors, frequent evaluations of vendor performance and collaboration between vendor management teams and cross-functional teams. Additionally, you should aim to foster a culture of open communication to ensure all parties are on the same page.
+
+User: Alright, that sounds great. Are there any particular areas of knowledge that would help me in my pursuit of vendor management excellence?
+
+Tim: Absolutely! Comprehensive knowledge of procurement, vendor management, vendor evaluation, and contract negotiations are crucial. I would recommend studying these areas using academic journals and books from credible sources, such as the Journal of Purchasing and Supply Chain Management, Harvard Business Review, and The Principles of Contract Law.
+
+User: Wow, thank you so much for your guidance, Tim. That was extremely helpful.
+
+Tim: You're welcome! Remember to continually strive for growth and learning in all areas of vendor management. And always maintain a curious mindset.

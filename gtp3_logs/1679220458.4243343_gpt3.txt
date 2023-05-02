@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Management for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, thank you for agreeing to tutor me on the skills needed to be competent in Team Management as an Agile Coach.
+
+Tim: Hi there, I'm happy to help. It's important to understand the skills and attributes needed to lead and manage teams in an Agile environment. What specific questions do you have?
+
+User: What skills are needed to effectively manage Agile teams?
+
+Tim: Effective Agile team management requires a wide range of skills, including communication, leadership, problem-solving, time management, and conflict resolution. Additionally, it's important to have a deep understanding of Agile principles and methodologies, as well as the tools and techniques used in Agile project management. Some people may also benefit from having technical knowledge and experience in software development. 
+
+User: Thanks, that's a lot to cover! Can team management be learned or is it more innate?
+
+Tim: While some people may have a natural talent for team management and leadership, it's a skill that can be learned and developed over time. One key is to be curious and continuously learn new ways to improve your management style. Another important factor is the ability to be self-aware and understand your strengths and areas for improvement. This can help you create a development plan and actively work on your skills.
+
+User: How important is emotional intelligence in Agile team management?
+
+Tim: Emotional intelligence is crucial in Agile team management. It involves understanding and managing your own emotions as well as those of the team members. High levels of emotional intelligence lead to better communication, more effective conflict resolution, and increased team productivity. In addition, Agile coaches need to be able to build trust with team members, and a high level of emotional intelligence can help with this. 
+
+User: Can you recommend any reading material or references on this subject?
+
+Tim: Certainly, there are many sources of information on Agile team management. Some excellent books include "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition" by Lyssa Adkins and "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni. In addition, the Agile Alliance website and Scrum.org have extensive resources on Agile team management and leadership. 
+
+User: Thank you so much, Tim. This has been very insightful and informative.
+
+Tim: Of course, happy to help. Remember to keep learning and practicing your skills to become a successful Agile Coach. Good luck!

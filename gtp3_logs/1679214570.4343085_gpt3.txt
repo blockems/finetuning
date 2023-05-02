@@ -1,0 +1,43 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Time Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction:
+
+Time management is a crucial competency for Agile delivery managers (ADMs). Agile methodologies require that projects be delivered in small, iterative increments, which means that ADMs must be able to manage time effectively to ensure that project deadlines are met. Time management skills are also needed to ensure that an Agile project remains on track and that any issues that arise are addressed quickly and efficiently.
+
+Skills:
+
+The following skills are needed for an ADM to be competent in time management:
+1. Planning Skills: ADMs must have the ability to plan, prioritize, and schedule work activities appropriately to meet deadlines. They should be skilled in creating project timelines, work breakdown structures and other planning artifacts.
+2. Ability to manage priorities: ADMs must be able to prioritize tasks using an appropriate method (e.g. MoSCoW, Value-Based Prioritization, Kano Analysis) to ensure that the delivery of high-value items is completed on time.
+3. Communication Skills: ADMs must be able to communicate effectively with stakeholders and team members about project timelines, priorities, and status. Effective communication is crucial for managing time effectively because it helps to avoid misunderstandings, delays, and missed deadlines.
+4. Time estimation skills: ADMs must be able to estimate time accurately for project tasks. Estimating time accurately is crucial for planning and scheduling project activities accurately. 
+5. Delegation skills: ADMs must be able to identify tasks that can be delegated to team members and delegate tasks effectively. Working closely with stakeholders who have expertise in specific areas can also help tasks that are assigned to them to remain on track.
+
+Practices:
+
+The following practices are needed for an ADM to be competent in time management:
+1. Agile ceremonies: ADMs should practice Agile ceremonies such as daily standups, sprint reviews and retrospectives to monitor progress effectively. These rituals provide ADMs and their teams with a framework to discuss any emerging time management issues and adjust the project timeline as needed.
+2. Time-boxing: ADMs must practice time-boxing to manage time effectively. Timeboxing involves setting a fixed, often short, amount of time for tasks or activities. This technique helps to prioritize tasks and avoid over-commitment.
+3. Kanban: Kanban is a Lean manufacturing method that can be adapted for Agile teams. ADMs can use a Kanban board to visualize the workflow and track progress, ensuring team members have a visual representation of their immediate priorities.
+4. Retrospectives: Agile retrospectives are an effective means of reflecting on ways to improve current and future time management practices while encouraging collaboration, open communication, and continuous improvement.
+
+Areas of Knowledge:
+
+The following areas must be mastered by an ADM for effective time management:
+1. Agile methodologies: ADMs must have a sound understanding of Agile methodologies such as Scrum, Lean or Kanban, and their associated principles.
+2. Project management practices: ADMs must have a solid foundation of project management practices (such as the PMBoK) to ensure that projects run smoothly and effectively by adhering to predetermined schedules.
+3. Time management tools and techniques: ADMs must be familiar with different tools and techniques such as time-boxing, Kanban, and Gantt charts to manage time effectively.
+4. Risk management: ADMs should be able to identify and manage risks that arise from time management issues, including project delays and missed deadlines.
+5. Collaborative problem solving: ADMs should be able to collaborate with different stakeholders, including team members, product owners, and scrum masters, to resolve any time management issues that may arise.
+
+References:
+
+1. Beck K. Agile software development with Scrum. Prentice Hall; 2001.
+2. Schwaber K, Sutherland J. The scrum guide. Scrum.org; 2017.
+3. Highsmith J. Agile project management: creating innovative products. Addison-Wesley Professional; 2009.
+4. Hambling B. Agile project management for dummies. John Wiley & Sons; 2012.
+5. PMI. A guide to the project management body of knowledge (PMBOK guide). Project Management Institute; 2017.

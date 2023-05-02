@@ -1,0 +1,27 @@
+User: Hello Tim, I am really interested in learning about the skills, attributes, practices, and areas of knowledge required to be at the level of Lead for the competency Release Management for a SAFe Agilist. Can you help me with that?
+
+Tim: Hi, I'm glad to hear that you are so curious. Release Management is an essential component of SAFe Agilist competency. The role of Release Management is to coordinate and manage the release of new software into production, which can be done with Continuous Delivery or Deployment pipelines that automate the release process.
+
+User: What kind of skills are necessary to be a successful Release Manager? I assume technical skills are important but what other kinds of skills are important?
+
+Tim: You are right that technical skills are important. But beyond that, a successful Release Manager also needs to be a good communicator, organizer, and problem solver. They should have excellent interpersonal skills as this role requires close collaboration with different teams such as Development, Operations, and Quality Assurance. 
+
+They should also have an excellent understanding of Agile methodologies and DevOps practices. Specifically, they should have knowledge of Continuous Delivery, Continuous Deployment, and Continuous Integration. Additionally, they should have an understanding of ITIL, especially the Service Transition process. 
+
+User: Thank you for clarifying, what kind of attributes does a successful Release Manager have?
+
+Tim: One of the key attributes of a successful Release Manager is adaptability. They should be comfortable with uncertainty and able to handle changing requirements frequently. They should also be proactive and assertive, taking the initiative when needed to resolve problems and issues.
+
+Another important attribute is strong work ethic, self-motivation, and confidence in their abilities. Release Managers also need to be detail-oriented and have a good understanding of the big picture. They should be skilled in creating and maintaining complex schedules and have excellent time management skills.
+
+User: That makes sense, what practices should a Release Manager follow?
+
+Tim: Release Management requires several practices, such as developing an effective release plan, ensuring quality assurance for each release, and coordinating release activities among all stakeholders. The Release Manager must also perform regular risk assessments to ensure that the release is delivered with minimal risk. 
+
+Another practice is to establish and maintain a strong release process that efficiently handles issues when they arise. The Release Manager should also ensure that all software releases follow a standard procedure, and that there are no unnecessary delays or interruptions in the release process.
+
+User: Thanks, Tim. Can you recommend some resources to help me further understand Release Management and SAFe Agilist competency?
+
+Tim: I recommend the book "SAFe® 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework" by Richard Knaster and Dean Leffingwell. This book explains the SAFe Agilist framework and Release Management in detail, and provides practical tips on how to implement SAFe in your organization.
+
+Additionally, the official SAFe website provides a wealth of information on SAFe competency, including Release Management. The SAFe website also offers various training courses that prepare you for SAFe certification.

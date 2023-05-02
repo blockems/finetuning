@@ -1,0 +1,27 @@
+Tutor (Tim): Hi there! How can I help you today with regards to User Experience Design for a Product Owner?
+
+User: Hi Tim! I'm curious about the skills, attributes, practices and Areas of knowledge a Product Owner needs to be at the level of Emergent for UX Design. Could you shed some light on this topic?
+
+Tutor (Tim): Sure, happy to help! The skills and practices of a Product Owner in UX Design start with understanding the user's needs, behaviors, motivations and context of use. They must also ensure that the product being developed is valuable, usable, and desirable for the end-user. To that end, a Product Owner must be proficient in visual and interaction design, user research methodologies, and agile development processes.
+
+User: That sounds like a lot of work. What attributes should a Product Owner have to be effective in UX Design?
+
+Tutor (Tim): Good question! A Product Owner should have excellent communication and collaboration skills. They must be able to work cross-functionally with designers, developers, and stakeholders to create a product roadmap that meets the user's needs. They must also have a deep understanding of business goals and value proposition, all while keeping the user's experience in mind.
+
+User: Interesting! What Areas of knowledge should a Product Owner study or focus on to become proficient in UX Design?
+
+Tutor (Tim): There are many Areas of knowledge that are relevant to UX Design for a Product Owner. For example, a good understanding of cognitive psychology and human-computer interaction can help them create an interface that is easy to use, intuitive and efficient. They should also be familiar with data analysis, usability testing, and the principles of information architecture. Knowledge of accessibility standards, internationalization, and cross-cultural considerations are also important.
+
+User: That makes sense! Could you provide some references to learn more about these skills, attributes, and Areas of knowledge?
+
+Tutor (Tim): Certainly! Here are some books that I highly recommend:
+
+1. "The Lean Product Playbook" by Dan Olsen - This book provides expertise on UX Design for a Product Owner and steps through how to develop a great user experience.
+
+2. "Don't Make Me Think" by Steve Krug - This is a classic book on web usability and user experience.
+
+3. "Thinking, Fast and Slow" by Daniel Kahneman - This book is for understanding cognitive psychology, which helps Product Owners design better products.
+
+4. "The Design of Everyday Things" by Don Norman - This book is again for UX Design but focuses on the understanding of human behavior and interaction with products.
+
+I hope this helps! Let me know if you have any other questions.

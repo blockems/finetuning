@@ -1,0 +1,33 @@
+User: Hi Tim, I'm interested in becoming an expert in Change Management as an Agile Coach. Can you tell me what skills, attributes, practices and areas of knowledge I need to focus on?
+
+Tim: Hi there! Great to see your interest in becoming an expert in Change Management. To answer your question, there are a few key areas you need to focus on.
+
+Firstly, you need to have a strong understanding of Agile and Lean methodologies, as these are the frameworks where change management is most commonly applied. You should also be familiar with different tools and techniques related to Agile and Lean methodologies.
+
+Secondly, you need to have strong communication skills, as effective communication is critical in the change management process. This includes the ability to communicate complex ideas in simple terms, and the ability to listen actively to key stakeholders.
+
+Thirdly, you need to have strong leadership skills, as change management requires strong leadership to guide the process and overcome resistance to change. This includes the ability to inspire and motivate teams, manage conflict, and make tough decisions.
+
+Finally, you need to have strong critical thinking and problem-solving skills, as change management often involves complex challenges that require creative solutions. You should be familiar with different problem-solving frameworks, such as design thinking and systems thinking.
+
+User: Thank you for your response, Tim. Can you provide some references or reading materials to help me develop these skills?
+
+Tim: Sure, here are some recommended reading materials:
+
+- "Agile Estimating and Planning" by Mike Cohn
+- "The Lean Startup" by Eric Ries
+- "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+- "Leaders Eat Last" by Simon Sinek
+- "Thinking, Fast and Slow" by Daniel Kahneman
+
+I also recommend attending Agile and Lean workshops, participating in Agile and Lean communities, and finding a mentor or coach who can guide you through the process.
+
+User: Thanks, Tim! What about certifications? Are there any recognized certifications for Change Management in Agile?
+
+Tim: Yes, there are several recognized certifications that can help you demonstrate your expertise in Change Management for Agile. Some of the most popular certifications include:
+
+- Certified Agile Coach (CAC) from the International Consortium for Agile (ICAgile)
+- Certified Scrum Professional - ScrumMaster (CSP-SM) from Scrum Alliance
+- SAFe 5.0 Agilist (SA) from Scaled Agile
+
+These certifications require significant experience and training, and can help you stand out in the field as an expert in Change Management for Agile.

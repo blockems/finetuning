@@ -1,0 +1,35 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean-Agile Leadership for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers are expected to possess a strong set of leadership competencies that enable them to cultivate a culture of agility within an organization. One of the essential competencies required to achieve this is Lean-Agile Leadership. This competency refers to the ability to lead and manage the agile transformation in an organization.
+
+To be at the level of Emergent for the competency Lean-Agile Leadership, an Agile Delivery Manager must possess the following skills, practices, and Areas of knowledge:
+
+Skills:
+- Transformational leadership: The Agile Delivery Manager should have the ability to inspire change and motivate people to adopt an agile mindset.
+- Facilitation: The Agile Delivery Manager should have the ability to facilitate meetings and ceremonies to promote collaboration and co-creation.
+- Coaching and Mentoring: The Agile Delivery Manager should have the ability to coach and mentor individuals and teams to reinforce agile practices.
+- Systems thinking: The Agile Delivery Manager should have the ability to see the big picture and understand how various parts of the organization interact with each other.
+- Emotional intelligence: The Agile Delivery Manager should have the ability to understand and manage their emotions, as well as those of others.
+ 
+Practices:
+- Continuous improvement: The Agile Delivery Manager should promote a culture of continuous improvement by encouraging feedback loops, experimentation, and learning.
+- Value-driven delivery: The Agile Delivery Manager should ensure that the team delivers value to the customer through close collaboration and frequent delivery of working software.
+- Scrum framework: The Agile Delivery Manager should have a thorough understanding of the Scrum framework and be able to coach and mentor teams on how to apply it effectively.
+- Lean thinking: The Agile Delivery Manager should understand and apply Lean principles to eliminate waste, optimize flow, and deliver value.
+ 
+Areas of knowledge:
+- Agile frameworks and methodologies: The Agile Delivery Manager should have a broad understanding of Agile frameworks and methodologies, including Scrum, Kanban, XP, and SAFe.
+- Agile engineering practices: The Agile Delivery Manager should understand Agile engineering practices such as Test-Driven Development (TDD), Continuous Integration (CI), and Continuous Deployment (CD).
+- Lean principles: The Agile Delivery Manager should understand and apply Lean principles such as Value Stream Mapping, Visual Management, and Pull systems.
+- Change management: The Agile Delivery Manager should have a deep understanding of change management principles and practices to facilitate the agile transformation.
+
+References:
+- Sutherland, J. (2019). Scrum: The Art of Doing Twice the Work in Half the Time. Currency.
+- SAFe® 5.0 Framework. (2020). Available at https://www.scaledagileframework.com/
+- Poppendieck, M., & Poppendieck, T. (2013). Lean Software Development: An Agile Toolkit. Addison-Wesley Professional.
+- Kotter, J. P. (1996). Leading change. Harvard Business Press.
+- Agile Manifesto: Values and Principles. (2020). Available at https://agilemanifesto.org/

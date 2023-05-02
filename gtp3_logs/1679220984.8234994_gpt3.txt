@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I hope you're doing well. I'm interested in learning more about the skills, attributes, practices, and areas of knowledge required to be a competent facilitator for an Agile delivery manager. Could you give me some insight into this?
+
+Tim: Hello! I'm glad you're interested in this topic. Being a competent facilitator requires a combination of skills, knowledge, and attributes. These skills and attributes are crucial for facilitating effective communication and collaboration within Agile teams. Let's start with the skills aspect.
+
+Agile facilitators must have a deep understanding of Agile methodologies, frameworks, and practices. They should be able to facilitate Agile ceremonies, such as daily stand-ups, sprint planning meetings, retrospectives, and sprint reviews. They should also possess strong communication, conflict resolution, and problem-solving skills. Additionally, they must be proficient in tools used in Agile teams, such as Jira, Trello, and Slack.
+
+User: Ah, I see. So, what about the attributes that an Agile facilitator should possess?
+
+Tim: Absolutely. In addition to the necessary skills, Agile facilitators should also possess certain attributes that enable them to work effectively with teams. For instance, they should be comfortable with change and have a flexible approach to work. They should also have a positive attitude and a willingness to collaborate with team members. Moreover, they should have strong leadership abilities, be able to motivate team members, and promote a culture of collaboration.
+
+User: That's very insightful, Tim. So, what are some best practices that Agile facilitators should follow?
+
+Tim: Agile facilitators should be aware of the best practices in Agile methodologies and frameworks. One of the most important practices is to co-create a Definition of Done with the team. This definition serves as a standard for when the work is completed. They should also make sure that every team member is aware of the sprint goals and has a clear understanding of their roles and responsibilities. Additionally, they should promote transparency and trust within the team, and encourage continuous improvement.
+
+User: Okay, got it. So, what areas of knowledge should Agile facilitators have?
+
+Tim: Agile facilitators should possess knowledge in multiple areas. Firstly, they should have a deep understanding of Agile methodologies, such as Scrum, Kanban, and Extreme Programming. Secondly, they should be familiar with Lean principles and practices, as well as DevOps. Thirdly, they should possess knowledge of facilitation techniques, such as Open Space, World Café and Retrospectives. Fourthly, they should be familiar with coaching and mentoring skills. Lastly, they should have knowledge in conflict resolution, effective communication skills, and negotiations.
+
+User: Thanks, Tim. This has been very informative. Could you recommend any reference materials I could use to enhance my understanding of these concepts further?
+
+Tim: Sure, I recommend reading "The Agile Samurai" by Jonathan Rasmusson, "The Agile Revolution" by Brian Keegan and Michael Spayd, "The Lean Startup" by Eric Ries, "The Phoenix Project" by Gene Kim and Kevin Behr, and "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan and Al Switzler. All of these books provide useful insights into the principles, values, and practices of Agile methodologies and frameworks.
+
+User: Thank you very much, Tim! This has been very helpful.
+
+Tim: You're welcome! Keep exploring and stay curious.

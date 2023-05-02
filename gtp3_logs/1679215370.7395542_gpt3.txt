@@ -1,0 +1,26 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Risk Management for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management is a methodology that emphasizes flexibility, adaptability, and customer collaboration in the delivery of high-quality products or services. One critical competency for Agile Project Managers is risk management, which involves identifying, assessing, mitigating, and controlling risks that could affect the success of the project.
+
+To be at the level of Competent in risk management for Agile Project Managers, several skills, practices, and areas of knowledge are essential, including:
+
+1. Risk Identification: Competent Agile Project Managers should possess strong analytical skills to identify potential risks that could arise during the project lifecycle. They should be able to identify both external and internal risks that could impact the project's outcome.
+
+2. Risk Assessment: Agile Project Managers must be capable of assessing the probability and potential impact of identified risks to prioritize them based on their severity. To do so, they should be familiar with various risk assessment techniques, such as Risk Analysis and Management Techniques (RAMT) and Failure Mode and Effects Analysis (FMEA).
+
+3. Risk Mitigation: After identifying and assessing risks, Agile Project Managers should focus on mitigating them. They must have a plan in place to deal with each risk, which includes techniques such as risk avoidance, risk transfer, risk reduction, or risk acceptance. Effective risk mitigation plans can help reduce project risks and increase the chances of project success.
+
+4. Continuous Monitoring: Agile Project Managers should continuously monitor the project activities and re-evaluate the identified risks throughout the project lifecycle, updating the risk management plan as necessary to minimize potential risks.
+
+5. Communication: Agile Project Managers should have excellent communication skills to inform stakeholders of the risks, mitigation strategies, and progress of the project. Open communication practices help identify and address potential risks promptly, reducing the risks of the project's failure.
+
+In conclusion, Agile Project Managers with a Competent level of risk management should have a combination of analytical, assessment, mitigation, monitoring, and communication skills. Effective risk management requires a deep understanding of the project's objectives, scope, constraints, and stakeholders. Regularly practiced Agile risk management practices can significantly enhance the project's chances of success.
+
+References:
+- Schwaber, K., & Sutherland, J. (2017). The Scrum Guide: The Definitive Guide to Scrum: The Rules of the Game. Scrum.Org.
+- PMI. (2017). The PMI Guide to Business Analysis (includes Agile). PMI Publications.
+- Project Management Institute (2017). A Guide to the Project Management Body of Knowledge (PMBOK® Guide) - Sixth Edition. PMI Publications.

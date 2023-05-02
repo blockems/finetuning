@@ -1,0 +1,23 @@
+User: Hi Tim, I'd like to talk about the competency of Cloud Computing for a Solution Designer. What skills and attributes do I need to be competent in this area?
+
+Tim: Great question! First and foremost, you need a deep understanding of cloud computing infrastructure, platforms, and services as well as knowledge of different cloud deployment models such as public, private, and hybrid clouds. Other critical skills include knowledge of virtualization, security, compliance, and architecture design.
+
+User: That makes sense. Can you give examples of the skills and attributes needed for each of these areas?
+
+Tim: Sure thing. In terms of cloud infrastructure, you need to understand the different types of infrastructure components such as storage, networking, and compute. With platform services, you should have knowledge about different types of databases, analytics services, and application services available on the cloud. For security, you must be familiar with cloud security threats and have expertise in implementing security measures such as access control, data protection, and identity management. Finally, a good understanding of cloud architecture design patterns such as service-oriented architecture (SOA) and microservices is essential.
+
+User: Thank you for clarifying. Are there any specific practices or methodologies I should follow to excel in this competency?
+
+Tim: Yes, you should employ agile methodologies to design and deploy cloud solutions in an agile way. You should also have a deep understanding of DevOps practices and use automation tools for continuous integration and delivery of cloud solutions. Another methodology that can be helpful is Design Thinking, which can aid in understanding customer needs and designing innovative cloud solutions that meet their needs.
+
+User: That's helpful. Can you recommend any resources or readings to improve my knowledge of Cloud Computing for Solution Designers?
+
+Tim: Definitely! Here are a few that I recommend:
+- "Cloud Computing: Principles and Paradigms" by Rajkumar Buyya
+- "Architecting the Cloud: Design Decisions for Cloud Computing Service Models" by Michael J. Kavis
+- "Amazon Web Services in Action" by Andreas and Michael Wittig
+- "DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" by Gene Kim, Jez Humble, Patrick Debois, John Willis
+
+User: Thank you so much for the guidance, Tim. I'll definitely look into those resources and start working on improving my knowledge.
+
+Tim: I'm glad I could help. Remember, curiosity is key to continual learning and improvement in the ever-evolving world of Cloud Computing. Good luck!

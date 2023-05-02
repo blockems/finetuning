@@ -1,0 +1,25 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Infrastructure as Code for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Sure, I can help with that.
+
+As a CI/CD Lead, the Emergent level of competency for Infrastructure as Code (IaC) requires a highly advanced skill set that goes beyond basic coding abilities. This includes mastery of key practices, understanding of various areas of knowledge, and the ability to influence and drive adoption of IaC across the organization.
+
+Some of the key skills required for an Emergent level IaC competency include:
+
+1. Advanced coding skills: This covers proficiency in the programming languages used for IaC development, such as YAML, JSON, and Python. It also includes understanding of advanced programming concepts like object-oriented programming, test-driven development, and refactoring.
+
+2. Deep understanding of infrastructure concepts: This involves a thorough understanding of networking, virtualization, security, and database management to ensure robust, scalable and secure infrastructure. Relevant certifications in these fields can be helpful references.
+
+3. Knowledge of IaC tools: An Emergent level competency requires a mastery of IaC tools like Ansible, Terraform, Puppet, and Chef, and the ability to select the most appropriate tool(s) for the task at hand. The proficiency in this area should allow an individual to craft their own solutions by understanding when best to use each tool and how to write code iteratively that can efficiently and effectively manage the infrastructure.
+
+4. Automation and testing skills: Test-driven development, continuous integration and continuous delivery (CI/CD) are key practices within IaC that help optimize infrastructure delivery. In the Emergent level, IaC experts should possess mastery and implementation experience using these practices.
+
+5. Knowledge of DevOps practices: An Emergent level competency requires a mastery of DevOps principles and practices for effective coordination between development, IT operation, security, and infrastructure teams to ensure smooth development and deployment of code. Mastery in DevOps goes beyond cloud technologies and should include guiding teams on using alignment on values and principles to optimize infrastructure management.
+
+In conclusion, the Emergent level competency in IaC for a CI/CD Lead requires mastery of coding, advanced infrastructure concepts, IaC tools, automation and testing skills and an understanding of DevOps principles and practices. References to back these skills can include certifications and accreditations from Microsoft, Redhat or CertNexus.
+
+Additionally, an expert in this field should have a publication of written work demonstrating the application of the skills discussed, and proven experience guiding teams to improve infrastructure management through IaC best practices.

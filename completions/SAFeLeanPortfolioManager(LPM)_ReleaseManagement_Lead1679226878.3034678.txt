@@ -1,0 +1,15 @@
+User: Hi Tim, I am interested in becoming a lead for the competency Release Management for a SAFe Lean Portfolio Manager (LPM). What skills, attributes, practices and areas of knowledge should I focus on developing?
+
+Tim: Great question! To become a lead for Release Management, one must first understand the foundational skills of Agile methodologies, Lean thinking, and DevOps practices. Understanding technical practices such as Continuous Integration and Continuous Deployment, as well as release orchestration and the verification and validation processes are essential. Additionally, experience in ITSM processes and tooling such as ITIL, ServiceNow, and Jira can further your expertise in Release Management.
+
+User: Thanks Tim, what attributes would you say make a strong lead for Release Management?
+
+Tim: Great question! Attributes of a successful lead for Release Management should include strong communication skills, collaborative attitude, attention to detail, the ability to manage complexity, and agile problem-solving skills.
+
+User: Are there any specific practices to follow to become an effective lead for Release Management?
+
+Tim: Absolutely! Implementing Agile Release Trains (ARTs) and incorporating DevOps practices such as Continuous Integration and Continuous Deployment can help to streamline workflows and promote collaboration. Additionally, setting up processes for governance and transparency can help to ensure accountability and adherence to policies.
+
+User: Thank you, Tim, for your thorough responses. Do you have any recommended readings or resources to dive deeper into this topic?
+
+Tim: Yes, definitely. To further your knowledge, I recommend "The Phoenix Project" by Gene Kim, "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley, and "Lean IT: Enabling and Sustaining Your Lean Transformation" by Steven Bell and Michael Orzen. These books offer insights into the principles and practices behind Agile, Lean, and DevOps, which are all critical to becoming a successful lead in Release Management.

@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile and Scrum Methodologies for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile and Scrum methodologies have become increasingly popular among project management practices. As a business systems analyst, being competent in these methodologies is a key requirement to efficiently execute projects and ensure high-quality products. In this debate, we will delve into the skills, practices, and areas of knowledge required for a business systems analyst to be at the level of competence in Agile and Scrum methodologies.
+
+Skills
+A business systems analyst must possess relevant and applicable skills related to Agile and Scrum methodologies to achieve competence in this area. Some of the key skills include requirements elicitation and management, teamwork, communication, and adaptability. To be competent in Agile and Scrum methodologies, a business systems analyst must ensure continuous improvement in these skills. 
+
+Practices
+There are several practices that are essential for a business systems analyst to become competent in Agile and Scrum methodologies. Firstly, the business systems analyst must embrace collaboration and close communication with the team members to ensure that everyone understands the goals and vision of the project. Secondly, the business systems analyst should be involved in each step of the Agile process, especially during product development. Finally, the business systems analyst must continuously review and monitor the project to ensure that it is on-track.
+
+Areas of knowledge
+A business systems analyst who is competent in Agile and Scrum methodologies must have a solid foundation in the following areas of knowledge: Agile philosophy and values, Scrum processes, Agile product development, Agile project management, Agile tools, and Agile testing. Understanding and acquiring knowledge in these areas helps the business systems analyst to enhance their problem-solving skills, adapt to a flexible approach, and achieve high-quality results.
+
+References
+1. Beck, K., et al. (2001). Manifesto for Agile Software Development. Agile Alliance.
+2. Schwaber, K., & Sutherland, J. (2017). The Scrum Guide. Scrum. org.
+3. Cohn, M. (2014). Succeeding with Agile: Software Development Using Scrum. Addison-Wesley.
+4. Cockburn, A. & Highsmith, J. (2001). Agile software development: the business of innovation. Computer, 34 (9), 120-127.
+5. Martin, R. C. (2008) Clean Code: A Handbook of Agile Software Craftsmanship. Prentice Hall.

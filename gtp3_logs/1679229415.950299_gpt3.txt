@@ -1,0 +1,32 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Product Management for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in learning more about the skills, attributes, practices, and areas of knowledge needed to be at the Emergent level for Product Management competency as a Scrum master. Can you help me with this?
+
+Tim: Hi there, I am glad that you are curious. To begin with, the Emergent level for Product Management competency as a Scrum master requires a mix of domain knowledge and soft skills. It involves having a clear understanding of the product development life cycle, customer and market research techniques, agile methodologies, and communication skills. Additionally, skills in the areas of value proposition generation, product roadmap development, and agile product backlog creation are essential.
+
+User: Thanks, Tim. Can you explain why communication skills are required for product management competency for a Scrum Master?
+
+Tim: Communication skills are important for Scrum Masters because it impacts the team’s ability to deliver high-quality products. The Scrum Master is responsible for keeping everyone informed about project progress, roadblocks, changes, and other important information that may affect the project. The Scrum Master should have interpersonal and negotiation skills to facilitate communication between the product owners, the development team, stakeholders, and other parties involved in the project. 
+
+User: How can one improve their agile product backlog creation skills?
+
+Tim: There are several ways to improve your agile product backlog creation skills. First, it’s important to understand the principles of agile development and the product development life cycle. Additionally, there are tools available to help you create effective product backlogs. An example of such a tool is the MoSCoW technique, which helps prioritize product backlog items. Finally, it’s important to work collaboratively with the team to ensure that the product backlog items are relevant, achievable, and aligned with the product vision.
+
+User: Thanks, Tim. Can you provide references to support your explanations?
+
+Tim: Sure, here are some references that you may find useful.
+
+- Agile Product Management with Scrum: Creating Products that Customers Love by Roman Pichler
+- Effective Product Backlog Management: A Practical Guide to Creating Great Products by Roman Pichler 
+- The Scrum Guide: https://www.scrumguides.org/scrum-guide.html 
+- The MoSCoW Technique: https://www.agilebusiness.org/page/AgileBusinessFramework2_0 – This resource provides an overview of the MoSCoW technique and how it can be used to prioritize product backlog items.
+
+I hope this helps! Let me know if you have any other questions.

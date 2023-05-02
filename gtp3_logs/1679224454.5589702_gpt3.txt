@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Innovation for a Product-Centric Delivery Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I've been thinking about the skills, attributes, practices, and areas of knowledge needed to be at the level of Lead for the competency Innovation for a Product-Centric Delivery Coach. Can you help me with this?
+
+Tim: Hi there! I'd be happy to help. Before we dive in, can you clarify what you mean by "Product-Centric Delivery Coach?"
+
+User: Sure, a Product-Centric Delivery Coach is someone who helps product teams deliver valuable, high-quality products efficiently and effectively. They work closely with the team to help them improve their processes, skills, and knowledge. 
+
+Tim: Got it. So, the skills and attributes needed to be a Lead for the Innovation competency are varied but include problem solving, innovative thinking, leadership, communication, and collaboration. 
+
+User: That makes sense. Can you provide some more information about those skills and attributes and how they relate to innovation?
+
+Tim: Sure! Problem-solving is crucial, as innovative thinking often involves seeking new solutions to complex problems. Innovative thinking involves looking beyond traditional methods and thinking creatively to solve problems. Leadership plays a key role in setting the vision, breaking down silos, and creating a culture of innovation. Communication and collaboration are important in gathering diverse perspectives, building consensus, and socializing new ideas.
+
+User: Thanks for the overview. Can you also share some best practices and areas of knowledge that would be helpful?
+
+Tim: Of course. Some best practices include staying up-to-date on industry trends, experimenting and taking calculated risks, fostering a culture of experimentation, and creating an environment where failure is not punished but treated as a learning opportunity. Areas of knowledge that would be helpful include design thinking, lean startup methodologies, and agile project management methodologies.
+
+User: Great, thanks for the detailed response. Can you recommend any resources or readings that would help me deepen my understanding of these topics?
+
+Tim: Absolutely. For design thinking, I recommend "The Design of Business" by Roger Martin. For lean startup methodologies, "The Lean Startup" by Eric Ries is a classic. Finally, for agile project management methodologies, look no further than the Agile Manifesto and the Scrum Guide. Let me know if there's anything else I can help with!

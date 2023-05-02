@@ -1,0 +1,23 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean Principles for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in improving my knowledge of Lean Principles in Agile Project Management. Can you help me understand the skills, attributes and areas of knowledge needed to achieve the Emergent level of competency in this field?
+
+Tim: Sure, happy to help! To reach Emergent level competency in Lean Principles for Agile Project Management, you should have a deep understanding of the principles and practices of lean methodology, including just-in-time delivery, pull production and respect for people. Your knowledge should also extend to agile methodologies such as Scrum, Kanban, and Extreme Programming, as these are often used in conjunction with lean principles.
+
+In terms of skills, effective communication, stakeholder management, and problem-solving skills are essential to successfully implementing lean principles in Agile Project Management.
+
+User: Thanks, Tim. Could you suggest some reference materials that would be helpful for me to gain a deeper understanding of these concepts?
+
+Tim: Certainly. For comprehensive coverage of lean principles, "The Toyota Way" by Jeffrey Liker is an excellent starting point.
+
+For agile methodologies, "Agile Estimating and Planning" by Mike Cohn is widely regarded as an essential text. Additionally, "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson is a great resource for understanding the use of the popular Kanban methodology in Agile Project Management.
+
+I hope these resources help! Let me know if you have any further questions or concerns.

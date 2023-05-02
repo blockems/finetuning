@@ -1,0 +1,40 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile program management and strategic planning require a combination of technical knowledge, project management skills, and leadership abilities. The Agile Program Lead needs to have expertise in various areas, as listed below:
+
+1. Agile Principles and Frameworks:
+The Lead for Agile Program requires a clear understanding of Agile principles and frameworks, such as Scrum, Kanban, and SAFe. They should be able to apply these frameworks effectively to guide the program team to achieve the program objectives.
+
+2. Strategic Thinking:
+The Agile Program Lead should be a highly effective strategic thinker. They should be able to view the program from a higher level and think strategically about how to achieve the business objectives. The lead must apply critical thinking, problem-solving and decision-making skills to consider all the angles before making strategic decisions.
+
+3. Communication Skills:
+Communication is vital for an Agile Program Lead. They must be able to communicate effectively to stakeholders, program team members, and other parties involved in the program. Also, they need to be able to negotiate and build relationships to ensure the success of the program.
+
+4. Change Management:
+Change is an integral part of Agile program management. The Agile Program Lead must have a deep understanding of the principles of change management, including how to identify and manage the expected and unexpected changes throughout the life cycle of the program.
+
+5. Risk Management:
+The Agile Program Lead must be proficient in managing risk. They should be able to identify, assess, prioritize, and mitigate the risks that could threaten the program's success.
+
+6. Financial Acumen:
+The Agile Program Lead should have financial acumen and ability to manage budgets, financial forecasts, and cost-benefit analysis. They must create, maintain and monitor financial plans and provide regular reports to stakeholders.
+
+7. Leadership:
+The Agile Program Lead must have excellent leadership skills. They should be able to lead by example and inspire the program team to accomplish its goals. They should be able to coach and mentor team members, promote a positive work environment, and encourage teamwork and collaboration.
+
+Several researchers have highlighted the importance of these skills in Agile program management. For example, the PMI Agile Certified Practitioner (ACP) guidebook listed communication, leadership, strategic thinking, change management, risk management, and Agile principles and framework as necessary characterizations of an Agile practitioner. (PMI, 2019)
+
+Similarly, according to the International Consortium for Agile, the Agile Program Manager should have servant leadership skills, ability to build high-performance teams, expertise in Agile methodologies and frameworks, strategic thinking, change management, communication, and risk management skills. (ICAgile, 2020)
+
+In conclusion, the Agile Program Lead requires a diverse set of skills, along with the ability to apply them in practical situations. The above mentioned skills and abilities are essential in Agile program management for the success of the program. A systematic approach to acquiring these skills is therefore crucial for their professional growth as an agile program lead. 
+
+References:
+
+PMI, 2019. PMI-ACP® Certification Exam Outline. [pdf] PMI, p.6. Available at: <https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/agile-certification/PMI-ACP_Exam_Content_Outline_Jan2019.pdf> [Accessed 5 Jun. 2021].
+
+ICAgile, 2020. ICAgile Expert in Agile Program Management. [online] Available at: <https://icagile.com/ExpertAgilePM> [Accessed 5 Jun. 2021].

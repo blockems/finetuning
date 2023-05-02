@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Management for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a competent DevOps Consultant. What skills, attributes, practices, and areas of knowledge do I need to focus on?
+
+Tim: Hi there! Great to hear you're interested in becoming a competent DevOps Consultant. To start, some of the key skills you need to focus on include automation, continuous integration and delivery, and agile methodology. You should also think about your interpersonal skills, like leadership, communication, and collaboration. In terms of knowledge areas, it's important to have strong technical skills in software development, cloud platforms, and infrastructure management.
+
+User: Thanks for the insight, Tim. Can you tell me more about agile methodology and how it applies to DevOps Consulting?
+
+Tim: Of course! Agile methodology is a project management approach that emphasizes collaboration, flexibility, and delivering value to the customer. DevOps Consulting requires a strong understanding of agile methodology, as it helps teams plan, execute, and deliver software development projects more efficiently. Some of the key practices include Scrum, Kanban, and Lean. I would recommend looking into some resources like the Agile Manifesto and the Scrum Guide to deepen your understanding.
+
+User: That's really helpful, Tim. How can I improve my technical skills in software development and infrastructure management?
+
+Tim: There are a few ways to improve your technical skills. First, you can take online courses and attend workshops to keep up with the latest trends and best practices in your field. You can also take on hands-on projects to gain practical experience. Additionally, networking with other professionals in your field can help you learn about new tools and technologies. Some resources I would recommend include Udemy, Coursera, and online communities like DevOps.com.
+
+User: Thank you, Tim. What are some ways I can improve my interpersonal skills like leadership, communication, and collaboration?
+
+Tim: Great question! Improving interpersonal skills requires practice and self-reflection, so I would recommend taking on leadership roles in your current or future job, practicing active listening and effective communication, and seeking feedback from your peers and supervisors. Additionally, there are trainings, workshops, and courses available that specifically address these skills. Some resources I would recommend include TED Talks, LinkedIn Learning, and Harvard Business Review.
+
+User: Thanks again, Tim. This has been very helpful. Do you have any other advice for me as I work toward becoming a competent DevOps Consultant?
+
+Tim: Absolutely! One of the keys to success as a DevOps Consultant is to maintain a curious and open mindset. Always be willing to learn and adapt to new systems, tools, and technologies. Also, stay up-to-date with the latest trends and best practices in your field by attending conferences, reading industry publications, and networking with other professionals. Most importantly, remember that becoming a competent DevOps Consultant is a lifelong journey, so enjoy the process and stay passionate!

@@ -1,0 +1,46 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Product Marketing for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, hope you're doing well. I'm interested in becoming a Lead for the competency of Product Marketing for a SAFe Product Owner. What skills, attributes and practices do I need to focus on to reach this level?
+
+Tim: Hi there, glad to hear you're interested in advancing your skills in Product Marketing! To become a Lead for this competency, there are a few key skills and attributes that you'll need to develop.
+
+First and foremost, you should have a deep understanding of the product marketing landscape, including market trends, competitor positioning, and the needs and pain points of your target customers. This requires a strong analytical mindset, the ability to conduct market research and analysis, and a keen attention to detail.
+
+Additionally, you'll need to have excellent communication skills, both oral and written, in order to effectively communicate your findings to stakeholders, team members and customers. You should have the ability to create and deliver engaging presentations, and be comfortable working with data and metrics.
+
+As far as practices go, staying up-to-date with industry standards, attending conferences and workshops, and networking with other product marketing professionals are all helpful habits to cultivate.
+
+Are there any areas that particularly interest you or that you feel like you need more information on?
+
+User: Thanks, Tim, that's really helpful. I am particularly interested in understanding how to conduct effective market research as a Product Owner lead.
+
+Tim: Great question! Conducting effective market research is a critical component of product marketing as a Product Owner lead. To get started, it's important to identify your target audience, their needs and preferences, and to gather relevant data that can inform your product development and marketing strategies.
+
+There are many different methods for conducting market research, including focus groups, surveys, and customer feedback loops. One approach that can be particularly helpful is creating a buyer persona – a detailed profile of your ideal customer – and using that as a foundation for your research.
+
+In terms of resources to support this, I would recommend diving into some of the materials from reputable sources such as MarketingSherpa, the American Marketing Association, HubSpot and Neil Patel's Marketing Blog.
+
+Does that help answer your question?
+
+User: That's a good start, Tim. Can you also suggest any tools or software that are useful in conducting market research?
+
+Tim: Absolutely. There are a lot of great tools out there to support market research efforts. Some options you may want to consider include:
+
+- SurveyMonkey or Typeform for creating and distributing surveys
+- SEMrush or Ahrefs for analyzing competitor data and search traffic
+- Google Analytics or Mixpanel for tracking user behavior and engagement
+- Social listening tools like Hootsuite or Sprout Social for monitoring industry trends and brand sentiment.
+
+Of course, the specific tools you use will depend on your specific research needs and budget. But these are some of the most commonly used and effective tools on the market.
+
+Overall, the key is to use a combination of research methods and tools to gather as much data as possible, analyze it thoroughly, and use your insights to inform your product marketing strategy.
+
+Let me know if you have any further questions!

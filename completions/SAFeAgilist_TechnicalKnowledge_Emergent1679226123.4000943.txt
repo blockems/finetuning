@@ -1,0 +1,15 @@
+User: Hi Tim! I was wondering if you could help me understand the skills, attributes, practices, and areas of knowledge needed to be at the Emergent level for the competency of Technical Knowledge in the SAFe Agilist framework?
+
+Tim: Hi there! Great question. The Technical Knowledge competency for a SAFe Agilist requires an understanding of technical practices, tools and techniques used in software development. Additionally, the emergent level requires a deeper understanding of these practices and how to apply them in an Agile environment. Some of the skills needed to reach the Emergent level include expertise in programming languages, development frameworks and database technologies. Have you studied these areas before?
+
+User: I have some knowledge, but I don't feel completely confident in my understanding. Could you offer some references that would guide me through a deeper understanding of these skills?
+
+Tim: Of course! Some great resources for learning programming languages are online courses such as Codecademy, edX and Coursera. These platforms offer a multitude of courses for beginners and advanced learners alike. For development frameworks, I would recommend looking into the more popular ones such as Angular, React and Vue.js. As for database technologies, understanding the basics of SQL is essential. You could take a course from Udemy or Pluralsight. Additionally, for a more Agile perspective on technical practices, I would recommend reading "Agile Technical Practices Distilled" by Pedro Moreira Santos.
+
+User: Thank you Tim, these resources are extremely helpful. In addition to these technical skills, are there any attributes that are crucial for achieving the Emergent level in the Technical Knowledge competency?
+
+Tim: Yes, definitely. Communication and collaboration skills are crucial for success as an Emergent level Technical Knowledge SAFe Agilist. It's important to be able to work effectively with team members, stakeholders, and other departments. Additionally, problem-solving skills and the ability to think critically is essential for an Emergent level Technical Knowledge SAFe Agilist. A great book that highlights a lot of these attributes is "Collaboration Explained" by Jean Tabaka.
+
+User: Thank you so much, Tim. One last question, would you recommend any best practices to practice and retain technical knowledge?
+
+Tim: One of the best practices for retaining technical knowledge is to continuously practice it. Try implementing these technical skills in real-life situations, perhaps through personal projects or contributing to open-source projects. Additionally, it's extremely helpful to attend conferences and meetups to stay current on industry trends and network with other professionals. Finally, reading books, articles, and blogs is a great way to keep up-to-date with technical knowledge.

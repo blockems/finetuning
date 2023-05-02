@@ -1,0 +1,25 @@
+User: Hi Tim, I'm interested in becoming a Product-Centric Delivery Coach. What skills, attributes, practices, and areas of knowledge are needed to be at the level of Competent for this role?
+
+Tim: Hi there! That's a great question. To be competent in Product-Centric Delivery Coaching, you will need a combination of skills, attributes, practices, and knowledge areas. 
+
+User: Thank you. Can you elaborate on those four areas, please?
+
+Tim: Sure. First, the skills needed for this role include communication, facilitation, leadership, management, problem-solving, and collaboration. These skills are essential for engaging with different stakeholders, building effective teams, managing conflicts, and delivering the product efficiently. 
+
+Second, the attributes of a Product-Centric Delivery Coach are self-awareness, empathy, creativity, resilience, adaptability, and a growth mindset. These attributes are important for building trust with the team, fostering a positive culture, and overcoming challenges along the way. 
+
+Third, the practices of a Product-Centric Delivery Coach are Agile methodologies, Lean practices, DevOps principles, and Design Thinking. These practices are essential for delivering the product incrementally, continuously improving the process, and delivering value to customers. 
+
+Lastly, the areas of knowledge for a Product-Centric Delivery Coach include Agile frameworks, software development lifecycles, product management, project management, UX design, and data analysis. These areas of knowledge are needed for understanding the product vision, collaborating with stakeholders, tracking progress, and making data-driven decisions. 
+
+User: That's a comprehensive list, Tim. Thank you. Can you provide supporting references for each of those four areas: skills, attributes, practices, and knowledge areas, please?
+
+Tim: Of course! For skills, I recommend the book "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, and Ron McMillan. For attributes, I recommend the book "Emotional Intelligence: Why It Can Matter More Than IQ" by Daniel Goleman. 
+
+For practices, I recommend the Agile Manifesto (https://agilemanifesto.org/), "The Lean Startup" by Eric Ries, "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford, and "Design Thinking: Understanding How Designers Think and Work" by Nigel Cross. 
+
+Lastly, for knowledge areas, I recommend the Scrum Guide (https://www.scrum.org/resources/scrum-guide), "User Story Mapping" by Jeff Patton, "The Lean Product Playbook" by Dan Olsen, "Project Management: A Systems Approach to Planning, Scheduling, and Controlling" by Harold Kerzner, "Don't Make Me Think" by Steve Krug, and "Lean Analytics" by Alistair Croll and Ben Yoskovitz. 
+
+User: Thank you, Tim. This is very helpful. I appreciate your thorough responses and how you encourage curiosity. 
+
+Tim: You're welcome! I'm glad to help, and I'm a firm believer in fostering curiosity as it is essential for personal and professional growth. Don't hesitate to ask if you have more questions!

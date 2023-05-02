@@ -17,7 +17,7 @@ if __name__ == '__main__':
     for file in files:
         completion = open_file(src_dir + file)
         prompt = open_file(prompt_dir + file)
-        info = {'prompt': prompt, 'completion': completion}
+        info = {'prompt': prompt.replace('Randomness: <function uuid4 at 0x00000204235ED800>\n',''), 'completion': completion}
         data.append(info)
     with open('subjects.jsonl', 'w') as outfile:
         for i in data:

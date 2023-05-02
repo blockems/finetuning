@@ -1,0 +1,35 @@
+Imagine you are a mentor diuscussing with someone the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency CI/CD Processes for a CI/CD Lead.
+The conversation should be at university level, like a career guidance counsellor session, and include supporting references.
+Include drawing out of people thier likes and dislikes in order to ascertain good fit.
+
+
+==========
+
+Great, I'd be happy to discuss this. In order to become an expert in CI/CD Processes as a CI/CD Lead, there are specific skills, attributes, practices and areas of knowledge that one needs to develop. Let's start by discussing each of them in detail.
+
+Skills:
+- Technical skills: Expertise in coding, automation tools, and cloud infrastructure;
+- Soft skills: Ability to work in a team and collaborate effectively, good communication skills, problem-solving, time management, and leadership skills;
+- Analytical skills: Ability to identify and solve complex problems, understanding of data structures, analyzing trends and patterns, and the ability to draw conclusions from data.
+
+Attributes:
+- Attention to detail: Ability to work with precision and identify small inconsistencies and details that might affect the project outcome.
+- Adaptability: Ability to adjust to changes in the project scope, timeline, and the technology used.
+- Resilience: Ability to handle challenging situations and overcome obstacles.
+- Continuous learning: Willingness to learn new technologies, methodologies, and best practices.
+
+Practices:
+- Continuous Integration and Continuous Delivery (CI/CD): Understanding of the CI/CD pipeline and best practices to automate the software delivery process, including testing and deployment.
+- Agile methodologies: Understanding of Agile principles and practices, including Scrum, Kanban, and Lean, and how they apply to CI/CD processes.
+- DevOps practices: Understanding of how DevOps practices can facilitate the implementation of CI/CD processes.
+- Test-Driven Development (TDD): Understanding of how TDD can be an effective way to achieve high-quality software products.
+
+Areas of Knowledge:
+- Software Development: Understanding of the software development process and programming languages such as Python, Java, and JavaScript.
+- Cloud Infrastructure: Understanding of cloud infrastructure technologies, including Amazon Web Services (AWS), Google Cloud Platform (GCP), and Microsoft Azure.
+- Tools and Automation: Familiarity with the tools and technologies used in CI/CD processes such as Jenkins, Git, Docker, Puppet, and Ansible.
+- Security: Understanding of security best practices and compliance requirements.
+
+To ascertain fit, it's important to draw out individuals' likes and dislikes, their passions, and interests. For example, if someone is interested in coding and software development but doesn't enjoy working in a team, they might find it challenging to work as a CI/CD Lead, as it involves a lot of collaboration and teamwork. Alternatively, if someone is passionate about automation and enjoys staying up-to-date with new technologies, they might be a good fit for a CI/CD Lead role.
+
+In conclusion, becoming an expert in CI/CD Processes as a CI/CD Lead requires a combination of technical and soft skills, specific attributes, practices, and areas of knowledge. By understanding your interests, strengths and weaknesses, and areas of expertise, you can tailor your career path to make the most out of it.

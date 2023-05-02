@@ -1,0 +1,45 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile and Scrum Methodologies for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, thank you for taking the time to chat with me. I'm interested in becoming a competent Business Systems Analyst in Agile and Scrum Methodologies. Could you tell me more about the necessary skills and attributes that I need to possess?
+
+Tim: Hello! That's a great question. To become competent in Agile and Scrum Methodologies as a Business Systems Analyst, there are several key skills and attributes that you need to have. First and foremost, you need to have strong analytical and problem-solving skills. You should be able to identify problems, analyze data and information, and come up with effective solutions.
+
+You also need to be a good communicator and collaborator. As a Business Systems Analyst in Agile and Scrum Methodologies, you will be working closely with stakeholders, team members, and other professionals. You must be able to communicate your ideas clearly and effectively to your team members and other stakeholders.
+
+Another important attribute is adaptability. Agile and Scrum Methodologies are known for being dynamic and fast-paced, so you need to be able to adapt to change quickly and efficiently.
+
+Finally, you need to have a solid understanding of Agile and Scrum Methodologies. This includes knowledge of the Agile Manifesto, Scrum Framework, Agile methodologies, and Agile practices.
+
+User: Thank you for your answer, Tim. What practices and areas of knowledge do I need to familiarize myself with, to be competent in Agile and Scrum Methodologies?
+
+Tim: Great follow-up question! To be competent in Agile and Scrum Methodologies, you need to be familiar with various practices and areas of knowledge. Here are some key ones:
+
+1. Agile Manifesto and Principles: You should be familiar with the Agile Manifesto and the 12 principles that guide the Agile philosophy.
+
+2. Scrum Framework: You should be familiar with the Scrum Framework and its roles, events, artifacts, and rules.
+
+3. Agile methodologies: You should be familiar with various Agile methodologies, such as Kanban, Lean, and Extreme Programming (XP).
+
+4. Agile practices: You should be familiar with various Agile practices, such as User Stories, Test-Driven Development (TDD), and Continuous Integration (CI)/Continuous Deployment (CD).
+
+5. Agile tools: You should be familiar with various Agile tools, such as JIRA, Trello, and Visual Studio Team Services.
+
+Additionally, I would recommend reading the following books to gain more knowledge on Agile and Scrum Methologies - “Agile Estimating and Planning” by Mike Cohn, "The Lean Startup" by Eric Ries, "Agile Product Management with Scrum" by Roman Pichler and “Scrum: The Art of Doing Twice the Work in Half the Time” by Jeff Sutherland. 
+
+User: Thanks for providing those references, Tim. I will surely look into them. One final question, Tim. In your experience, what is the most significant challenge when transitioning from Waterfall to Agile?
+
+Tim: Great question! In my experience, the biggest challenge when transitioning from Waterfall to Agile is the mindset shift. With Waterfall, you have a clearly defined process, where you develop and design the system upfront before moving onto the next phase. Agile, on the other hand, is more flexible and works with iterative deliveries, where you develop/prototype and test continuously.
+
+This mindset shift can be difficult for some team members who are used to working in a structured manner. In Agile, you must have a mindset that embraces change, recognizes that requirements may change over time, and that there is value in iterative development.
+
+Another challenge is effective communication and collaboration. This is critical in a Scrum environment since it is team-driven. It might be difficult to get everyone on the same page, how to approach tasks, and to hold everyone accountable for their tasks. To overcome this challenge, it is essential to have continuous communication, transparency, and openness to feedback.
+
+I hope this has been helpful to you, and don't hesitate to reach out if you have additional questions!

@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Project Management for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I want to pursue a career in Agile coaching and program management. What skills, attributes, practices, and areas of knowledge do I need to be competent in project management for an Agile coach?
+
+Tim: Hi there! Project management is a vital competency for Agile coaching, and there are many skills, attributes, and practices that you need to master. Firstly, you need to be well-versed with Agile project management frameworks such as Scrum, Kanban, and SAFe. Familiarity with these frameworks will help you facilitate Agile practices such as backlog grooming, sprint planning, and sprint retrospective meetings.
+
+User: That sounds great, Tim. Please tell me more about the skills I need to have as an Agile coach?
+
+Tim: Sure thing. As an Agile coach, you need to have excellent communication and collaboration skills. You'll be working with a wide range of stakeholders, including developers, product owners, and executives. You should also have an analytical mindset, be data-driven, and possess problem-solving skills, which will help you identify and mitigate project risks.
+
+User: How about the attributes that an Agile coach should have?
+
+Tim: Agile coaches should possess a range of attributes such as empathy, positivity, adaptability, resilience, and a learning mindset. They should possess emotional intelligence, which will help them build trust with team members and facilitate open communication.
+
+User: Could you please give me some examples of the best practices for Agile coaches?
+
+Tim: Absolutely! Here are some best practices:
+
+- Conduct regular Agile team assessments to identify areas that need improvement
+- Facilitate continuous improvement through retrospective meetings and action planning
+- Ensure that all team members have a clear understanding of project goals, priorities, and timelines
+- Foster a culture of collaboration and transparency
+- Encourage experimentation and risk-taking to drive innovation
+
+User: Thanks, Tim! That was helpful. Do you have any references that I could use?
+
+Tim: Of course! Here are some excellent resources to get you started:
+
+- The Agile Coach Competency Framework by the Agile Coaching Institute
+- Agile Coaching: Wisdom from Practitioners by Lyssa Adkins and Michael Spayd
+- Scaling Agile: A Lean JumpStart by Sanjiv Augustine
+
+I hope that helps, and please feel free to ask any more questions you may have!

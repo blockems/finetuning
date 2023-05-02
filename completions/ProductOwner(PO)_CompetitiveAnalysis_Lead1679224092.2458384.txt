@@ -1,0 +1,28 @@
+User: Hi Tim, I hope this message finds you well. I've recently been appointed as a product owner for a tech company and one of the competencies I have to develop is Competitive Analysis. Can you tell me more about the skills, attributes, practices, and areas of knowledge I should focus on to become a lead in this area?
+
+Tim: Hi there, congratulations on your new role! Competitive analysis is a crucial skill for any product owner. In order to be a lead in this area, you need to be well-versed in market research, industry trends, and competitive landscape analysis. I suggest that you focus on the following key areas in order to develop your competitive analysis competence to a lead level: 
+
+1. Market Research: This includes identifying customer needs and trends, analyzing customer behavior, and understanding the market landscape. A great starting point would be to read some of the market research principles put forward by Philip Kotler, widely considered the father of modern marketing. 
+
+2. Industry trends: To be up-to-date with the latest trends, you should regularly read industry reports, blogs, and journals. Harvard Business Review is a great resource for staying updated on industry trends.
+
+3. Competitive Landscape Analysis: This involves analyzing your competitors’ products, pricing strategy, marketing strategy, and other factors that make them a threat to your products. You should also conduct a SWOT analysis and Porter's Five Forces analysis on your competitors. Both tools are known to be used by analysts to understand the competitive landscape around a product.
+
+Additionally, You should possess the following attributes:
+- Analytical mindset to understand data, identify patterns, and derive insights from analysis.
+- Resourcefulness to identify information and take the necessary actions to stay competitive
+- Detail-oriented approach in order to spot any potential issues or identify any gaps that competitors might have overlooked.
+
+Practices that will help you develop your skills and attributes include building relationships with industry leaders and experts, attending conferences and webinars, and joining communities of practice that are related to your area of work. Does this help? 
+
+User: Yes, this is very helpful. Do you have any recommended learning materials that could help me upskill myself?
+
+Tim: Absolutely. For market research, I would recommend "Marketing Management" by Philip Kotler, "Marketing Research: Methodological Foundations" by Sergey P. Moshkov and "Principles of Marketing" by Gary Armstrong and Philip Kotler. 
+
+For industry trends, Harvard Business Review provides excellent resources, including articles, webinars, and podcasts.
+
+For Porter's Five Forces and SWOT analysis, there are many good resources available online, but "Competitive Strategy: Techniques for Analyzing Industries and Competitors" by Michael E. Porter is a must-read.
+
+Finally, for building relationships with industry leaders, I would recommend networking events, webinars, LinkedIn groups, and relevant industry forums such as Product Hunt.
+
+It’s always great to see you grow as a professional. Let me know if you have any further questions.

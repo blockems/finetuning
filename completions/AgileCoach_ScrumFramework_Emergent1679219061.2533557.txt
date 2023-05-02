@@ -1,0 +1,29 @@
+User: Hi Tim, I am interested in becoming an Agile Coach with a focus on Scrum framework. Can you tell me what skills, attributes, practices and Areas of knowledge I need to have to be at the level of Emergent for the competency Scrum Framework for Agile Coach?
+
+Tim: Hi there! Great to hear that you are interested in becoming an Agile Coach. Scrum framework requires a deep understanding of the Agile values and principles, as well as the Scrum framework itself. To be at the Emergent level of competency for an Agile Coach, you'll need to have a good understanding of Scrum roles, events, artifacts, and values.
+
+User: Thanks for your response, Tim. Can you give me more information on Scrum roles, events, artifacts, and values?
+
+Tim: Sure! Scrum roles include Product Owner, Scrum Master, and Development Team. The Product Owner is responsible for defining the product vision, creating and maintaining the product backlog, and ensuring the team is delivering value to the customers. The Scrum Master helps the team to understand and adopt the Scrum framework, removes any impediments that may arise during the project, and facilitates communication among the team. Development team is self-organizing, cross-functional, and should have all the skills needed to deliver the product increment.
+
+Scrum events are time-boxed events that are designed to create transparency, inspect and adapt the product, process, and team. They are Sprint, Sprint Planning, Daily Scrum, Sprint Review, and Sprint Retrospective.
+
+Scrum artifacts include Product Backlog, Sprint Backlog, and Increment. Product Backlog is an ordered list of items that the team will work to complete in the future sprints. Sprint Backlog is a plan for the Sprint that contains items from the Product Backlog. Increment is the sum of all Product Backlog items completed during a Sprint, and the value should increase after each Sprint.
+
+Finally, Scrum values are commitment, courage, focus, openness, and respect. These values support transparency, courage, respect, and trust within the team, foster an environment of innovation and creativity, and enable agility of the team.
+
+User: Thank you, Tim. What about the skills and attributes needed to be a successful Agile Coach?
+
+Tim: To be an effective Agile Coach, you need to have strong communication and leadership skills, the ability to facilitate meetings, and the ability to build and maintain relationships among the team. You also need to have a deep understanding and experience with Agile practices and methodologies, the ability to educate and mentor the team, and the ability to continuously improve the team's performance. The attributes of a successful Agile Coach include being patient, flexible, collaborative, curious, and having a growth mindset.
+
+User: Thanks again for your detailed response, Tim. Can you provide some references or resources for me to further my learning?
+
+Tim: Yes, of course! Here are some references and resources that I highly recommend:
+
+- The Scrum Guide (https://www.scrum.org/resources/scrum-guide)
+- The Agile Manifesto (https://agilemanifesto.org/)
+- The Agile Coach Toolkit (https://www.agilecoachtoolkit.com/)
+- Scrum.org (https://www.scrum.org/)
+- Agile Alliance (https://www.agilealliance.org/)
+
+I hope you find these resources helpful in your learning journey!

@@ -1,0 +1,43 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction
+
+Agile methodology has become a prominent and widely-adopted approach to software development in recent years. Agile coaches are professionals who guide organizations through the adoption of agile methodologies and help them achieve their desired outcomes. To perform their job at the expert level, they must possess a wide range of skills, practices, and areas of knowledge. In this paper, we will discuss these aspects of expertise in agile methodologies, providing definitions and examples to better understand the competencies required for an expert in this field. 
+
+Skills Required for an Agile Coach
+
+Agile coaches must possess a range of soft and technical skills to be effective. Some of the key soft skills include strong communication, collaboration, facilitation, emotional intelligence, and leadership. They must be able to communicate the benefits of the agile methodology to stakeholders while guiding teamwork and collaboration to achieve a common goal.
+
+Technical skills are also essential for an agile coach. An expert in agile methodologies should have a deep knowledge and understanding of the methodologies, the tools, and technologies used in agile software development. They must have experience with multiple agile methodologies such as Scrum, Kanban, Lean, and Extreme programming. Expertise in software development practices such as test-driven development, pair programming, and continuous integration is also necessary for a proficient agile coach.
+
+Agile coaches must also possess skills in change management and organizational design. Competencies such as systems thinking, problem-solving, and conflict resolution will enable the agile coach to facilitate agile transformations and align the organization for success. 
+
+Practices Required for an Agile Coach
+
+The practices required for an Agile Coach include a range of skills such as coaching, mentoring, and training. These skills support the agile coach in guiding teams and individuals through the adoption of agile practices. For instance, an expert in agile methodologies should be able to engage stakeholders to establish the foundations of agile development, which include Collaboration, transparency, and feedback. This would involve coaching and mentoring teams in enabling practices like daily stand-ups, sprint planning, and sprint reviews.
+
+An agile coach should also be proficient in the fundamental practices of agile development, such as agile ceremonies and agile software development tools. These include User Stories, Burndown charts, Retrospectives, and Scrum boards. They should be able to teach and encourage the use of these practices to teams who are either new to Agile, or who are trying to improve their existing Agile processes.
+
+Areas of Knowledge
+
+An Agile Coach should also possess a range of different areas of knowledge, including techniques for team building, knowledge of product development and lean principles, knowledge of systems thinking and aligning organizational structure to use agile methodology, and knowledge of agile development techniques such as pair programming, Test-Driven Development (TDD), Continuous Integration (CI), and Continuous Delivery (CD). 
+
+A professional-level knowledge about these aspects and a deep understanding of the larger ecosystem within which the organization abides within would enable the Agile Coach to nurture the agile culture and guide agile teams, hence facilitating successful agile transformations.
+
+Conclusion
+
+In conclusion, Agile coaches must possess a range of skills, practices, and areas of knowledge to operate at an expert level. They should possess mastery in agile methodologies, have excellent coaching, mentoring and training skills, and possess a range of soft and technical competencies. Moreover, they should be able to apply the fundamental agile practices of agile development, understand the principles of lean development, and have knowledge of systems thinking and Organizational design. In achieving these competencies, Agile Coaches would be able to lead the organization through a successful agile transformation. 
+
+References:
+
+1) Aguilar-Saven, R. (2004). Business process modeling: Review and framework. International Journal of Production Economics, 90(2), 129–149. https://doi.org/10.1016/S0925-5273(03)00162-9
+
+2) Deemer, P., Benefield, W., Denning, S., Francis, J., & Larsen, D. (2017). The Scrum Primer: A Lightweight Guide to the Theory and Practice of Scrum.
+Retrieved from https://www.scrum.org/resources/scrumprimer
+
+3) Shalloway, A., & Beaver, J. (2007). Essential Skills for the Agile Developer: A Guide to Better Programming and Design.
+Boston, MA: Addison-Wesley.

@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Training and Development for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Here is a sample conversation between Tim, an agile coaching and program management expert, and a curious professional who is interested in the skills, attributes, practices, and areas of knowledge required to become a competent agile project manager:
+
+User: Hi Tim, I'm interested in becoming a competent agile project manager. What skills and attributes are necessary to excel in this role?
+
+Tim: Hi there! Agile project management is a complex field, and there are many skills and attributes that are important for success. Some of the key skills include communication, teamwork, adaptability, change management, and technical proficiency. In addition, successful agile project managers must be able to understand and manage risks, prioritize tasks, and manage teams effectively. In terms of attributes, curiosity, a growth mindset, and a passion for learning are all essential qualities for success in this field.
+
+User: Thanks, Tim. What kind of practices do agile project managers follow to ensure project success?
+
+Tim: Great question! Agile project management is centered around several key practices, including regular sprints or iterations, continuous improvement, and close collaboration between team members. Agile project managers also use various methodologies and frameworks, such as Scrum, Lean, or Kanban, to manage projects effectively. It's important to note that while these practices may vary depending on the project, the ultimate goal is always to deliver high-quality products or services to clients on time and within budget.
+
+User: Interesting. What areas of knowledge are important to excel in agile project management?
+
+Tim: Another excellent question. Agile project management requires a broad understanding of several key areas, including Agile methodologies, software development, business analysis, product management, and project management. Agile project managers must also have the ability to analyze data and make decisions based on data-driven insights. Understanding the broader business context in which the project is operating is also essential to success. In terms of resources, I would recommend looking into Agile Alliance and the Project Management Institute for additional information and resources.
+
+User: Thank you so much, Tim. This has been incredibly helpful.

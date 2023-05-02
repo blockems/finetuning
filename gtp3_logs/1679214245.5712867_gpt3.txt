@@ -1,0 +1,21 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Software Development Life Cycle (SDLC) for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers play a critical role in ensuring the successful delivery of software development projects through the implementation of Agile methodologies. To be competent at the Emergent level in the software development life cycle (SDLC), there are several skills, practices, and areas of knowledge that an Agile Delivery Manager should possess.
+
+One of the most critical skills that an Agile Delivery Manager should possess is the ability to develop and manage a high-performing Agile team. This involves understanding Agile principles and practices, such as Scrum, Kanban, and Lean, and being able to coach team members on how to successfully implement them. It also involves fostering an environment of continuous improvement and encouraging team members to learn from their mistakes and experiment with new approaches.
+
+Another critical skill for an Agile Delivery Manager is stakeholder management. In an Agile project, stakeholders are closely involved in the development process, and the Agile Delivery Manager must be able to effectively manage their expectations and communicate project progress in a transparent manner. This involves developing strong communication and negotiation skills, as well as building relationships with stakeholders based on mutual trust and respect.
+
+In addition to these skills, an Agile Delivery Manager must also have a thorough understanding of the various stages of the software development life cycle. This includes knowledge of requirements gathering and analysis, design, development, testing, and production. They must also be able to effectively manage each stage of the SDLC, including planning, execution, and monitoring.
+
+To be at the Emergent level of SDLC competency, an Agile Delivery Manager should also be knowledgeable about Agile tools and processes that can aid in the software development process. This includes, but is not limited to, continuous integration and delivery, automated testing, and backlog management tools.
+
+References:
+- Agile Alliance. (2021). Agile Manifesto Principles. https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+- Scrum.org. (2021). What is Scrum? https://www.scrum.org/resources/what-is-scrum
+- Sutherland, J. (2019). Scrum: The Art of Doing Twice the Work in Half the Time. Currency.
+- The Project Management Institute. (2021). SDLC Overview. https://www.pmi.org/learning/library/software-development-life-cycle-overview-5574

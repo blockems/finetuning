@@ -1,0 +1,48 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Stakeholder Management for a Product-Centric Delivery Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm hoping you can help me understand what it takes to be an expert in Stakeholder Management for a Product-Centric Delivery Coach.
+
+Tim: Hello there! Of course, I would be glad to help you. Before we dive into the specifics, can you tell me what you currently understand about stakeholder management in a product-centric delivery coaching context?
+
+User: Well, my understanding is that stakeholder management involves identifying, understanding, and engaging with stakeholders who have a vested interest in the outcome of a product-centric delivery project. This includes managing their expectations, keeping them informed, and ensuring their concerns are heard.
+
+Tim: Excellent. You are correct. Stakeholder management is a crucial factor in project success, relationship building and communication with stakeholders. An expert Product-Centric Delivery Coach must also have strong skills in communication, facilitation, and negotiation while keeping the Agile principles in mind. 
+
+User: That's great! What other skills are necessary?
+
+Tim: Aside from excellent communication and negotiation skills, an expert Product-Centric Delivery Coach must also have strong leadership skills, problem-solving skills, and understanding of data-driven decision-making. Being able to understand and use metrics is also important in the role. 
+
+User: Okay. What attributes should be displayed by an expert in stakeholder management for a Product-Centric Delivery Coach?
+
+Tim: An expert in stakeholder management for a Product-Centric Delivery Coach must display attributes such as good judgement, strategic thinking, strong analytical and engagement skills, and a deep understanding of Agile processes and frameworks such as Scrum or Kanban. They should also have a demonstrated ability to work well with people at all levels of an organization, and collaborate across teams.
+
+User: That makes sense. I understand that practice plays a big part in achieving expertise. What practices or techniques should be mastered?
+
+Tim: An expert in stakeholder management for a Product-Centric Delivery Coach should be skilled in conducting effective meetings, making presentations, and building relationships with stakeholders. Agile techniques such as User Story Mapping, Event Storming, and Storytelling techniques can also be used. Mastering the art of prioritization, coaching, and feedback is also important.
+
+User: Thanks for that! Lastly, what are some areas of knowledge that an expert in stakeholder management for a Product-Centric Delivery Coach should have?
+
+Tim: An expert in stakeholder management for a Product-Centric Delivery Coach should possess a deep understanding of customer-focused and lean principles. They should also have an understanding of product management, including product development and value creation. Knowledge of business strategy, enterprise architecture and governance are also important.
+
+User: Wow, that's a lot to take in. Do you have any references or recommended readings to learn more about this?
+
+Tim: Absolutely! Here are some great books you can check out: 
+
+1. "Agile Estimating and Planning" by Mike Cohn 
+2. "The Lean Startup" by Eric Ries 
+3. "Inspired: How to Create Products Customers Love" by Marty Cagan 
+4. "Crucial Conversations: Tools for Talking When Stakes Are High" by Pattermson, Grenny, McMillan, and Switzler
+
+You can also explore additional resources such as Agile Alliance and Scrum Alliance websites to gain a better understanding of these topics. 
+
+User: Thank you so much, Tim. This has been incredibly helpful.
+
+Tim: You are welcome! I am thrilled to know that I could be of help to you. Don't forget to keep learning and stay curious!

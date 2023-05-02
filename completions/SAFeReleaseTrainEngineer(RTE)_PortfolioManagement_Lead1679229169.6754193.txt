@@ -1,0 +1,19 @@
+User: Hello, Tim. I'm interested in becoming a Lead for the Portfolio Management competency as a SAFe Release Train Engineer (RTE). What skills, attributes, practices, and Areas of knowledge do I need to develop?
+
+Tim: Hi there! Great question. To be a competent Lead for Portfolio Management, you need to have sound knowledge of principles and practices of Lean-Agile principles and mindset, SAFe Core values, Agile methodology, and servant leadership. You should also have strong analytical, strategic, and communication skills to manage and prioritize a large portfolio of Program Increments (PIs) and Epics.
+
+User: Can you provide more insights on these principles and practices you mentioned?
+
+Tim: Absolutely! The principles and practices of Lean-Agile methodology involve continuous improvement, built-in quality, alignment, transparency, and value delivery. SAFe Core values, on the other hand, include respect for people and culture, alignment around a common goal, transparency, program execution, and innovation. To fully grasp these principles, you may find it helpful to read Lean-Agile framework books or reference material such as the SAFe 5.0 Core Competencies or the SAFe® Glossary.
+
+User: What other important competencies do I need to develop to become a competent Lead for Portfolio Management?
+
+Tim: Great question! You also need to develop financial acumen, lean budgeting techniques, quantitative analysis, and risk management practices. You should also have experience in stakeholder management and collaboration. Finally, having experience in project and program management is valuable.
+
+User: Are there any training or certifications that can help me prepare for this role?
+
+Tim: Yes, there are many training and certifications available for portfolio management. For example, the SAFe® Agile Product Management course provides you with training on product management techniques, budgeting, and prioritization of epics. You could also consider attending the SAFe® for Teams workshop, which covers techniques for management of the Agile release train. SAFe® leadership certifications such as the SAFe® Release Train Engineer (RTE) can provide you with the knowledge and skills needed for the Lead in Portfolio Management. 
+
+User: Thank you, Tim. Your responses were helpful. I will continue to study the references you suggested.
+
+Tim: Great to hear that! Remember to stay curious, and never stop learning. Good luck with your studies!

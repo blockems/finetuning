@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile and SAFe Methodologies for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really interested in becoming an expert in Agile and SAFe methodologies for portfolio management. What skills, attributes and practices are essential to achieve this level of expertise?
+
+Tim: Hi there! That's a great question. To become an expert in Agile and SAFe methodologies for portfolio management, it's important to have a strong foundation in these methodologies. You should have a good understanding of Agile principles and practices, as well as SAFe framework and its implementation. Additionally, strong leadership skills and the ability to create a collaborative environment are essential.
+
+User: Thank you for your response, Tim. Can you please tell me more about the specific Agile and SAFe practices that are important for portfolio management?
+
+Tim: Sure thing! Agile and SAFe methodologies have several practices that are vital for portfolio management. Some of the key practices include:
+
+- Continuous improvement: In Agile, we strive for continuous improvement through regular reviews, retrospectives, and feedback loops. Likewise, SAFe encourages the same for the portfolio level.
+- Lean thinking: Lean principles are at the core of SAFe methodology. To be an expert in SAFe for portfolio management, you should have a good understanding of lean thinking and its application to continuous improvement.
+- Value stream mapping: Value stream mapping is an essential practice for portfolio management. By mapping out the value stream, we can identify areas that need improvement, streamline processes, and eliminate waste.
+- Agile budgeting and forecasting: In Agile and SAFe, budgeting and forecasting are approached differently than traditional methods. You should have a good understanding of these practices and how to apply them to the portfolio management.
+- Agility in governance: Agile and SAFe methodologies emphasize flexibility and adaptability. As a Lean Portfolio Manager, you should be able to manage governance within an Agile context.
+
+User: Thank you, Tim. That was very informative. Can you recommend any books or resources that can help me in my studies?
+
+Tim: Absolutely! Some of the books that I recommend for learning about Agile and SAFe methodologies are:
+
+- "Agile Estimating and Planning" by Mike Cohn
+- "SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework" by Richard Knaster and Dean Leffingwell
+- "Lean Enterprise: How High Performance Organizations Innovate at Scale" by Jez Humble, Joanne Molesky, and Barry O'Reilly
+
+Additionally, there are several resources available online, such as SAFe's official website, Agile Alliance, and Scrum Alliance. These resources can provide more in-depth information and examples of Agile and SAFe practices in action.

@@ -1,0 +1,27 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Market Analysis for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor (Tim): Hi, how can I help you today?
+
+User: Hi Tim, I'm a SAFe Product Owner and I really want to reach the Emergent level for Market Analysis competency. What are the key skills, attributes, and practices I need to have to achieve this?
+
+Tutor (Tim): Great question. In order to reach the Emergent level for the Market Analysis competency in SAFe, it's important to have a solid foundation of skills, attributes, and practices. Some key skills include a deep understanding of customer needs, an ability to monitor and analyze market trends, and the ability to pivot strategy based on market changes.
+
+User: Thanks Tim, that makes sense. And what about attributes? Are there any particular personal traits that are important for this level of competency?
+
+Tutor (Tim): Yes, there are a few key attributes that are useful for success as a PO with strong market analysis skills. These include curiosity, empathy, strong critical thinking abilities, and a willingness to experiment and take risks in order to find success.
+
+User: Interesting, and what practices should I focus on to achieve this goal?
+
+Tutor (Tim): Some key practices that can help improve market analysis skills include regularly monitoring industry publications and news, staying up to date on emerging technologies, engaging with customers to gather feedback and insights, and conducting in-depth market research to stay ahead of trends.
+
+User: That makes sense. Thanks, Tim! Do you have any references or readings that you would recommend for someone looking to build these skills?
+
+Tutor (Tim): Absolutely. Some great resources include "Lean Analytics" by Alistair Croll and Benjamin Yoskovitz, "The Lean Startup" by Eric Ries, and "The Innovator's Dilemma" by Clayton Christensen. Additionally, Harvard Business Review and other industry journals can be great sources of information and insights.

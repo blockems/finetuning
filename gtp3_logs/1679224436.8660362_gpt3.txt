@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Leadership for a Product-Centric Delivery Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a Lead for the competency Leadership for a Product-Centric Delivery Coach. What skills and areas of knowledge should I focus on developing?
+
+Tim: Hi there! That's a great goal to aspire to, and it's important to focus on developing a broad range of skills and knowledge areas in order to excel in this field. One key area of focus should be on developing your leadership skills, including communication, facilitation, team-building, and conflict resolution skills. Additionally, strong technical skills and expertise in product management, Agile methodologies, and delivery practices are also critical.
+
+To become a successful Lead for this competency, you will also need to have a deep understanding of modern software development practices, including DevOps, continuous integration and deployment, and automated testing. Additionally, a strong background in business analysis and requirements gathering can be particularly useful, as you will be working closely with stakeholders to identify and deliver key features and functionalities.
+
+User: Thanks, Tim! Those are great suggestions. Is there any specific framework or methodology that I should focus on learning?
+
+Tim: Yes, Agile methodologies such as Scrum, Kanban, and Lean can be particularly helpful in the context of product-centric delivery coaching. These methodologies provide frameworks for managing and prioritizing work, as well as fostering a culture of continuous improvement and experimentation.
+
+In addition to Agile methodologies, it's also important to have a strong understanding of project management principles and techniques. This includes areas such as risk management, stakeholder engagement, and resource allocation.
+
+User: That makes sense. Are there any specific resources or certifications that you would recommend?
+
+Tim: Absolutely! There are many excellent resources available for those looking to develop their skills in product-centric delivery coaching. Some of my favorite books on the topic include "Inspired" by Marty Cagan, "The Lean Product Playbook" by Dan Olsen, and "User Story Mapping" by Jeff Patton.
+
+In terms of certifications, there are several options available ranging from Agile certifications like Certified Scrum Master (CSM) to project management certifications like Project Management Professional (PMP). It may be useful to research and consider which certifications would be most relevant and beneficial for your career goals.
+
+User: Thanks Tim, I'll be sure to take a look at those resources and certifications. One last question, what type of mindset or attributes do you think are important for success in this role?
+
+Tim: Great question! In addition to the technical skills and knowledge areas we've discussed, there are several important attributes that can help set you up for success as a Lead for the competency Leadership for a Product-Centric Delivery Coach. These include:
+
+- A growth mindset: Being open to learning and continuous improvement is critical in this field, as product development practices are constantly evolving.
+
+- Curiosity: Asking questions, seeking out new ideas and approaches, and staying up to date with industry trends and best practices can help you stay at the forefront of the field.
+
+- Emotional intelligence: The ability to empathize with and understand stakeholders and team members is critical for building and maintaining effective teams.
+
+- Results-driven: Ultimately, the goal of product-centric delivery coaching is to deliver high-quality products that meet customer needs. Being focused on results and outcomes is essential for success.
+
+User: Thank you so much, Tim! I really appreciate your thorough answers and guidance.

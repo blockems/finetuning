@@ -1,0 +1,46 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Innovation for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a Lead Agile Project Manager with a focus on Innovation. What are the skills, attributes, practices, and areas of knowledge I need to develop to excel in this role?
+
+Tim: Hi there! It's great to hear of your ambition to excel in the Agile Project Manager role with a focus on Innovation. As a Lead Agile Project Manager, you need a variety of skills, attributes, practices, and areas of knowledge. Some of the critical Skills and Attributes include:
+
+1. Strong Leadership skills: You need to be a proficient communicator, highly empathetic, and an excellent listener.
+2. Critical thinking and problem-solving skills: You must analyze project complexities, identify potential roadblocks, and assess options to address challenges.
+3. Strong Organizational skills: You need to prioritize tasks, manage resources, and ensure project milestones are achieved.
+4. Innovation mindset: It is critical to embrace an innovative mindset, always looking for new ideas and solutions to improve project performance.
+
+User: Thank you, Tim! Those are great skills and attributes to focus on. What about practices? Do you have any recommendations for the best Agile practices to use for innovation?
+
+Tim: Absolutely! Here are some Agile practices that can effectively help you with innovation:
+
+1. Design thinking: A framework that places emphasis on a human-centered approach to innovation that focuses on customer needs and pains.
+2. Lean Startup Methodology: An Agile methodology that advocates for rapid experimentation and product development and aims to minimize the time and cost involved in the development process.
+3. User Story Mapping: A tool that provides an overview of the user's entire interaction with the project.
+
+User: Those sound like great agile practices to focus on. What about areas of knowledge? What background knowledge do I need to support me as an Agile Project Manager focusing on Innovation?
+
+Tim: Apart from Agile methodologies, knowledge in or exposure to the following areas is critical:
+
+1. Innovation Management: This encompasses the management of ideation, open innovation, creativity, and managing innovations in a rapidly changing world.
+2. Business Management: This encompasses Business strategy formulation, budgeting, and financial management.
+3. Technical expertise: Knowledge of areas like software development, user experience design, and data analysis are also valuable.
+
+These are just a few examples of knowledge areas that are critical to support your Agile Project Manager role with a focus on Innovation.
+
+User: Thank you, Tim. This information has been very helpful. Do you have any recommended resources that I can explore further to enhance my knowledge in these areas?
+
+Tim: There are quite a few resources you could check out, such as:
+
+- "Competencies for Agile Project Managers" - published in the Project Management Journal, Vol. 48, No. 3, 17--29,2020
+- "Innovation Management" by Bessant, John R. and Tidd, Joe, 2nd Edition, John Wiley and Sons, 2015.
+- "Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries.
+
+I hope you find these resources helpful in your journey to become a Lead Agile Project Manager with a focus on Innovation.

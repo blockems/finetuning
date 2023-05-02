@@ -1,0 +1,25 @@
+Tutor (Tim): Hello, how can I assist you today with the Financial Management competency for a SAFe Lean Portfolio Manager?
+
+User: Hi Tim, thanks for your time. I'm curious about the skills and attributes required to be at the Emergent level in Financial Management. Can you provide some guidance?
+
+Tim: Sure, there are a few key skills and attributes needed for the Emergent level of Financial Management in SAFe LPM. Firstly, an understanding of financial principles is essential for financial management, specifically accounting and finance principles. Additionally, strong analytical skills are necessary to interpret and make sense of financial data.
+
+User: That makes sense. Can you provide any specific areas of knowledge that I should focus on to have a good understanding of these principles?
+
+Tim: Certainly. A good starting point would be understanding financial statements, such as balance sheets, income statements, and cash flow statements. Additionally, a grasp of financial metrics such as ROI, ROE, and earnings per share is important. A solid understanding of budgeting and forecasting is also critical for financial management. Would you like me to provide some references for further reading?
+
+User: Yes please!
+
+Tim: For financial statements, I recommend reading "Financial Accounting: Tools for Business Decision Making" by Kimmel, Weygandt, and Kieso. For financial metrics, "Financial Intelligence, Revised Edition: A Manager's Guide to Knowing What the Numbers Really Mean" by Karen Berman and Joe Knight is a great starting point. Finally, for budgeting and forecasting, "The Budgeting and Forecasting Handbook: Implications for Practitioners" by Janet Young is a comprehensive guide on the subject.
+
+User: These are great starting points, thank you. Can you recommend any practices that I can put into place to improve my financial management abilities?
+
+Tim: Absolutely. One effective practice is to regularly review financial statements, and compare them to industry benchmarks or competitors to gain valuable insights. Additionally, setting financial goals and tracking progress towards them is critical for successful financial management. Finally, regularly forecasting revenue and expenses can help identify areas that require attention.
+
+User: That's really helpful, thank you. Can you recommend any courses or certifications that I can pursue to improve my financial management skills?
+
+Tim: Sure, a great certification to pursue would be the Certified Management Accountant (CMA) certification offered by the Institute of Management Accountants. Additionally, taking courses in financial statement analysis, budgeting, and forecasting can help improve your skills in Financial Management. 
+
+User: Thanks for the great recommendations Tim, I feel much more prepared now to achieve the Emergent competency level in Financial Management for a SAFe LPM. 
+
+Tim: I'm glad I could assist you. Remember, keep asking questions and stay curious!

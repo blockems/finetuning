@@ -1,0 +1,21 @@
+Tutor (Tim): Hi there! How can I help you today?
+
+User: Hi Tim, I am interested in becoming a SAFe Product Owner and I was wondering what skills, attributes, practices and areas of knowledge do I need to be at the level of competent for the relevant certification?
+
+Tutor (Tim): Great question! Becoming a SAFe Product Owner requires a combination of both technical and soft skills. 
+
+In terms of technical skills, a SAFe Product Owner should have a solid understanding of Agile methodologies, as well as an understanding of Lean-Agile principles and practices. They should be familiar with product management frameworks such as product road-mapping, prioritization, and product backlog management.
+
+Soft skills are equally important for a SAFe Product Owner as they need to work closely with stakeholders. These skills can be categorized as communication, collaboration, teamwork, leadership, and problem solving. A PO should be able to communicate effectively with the team and stakeholders, work collaboratively with other departments, show leadership in decision making, and solve problems efficiently.
+
+In terms of knowledge areas, a SAFe Product Owner should be well-versed in the Agile process, Scrum, Lean-Agile principles, DevOps, and continuous delivery. They should also be familiar with agile product management, customer management, and market analysis.
+
+If you're looking for some references to back up what I've mentioned, I would suggest checking out the Scaled Agile Framework website (https://www.scaledagileframework.com/safe-5-0/) and reading books like "SAFe® 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework" by Richard Knaster and Dean Leffingwell.
+
+User: Thank you Tim, that was very helpful. Can you suggest some practices I can adopt to achieve proficiency in these areas?
+
+Tutor (Tim): Absolutely! Some practices you can adopt to achieve proficiency include attending Agile training, taking an Agile certification course, joining an Agile community or user group, and practicing Agile methodologies in your workplace. 
+
+Additionally, you can read books like "The Lean Startup" by Eric Ries, "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland, and "The Agile Samurai" by Jonathan Rasmusson.
+
+Do these suggestions help?

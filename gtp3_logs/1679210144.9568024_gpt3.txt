@@ -1,0 +1,75 @@
+Task: Break down into skills, practices and areas of knowledge needed to be at the Expert level for the competency of Coaching and Mentoring for a Agile Coach.
+Display the results in a JSON object, with the skill detail in the root of the object.
+
+==========
+
+{
+  "Active Listening": {
+    "Skill Level": "Expert",
+    "Knowledge": [
+      "How to fully concentrate on what is being said without interruption",
+      "The ability to understand information being conveyed accurately and make the mentee comfortable."
+    ],
+    "Practices": [
+      "Providing your full attention",
+      "Expressing curiosity and asking open-ended questions",
+      "Not interrupting or assuming the mentee’s thought process",
+      "Encouraging the mentee to explore their thoughts and feelings"
+    ]
+  },
+  "Empathy": {
+    "Skill Level": "Expert",
+    "Knowledge": [
+      "Understanding and being able to perceive the mentee's emotions and feelings",
+      "The ability to relate to the mentee's situation and experience"
+    ],
+    "Practices":[
+      "Active listening",
+      "Validation of mentee's emotions and acknowledging their feelings",
+      "Imagining oneself in the mentee's shoes to grasp their perspective",
+      "Asking the right questions that convey the intention of understanding."
+    ]
+  },
+  "Facilitation": {
+    "Skill Level": "Expert",
+    "Knowledge": [
+      "The ability to create a safe space for the mentee to explore their ideas and concerns",
+      "The capability to lead the mentee to self-realization while still allowing them autonomy in their learning.",
+      "How to imply neutrality and help the mentor reach self-realization safely."
+    ],
+    "Practices":[
+      "Active listening",
+      "Providing an environment of psychological safety",
+      "Encouraging mentees to generate their solutions",
+      "Asking the right questions without directing the mentee's thoughts"
+    ]
+  },
+  "Coaching Models": {
+    "Skill Level": "Expert",
+    "Knowledge": [
+      "The ability to leverage different coaching models to deliver the most value to the mentee.",
+      "Structuring the coaching session",
+      "Recognizing the mentoring style that will offer the most value to the mentee"
+    ],
+    "Practices":[
+      "A wide understanding of different coaching models",
+      "Knowing the strengths and weaknesses of each coaching model",
+      "Recognizing the mentee's style of learning and offering solutions that will best serve the mentee's needs",
+      "Using the appropriate coaching model to help the mentee gain new insights and achieve their goals."
+    ]
+  },
+  "Feedback and Communication": {
+    "Skill Level": "Expert",
+    "Knowledge": [
+      "The ability to provide constructive feedback to the mentee",
+      "How to frame feedback in a way that concentrates on behaviour rather than the person",
+      "The ability to use storytelling to communicate ideas and emphasize points."
+    ],
+    "Practices":[
+      "Providing feedback clearly rather than forcefully",
+      "Using storytelling as a way of passing down knowledge.",
+      "Regular communication and constructive reinforcement of feedback.",
+      "Avoiding making the mentee feel defensive or under attack"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency CI/CD Processes for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile software development has fundamentally changed the development processes, and Continuous Integration and Continuous Delivery (CI/CD) processes are regarded as essential practices that can make the software delivery process faster, more reliable and easier to maintain. A CI/CD Lead is an expert who is responsible for ensuring that the team and organization are using these practices effectively and efficiently. To be an expert in this field, a person must possess a set of skills, practices and knowledge areas that are required for effective implementation of CI/CD processes.
+
+Skills for CI/CD Lead
+
+One of the most important skills for a CI/CD Lead is knowledge of automation tools used in software development, such as Git, Jenkins, TeamCity, and other tools that can automate the build, test and deploy phases. The CI/CD Lead must also possess excellent communication skills, as they would constantly interact with the development team, product owners, QA, and other teams. They must have strong analytical and problem-solving skills, be able to work under pressure, and effectively prioritize tasks in order to meet deadlines.
+
+Practices for CI/CD Lead
+
+CI/CD Lead must implement high-quality software development practices that align with agile principles, such as continuous feedback, transparency, collaboration, and fast feedback loops. In addition, they must promote a culture that ensures that all members of the development team understand the importance of these practices and are actively involved in their implementation. The CI/CD Lead must also ensure that all code changes are thoroughly tested before they are deployed.
+
+Areas of Knowledge for CI/CD Lead
+
+CI/CD Lead must have a thorough understanding of software development methodologies, such as Agile, Scrum, and DevOps. They must understand the software development lifecycle from ideation to production, understand the importance of code quality, testing methodologies, and releasing software regularly in a predictable way. The CI/CD Lead must have a working knowledge of Version Control Systems (VCS), Continuous Integration practices, Continuous Delivery and Continuous Deployment processes as well as the security challenges for CI/CD processes.
+
+References
+
+Ciocoiu, D., Dobre, C., & Stratulat, S. (2019). Assessing the Impact of Continuous Integration on Software Quality: State of the Art. IEEE Access, 7, 149649-149666.
+
+Flanagan, A., & Matyas, S. (2017). Continuous delivery and DevOps: A Quickstart guide. Packt Publishing Ltd.
+
+Humble, J., & Farley, D. (2010). Continuous delivery: Reliable software releases through build, test, and deployment automation. Pearson Education.
+
+Mell, P., Potanin, G., & Kolesnichenko, A. (2017). A Study on the Security Challenges of Continuous Deployment. arXiv preprint arXiv:1703.08983.

@@ -1,0 +1,23 @@
+User: Hi Tim, I'm curious to know what skills, attributes, practices, and areas of knowledge I need to have to be at the Emergent level for the competency Cloud Computing as a Technical Business Analyst.
+
+Tim: Hello there! Great to hear from a curious professional like you. Cloud Computing as a Technical Business Analyst requires a range of skills and knowledge. Firstly, you need to have a strong understanding of cloud computing principles and concepts. This includes knowledge of cloud architecture, service models, deployment models, and security measures. 
+
+User: That makes sense. What technical skills do I need to have to be competent in cloud computing?
+
+Tim: Yes, there are several technical skills you need to acquire in cloud computing, such as proficiency in programming languages, including Python, Java, and Ruby, and knowledge of database querying languages like SQL. You also need to have an understanding of front-end and back-end development, networking, and data storage principles.
+
+User: Interesting. Apart from the technical skills, what attributes do I need to have to be competent in cloud computing?
+
+Tim: Great question. You need to be able to think critically, analyze data, and solve complex problems. You also need to have good communication and teamwork skills to collaborate with team members and clients. Additionally, a willingness to learn constantly and stay up to date with the latest trends in cloud computing is critical.
+
+User: Thanks for the insight, Tim. What practices should I adopt to ensure I excel at cloud computing?
+
+Tim: I recommend you to practice creating cloud computing solutions and projects on your own like creating scalable applications or replicating existing applications. Join online forums, attend workshops and meetups where professionals share their knowledge, and best practices. Also, you can get certifications like AWS, GCP, or Azure, which will showcase your proficiency in the field.
+
+User: That's great. Do you have any recommended readings on cloud computing?
+
+Tim: Yes, there are several excellent academic texts and articles on cloud computing concepts and principles. One such book is “Cloud Computing: Principles and Paradigms” by Rajkumar Buyya, James Broberg, and Andrzej Goscinski. Another recommended read is “Cloud Computing and its Emerging Trends” by Geetha Manjunatha and K. Chandrashekara. Articles in the Journal of Cloud Computing and the website of IEEE Computer Society are valuable resources too.
+
+User: Thank you so much for the guidance, Tim. This is all helpful.
+
+Tim: You're welcome, keep exploring the cloud computing industry, and keep being curious!

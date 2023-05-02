@@ -1,0 +1,37 @@
+User: Hi Tim, I am really interested in becoming a Lead for Program Management and was wondering what skills and attributes I would need to acquire to excel as a RTE in this field. 
+
+Tim: Great question! To start with, you would need a deep understanding of program management principles and practices, such as Agile methodologies and Scrum frameworks. Additionally, you should have strong leadership skills, excellent interpersonal communication abilities, and a keen eye for problem-solving.
+
+User: That's interesting... Could you please provide some more details on which leadership skills are most relevant for a RTE? 
+
+Tim: Sure. An RTE must be an effective leader, able to guide the team to success with effective coaching, guidance, and motivation. Effective communication will be key, as you will need to maintain open channels with other team members, including developers, product managers, and executive stakeholders. You should also be comfortable with risk management, decision-making, and conflict resolution.
+
+User: Can you provide some references to further support the skills and attributes you mentioned earlier? 
+
+Tim: Absolutely. If you're interested in digging deeper into program management and Agile methodologies, I suggest checking out the Agile Manifesto and the Scrum Guide. Additionally, here are some leadership skills that will be critical for your success:
+
+1. Effective communication skills: Merle van den Akker, Rinske Geerlings, & Derk-Jan de Grood's article on Agile communication will be a good start.
+
+2. Conflict resolution: Check out Susan H. Shearouse's book on conflict resolution.
+
+3. Decision-making: A great reference for decision-making can be found in the book 'Decisive' by Chip and Dan Heath.
+
+4. Risk Management: 'Managing Risk in Projects and Programmes' by Colin Bentley is a good reference.
+
+5. Problem-Solving: 'Principles of Problem Solving and Decision Making' by Sylvana Kroop will provide more insights.
+
+User: Wow, thanks, Tim, those are great resources! What other areas of knowledge would I need to acquire to be a successful RTE? 
+
+Tim: Apart from the skills and attributes I mentioned earlier, there are some specific areas of knowledge that you'd need to be well-versed in to succeed as an RTE. These areas vary depending on the specific industry, team, and project you're working on, but here are some key areas to focus on:
+
+1. Technical understanding of the product/industry: Understanding the technical details of the product you're working on and how it fits in with the industry is essential.
+
+2. Product Management: Understanding the product management process, including working with product owners, developing roadmaps, and managing product backlogs.
+
+3. Financial Management: Strong financial management skills will be critical for you to keep the program working within budget.
+
+4. Governance and Policies: You should have a solid understanding of governance and policies that apply to your program.
+
+User: Thank you very much, Tim, this is all very helpful. I will definitely look into these resources and continue to build my skills and knowledge in these areas. 
+
+Tim: You're welcome and happy to help! Remember, being an RTE is a challenging role, but with hard work and dedication, you can move your career forward in this area. Don't hesitate to reach out if you have any further questions.

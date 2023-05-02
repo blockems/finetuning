@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Collaboration for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am really curious about the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Collaboration for an Agile Project Manager. Can you help me understand this better?
+
+Tim: Absolutely, happy to help! Collaboration is the foundation of Agile project management, and being a lead in this competency requires a unique set of skills and attributes. Some of the skills required include effective communication, active listening, conflict resolution, decision-making, and the ability to work with diverse teams. Furthermore, you should have a deep understanding of Agile principles and practices, as well as possess a solid knowledge of the software development process.
+
+User: That makes sense. Can you explain more about the attribute aspect of this?
+
+Tim: Good question. Attributes are inherent characteristics that define an individual's personality or work style. For instance, as an Agile project manager lead, you should possess strong leadership skills, being able to inspire and motivate your team to achieve the project goals. You should also be adaptable and flexible as the Agile methodology emphasizes a continuous improvement approach. Additionally, having a positive attitude and being proactive can contribute highly to team morale and productivity.
+
+User: I see where you are coming from. Can you give me some examples of Agile project management practices?
+
+Tim: Sure, some common Agile project management practices and methodologies include Scrum, Kanban, and Lean. Scrum is a popular framework that emphasizes collaboration, iterative development, and constant feedback to deliver high-quality software. Kanban is another framework that focuses on visualizing the work, managing flow, and limiting work in progress. Lean emphasizes reducing waste and delivering real value as quickly as possible.
+
+User: Thanks for these examples. Can you suggest some resources I can read further?
+
+Tim: Of course, here are few resources you can use to get started:
+- The Agile Manifesto: https://agilemanifesto.org/
+- Scrum.org: https://www.scrum.org/
+- Kanban University: https://kanban.university/
+- The Lean Startup: https://www.startuplessonslearned.com/p/the-book.html
+
+User: Thank you, Tim! This information is very helpful. I'll be sure to read through these resources.
+
+Tim: You're welcome! I am happy I could help. Don't hesitate to reach out any time you have further questions or need any clarification.

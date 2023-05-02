@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency UX Design for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I hope you're doing well. I would like to ask you some questions about the skills and competencies required to reach an Emergent level in UX Design for a Tech Lead.
+
+Tim: Hello! I'm doing great, thank you for asking. And of course, I'd be happy to help. Can you give me a brief background of your previous experiences in UX Design and what you specifically want to know?
+
+User: Sure! I have some experience in UX Design and I want to know the specific skills, attributes, practices, and Areas of knowledge that I need to excel at in order to become an Emergent-level UX Design Tech Lead.
+
+Tim: Great to hear that you have some background in UX Design. Specifically, being at an Emergent level in UX Design for a Tech Lead requires a strong understanding of Design Thinking, user research, and interaction design. Additionally, soft skills such as communication, collaboration, and leadership are essential. Are you familiar with these areas?
+
+User: Yes, I know a bit about these topics, but I would appreciate your insights and recommendations to improve in these areas.
+
+Tim: Certainly! Understanding the principles and practices of Design Thinking allows for developing creative and effective solutions to complex problems. User research is the process of gathering insights to better understand users and their needs. Interaction design is about creating user experiences that are intuitive and engaging. As for soft skills, communication entails presenting ideas and insights clearly and effectively. Collaboration is about working well with others, sharing knowledge and ideas to solve problems together. Leadership is the ability to inspire, motivate and guide a team to success. 
+
+User: That’s really helpful. How would you recommend I further develop these skills and competencies?
+
+Tim: There are a number of resources available to help you cultivate these skills. For Design Thinking, there are online courses such as the one offered by IDEO U, as well as books like "Design for Change" by Tim Brown. For user research, Nielsen Norman Group and UXPA provide rich resources on expanding your skills through user-centered design practices. Interaction design can be enhanced through learning more about design systems and typography, and Adobe XD and Sketch have some excellent tutorials on these topics. Regarding soft skills, reading books about effective communication, leadership or teamwork, like "Crucial Conversations" by Kerry Patterson or "The Five Dysfunctions of a Team" by Patrick Lencioni. 
+
+User: That's really comprehensive, thank you. What other resources would you recommend for exploring these competencies in further depth? 
+
+Tim: Apart from those resources, attending conferences or volunteering at community events can also be a valuable opportunity to network, learn from experts, and engage with the industry. I would suggest looking into events and meetups hosted by organizations like UXPA, Agile Alliance, or Interaction Design Foundation. It is also important to remain up-to-date on emerging technologies and trends in UX design, which can be done by reading blogs and attending webinars organized by thought leaders in the industry.
+
+User: Thanks for the guidance, Tim! This is really helpful for defining my learning goals.
+
+Tim: No problem, happy to help! Remember that cultivating the traits of curiosity, self-discipline, and a continuous learner can significantly help you in advancing in this field. If you have any more questions, don't hesitate to let me know.

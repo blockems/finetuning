@@ -1,0 +1,39 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming an Emergent level Data Scientist as a SAFe Lean Portfolio Manager (LPM). What skills should I focus on?
+
+Tim: Hi there. Glad to hear you are interested in data science. To become an Emergent level Data Scientist, you need to have a strong foundation in statistics, programming, and machine learning. Additionally, skills such as data visualization, data wrangling, and communication are also important. 
+
+User: Can you elaborate on these skills and provide reference material to study further?
+
+Tim: Sure, let's start with statistics. Understanding the fundamental concepts of statistics is essential for data scientists. This includes probability theory, statistical inference, hypothesis testing, and regression modeling. I recommend reading "An Introduction to Statistical Learning" by James et al. as a good starting point.
+
+For programming, you should focus on learning a statistical programming language such as Python or R, as well as being proficient in SQL for data manipulation. "Python for Data Analysis" by Wes McKinney and "R for Data Science" by Hadley Wickham are excellent references for learning these skills.
+
+For machine learning, understanding algorithms such as decision trees, random forests, and neural networks is critical. "The Elements of Statistical Learning" by Hastie et al. and "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Géron are both great resources for learning these concepts.
+
+Lastly, data visualization is important for communicating findings to stakeholders. "The Visual Display of Quantitative Information" by Edward Tufte is a classic reference for this topic.
+
+User: Thank you for the references, Tim. Can you tell me more about the attributes and practices Data Scientists should have to be successful?
+
+Tim: Of course. At the Emergent level, Data Scientists should have a curious and analytical mindset to explore data and find insights. They should also have good problem-solving skills and the ability to work in cross-functional teams.
+
+As for practices, it's important to develop a systematic approach to understanding business problems and translating them into data problems. This involves developing a deep understanding of the business domain, as well as skills in Agile methodologies such as Scrum and Kanban to manage data science projects effectively.
+
+User: Thank you for your detailed response, Tim. Can you also recommend any areas of knowledge Data Scientists should be familiar with?
+
+Tim: Yes, Data Scientists should have a deep understanding of database management systems, cloud computing, and software engineering practices for building scalable data pipelines. They should also be familiar with domain-specific knowledge in fields such as finance, healthcare, or retail to apply data science in real-world contexts.
+
+"Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems" by Kleppmann is an excellent reference for learning about database management systems and software engineering practices. For cloud computing, I recommend learning about AWS offerings such as S3, EC2, and EMR. Finally, for domain-specific knowledge, I recommend reading articles and papers written by experts in those fields.
+
+User: Thank you for your time and knowledge, Tim. I'm excited to start learning more about data science and working towards becoming an Emergent level Data Scientist as a SAFe LPM.
+
+Tim: It's my pleasure to help, good luck on your journey! Remember to keep asking questions and stay curious.

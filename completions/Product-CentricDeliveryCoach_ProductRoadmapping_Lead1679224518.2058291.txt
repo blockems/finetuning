@@ -1,0 +1,29 @@
+User: Hi Tim, I'm interested in learning more about the skills, attributes, practices and areas of knowledge needed to be a Lead for the competency Product Roadmapping for a Product-Centric Delivery Coach.
+
+Tim: Hi there! That's a great question, and certainly one that requires a lot of knowledge in the world of product management. The first thing that comes to mind is having a strong background in product strategy and understanding product-market fit.
+
+User: Can you expand on that a bit more? What do you mean by product-market fit?
+
+Tim: Definitely. Product-market fit refers to the alignment between a company's product and the target market's demand for it. It's important for a Product Roadmapping Lead to understand the market, the competition, the customer, and how a company's product fits into all of that.
+
+User: Ok, that makes sense. What other skills and attributes should a Lead for this competency have?
+
+Tim: Another important skill is the ability to communicate clearly and effectively, both with teammates and stakeholders. This includes being able to present a product roadmap in a concise and engaging way. Additionally, a strong sense of leadership is important, as well as the ability to motivate and inspire a team.
+
+User: And what about practices or techniques? What should a Lead be familiar with?
+
+Tim: It would be beneficial to have experience with Agile methodologies, as product roadmapping is often done in an Agile context. Understanding how to prioritize features and set goals using Agile techniques like story mapping and sprint planning is crucial. It's also important to have an understanding of user experience design principles and how they relate to product development.
+
+User: Thank you, all of this is very helpful. Are there any areas of knowledge that a Lead for this competency should focus on?
+
+Tim: One important area of knowledge is the business model canvas, and how to use it to create and refine a product roadmap. Additionally, understanding data analysis and metrics tracking is essential for tracking the success of a product roadmap over time. Finally, knowledge of product development processes and tools, such as JIRA and Trello, can also be beneficial.
+
+User: That's a lot to take in, but definitely gives me a good idea of what skills and knowledge are needed for this role. Can you recommend any specific resources for further study?
+
+Tim: Sure, here are a few resources to get started:
+
+- "Inspired: How to Create Tech Products Customers Love" by Marty Cagan
+- "Product Roadmaps Relaunched: How to Set Direction While Embracing Uncertainty" by C. Todd Lombardo, Bruce McCarthy, Evan Ryan, and Michael Connors
+- "Lean Analytics: Use Data to Build a Better Startup Faster" by Alistair Croll and Benjamin Yoskovitz
+
+I hope this helps, and please let me know if you have any other questions!

@@ -1,0 +1,41 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The Agile Methodology is one of the most popular ways of project management used in software development. An Agile Project Manager must have a vast knowledge of Agile methodologies and practices to execute successful projects. In this discussion, we will debate the skills, practices and Areas of knowledge required to reach the expert level for Agile methodologies.
+
+Skills Required for Expertise in Agile Methodologies:
+1. Communication Skills: Agile methodology heavily relies on collaboration and communication. The Agile Project Manager must be an excellent communicator and should create an environment where there is effective communication between the project team and stakeholders.
+
+2. Leadership Skills: Being able to identify and resolve conflicts within your team, understanding the strengths and weaknesses of your team members and building a motivated team is part of the Agile Project Manager's job. Therefore, the project manager should have exceptional leadership skills.
+
+3. Technical Skills: A sound understanding of software development principles and methodologies is essential for the Agile Project Manager. The project manager should be able to understand and challenge the technical aspects of the project, ensuring that everything is in line with the project's requirements, roadmap, and architectural direction.
+
+4. Planning and Scheduling: Agile Project Managers must be able to create dynamic and achievable plans that meet the project's requirements. They must also be able to monitor and control the plan throughout the project lifecycle, making necessary changes as required.
+
+5. Risk Management: In Agile, risk is an integral part of project management. Project Managers must have exceptional risk management skills and be able to identify potential issues and risks proactively.
+
+Practices Required for Expertise in Agile Methodologies
+
+1. Agile Frameworks: A good understanding of Agile methodologies such as Scrum or Kanban is crucial for the Project Manager. Having expertise in implementing these frameworks in delivering projects can be a significant advantage.
+
+2. Continuous Improvement: Agile methodologies promote continuous improvement, which means that the project manager should also be continuously improving to enhance the team's performance.
+
+3. Agile Principles: The project manager should have a comprehensive knowledge of the Agile manifesto and principles on which it is based. This knowledge will help the manager to make better decisions and guide the team through the project life cycle.
+
+4. Agile Metrics: Using Agile metrics such as Velocity, Burn Down Charts or Cumulative Flow Diagrams is key to Agile project management. Agile Project Managers should master these metrics and use them to track progress, keep stakeholders informed and ensure the team stays on-track.
+
+Areas of Knowledge Required for Expertise in Agile Methodologies:
+
+1. Agile Requirements Gathering: Gathering requirements in an Agile environment can be challenging. Agile Project Managers should have expertise in processes such as user stories, acceptance criteria, prototyping and testing to help them gather the right requirements from stakeholders.
+
+2. Agile Estimation and Planning: Estimation and planning of Agile projects can be difficult, but expert Agile Project Managers should have a plethora of techniques to call upon. These techniques include, but are not limited to, relative estimation, story points, and weighted shortest job first.
+
+3. Agile Testing: Testing in Agile is a continuous activity during the project life cycle. The Agile Project Manager should have expert knowledge of testing methodologies such as Automation testing, Unit Testing, Integration Testing and Acceptance Testing.
+
+4. Agile Project Management Tools: To be an expert in Agile Project Management, knowledge of Agile Project Management tools such as JIRA, Trello, Rally, or VersionOne is essential. Expert Agile Project Managers know which tools to use and how best to use them to achieve success.
+
+Conclusion:
+In conclusion, to be an expert in Agile methodologies, the Agile Project Manager should possess a combination of the skills, practices, and Areas of knowledge as outlined in this discussion. Continuous improvement, learning from others, and seeking out guidance from Agile thought leaders, are also important ways to progress towards expert level in Agile Project Management.

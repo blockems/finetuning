@@ -1,0 +1,25 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management requires a unique set of skills, practices, and areas of knowledge for strategic planning. The lead for strategic planning competency should have a thorough understanding of the agile methodology, as well as the nuances of the organization they are working in.
+
+Skills:
+1. Strategic thinking and decision-making skills: The lead for strategic planning competency must be able to think critically and make informed decisions that align with the project's objectives and goals.
+2. Communication and collaboration skills: The lead must also have excellent communication and collaboration skills to ensure everyone on the team is on the same page.
+
+Practices:
+1. Agile planning and estimation: The lead must be able to conduct thorough agile planning and estimation to ensure that the project is headed in the right direction and stays on budget.
+2. Risk management: The lead must have a solid understanding of agile risk management and be able to anticipate and manage risks before they occur.
+
+Areas of knowledge:
+1. Product vision: The lead must have a clear understanding of the product vision and be able to communicate it to the team to keep everyone focused on the same goals.
+2. Agile methodology: The lead must have a deep understanding of the agile methodology, including principles, practices, and tools.
+3. Industry knowledge: The lead must be familiar with the industry they’re operating in and the factors that may impact the project's success.
+
+References:
+1. Agile Project Management: Creating Innovative Products, Jim Highsmith, Addison-Wesley Professional, 2009.
+2. Agile Estimating and Planning, Mike Cohn, Prentice Hall, 2005.
+3. The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, Eric Ries, Crown Business, 2011.

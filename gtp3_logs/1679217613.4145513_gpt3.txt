@@ -1,0 +1,37 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching and program management experts need to have a strong understanding of Continuous Improvement (CI) practices, particularly in the context of Continuous Integration and Continuous Delivery (CI/CD) leads. To become a competent CI/CD lead, professionals must exhibit a combination of practice, knowledge, and skill.
+
+Skills: 
+
+A CI/CD lead must have excellent communication skills to be able to communicate effectively with all stakeholders involved in the development process. They should be able to articulate the benefits of CI/CD and manage change in the organization.
+
+Leadership and collaboration skills are crucial. As a CI/CD lead, they will be managing cross-functional teams and must be able to build strong relationships with Product Owners, Developers, and Testers to establish a culture of continuous improvement.
+
+Problem-solving and analytical skills are also essential. The lead must identify problems and come up with solutions relevant to the organization.
+
+Knowledge: 
+
+CI/CD leads should be familiar with the principles of Agile and Lean methodologies. They should also have knowledge of various tools and frameworks, such as Jenkins, Git, Docker, and Kubernetes, which are essential for creating and maintaining a CI/CD pipeline.
+
+Having an understanding of system design and architecture can help the lead improve the process and enhance the efficiency of the pipeline.
+
+Areas of Knowledge: 
+
+CI/CD leads need to have a deep understanding of Continuous Integration, Continuous Delivery, and Continuous Deployment concepts.
+
+They should also understand the benefits of DevOps culture, which can help bridge the gap between development and operations teams and enhance collaboration and efficiency.
+
+They should also have knowledge of software development life cycles that include software testing, deployment, and management.
+
+References:
+
+One of the most comprehensive reference materials on CI/CD is the book, "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley. 
+
+The Agile Alliance and scrum.org websites also provide in-depth knowledge and resources on Agile methodologies, including CI/CD. 
+
+Additionally, the DevOps Institute provides certifications and training on DevOps, which includes an understanding of CI/CD principles and practices.

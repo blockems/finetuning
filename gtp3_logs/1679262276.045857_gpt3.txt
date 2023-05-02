@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency API Development and Integration for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming competent in API Development and Integration as a Technical Business Analyst. What skills, attributes, practices and areas of knowledge do I need to be at the level of Emergent?
+
+Tim: Hi there! Great to hear that you're interested in becoming competent in API Development and Integration. To be at the Emergent level, you'll need a combination of technical knowledge, analytical skills, and soft skills.
+
+User: Could you go into more detail, please?
+
+Tim: Sure thing! For technical knowledge, you'll need to have an understanding of APIs, including RESTful APIs, SOAP APIs, and JSON APIs. You should also have experience working with API documentation, API security, and using tools like Postman, Swagger, and SoapUI.
+
+Analytical skills are also important, such as being able to identify problems and potential solutions, as well as using critical thinking to assess the effectiveness of different API strategies. Soft skills like communication, teamwork, and problem-solving will also come in handy when communicating and collaborating with development teams.
+
+User: What about areas of knowledge?
+
+Tim: You'll need knowledge of different programming languages like Java, Python, and PHP, as well as knowledge of different operating systems like Windows, Linux, and Mac OS. Understanding of web services, servers, and database technologies like MySQL and MongoDB is also necessary.
+
+User: Are there any specific practices I can follow to improve my competency in API Development and Integration?
+
+Tim: Definitely! Practicing with real-world APIs and developing your own APIs are both great ways to improve your competency. Familiarizing yourself with design patterns like REST and experience with automated testing and deployment tools like Jenkins and Travis CI will also make a difference.
+
+User: Thank you for the comprehensive answer, Tim. Could you direct me to any supporting references on this topic?
+
+Tim: Absolutely! There are many resources available online to help you develop your API skills. Here are a few to get you started:
+
+- "API Design for C# Developers" by Keith Dahlby
+- "RESTful Web APIs" by Leonard Richardson
+- "Web API Design: Crafting Interfaces that Developers Love" by Brian Mulloy
+
+Hopefully these resources will help you on your journey to becoming an Emergent level API Development and Integration Technical Business Analyst!

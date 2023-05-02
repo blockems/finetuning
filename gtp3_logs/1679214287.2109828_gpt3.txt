@@ -1,0 +1,26 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Building for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile methodology is a collaborative approach to software development that emphasizes teamwork, customer satisfaction, and rapid delivery of small, working features. As a result, an Agile Delivery Manager must possess a range of skills to ensure success, including the ability to build effective teams. In this conversation, we will discuss the skills, practices, and areas of knowledge required to be competent in team building for an Agile Delivery Manager.
+
+Skills:
+The Agile Delivery Manager must possess a range of skills to build effective teams, including communication, collaboration, coaching, conflict resolution, and leadership. Effective communication is vital to ensure that all team members share a common understanding of the project and its goals. Collaboration across different departments and individuals is important to ensure that the team is aligned on what needs to be done.
+
+Coaching is important to ensure that team members feel empowered and supported to achieve their goals. Conflict resolution skills are essential to manage differences in opinions and perspectives that may arise. Effective leadership ensures that the team can work autonomously while also being aligned with the project’s overall goals and objectives.
+
+Practices:
+Agile Delivery Managers should implement specific practices to build effective teams. These practices include setting goals and objectives, using performance metrics to measure success, celebrating successes and learnings, and regular communication. Setting goals and objectives ensures that all team members are aligned on what success looks like for the project.
+
+Measuring performance metrics allows the team to track progress and identify areas for improvement. Celebrating successes and learnings creates a positive environment where team members feel valued and engaged. Regular communication allows for transparency, alignment, and collaboration across the project.
+
+Areas of Knowledge:
+Agile Delivery Managers need to have a sound understanding of Agile methodology, team dynamics, and motivation. Understanding Agile methodology ensures that the team is utilizing best practices and aligning with the Agile principles. Understanding team dynamics and motivation helps the Agile Delivery Manager to effectively build and motivate teams.
+
+References:
+- Agile Alliance. (2020). "Agile Manifesto."
+- Project Management Institute. (2017). "A Guide to the Project Management Body of Knowledge (PMBOK® Guide) - Sixth Edition."
+
+In conclusion, Agile Delivery Managers must possess a range of skills, implement specific practices, and have knowledge of Agile methodology, team dynamics, and motivation to ensure effective team building. By doing so, the Agile Delivery Manager can ensure that the team is aligned with the project's goals and deliver value for the customer.

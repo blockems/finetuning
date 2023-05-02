@@ -1,0 +1,15 @@
+User: Hi Tim, I'm curious about the skills, attributes, practices and areas of knowledge needed to be at the level of Emergent for the competency Lean-Agile Leadership for an Agile Delivery Manager. Can you give me some insights?
+
+Tim: Of course! To begin, an Agile Delivery Manager with the Emergent level of Lean-Agile Leadership competency should possess a deep understanding of agile principles and practices, as well as a strong ability to lead and collaborate with cross-functional teams.
+
+User: That makes sense, but what specific skills and attributes do they need to foster this understanding and ability to collaborate effectively?
+
+Tim: Great question. An Agile Delivery Manager with Emergent-level competency should have strong communication and conflict management skills, as well as the ability to coach and mentor team members to facilitate their growth in agile methodology. They also need to be able to quickly adapt to change, and have a flexible mindset.
+
+User: That's helpful! What about practices and areas of knowledge? Can you give me examples of each that would be relevant for an Agile Delivery Manager with Emergent-level Lean-Agile Leadership competency?
+
+Tim: Sure! Practices could include continuous improvement, lean thinking, iterative development, and value stream mapping, among others. Areas of knowledge could involve agile mindset, agile practices, product development, and customer centricity. These are all critical for an Agile Delivery Manager to ensure they can support and enable agile practices within their team and organization.
+
+User: That's a comprehensive answer! Can you suggest any reference materials or sources to learn more about these skills, attributes, practices, and areas of knowledge?
+
+Tim: Absolutely! Here are some key resources to explore: for skills and attributes, I recommend Harvard Business Review's articles on effective communication and conflict resolution; for practices, consider exploring the Scaled Agile Framework's website and its resources on lean thinking and iterative development. For areas of knowledge, I highly recommend the book 'Agile Project Management with Scrum' by Ken Schwaber, as well as the Agile Alliance website for insights on customer centricity in agile.

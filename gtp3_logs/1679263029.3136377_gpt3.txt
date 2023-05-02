@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile and Scrum Methodologies for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm looking to become proficient in Agile and Scrum methodologies for my role as a Tech Lead. What skills and attributes do I need to be competent in this area?
+
+Tim: Hello! Great question. First off, you'll need to have strong leadership and communication skills to effectively lead your team through the agile process. 
+
+User: That makes sense. How about technical skills? Do I need to be proficient in coding?
+
+Tim: It definitely helps to have a strong technical background, but it's not a requirement. As a Tech Lead, you'll need to have a solid understanding of software development principles, and to be able to collaborate with your team to prioritize and deliver high-quality products.
+
+User: Thanks, Tim. Can you recommend any resources that can help me develop these skills?
+
+Tim: Absolutely. For technical skills, I recommend starting with "Clean Code: A Handbook of Agile Software Craftsmanship" by Robert C. Martin. For leadership and communication skills, I recommend "Crucial Conversations: Tools for Talking When Stakes are High" by Kerry Patterson and Joseph Grenny.
+
+User: Thanks for the recommendations. Can you give me some examples of the practices and frameworks associated with Agile and Scrum methodologies?
+
+Tim: Sure thing. Agile methodology is focused on delivering working software quickly, through iterative development cycles. Scrum is a popular framework for implementing agile, and involves practices such as daily stand-up meetings, sprint planning, and retrospectives.
+
+User: Thanks for the explanation. What about areas of knowledge that I need to be competent in?
+
+Tim: Good question. In addition to technical skills and agile principles, you'll need to have a strong understanding of project management and team dynamics. It's also important to have a good working knowledge of the specific technology stack your team is using.
+
+User: Thanks for your thorough response, Tim. I feel more confident moving forward with my goal to become proficient in Agile and Scrum methodologies.
+
+Tim: You're welcome! Remember to embrace your curiosity and ask lots of questions. There's always room to learn and grow in this field.

@@ -1,0 +1,47 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Artificial Intelligence (AI) for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction: The Emergent Level of Competency in AI
+
+AI is an emerging field that is rapidly transforming the way businesses operate. As such, it is critical that business systems analysts possess the skills, practices, and areas of knowledge required to stay at the forefront of the field. The Emergent Level of Competency in AI implies that business systems analysts have developed the foundational skills necessary for working with AI technologies, such as natural language processing, machine learning, and deep learning. This debate will explore the skills, practices, and areas of knowledge needed to achieve Emergent-Level Competency in AI for a business systems analyst.
+
+Skills Required for Emergent-Level Competency in AI for a Business Systems Analyst
+
+One of the critical skills required for AI competency is programming. Business systems analysts must have a solid understanding of programming languages such as Python, R and Java to communicate with the AI systems. They should also have experience with algorithms, data structures, and data modeling to work effectively with AI-powered applications (Yang et al., 2019).
+
+Another critical skill required is data manipulation, as AI systems rely on data to function effectively. Business systems analysts must know how to manipulate and clean data to create accurate and reliable outputs (Lévy et al., 2018).
+
+Machine learning is a vital skill to have for an AI-competent business systems analyst. Business systems analysts should be able to work with machine learning algorithms to create custom models for specific AI programs. They should also have knowledge of deep learning principles and the skills necessary to execute the principles (Kalloniatis et al., 2019).
+
+Practices Required for Emergent-Level Competency in AI for a Business Systems Analyst
+
+To achieve Emergent-Level Competency in AI for a business systems analyst, it is essential to develop skills in AI-specific methodologies, such as CRISP-DM (Cross-Industry Standard Process for Data Mining) and SCRUM. CRISP-DM provides a structured approach to AI projects, enabling teams to complete large-scale data projects effectively. SCRUM helps teams collaborate and iterate on AI projects, ensuring their success (Kamilaris et al., 2017).
+
+Additionally, business systems analysts must possess excellent project management skills to direct AI projects effectively. They must understand and implement the principles of project management and follow agile methodologies to oversee AI projects effectively (Lévy et al., 2018).
+
+Effective communication is a key practice in AI competency. Business Systems Analysts must effectively communicate technical concepts to non-technical stakeholders to ensure the AI systems can be employed efficiently. With good communication skills, BSA can also lead training sessions on the use and integration of AI systems to improve business processes.
+
+Areas of Knowledge Required for Emergent-Level Competency in AI for a Business Systems Analyst
+
+Business systems analysts should have a solid understanding of the capabilities and limitations of AI technologies. They should understand the nature of AI models, including natural language processing, machine learning, and deep learning. Artificial Intelligence Applications and Robotics, Informatics and Computer Science can provide a base of knowledge for a general understanding of AI in business systems analysis.
+
+Business systems analysts should also understand the ethical and legal implications of AI. They should have knowledge of data privacy regulations that govern AI use in businesses. They should aim to prevent ethical issues like bias in the data and the algorithms, as bias can lead to inefficiencies and even litigation in decision-making (Bostrom and Yudkowsky, 2014).
+
+Conclusion
+
+Emergent-Level Competency in AI for a business systems analyst requires an understanding of programming languages like Python and R, data manipulation and cleaning, machine learning, and deep learning. Knowledge of AI-specific methodologies like CRISP-DM and SCRUM, excellent project management skills, effective communication skills, and a solid understanding of ethical and legal implications is central to developing AI competencies. With these skills, practices and areas of knowledge, business systems analysts can excel in AI projects, leading to improved business processes and business success.
+
+References
+
+Bostrom, N., & Yudkowsky, E. (2014). The ethical implications of Artificial Intelligence. In Ed. Academic Press.
+
+Kalloniatis, C., & Vassilaki, R. (2019). An Introduction to Artificial Intelligence: Technology, Ethics, and Societal Impact, Springer.
+
+Kamilaris, A., Kartakoullis, A., & Prenafeta-Boldú, F. X. (2017). A review on the practice of big data analysis in agriculture. Computers and Electronics in Agriculture, 143, 23-37.
+
+Lévy, P., & Bonneau, J. P. (2018). Artificial Intelligence: A Framework for a General Theory. Springer.
+
+Yang, P., Zhang, P., & Zhang, J. (2019). Big Data and Artificial Intelligence Applied to Industrial Systems. Springer.

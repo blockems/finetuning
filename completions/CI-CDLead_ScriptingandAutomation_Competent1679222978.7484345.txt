@@ -1,0 +1,38 @@
+User: Hi Tim, I'm interested in becoming a CI/CD Lead. Can you tell me what skills, attributes, practices and areas of knowledge I need to be competent in Scripting and Automation? 
+
+Tim: Hello! Great to hear that you are interested in becoming a CI/CD Lead. For Scripting and Automation, some of the key skills you'll need are proficiency in at least one scripting language like Python, Bash, Ruby or Perl. Additionally, you should have experience in working with automation tools like Ansible, Puppet, Chef or Saltstack. It would also be helpful to have some experience with cloud infrastructure tools such as AWS, Azure or GCP.
+
+User: Thanks Tim. Would you recommend any specific resources for learning these skills?
+
+Tim: Absolutely. Here are some resources that I would recommend:
+- Python: "Python for Everybody" by Dr. Charles Severance 
+- Bash: "The Linux Command Line" by William E. Shotts Jr. 
+- Ansible: "Ansible for DevOps" by Jeff Geerling 
+- Puppet: "Learning Puppet" by Alessandro Franceschi 
+- AWS: "AWS Certified Solutions Architect Official Study Guide" by Joe Baron 
+
+User: What attributes do I need to succeed in this role?
+
+Tim: Besides the technical skills, you'll also need strong communication skills as you'll be working closely with different teams including developers, operations and QA. Being detail-oriented is crucial as well, as even small mistakes in automation scripts can lead to major issues. Flexibility and adaptability will come in handy in a dynamic and changing environment.
+
+User: Good point, Tim. How about best practices?
+
+Tim: Good question! Here are some key best practices for Scripting and Automation in CI/CD:
+- Keep the automation code separate from the application code
+- Avoid hard-coding values and use variables instead
+- Write clear and concise documentation
+- Test and validate the automation code before deploying it
+- Use source control for versioning the automation code
+
+User: Thank you, Tim. Can you tell me more about the areas of knowledge needed for Scripting and Automation?
+
+Tim: Of course. Key areas of knowledge include:
+- Operating systems (e.g. Linux, Unix, Windows)
+- Network protocols and networking concepts
+- Secure coding practices (e.g. avoiding code injection and cross-site scripting)
+- Common automation design patterns and anti-patterns
+- Continuous Integration and Continuous Delivery concepts and tools
+
+User: Thank you for the insight and resources, Tim. They are very helpful!
+
+Tim: No problem, happy to help! Keep the curiosity alive and happy learning!

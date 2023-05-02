@@ -1,0 +1,39 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Agile Scaling Frameworks for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Scaling Frameworks have become increasingly important in today's fast-paced and complex business environment. A competent Agile Project Manager must possess a range of skills, practices, and areas of knowledge to be at the level of Emergent. These skills, practices, and areas of knowledge are essential for successful implementation of Agile Scaling Frameworks. 
+
+Skills:
+
+1. Team Building and Collaboration - In Agile Scaling Frameworks, teams play a crucial role in delivering the project. A competent Agile Project Manager must have exceptional team-building skills and the ability to foster collaboration among team members from different locations and backgrounds. 
+
+2. Effective Communication - Communication is the key to success in Agile Scaling Frameworks. Agile Project Manager must have excellent communication skills to keep the team informed about project updates, impediments, and changes. 
+
+3. Adaptability and Flexibility - Agile Scaling Frameworks require adaptive and flexible approaches to deal with changes in project requirements, market, and customer needs. Agile Project Manager must have the ability to adapt to changing circumstances and be flexible in their approach to deliver the project on time. 
+
+4. Leadership - A competent Agile Project Manager must have exceptional leadership skills to inspire and motivate the team to achieve project goals. They must have the ability to lead by example and provide guidance to the team through difficult times. 
+
+Practices:
+
+1. Iterative and Incremental Development - Agile Scaling Frameworks rely heavily on iterative and incremental development practices. Agile Project Manager must ensure that the team follows these practices to deliver the project in an incremental and iterative manner. 
+
+2. Continuous Planning and Feedback - Agile Scaling Frameworks require continuous planning and feedback to keep the project on track. Agile Project Manager must ensure that the team reviews progress regularly and makes adaptations as necessary. 
+
+3. Continuous Integration and Deployment - Continuous integration and deployment practices are essential in Agile Scaling Frameworks. Agile Project Manager must ensure that the team integrates and deploys code frequently and comprehensively.
+
+Areas of Knowledge:
+
+1. Agile Principles and Values - A competent Agile Project Manager must have a sound understanding of Agile Principles and Values. They must understand how Agile Scaling Frameworks are driven by Agile Principles and Values and be able to apply them in project management. 
+
+2. Scaling Approaches and Techniques - There are various scaling approaches and techniques that Agile Project Manager can use to implement Agile Scaling Frameworks. They must have a deep understanding of these and their application in different contexts. 
+
+3. Project Management - A competent Agile Project Manager must have a good understanding of project management principles, methodologies, and tools. They must have the ability to apply project management best practices in Agile Scaling Frameworks. 
+
+References:
+
+1. Agile Project Management Handbook. DSDM Consortium. (2016). 
+2. Scaling Agile @ Spotify. Henrik Kniberg. (2014).
+3. Agile Scaling Frameworks: A Systematic Review. Emilia Mendes et al. (2018).

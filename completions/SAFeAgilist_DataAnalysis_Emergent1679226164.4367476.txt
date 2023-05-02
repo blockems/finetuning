@@ -1,0 +1,25 @@
+User: Hi Tim, I am aspiring to be a SAFe Agilist and I want to know what skills, attributes, and areas of knowledge do I need to be competent in Data Analysis for the Emergent level?
+
+Tim: Hi! It's great that you are curious about your career progression. To be competent in Data Analysis, Emergent level, you need a strong foundation in data analysis, visualization tools, statistical methods, and data manipulation skills. You also need to be familiar with data modeling techniques and database structures. 
+
+User: Can you please elaborate on data analysis and visualization tools?
+
+Tim: Sure. Data analysis involves exploring, cleaning, transforming, and modeling data to discover meaningful insights. Tools such as Excel, Tableau, and Power BI are widely used for data analysis and visualization. Knowledge of programming languages such as Python and R will allow you to manipulate and analyze large data sets as well. 
+
+User: What statistical methods are commonly used in data analysis?
+
+Tim: There are many statistical methods used in data analysis, but some of the most common ones include hypothesis testing, regression analysis, correlation analysis, and time series analysis. These methods help in identifying trends, patterns, and relationships among different data points.
+
+User: How about data manipulation skills?
+
+Tim: Data manipulation involves transforming raw data into a usable format for analysis. Skills such as cleaning, filtering, selecting, and merging data sets are important for data manipulation. Knowledge of SQL queries and scripting languages such as Python and R can also be helpful for data manipulation.
+
+User: Can you recommend any references or texts that can further help me in developing these skills?
+
+Tim: Definitely. Some good reference materials are: 
+- "Data Science from Scratch: First Principles with Python" by Joel Grus
+- "Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython" by Wes McKinney
+- "The Art of Data Science: A Guide for Anyone Who Works with Data" by Roger D. Peng
+- "Data Analytics Made Accessible" by Anil Maheshwari
+
+I hope these recommendations help!

@@ -1,0 +1,15 @@
+User: Hi Tim, I’m interested in becoming an expert in Continuous Improvement for Product-Centric Delivery Coaching. What skills, attributes, and practices are needed to achieve this level?
+
+Tim: Hi there! Thanks for your interest in Continuous Improvement for Product-Centric Delivery Coaching. To become an expert, it is important to have a combination of technical and behavioral skills, and an understanding of Lean, Agile, and Scrum principles. Skills that are essential for this competency include process improvement, stakeholder management, and facilitation. Being detail-oriented, solution-focused, and a good communicator are also crucial attributes.
+ 
+User: Can you further elaborate on the practices that are important in this area of expertise?
+
+Tim: Absolutely. Continuous Improvement for Product-Centric Delivery Coaching requires a strong foundation in Lean, which can be applied to Agile and Scrum. Basic practices include optimizing the value of products, minimizing waste, and reducing cycle time. Effective techniques like Value Stream Mapping (VSM), Lean Six Sigma, and Kaizen can be used to identify areas for improvement, reduce time-to-market and increase customer satisfaction. Continuous Improvement is a team-based approach, which requires facilitation of brainstorming and problem-solving sessions, and agile retrospectives to capture what worked, what did not and areas for improvement.
+
+User: Thanks, that is very helpful. Are there any specific references you recommend to learn more about this topic?
+
+Tim: Definitely! A few recommended references include “Lean-Agile Pocket Guide for Scrum Teams” by Richard Knaster and Dean Leffingwell, “Agile Project Management with Scrum” by Ken Schwaber, and “The Toyota Way” by Jeffrey Liker. Additionally, there are some great resources and courses available online, such as Udemy and Pluralsight that offer in-depth training on Lean, Agile and Scrum. 
+
+User: Thank you so much, Tim. This has been informative and helpful. I’m excited to dive deeper into this area and become an expert in Continues Improvement for Product-Centric Delivery Coaching.
+
+Tim: That’s great to hear. Remember to always stay curious and keep learning!

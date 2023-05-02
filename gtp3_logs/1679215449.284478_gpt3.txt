@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Training and Development for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Project Management (APM) is a project management approach that focuses on delivering projects in incremental and iterative cycles, rather than the traditional waterfall approach. Agile Project Managers are responsible for leading and managing agile projects to ensure timely delivery of high-quality products that meet clients’ requirements. To become competent in the competency Training and Development for Agile Project Managers, it requires a range of skills, practices and areas of knowledge. 
+
+Skills:
+Agile Project Managers require a range of technical, interpersonal and leadership skills. One of the key skills needed is an understanding of agile methodologies including Scrum, Kanban, and Lean. APMs also require technical skills such as knowledge of software development, testing and quality assurance. Interpersonal skills such as effective communication, collaboration, and negotiation are also vitally important. 
+
+Practices:
+Agile Project Managers need to implement a variety of practices to ensure successful delivery of a project. One such approach is agile estimation, which involves breaking down the project requirements into smaller, manageable parts and estimating the time and resources required for each part. Agile Project Managers also use agile planning techniques like sprint planning, iteration reviews, and retrospectives. 
+
+Areas of knowledge:
+Agile Project Managers require knowledge in various areas including project management, risk management, and change management. They must be familiar with Agile frameworks, principles, and methodology, and the roles and responsibilities of the scrum team members. Knowledge of stakeholder management, budgeting, and resource management, are also essential to ensure successful delivery of the project. 
+
+Furthermore, Agile Project Managers must constantly be updating themselves with current trends and issues in Agile Project Management. They should attend conferences, read relevant literature, and search for best practices. This helps keep their knowledge up-to-date and enhances their ability to adapt to the highly dynamic project management environment.
+
+References:
+- Agile Alliance. (2016). Agile project management. Retrieved from https://www.agilealliance.org/agile101/agile-project-management/
+- Project Management Institute. (2017). Agile Practice Guide. Retrieved from https://www.pmi.org/pmbok-guide-standards/practice-guides/agile
+- Scrum.org. (2018). Agile Project Management: Roles and Responsibilities. Retrieved from https://www.scrum.org/resources/agile-project-management-roles-and-responsibilities.

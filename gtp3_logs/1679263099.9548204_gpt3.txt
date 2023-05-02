@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Artificial Intelligence (AI) for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming a Tech Lead in AI and I am currently working towards being at the Emergent level. What skills, attributes, practices and Areas of knowledge do I need to work on to reach that level?
+
+Tim: Hi there, that's great to hear that you are interested in AI and becoming a Tech Lead. There are several skills and areas of knowledge that are important for a Tech Lead in AI at the Emergent level. Some of these include programming skills in languages such as Python, R, and Java. Also, proficiency in machine learning and deep learning algorithms, along with data engineering skills, are very important. Additionally, attributes such as critical thinking, problem-solving, and teamwork are crucial in this role.
+
+User: Thank you, Tim. Can you please provide some more details about the specific machine learning and deep learning algorithms that I should be proficient in?
+
+Tim: Sure, some of the specific machine learning algorithms include regression techniques, decision trees, random forests, support vector machines, and clustering algorithms. As for deep learning algorithms, it is important to have knowledge of neural networks, convolutional neural networks, and recurrent neural networks. These algorithms should be understood in detail such as their implementation, evaluation and performance metrics. Do you need any supporting references for further reading?
+
+User: Yes, please provide me with some references for the algorithms.
+
+Tim: I would recommend "Hands-on Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron for machine learning algorithms. You may also want to read “Deep Learning” by Ian Goodfellow, Yoshua Bengio, and Aaron Courville’s for deep learning algorithms.
+
+User: Thank you, Tim. What about data engineering skills?
+
+Tim: Great question. Data engineering skills include expertise in data modeling, database management, and data warehousing. You should be proficient in programming languages such as SQL and have knowledge of database management systems, such as PostgreSQL, MySQL, or Oracle. Also, proficiency in big data technologies such as Hadoop, Spark, or Flink would be beneficial. Furthermore, knowledge of cloud computing platforms like AWS, Azure, and GCP would also be advantageous.
+
+User: Thank you for the guidance, Tim. What other attributes are important for a Tech Lead in AI?
+
+Tim: As I mentioned earlier, critical thinking and problem-solving skills are crucial attributes for a Tech Lead in AI. You must be able to analyze, interpret, and evaluate complex data and information to make informed decisions. Additionally, effective communication and teamwork skills are important as this role often involves collaborating with stakeholders from different departments or teams. Also, you should always be up to date with the latest AI technologies and trends to remain competitive in the industry.
+
+User: Thank you for clarifying all my queries. Is there anything else you would like to add on this subject?
+
+Tim: I would suggest joining AI-related online communities or attending events related to AI to broaden your knowledge and network with other professionals in AI. It is also important to always keep practicing your skills. You can work on personal projects or attend hackathons to apply and refine your knowledge. All the best, and keep up the curiosity!

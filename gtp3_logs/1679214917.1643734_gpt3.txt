@@ -1,0 +1,45 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile program lead, also known as agile coach, is a role with a lot of responsibilities. One of the competencies that is required of the role is continuous improvement. Continuous improvement is an agile mindset that places emphasis on evaluating processes and systems and seeking ways to make them more efficient, effective and relevant to the needs of the team and organization. To be competent in this area, an agile program lead must possess a range of skills, practices, and areas of knowledge.
+
+Skills:
+
+1. Facilitation Skills: Agile program leads must possess excellent facilitation skills that enable them to lead teams through various sessions aimed at evaluating existing workflows and identifying areas for improvement.
+
+2. Change Management Skills: A good understanding of change management frameworks is crucial to the success of continuous improvement initiatives. Agile program leads must possess a deep understanding of change management frameworks to effectively communicate change and mitigate resistance.
+
+3. Data Analysis and Interpretation Skills: Agile program leads must possess data analysis and interpretation skills to ensure that data is collected and analyzed correctly. Data analysis can provide valuable insights to inform decision making during continuous improvement initiatives.
+
+4. Communication and Presentation Skills: Clear communication is key to the success of any agile project or initiative. Agile program leads must possess strong communication skills and must be able to clearly present information to team members and stakeholders.
+
+Practices:
+
+1. Practice Lean and Agile Principles: Agile program leads must adopt lean and agile principles such as continuous delivery, defect prevention, and sustainable work practices to promote continuous improvement.
+
+2. Encourage Feedback and Communication: Feedback and communication are critical during continuous improvement initiatives. Agile program leads must encourage transparency, communication, and feedback from team members and stakeholders.
+
+3. Embrace Experimentation: Agile program leads must encourage experimentation while promoting a safe environment for team members to innovate and take risks.
+
+4. Adopt an Agile Mindset: Agile program leads must adopt an agile mindset that is focused on continuous improvement and adapting to changing circumstances.
+
+Areas of Knowledge:
+
+1. Agile Methodologies and Frameworks: Agile program leads must have a good understanding of agile methodologies and frameworks such as Scrum, Lean, and Kanban.
+
+2. Lean Six Sigma Principles: Lean Six Sigma principles provide a framework for continuous improvement. Agile program leads must be familiar with these principles to guide continuous improvement initiatives effectively.
+
+3. Data Analysis Techniques: As mentioned earlier, data analysis is critical during continuous improvement initiatives. Agile program leads must have knowledge of data analysis techniques to support decision making.
+
+4. Change Management Frameworks: Agile program leads must have a good understanding of change management frameworks to communicate change effectively and mitigate resistance.
+
+References:
+
+1. Agile Coaching Institute. “Competency Framework for Agile Coaching.” Agile Coaching Institute, November 2015, https://www.agilecoachinginstitute.com/wp-content/uploads/2015/12/Agile-Coaching-Institute-Competency-Framework.pdf.
+
+2. PMI Agile Certified Practitioner (PMI-ACP) Handbook. “Domain III. Continuous Improvement: Process Improvement,” Project Management Institute, 2019, https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/agile-certification-handbook.pdf.
+
+3. The International Association of Six Sigma Certification. “Lean Six Sigma Green Belt Body of Knowledge,” December 2017, https://www.iassc.org/wp-content/uploads/2019/09/IASSC-Green-Belt-Body-of-Knowledge.pdf.

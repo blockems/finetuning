@@ -1,0 +1,35 @@
+User: Hi Tim, I'm really interested in getting to the Emergent level of competency in User Experience (UX) Design for a SAFe Agilist. What skills, attributes, practices, and areas of knowledge should I focus on?
+
+Tim: Hi, glad to hear you're interested in UX Design. Emergent competency level for UX Design requires a mix of technical expertise, design thinking, and soft skills. Some of the essential skills and attributes you should focus on include:
+
+1. Technical expertise in UX Design tools and techniques such as Sketch, Figma, Adobe XD, and wireframing.
+
+2. Proficiency in design thinking methods such as user research, prototyping, testing, and iterations.
+
+3. Familiarity with different UX design patterns, heuristics, and best practices.
+
+4. Strong communication and collaboration skills to work closely with cross-functional teams, clients, and stakeholders.
+
+5. The ability to empathize with target users, understand their needs, and design seamless user experiences.
+
+6. A mindset of continuous learning, experimentation, and innovation.
+
+7. Understanding of agile frameworks such as SAFe, Scrum, and Kanban, and how UX design fits into the larger picture.
+
+To achieve Emergent competence level in UX Design, it's crucial to gain hands-on experience in real-world projects, build a portfolio of case studies, and seek feedback from mentors and peers.
+
+User: That's great advice, Tim. Can you recommend some resources for learning UX Design tools and techniques?
+
+Tim: Sure, here are some excellent resources to get started with UX Design:
+
+1. UX Design Fundamentals course by UX Design Institute 
+
+2. Beginner's Guide to Wireframing by UXPin 
+
+3. Free Sketch App Tutorial for Beginners by Design+Code 
+
+4. Lynda's Figma Essential Training 
+
+5. Adobe XD Essential Training by LinkedIn Learning 
+
+I hope you find these resources helpful. Let me know if you have any further questions, or need more information.

@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Systems Thinking for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers require a high level of competency in Systems Thinking to be effective in their roles. The competency of Systems Thinking refers to the ability to understand the interrelationships and complexities of different systems and how they impact each other. In the context of an Agile Delivery Manager, this means the ability to view the entire Agile Delivery process as a system, and understand how each individual part impacts the overall success of the project.
+
+To achieve the Emergent level of competency in Systems Thinking, an Agile Delivery Manager must possess a range of skills and practices. These include:
+
+1. Understanding the principles of complexity theory: An Agile Delivery Manager must understand the principles of complexity theory to comprehend the complexity of systems they work within. Complexity theory refers to the idea that complex systems are made up of interconnected parts that interact in non-linear ways, making them difficult to predict or control. In the context of Agile Delivery, this means that the Agile Delivery Manager needs to understand that the process is made up of multiple interconnected parts that are constantly interacting with each other, making it challenging to predict the outcome of any given action.
+
+2. Analytic and abstract thinking: To be effective in applying Systems Thinking, the Agile Delivery Manager must possess strong analytical and abstract thinking skills. This skill is needed when creating mental models of the systems they work within, and when interpreting the relationships and interdependencies between different parts of the system.
+
+3. Ability to recognize patterns and trends: A key skill in Systems Thinking is the ability to identify patterns and trends within complex systems. Agile Delivery Managers must develop the ability to recognize patterns emerging in teams, workflows, and processes that can inform their decisions and interventions.
+
+4. Cross-functional collaboration skills: Agile Delivery Managers must possess the skills to effectively collaborate with cross-functional teams to identify solutions and make decisions that impact the system. They need to be able to promote communication across different teams while considering the impact of decisions on the entire Agile Delivery process.
+
+5. Change management skills: An Agile Delivery Manager must also possess strong change management skills. As Systems Thinking is an iterative process, they must be able to manage change through continuous improvement and constantly refining their mental models of the system. They must be able to work within an agile framework to test, learn, and adapt to changes occurring in the system.
+
+To support the importance of these skills, there are several references we can draw from. The first reference comes from the book "Thinking in Systems: A Primer" by Donella Meadows, in which the author provides a comprehensive introduction to Systems Thinking and highlights its importance within organizations. The second reference comes from the Agile Alliance's Agile Competency Framework, which outlines the skills and knowledge areas necessary for an Agile Delivery Manager. The Agile Competency Framework identifies Systems Thinking as a key competency for Agile Delivery Management and details how it can enhance the effectiveness of the Agile Delivery Manager.
+
+In conclusion, achieving the Emergent level of competency in Systems Thinking for an Agile Delivery Manager is essential for success. It requires a range of skills, including analytic and abstract thinking, cross-functional collaboration, and change management. These skills are essential for the effective application of Systems Thinking principles in the context of Agile Delivery Management.

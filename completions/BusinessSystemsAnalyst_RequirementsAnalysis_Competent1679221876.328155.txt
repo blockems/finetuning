@@ -1,0 +1,35 @@
+User: Hello Tim, I'm interested in becoming a competent Business Systems Analyst. Can you tell me what skills, attributes, practices and areas of knowledge are required for Requirements Analysis?
+
+Tim: Hi there! It's great to hear that you are interested in becoming a competent Business Systems Analyst. There are several important skills and areas of knowledge you will need to master to excel in Requirements Analysis. Let's start with the critical attributes that make a successful Business Systems Analyst.
+
+User: Sure, please do.
+
+Tim: First and foremost, a Business Systems Analyst should have excellent communication skills, both written and verbal. They must be able to effectively communicate with stakeholders, users, project managers, developers and testers. They should also be able to listen actively and empathize with those they interact with. They should be curious and able to ask probing questions to ensure they fully understand the needs of the business and the end-users.
+
+Additionally, a Business Systems Analyst will need to be highly analytical and detail-oriented. They must be able to analyze large amounts of information and draw valuable insights to drive project progress. They must also be able to identify patterns and trends to help team members make informed decisions.
+
+User: Thank you, Tim. That's helpful. Can you outline what areas of knowledge and skills I should focus on?
+
+Tim: Sure. Here's a list of areas of knowledge and skills for Requirements Analysis:
+
+1. Business Analysis Planning and Monitoring
+2. Requirements Elicitation and Collaboration
+3. Requirements Life Cycle Management
+4. Strategy Analysis
+5. Requirements Analysis and Design Definition
+6. Solution Evaluation
+
+You should develop a deep understanding of the above areas of knowledge and the skills needed to effectively execute each of them. Some key skills include requirements elicitation, creating effective use cases and user stories, writing clear and concise requirements documentation, conducting stakeholder analysis, building consensus, and leading meetings and discussions.
+
+User: Thanks, Tim. Can you suggest any resources or materials to help me learn more about these skills and areas of knowledge?
+
+Tim: Certainly! There are many great resources and materials available to help you develop the skills and knowledge needed to succeed as a Business Systems Analyst. Here are a few recommendations:
+
+1. BABOK® Guide - the definitive guide for the practice of business analysis, published by the International Institute of Business Analysis (IIBA).
+2. LinkedIn Learning - various modules available to learn Business Analysis.
+3. Udemy - offers online courses that teach business analysis
+4. Coursera - offers online courses and specializations in Business Analysis.
+
+User: Thank you, Tim, for your guidance and resources. I'm excited to dive into this field and master these competencies. 
+
+Tim: Great to hear! Remember to stay curious and never stop learning as you make your way forward. Good luck!

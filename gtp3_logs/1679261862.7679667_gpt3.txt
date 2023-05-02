@@ -1,0 +1,52 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Blockchain for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor (Tim):
+Hello! How can I help you today?
+
+User:
+Hi Tim! I'm interested in blockchain technology and want to know what skills and knowledge areas are needed to be at the level of "Emergent" for the competency of Blockchain for a Solution Designer.
+
+Tutor (Tim):
+Great question! To be at the level of "Emergent" for the competency of Blockchain for a Solution Designer, you will need to have a strong foundation in computer programming, cryptography, and distributed systems.
+
+User:
+That makes sense. Could you please provide me with some more information about each of these foundational skills?
+
+Tutor (Tim):
+Sure thing. For computer programming, you should be proficient in languages like C++, Java, or Python. It's important to be comfortable with creating code that will interact with blockchain nodes, as well as developing smart contracts.
+
+Cryptography is also a crucial skill. You should familiarize yourself with concepts like digital signatures, hashing, and Merkle trees. Understanding these concepts will give you a better grasp on how transactions are kept secure on the blockchain.
+
+Lastly, a strong foundation in distributed systems is essential. This includes knowledge of things like consensus algorithms, peer-to-peer networking, and fault tolerance. Being familiar with these concepts will help you design a blockchain system that can operate smoothly even in the face of network disruptions.
+
+User:
+Thanks for the information Tim. That makes sense. Is there anything else I should be familiar with in order to become an "Emergent" level Blockchain Solution Designer?
+
+Tutor (Tim):
+Definitely! There are also some key practices and attributes you should have. You should be comfortable with Agile methodologies, as well as have experience with DevOps practices. Good communication skills are essential as well, in order to collaborate effectively with other team members.
+
+As for attributes, you should be willing to embrace new technologies, be open to learning, and have a strong attention to detail. It's also important to be able to work well under pressure and be able to think critically and creatively.
+
+User:
+Great, thanks for the information Tim. Do you have any references or recommended readings for me to further explore these areas of knowledge and skills?
+
+Tutor (Tim):
+Sure thing! Here are some recommendations:
+
+- "Mastering Blockchain" by Imran Bashir: This book covers the foundational knowledge for blockchain technology, as well as programming techniques and use cases.
+
+- "Bitcoin and Cryptocurrency Technologies: A Comprehensive Introduction" by Arvind Narayanan et al: This book explores the technical foundations of blockchain technology, as well as its social, legal, and economic implications.
+
+- "Agile Estimating and Planning" by Mike Cohn: This book covers Agile methodologies and practices, which are important for working as a blockchain solution designer.
+
+- "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford: This book is a novel about DevOps practices and its applicability to managing IT organizations.
+
+Hope these resources are helpful!

@@ -1,0 +1,31 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management requires a range of competencies that go beyond just technical skills or knowledge. One of the crucial competencies required for an Agile project manager is facilitation. Facilitation, in an Agile context, refers to the ability to help teams work together, brainstorm ideas, and solve problems effectively. The following conversation presents a detailed debate on the skills, practices, and areas of knowledge required to be at the level of competence in facilitation for an Agile project manager.
+
+Expert 1: To be competent in facilitation for Agile project management, one must have excellent communication and interpersonal skills. It will enable them to build strong relationships with the team, establish trust, and have effective collaboration.
+
+Expert 2: I agree with Expert 1, in addition to that, an Agile project manager must have active listening skills to understand the challenges faced by team members and guide them through the problem-solving process.
+
+Expert 3: Beyond communication skills, a competent Agile project manager must have expertise in group facilitation techniques. They should be aware of the various methods of consensus building, decision making, and facilitation that can help teams generate ideas and work towards a common goal.
+
+Expert 4: Another critical competency required for facilitation in Agile project management is emotional intelligence. An Agile project manager must be aware of their emotional state and those of team members. They must be able to empathize with their issues and manage conflicts positively.
+
+Expert 5: To support the competencies discussed above, an Agile project manager must have a deep understanding of Agile principles, values, and frameworks. This knowledge provides them with a foundation to facilitate Agile ceremonies effectively, such as sprint planning, backlog refinement, and retro sessions.
+
+Expert 6: In addition to Agile principles and frameworks, facilitation skills are enhanced by knowledge of techniques such as visualization, brainstorming, and feedback. These skills can help Agile project managers to facilitate team discussions that lead to better decision making.
+
+Expert 7: Lastly, I believe that a competent Agile project manager must have a strong sense of self-awareness. It involves the ability to reflect on past experiences, gain insights, and continuously improve their facilitation skills.
+
+In conclusion, the conversation above highlights the critical skills, practices, and areas of knowledge requisite for a competent Agile project manager in the area of facilitation. These competencies call for a combination of technical, soft, and interpersonal skills that enable effective team collaboration and problem-solving. To achieve competency in Agile project management, it is crucial to gain knowledge, practice the techniques, and reflect on past experiences continually. 
+
+References:
+
+1. Highsmith, J. (2014). Agile project management: creating innovative products. Pearson Education.
+2. Cohn, M. (2014). Agile estimating and planning. Pearson Education.
+3. Lencioni, P. (2010). The five dysfunctions of a team: A leadership fable. John Wiley & Sons. 
+4. Derby, E. & Larsen, D. (2014). Agile retrospectives: making good teams great. Pragmatic Bookshelf.
+5. Sutherland, J. & Schwaber, K. (2017). The Agile manifesto. Retrieved from: https://agilemanifesto.org/

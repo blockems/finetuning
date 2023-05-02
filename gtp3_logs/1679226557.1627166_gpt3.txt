@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean-Agile Leadership for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested to know what kind of skills and attributes I need to develop to reach the Emergent level for the competency of Lean-Agile Leadership as a SAFe Lean Portfolio Manager (LPM).
+
+Tim: Hi there, glad to hear you're interested. Developing skills in Lean-Agile Leadership requires a combination of technical expertise, communication skills, and leadership abilities. In terms of technical expertise, you'll need to understand Lean-Agile principles, SAFe methodology, and portfolio management. 
+
+User: Can you recommend any resources for learning about these principles and methodologies?
+
+Tim: Absolutely. I would recommend reading the SAFe framework guide, which goes over the principles and methodologies in detail. Additionally, there are books such as "Lean Portfolio Management" by Ericsson and "Agile Software Requirements" by Dean Leffingwell that provide deep dives into the subject matter. 
+
+User: What about communication skills and leadership abilities?
+
+Tim: Great question. Communication and leadership abilities are critical for successful Lean-Agile Leadership. You'll need to have strong facilitation skills, the ability to communicate complex ideas clearly, and be adept at building relationships and managing conflicts.
+
+User: What practices would you recommend to develop these skills?
+
+Tim: One practice that can significantly improve your communication skills is to practice active listening. This means not only hearing what someone is saying, but also understanding their perspective and asking follow-up questions to clarify their points. For leadership abilities, I would recommend seeking out mentorship or coaching from seasoned Lean-Agile Leaders. 
+
+User: What areas of knowledge should I focus on to achieve Emergent level competency for Lean-Agile Leadership?
+
+Tim: Some key areas of knowledge to focus on include portfolio and project management, continuous improvement, team building and motivation, and organizational change management. Additionally, developing a strong understanding of agile software development and key methodologies such as Scrum and Kanban, can be very beneficial.
+
+User: Thank you for such thorough responses, Tim. Can you recommend any specific resources or books on these subject matters?
+
+Tim: For portfolio management and continuous improvement, I would recommend "The Lean Product Playbook" by Dan Olsen and "The Lean Startup" by Eric Ries. For team building and motivation, "Drive" by Daniel Pink provides great insights. Finally, for organizational change management, "Switch" by Chip and Dan Heath is an excellent resource.
+
+User: Thank you so much, Tim. I appreciate your expertise and guidance.
+
+Tim: You're very welcome. Keep up the curiosity and let me know if you have any more questions.

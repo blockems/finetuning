@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Monitoring and Logging for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I have been reading about the competency Monitoring and Logging for a DevOps Consultant and I was wondering what skills, attributes, practices and areas of knowledge are required to get to the level of Emergent in this area?
+
+Tim: Hi there, great to hear that you are pursuing knowledge in this area. To excel as an Emergent DevOps consultant in Monitoring and Logging, there are a few essential skills, practices, and areas of knowledge that you should master. For instance, you must have a strong understanding of different logging frameworks and tools such as Log4J, Logstash, and Kibana. You should be able to work with different log formats and file types while analyzing, parsing, and monitoring logs.
+
+User: I see, could you elaborate on what attributes are essential in this area?
+
+Tim: Sure, attributes such as attention to detail, analytical skills, and a thorough understanding of agile methodologies are essential. Being an excellent communicator is also crucial, as you will need to communicate with your team to troubleshoot, debug, and fix any issues that arise from the logs. Moreover, the ability to work under high-stress environments, flexibility, and adaptability to new technologies and updates over time are also essential attributes for a DevOps consultant.
+
+User: Thank you, Tim. How can I improve my skills in this area?
+
+Tim: There are various resources that you can leverage to improve your skills in Monitoring and Logging. Some excellent places to start include online courses, certifications, and conferences that focus on DevOps methodologies. I would also recommend experimenting with different logging techniques and tools, working on personal projects, and collaborating with other professionals in this field.
+
+User: Thanks, Tim. Could you recommend any particular course or certification that could help me understand the essential concepts?
+
+Tim: Of course. Two courses that I would recommend are “Introduction to Apache Log4j” on Pluralsight and “Centralized Logging with Logstash and Kibana” on Udemy. Both courses provide practical hands-on experience with essential logging frameworks and tools used in the industry today. For certifications, The Certified DevOps Professional (CDP) and the DevOps Institute's DevOps Foundation Certification are widely recognized certifications in this domain.
+
+User: Thank you, Tim. I appreciate your help in walking me through the skills, attributes, practices and areas of knowledge required to excel as an Emergent DevOps consultant in Monitoring and Logging.
+
+Tim: You're welcome! Keep up the great effort and remember to always stay curious and eager to learn.

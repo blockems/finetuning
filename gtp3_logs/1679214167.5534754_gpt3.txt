@@ -1,0 +1,26 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Vendor Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery managers require a wide range of skills and knowledge to successfully manage vendor relationships as they work towards emergent competency. Here are some of the key skills and practices an agile delivery manager would need to possess in the area of vendor management:
+
+1. Effective Communication: Strong communication skills are essential for vendor management. Agile delivery managers should be able to communicate effectively with vendors, stakeholders, and team members. This includes being able to articulate goals, expectations, and feedback in a clear and concise manner. Agile delivery managers should also be skilled in active listening, empathy, and conflict resolution.
+
+2. Vendor Selection: Agile delivery managers must select vendors that align with the organization's strategic goals, project requirements, and company culture. This includes evaluating vendor proposals, conducting due diligence, and negotiating contracts. The Agile delivery manager must also ensure that vendors have the resources and expertise to deliver results in an agile fashion.
+
+3. Risk Management: Agile delivery managers need to be able to assess and manage risk associated with vendor relationships. This includes identifying potential risks, developing mitigation strategies, and monitoring vendor performance to ensure that risks are minimized.
+
+4. Performance Management: Agile delivery managers must be able to manage the performance of their vendors in an agile environment. This includes setting performance goals, monitoring progress, and providing feedback. It is also important for Agile delivery managers to manage the vendor's relationship with the rest of the team and ensure that goals are aligned.
+
+5. Contract Management: Agile delivery managers should have knowledge of contract management practices, including drafting and negotiating contracts, interpreting contract language, and enforcing contract terms.
+
+6. Financial Planning: Agile delivery managers should possess basic financial planning skills, including budgeting, forecasting, and tracking expenses associated with vendor management.
+
+References:
+
+1. Agile Manifesto: https://agilemanifesto.org/
+2. A Guide to the Project Management Body of Knowledge (PMBOK), 6th edition, published by the Project Management Institute (PMI)
+3. The Agile Project Management Handbook, published by the Association for Project Management (APM) 
+4. Agile Project Management: Agile Toolkit, published by the Agile Alliance.

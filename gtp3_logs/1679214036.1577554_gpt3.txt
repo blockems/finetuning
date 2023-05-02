@@ -1,0 +1,45 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Value Stream Mapping for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The role of an Agile Delivery Manager is to facilitate the delivery of value through Agile methodologies. One of the competencies required for an Agile Delivery Manager is Value Stream Mapping (VSM). VSM is a lean management technique that involves creating a visual representation of the flow of work through a process, with the goal of identifying areas of waste and opportunities for improvement. To be at the level of Emergent for the competency of VSM, an Agile Delivery Manager must possess certain skills, practices, and areas of knowledge. 
+
+Skills: 
+
+An Agile Delivery Manager must possess certain skills to be successful in value stream mapping. Some of these skills include problem-solving, critical thinking, communication, and facilitation. To effectively identify opportunities for improvement, an Agile Delivery Manager must have strong analytical skills to analyze and interpret data. Additionally, they need to be able to communicate effectively with team members and stakeholders to ensure that everyone has a clear understanding of the current state and the desired future state. 
+
+Practices: 
+
+To be successful in value stream mapping, an Agile Delivery Manager must follow certain practices. These practices include:
+
+1. Collaboration: Value stream mapping is a team effort that requires collaboration to identify waste and opportunities for improvement.
+
+2. Data analysis: To identify areas of waste and opportunities for improvement, an Agile Delivery Manager needs to analyze data from various sources, including customer feedback, process metrics, and team feedback.
+
+3. Continuous improvement: Value stream mapping is a continuous process that requires regular updates and improvements to the process.
+
+4. Visual representation: A visual representation of the process flow is critical to identifying areas of waste and opportunities for improvement. 
+
+Areas of knowledge: 
+
+An Agile Delivery Manager must have knowledge of several areas to be successful in value stream mapping, including:
+
+1. Lean principles: Value stream mapping is a lean management technique, and an Agile Delivery Manager must have a deep understanding of lean principles and methodologies.
+
+2. Agile methodologies: As an Agile Delivery Manager, it is important to have knowledge of Agile methodologies, including Scrum, Kanban, and Lean-Agile practices.
+
+3. Process improvement techniques: An Agile Delivery Manager should have knowledge of various process improvement techniques, including Six Sigma, Kaizen, and Lean.
+
+4. Data analysis techniques: To effectively analyze data, an Agile Delivery Manager must have knowledge of various data analysis techniques, including statistical analysis, root cause analysis, and Pareto analysis.
+
+References:
+
+1. Womack, J. P., & Jones, D. T. (2003). Lean thinking. Simon and Schuster.
+
+2. Kniberg, H. (2015). Lean from the trenches: managing large-scale projects with Kanban. Pragmatic Bookshelf.
+
+3. Rother, M., & Shook, J. (2009). Learning to see: value stream mapping to add value and eliminate Muda. Lean Enterprise Institute.
+
+4. Pyzdek, T. (2014). The six sigma handbook. McGraw-Hill Education.

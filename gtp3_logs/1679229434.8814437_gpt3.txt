@@ -1,0 +1,40 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Risk Management for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming an Emergent Scrum Master in the area of Risk Management. What skills, attributes, practices and areas of knowledge do I need to develop to get to that level?
+
+Tim: Hello! That's a great question. Generally speaking, risk management skills include the ability to identify, assess, and mitigate project risks. As a Scrum Master, you're responsible for implementing and improving the Agile framework to minimize risk and deliver quality products. Some essential skills for risk management in Agile include excellent problem-solving skills, strong communication skills, and the ability to work collaboratively in a team.
+
+User: That makes sense. How can I develop those skills?
+
+Tim: There are several ways to develop these skills, including taking relevant training courses, attending Agile conferences or meetups, and collaborating with other Agile practitioners. Additionally, you can participate in online forums or discussion groups to share knowledge and learn from others. As an Emergent Scrum Master, it's essential to embrace a continuous learning mindset and be open to new ideas and practices.
+
+User: What specific areas of knowledge should I focus on to improve my risk management skills?
+
+Tim: Some essential areas of knowledge for effective risk management include:
+
+1. Risk identification and assessment techniques
+2. Risk analysis and prioritization methods
+3. Risk mitigation and monitoring strategies
+4. Agile methodologies and frameworks
+5. Project management principles and practices
+
+By understanding these areas of knowledge, you can better identify potential risks, prioritize them based on their potential impact, and establish strategies to mitigate them in a timely and efficient manner. Additionally, you should be familiar with relevant standards and regulations related to risk management, such as the ISO 31000 standard.
+
+User: Thanks, Tim! Do you have any supporting references or resources?
+
+Tim: Certainly! Here are some resources that may be helpful for you:
+
+1. Agile Risk Management: Concepts and Practices by Alan Moran and David Dalgleish
+2. ISO 31000:2018 Risk management – Guidelines
+3. Agile Alliance Blog: Agile Risk Management
+4. Scrum.org Blog: The Role of the Scrum Master in Risk Management
+
+I hope this information helps you on your journey to become an Emergent Scrum Master in risk management. Keep up the curiosity and dedication to continuous learning!

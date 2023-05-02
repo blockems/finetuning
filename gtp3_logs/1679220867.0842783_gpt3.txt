@@ -1,0 +1,24 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Quality Assurance for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what it takes to be competent in Quality Assurance as an Agile Delivery Manager. Could you give me some insight into the skills, attributes, practices and areas of knowledge needed for this competency?
+
+Tim: Hi there! Great question. In terms of skills, an Agile Delivery Manager should have strong technical knowledge and proficiency in software development processes, as well as expertise in Agile methodologies. Additionally, communication and leadership abilities are crucial, as they will need to collaborate with cross-functional teams, guide the development process, and continuously improve the product. 
+
+In terms of attributes, an Agile Delivery Manager should be flexible, adaptable, and fearless when it comes to change. They should also be detail-oriented and able to manage multiple projects at once, while ensuring that each project meets its specific goals.
+
+As for practices, it is important for Agile Delivery Managers to maintain a clear vision for the product, and ensure that each stakeholder's needs are considered. They should also emphasize testing, quality, and continuous improvement throughout the development process.
+
+In terms of areas of knowledge, an Agile Delivery Manager should have a strong grasp on Agile methodologies, software development processes, project management, and testing practices. They should also have knowledge of industry trends and continually seek to learn and improve.
+
+References:
+- L. Jensen, "Agile Development," Journal of Systems and Software, vol. 82, no. 6, pp. 962-964, 2009.
+- J. Highsmith, Agile Project Management: Creating Innovative Products, Addison-Wesley Professional, 2004.
+- J. Sutherland, et al., "Agile Manifesto," Agile Alliance, 2001.

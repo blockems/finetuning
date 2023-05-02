@@ -1,0 +1,55 @@
+Role: Agile coach and Program Manager.
+Task: Break the skills, practices and Areas of knowledge needed to be at the Expert level for the competency of Coaching and Mentoring for a Agile Coach.
+Display the results in a JSON object, with the competency details in the root of the object, arays for skills, practices and knowledge.
+
+==========
+
+{
+  "competency": "Coaching and Mentoring",
+  "skills": [
+     "Active listening",
+     "Effective communication",
+     "Empathy",
+     "Observation",
+     "Conflict resolution",
+     "Leadership",
+     "Facilitation",
+     "Feedback",
+     "Mentoring",
+     "Coaching models",
+     "Emotional intelligence",
+     "Cultural awareness",
+     "Critical thinking",
+     "Interpersonal skills"
+  ],
+  "practices": [
+     "Building trust",
+     "Establishing rapport",
+     "Continuous improvement",
+     "Encouraging self-organization",
+     "Fostering team dynamics",
+     "Guiding team members to achieve their goals",
+     "Developing a growth mindset",
+     "Providing constructive feedback",
+     "Creating a safe environment for learning",
+     "Facilitating team meetings",
+     "Encouraging experimentation",
+     "Promoting collaboration"
+  ],
+  "knowledge": [
+     "Agile methodologies (Scrum, Kanban, Lean, XP)",
+     "Agile principles and values",
+     "Systems thinking",
+     "Psychology and motivation theories",
+     "Team development and dynamics",
+     "Communication theory and techniques",
+     "Coaching and mentoring models and frameworks",
+     "Change management processes",
+     "Facilitation techniques",
+     "Problem-solving and decision-making techniques",
+     "Leadership and management theories",
+     "Cultural and diversity awareness",
+     "Business value realization",
+     "Agile and DevOps tools and practices"
+  ]
+}

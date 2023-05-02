@@ -1,0 +1,28 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Monitoring and Logging for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching and program management expert:
+To understand the skills, practices, and areas of knowledge needed to be at the level of Emergent for the competency of Monitoring and Logging for a CI/CD lead, we need to first understand what is meant by Monitoring and Logging in the context of CI/CD.
+
+Continuous Integration and Continuous Delivery (CI/CD) is a software development practice that allows for the automatic building, testing, and deployment of software builds. Monitoring and Logging in CI/CD refers to the process of tracking and analyzing the behavior of the software build, as well as its system components and performance metrics, to identify and isolate errors and issues that may arise during the software development process.
+
+In terms of skills, a CI/CD lead who is adept in Monitoring and Logging is required to possess an excellent understanding of programming languages and software architecture, as well as knowledge of tools and techniques for monitoring and logging software applications. They should also have strong analytical, problem-solving, and communication skills, which are essential for effectively interpreting and communicating the results of the monitoring and logging process.
+
+The practices required for Monitoring and Logging in CI/CD include the use of logging frameworks and monitoring tools such as Nagios, Zabbix, and Prometheus, which offer real-time monitoring, analysis, and alerting. The use of Data-driven visualization tools such as Grafana, Tableau, and Kibana provides efficient and informative visualization of the log and monitoring data collected from the tests.
+
+Finally, the areas of knowledge that a CI/CD lead should be familiar with for Emergent level Monitoring and Logging competence should span the following domains:
+
+1. Metrics and measurements: Understanding of the metrics and measurements that are needed to effectively monitor and log software applications. This includes knowledge of key performance indicators (KPIs), the impact of input data and external factors on performance, and the use of threshold alerts and event triggers to catch issues.
+
+2. Logging and instrumentation: Practical knowledge of logging tools, techniques, and frameworks including data schema, templates, and the handling of different log levels.
+
+3. Monitoring and alerting: An understanding of monitoring and alerting solutions, including the different types of monitoring tools, their use in different settings, and how alerts from different systems can be consolidated and analyzed effectively.
+
+4. Performance optimization: Knowledge of the techniques for identifying and optimizing application performance through monitoring and logging, including log analysis, tracing, and application profiling.
+
+5. Security: Knowledge of security frameworks, such as OWASP, and of the security logs and metrics that should be monitored.
+
+In conclusion, to be at the Emergent level of Monitoring and Logging competence for a CI/CD lead, one should possess a unique blend of practical and theoretical knowledge, technical skills, and soft skills. This level of skill is essential for systemic error and bug identification, as well as optimization of the Continuous Integration and Continuous Delivery processes.

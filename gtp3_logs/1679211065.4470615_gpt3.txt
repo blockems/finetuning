@@ -1,0 +1,45 @@
+Break the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Coaching and Mentoring for a Agile Coach.
+Display the results in a JSON object, with the role=Agile Coach, competency=Coaching and Mentoring and level=Expertin the root of the object, and arrays for skills, practices and knowledge.
+
+
+==========
+
+{
+  "role": "Agile Coach",
+  "competency": "Coaching and Mentoring",
+  "level": "Expert",
+  "skills": [
+    "Active Listening",
+    "Empathy",
+    "Communication",
+    "Questioning",
+    "Facilitation",
+    "Conflict Resolution",
+    "Feedback",
+    "Coaching Techniques",
+    "Mentorship",
+    "Adaptability",
+    "Leadership"
+  ],
+  "practices": [
+    "Building trust and rapport",
+    "Creating a safe and supportive environment",
+    "Establishing clear expectations and goals",
+    "Using various coaching and mentoring methods depending on the situation",
+    "Providing constructive feedback",
+    "Encouraging self-reflection and self-awareness",
+    "Helping individuals and teams identify strengths and areas for improvement",
+    "Fostering continuous learning and growth"
+  ],
+  "areasOfKnowledge": [
+    "Human Psychology",
+    "Group Processes and Dynamics",
+    "Behavioral Science",
+    "Agile Principles and Values",
+    "Agile Methodologies and Frameworks",
+    "Product and Project Management",
+    "Business Acumen",
+    "Organizational Change Management",
+    "Cultural Awareness"
+  ]
+}

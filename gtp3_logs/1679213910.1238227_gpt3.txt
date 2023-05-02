@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile methodologies have transformed the way project management is approached. As Agile Delivery Manager, to be considered an expert in Agile methodologies, one should possess a range of skills and areas of knowledge. This includes the ability to coach, master Agile practices, program management, and be knowledgeable in related areas such as design thinking and Lean methodologies. 
+
+To begin with, an Agile Delivery Manager should have the skill to coach team members and stakeholders to transition to an Agile framework smoothly. The coach should have a good understanding of organizational change management, project management, and Agile principles. He/she should also be an expert in facilitating Agile ceremonies such as sprint planning, daily stand ups, sprint reviews, and retrospectives. A coach who is well-versed in Agile methodologies can help guide teams towards exceptional outcomes. 
+
+In addition, an Agile Delivery Manager should be adept at mastering Agile practices such as continuous integration, continuous deployment, test-driven development, and automated testing. Continuous integration is the process of frequently integrating code changes into a shared repository, which helps eliminate integration issues. While continuous deployment automates the deployment of software to production or staging environments upon successful completion of testing. Test-driven development is also fundamental in Agile as it ensures code quality through automated testing. 
+
+Moreover, an expert in Agile methodologies should possess program management skills. The Agile Delivery Manager should have experience running large projects with cross-functional teams in complex environments. They should be comfortable using Agile frameworks like Scrum, Kanban, and Lean Agile. They should also be able to scale Agile practices and frameworks for use in large-scale projects. 
+
+Finally, an expert in Agile methodologies should have knowledge of related frameworks, such as Design thinking and Lean methodologies. Design thinking helps ensure customer-centricity in product design by using empathy to identify customer pain points and create solutions. Lean methodologies, on the other hand, focus on reducing waste in project management by streamlining processes and removing non-value-added activities. An Agile Delivery Manager should be aware of these complementary frameworks, as they are often useful in Agile project management. 
+
+In conclusion, to be at an expert level in Agile methodologies, an Agile Delivery Manager should possess diverse skills, practices, and knowledge. These skills include coaching, mastering Agile practices, program management, and related frameworks such as Design thinking and Lean methodologies. At university level, expertise in Agile methodologies may be attained through intensive study of Agile frameworks, practical application in Agile projects, and constant reflection through self-evaluation or peer reviews. 
+
+References
+- Beck, K., Beedle, M., Van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Kent, A. (2001). Manifesto for agile software development. Agile Alliance, 1.
+- Kerievsky, J. (2004). Agile Estimating and Planning (1st ed.). Upper Saddle River, NJ: Prentice Hall
+- Kniberg, H. (2015). Scrum and XP from the Trenches: How we do Scrum (1st ed.). S.l.: Lulu.com.
+- Shalloway, A., & Trott, J. (2018). Lean-Agile Software Development: Achieving Enterprise Agility (1st ed.). Upper Saddle River, NJ: Addison-Wesley.

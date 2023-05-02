@@ -1,0 +1,42 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Building for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what it takes to be competent in Team Building as an Agile Delivery Manager. What are the skills, attributes, practices, and areas of knowledge I need to develop?
+
+Tim: Great question! To be competent in Team Building as an Agile Delivery Manager, you need to possess certain skills, attributes, practices, and areas of knowledge. Some of the essential skills include:
+
+- Active listening: As an Agile Delivery Manager, you will need to actively listen to your team members to understand their concerns and ideas.
+- Facilitation: You will need to facilitate team meetings and foster open communication among team members.
+- Conflict resolution: You should be able to resolve conflicts within a team and ensure that all members are working toward a common goal.
+- Emotional intelligence: You should be able to understand your emotions and those of others, which will help you build stronger relationships with your team members.
+- Coaching: You should be able to mentor and coach team members to help them develop their skills.
+
+In terms of attributes, you'll need to possess qualities such as empathy, patience, adaptability, and willingness to learn.
+
+Some of the essential practices include:
+
+- Regular retrospectives: You should conduct regular retrospectives to help the team identify areas for improvement and come up with action items to address them.
+- Continuous feedback: You should provide continuous feedback to team members to help them improve their skills and stay motivated.
+- Collaborative decision-making: You should involve team members in decision-making to ensure that everyone's perspectives are considered.
+- High-trust environment: You should create an environment of trust where team members can freely express their ideas and concerns.
+
+Finally, you'll need to possess areas of knowledge such as Agile methodologies, team dynamics, project management, and leadership.
+
+User: Wow, that's a lot! Can you recommend any specific references or resources that can help me develop these skills, attributes, practices, and areas of knowledge?
+
+Tim: Absolutely. Some of the references/resources that can help you develop as an Agile Delivery Manager include:
+
+- Agile Estimating and Planning by Mike Cohn
+- Coaching Agile Teams by Lyssa Adkins
+- The Five Dysfunctions of a Team by Patrick Lencioni
+- The Lean Startup by Eric Ries
+- The Art of Possibility by Rosamund Stone Zander and Benjamin Zander
+
+Additionally, you can attend Agile conferences, workshops, and training sessions to gain practical experience and learn from experts in the field.

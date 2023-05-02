@@ -1,0 +1,23 @@
+User: Hi Tim, I was wondering if you could tell me more about what skills and attributes are needed to be at the level of Emergent for the competency UX Design as a Technical Business Analyst?
+
+Tim: Great question! To be classified as Emergent in UX Design as a Technical Business Analyst, you would need to have a strong foundation in user-centered design principles, a deep understanding of the business and technical requirements, and excellent communication and collaboration skills. Would you like me to go into more detail?
+
+User: Yes, please!
+
+Tim: Let me start with user-centered design principles, which are key in creating products that are easy and intuitive to use. To have a solid foundation in this area, you would need to have an understanding of psychology, cognitive science, and usability testing methodologies. This can be achieved by studying books such as "Don't Make Me Think" by Steve Krug and "The Design of Everyday Things" by Don Norman.
+
+User: That makes sense. What about the business and technical requirements?
+
+Tim: As a Technical Business Analyst, you will need to have an in-depth understanding of the technical aspects of your project, as well as the business requirements. This involves being able to work closely with both the development team and the business stakeholders. To do this, it is important to have knowledge of the software development lifecycle, experience working with agile methodologies, and strong analytical skills. For further reading, I would recommend "User Stories Applied" by Mike Cohn.
+
+User: I see, and what about communication and collaboration skills?
+
+Tim: Being able to effectively communicate and collaborate with your team and stakeholders is crucial to creating successful and user-friendly products. This involves being able to clearly articulate your ideas and being an active listener. Additionally, you should be able to work collaboratively with team members with diverse backgrounds and skill sets. For more information on effective communication and collaboration, I would recommend "Crucial Conversations" by Kerry Patterson and "Effective Group Communication" by John Cragan and David Wright.
+
+User: Thank you for those recommendations, Tim. Is there anything else I should know?
+
+Tim: Yes, there are a few other areas of knowledge that would be beneficial in achieving Emergent level in UX Design. These include knowledge of accessibility standards, familiarity with testing and prototyping tools such as Axure and Adobe XD, and an understanding of visual design principles. Some good resources for these areas include the "WCAG 2.1" accessibility guidelines, "Axure RP Prototyping Cookbook" by John Henry Krahenbuhl, and "Designing for Emotion" by Aarron Walter.
+
+User: This has been really helpful, Tim. Thank you so much for your thorough response and for the great resources. I can't wait to dive in!
+
+Tim: My pleasure! I'm excited to see your progress in UX Design for Technical Business Analysts. Remember to keep your curiosity alive and always keep learning!

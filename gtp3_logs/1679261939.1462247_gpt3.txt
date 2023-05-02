@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Mobile Development for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I’m interested in learning what skills and attributes are needed to be at the Emergent level for the Mobile Development competency as a Solution Designer. Could you help me out?
+
+Tim: Hi there! Great question. To be at the Emergent level for Mobile Development, you should have experience with programming languages such as Java or Swift, as well as an understanding of mobile app development frameworks like React Native or Flutter. Additionally, you should have knowledge of user interface design principles and experience with version control systems like Git. Are you familiar with these skills and concepts?
+
+User: Yes, I have a basic understanding of them. But could you expand on the user interface design principles needed for Mobile Development in more detail? Also, what other skills or practices should I focus on to reach the Emergent level?
+
+Tim: Certainly! For mobile development, it’s essential to understand aspects such as the user experience, usability, and accessibility. You should have a strong foundation in designing interfaces for mobile devices, as well as knowledge in utilizing common patterns and components in mobile app design. Furthermore, you should be knowledgeable in the latest typography and color trends for mobile devices, which can help in providing an engaging visual experience for your users.
+
+As for other skills or practices, it’s essential to be knowledgeable about agile software development practices, where constantly iterating design and development cycles are necessary to evolve and improve the app. Additionally, keeping up to date with industry trends and best practices by attending conferences and workshops can help in expanding your knowledge base. 
+
+User: That’s really helpful, thank you! Are there any additional resources or readings that you would recommend for me to gain more in-depth knowledge of these topics?
+
+Tim: Yes! Here are some great resources to assist you:
+
+1. "Mobile Design Pattern Gallery" by Theresa Neil & Jackie Ngyuen - this book showcases various mobile design patterns with full-color examples to provide ideas for mobile app design.
+
+2. "Don't Make Me Think" by Steve Krug - this book discusses the principles of intuitive design and readability with focus on user experience.
+
+3. "Agile Development with Scrum" by Ken Schwaber and Mike Beedle - this book provides an insight into the agile philosophy and how it can be applied to software development practices.
+
+I hope these resources help you in your journey to becoming proficient in Mobile Development as a Solution Designer!

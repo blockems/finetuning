@@ -1,0 +1,29 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Visualization for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To be at the level of Emergent for the competency of Data Visualization for a Business Systems Analyst, there are several skills, practices, and areas of knowledge that are required. 
+
+Firstly, the individual should have a strong understanding of data analysis and statistics. This includes a knowledge of statistical terms and software tools like R, Python, or Tableau. They should have the ability to collect, clean, and analyze data and generate insights from it. 
+
+Secondly, they should have a good understanding of design principles and visual aesthetics. They should be familiar with color theory, typography, and layout design to create visually appealing and effective data visualizations. 
+
+Thirdly, they should be able to communicate their findings in a clear and concise manner. They should understand the audience they are presenting to and adjust their delivery accordingly. They should be able to communicate complex data insights in a simple and understandable manner. 
+
+Fourthly, they should have knowledge of emerging trends and technologies in data visualization. They should stay updated with the latest tools and practices in the field to create innovative and effective visualizations. 
+
+Lastly, they should be able to work collaboratively with different stakeholders involved in the data visualization process. They should be able to understand their needs and expectations and incorporate them into the final product. 
+
+References:
+
+1. Cairo, A. (2019). How Charts Lie: Getting Smarter about Visual Information. W. W. Norton & Company.
+
+2. Few, S. (2012). Show Me the Numbers: Designing Tables and Graphs to Enlighten. Analytics Press.
+
+3. Heer, J., & Shneiderman, B. (2012). Interactive dynamics for visual analysis. Communications of the ACM, 55(4), 45-54.
+
+4. Kirk, A. (2016). Data Visualisation: A Handbook for Data Driven Design. Sage Publications Limited.
+
+5. Tufte, E. R. (2017). The Visual Display of Quantitative Information. Graphics Press.

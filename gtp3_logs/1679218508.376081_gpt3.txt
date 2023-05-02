@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency CI/CD Processes for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming an expert in CI/CD processes for a leading role. What skills, attributes, practices, and areas of knowledge do I need to acquire in order to get there?
+
+Tim: Hi there! That's great to hear that you're interested in developing your expertise in CI/CD processes. To start with, you will need a good understanding of software development and a solid understanding of DevOps principles. A leading role in CI/CD also requires excellent project management skills and an ability to work closely with a development team to drive efficiency and quality.
+
+User: Can you expand more on the DevOps principles and how they relate to CI/CD processes?
+
+Tim: Sure thing. DevOps is essentially a practice that combines the development and operations teams to work together to develop, deploy and maintain software products more efficiently. It also incorporates continuous integration, delivery, and deployment to ensure that software delivery processes are streamlined and optimized. You can learn more about DevOps principles from the book "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford.
+
+User: Thank you for the reference, Tim. What skills should I develop for efficient project management in this role?
+
+Tim: As a CI/CD lead, you will need excellent communication, organizational and problem-solving skills to manage a hybrid development and operations team. You will also need to develop project management skills, such as setting clear goals and deadlines, tracking progress, and managing risks. I would recommend learning about Agile methodologies and frameworks such as Scrum and Kanban, which can help you manage projects in a collaborative and iterative way.
+
+User: Thank you for the guidance, Tim. What areas of knowledge should I focus on to develop my expertise?
+
+Tim: You should focus on developing a solid understanding of software development practices such as continuous integration, automated testing, source control, and deployment. You should also keep up with industry trends in CI/CD processes such as microservices, containerization, and cloud-based DevOps. Additionally, it is crucial to have a strong grasp of software development lifecycle stages and how they relate to CI/CD processes.
+
+User: I appreciate all of this information, Tim. Can you give me any additional resources to help me get started?
+
+Tim: Sure! There are many excellent resources available online. Here are a few that might be useful to get you started:
+
+- "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley
+- "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+- "The Agile Manifesto" by the Agile Alliance
+
+I hope these resources are helpful! Let me know if you have any other questions or if there's anything else I can help you with.

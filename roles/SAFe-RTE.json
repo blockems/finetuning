@@ -1,0 +1,125 @@
+{
+    "Role": "SAFe Release Train Engineer (RTE)",
+    "Description":"A SAFe RTE (Scaled Agile Framework Release Train Engineer) is responsible for coordinating and managing the Agile Release Train (ART) processes and programs in a SAFe enterprise. They work closely with the Agile teams and stakeholders to facilitate effective communication, collaboration, and alignment between teams, and ensure that the ART delivers value to the organization in a timely and effective manner. The SAFe RTE is also responsible for ensuring the continuous improvement of the ART and the SAFe implementation across the organization, while working to resolve any issues or impediments that may arise. They are a key member of the SAFe leadership team and play a critical role in driving the success of the SAFe transformation within the organization.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile and SAFe Methodologies",
+                "SkillDescription": "Strong understanding of Agile and SAFe methodologies and experience in implementing and managing these practices at the enterprise level",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Release Train Planning and Execution",
+                "SkillDescription": "Experience in release train planning and execution, including the ability to coordinate multiple Agile teams and to manage dependencies across teams and systems",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Facilitation and Coaching",
+                "SkillDescription": "Ability to facilitate and coach Agile and SAFe practices, and to provide guidance and leadership to the Agile teams and stakeholders",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Team Building and Leadership",
+                "SkillDescription": "Experience in team building and leadership, including the ability to motivate and inspire team members, and to build a collaborative and high-performing team",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Problem Solving and Conflict Resolution",
+                "SkillDescription": "Ability to identify and solve problems, and to resolve conflicts within the team and across teams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to identify areas for improvement and to facilitate continuous improvement at the enterprise level",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Certification",
+                "SkillDescription": "Certification in SAFe methodologies, such as SAFe Release Train Engineer (RTE), SAFe Program Consultant (SPC), or SAFe Agilist (SA)",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Lean-Agile Leadership",
+                "SkillDescription": "Experience in Lean-Agile leadership, including the ability to drive organizational change and to build a Lean-Agile culture",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles and techniques, and the ability to apply these principles and techniques to the SAFe context",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Understanding of business concepts and the ability to align Agile and SAFe practices with business objectives",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Technical Knowledge",
+                "SkillDescription": "Understanding of technical concepts and the ability to communicate effectively with technical team members and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and techniques, and the ability to identify and mitigate potential risks associated with Agile and SAFe practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to the Agile and SAFe process, and to use this information to improve team performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "DevOps",
+                "SkillDescription": "Understanding of DevOps practices and their integration with Agile and SAFe practices, and the ability to work effectively with DevOps teams",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Understanding of Big Data technologies and the ability to apply Agile and SAFe practices to Big Data projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Knowledge of artificial intelligence (AI) techniques and the ability to apply these techniques to improve team performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Understanding of Internet of Things (IoT) technologies and the ability to apply Agile and SAFe practices to IoT projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Understanding of User Experience (UX) design principles and the ability to work effectively with UX designers to improve the user experience of products and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Understanding of data science concepts and the ability to work effectively with data scientists to improve the data-driven decision-making of teams and organizations",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Scaled Agile Framework (SAFe) Implementation",
+                "SkillDescription": "Experience in implementing SAFe at the enterprise level, and the ability to customize and tailor SAFe practices to the specific needs and context of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Vendor Management",
+                "SkillDescription": "Experience in managing vendors and external partners, and the ability to ensure that vendors and partners adhere to Agile and SAFe practices and standards",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Program Management",
+                "SkillDescription": "Understanding of program management principles and techniques, and the ability to manage large-scale programs and initiatives within the SAFe context",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Portfolio Management",
+                "SkillDescription": "Understanding of portfolio management principles and techniques, and the ability to align Agile and SAFe practices with portfolio objectives and strategies",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

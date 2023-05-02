@@ -1,0 +1,25 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Agile Scaling Frameworks for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile scaling frameworks have become increasingly popular in recent years due to their ability to help organizations scale agile practices across multiple teams, departments, and regions. As such, agile coaching is becoming an increasingly important skill set for organizations looking to adopt agile scaling frameworks. To be at the level of Emergent for the competency Agile Scaling Frameworks for a Agile Coach, there are several skills, practices, and areas of knowledge that an individual should possess.
+
+Firstly, an Agile Coach at the level of Emergent should have a strong foundation in several key agile frameworks and methodologies, such as Scrum, Kanban, Lean, and SAFe (Scaled Agile Framework). They should also have an in-depth understanding of the underlying principles of these frameworks, such as continuous improvement, transparency, and collaboration, and the ability to apply these principles effectively in a scaling context. This requires a deep understanding of agile values and principles, as well as practical experience with applying them in complex organizational environments.
+
+In addition to this, an Agile Coach at the level of Emergent should also possess strong communication and facilitation skills, as they will be leading workshops, training sessions, and meetings with a mix of stakeholders across the organization. They should be able to create a safe and inclusive environment that encourages open and honest communication, active listening, and respectful dialogue. This requires a mastery of several facilitation techniques and tools, as well as the ability to adapt to different audiences and situations.
+
+Another critical area of competency for an Agile Coach at the level of Emergent is program management. They should have a comprehensive understanding of program and project management methodologies such as PRINCE2 and PMI, as well as the ability to apply them in an agile context. This involves working closely with program managers, product owners, and other stakeholders to ensure that development activities are aligned with business objectives, and that the program is delivered on time, within budget, and to the desired quality standards.
+
+Finally, an Agile Coach at the level of Emergent should possess a high degree of adaptability and be able to work effectively in a rapidly evolving, dynamic environment. This requires a growth mindset, a willingness to experiment and take calculated risks, and the ability to learn quickly and continuously improve. They should also be able to balance competing priorities and manage multiple stakeholders effectively, while maintaining a focus on the end goal.
+
+In conclusion, to be at the level of Emergent for the competency Agile Scaling Frameworks for a Agile Coach, an individual should possess a strong foundation in agile frameworks, principles and practices, combined with excellent communication, facilitation and program management skills. They should also possess a growth mindset and an ability to adapt to changing environments, while keeping a clear focus on the end goal. These competencies are essential for Agile Coaches working in organizations looking to adopt agile scaling frameworks, and will ensure that they are able to deliver value to the organization and its stakeholders.
+
+References:
+
+1. SAFe® 5.0 - Scaled Agile Framework®. (n.d.). Retrieved from https://www.scaledagileframework.com/
+2. Agile Alliance. (n.d.). Agile Manifesto | Agile Alliance. Retrieved from https://www.agilealliance.org/agile101/the-agile-manifesto/
+3. Agile Coaching Institute. (n.d.). Agile Coaching Competency Framework. Retrieved from https://www.agilecoachinginstitute.com/wp-content/uploads/2019/10/Agile-Coaching-Competency-Framework-Version-2.0.pdf
+4. Project Management Institute. (n.d.). PMI Project Management Institute. Retrieved from https://www.pmi.org/
+5. Axelos. (n.d.). PRINCE2 | PRINCE2 Training | PRINCE2 Certification | PRINCE2 Qualifications. Retrieved from https://www.axelos.com/best-practice-solutions/prince2

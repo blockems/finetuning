@@ -1,0 +1,25 @@
+User: Hi Tim, I wanted to ask you about the skills, attributes, practices, and areas of knowledge necessary to be considered Emergent for the competency Lean-Agile Leadership for a RTE. 
+
+Tim: Great question! Before we delve into that, let's first define what being Emergent means in the context of Lean-Agile Leadership. 
+
+According to the Scaled Agile Framework (SAFe), Emergent is the second level of competency for Lean-Agile Leaders who are leading the Agile Release Train (ART). This means that the RTE has demonstrated proficiency in applying Lean-Agile principles and practices across the ART. 
+
+In terms of skills, an RTE at the Emergent level should possess strong communication and collaboration skills. They should also have experience in guiding the ART towards continuous improvement and overall delivery excellence. 
+
+When it comes to attributes, an Emergent RTE should demonstrate leadership, be emotionally intelligent, and possess a growth mindset. 
+
+In terms of practices, an Emergent RTE should be skilled in facilitating PI Planning, identifying dependencies, building relationships with stakeholders, and conducting regular Inspect & Adapt workshops. 
+
+As for knowledge areas, an Emergent RTE should be well-versed in Agile frameworks like Scrum and Kanban, understand the principles of SAFe, and have a good grasp on Lean concepts like Value Stream Mapping and Kaizen. 
+
+User: Wow, that's a lot to consider. Can you provide any references or readings for further study? 
+
+Tim: Absolutely! For further reading on the skills and attributes needed for Lean-Agile Leadership, I recommend the book "The Lean-Agile Leader: How to Deliver Agile Results on a Large Scale" by Dhaval Panchal. 
+
+To learn more about Agile frameworks, the Agile Manifesto and Scrum Guide are essential reads. For Lean concepts, "The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries is a great resource. Lastly, to further your understanding of SAFe, I recommend checking out the Scaled Agile Framework website. 
+
+Does that help you further dive into the knowledge areas and resources you were looking for? 
+
+User: Yes, thank you for the thorough response and resources. This gives me a great starting point to continue on this learning journey. 
+
+Tim: You're welcome! Remember to continue to ask questions and never stop learning. Curiosity is key in Lean-Agile Leadership.

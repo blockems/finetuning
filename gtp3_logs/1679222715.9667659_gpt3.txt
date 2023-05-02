@@ -1,0 +1,36 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Process Mapping for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm looking to improve my skills as a Business Systems Analyst. What are the specific skills and attributes needed to become competent in Process Mapping?
+
+Tim: Great to hear that you are interested in improving your skills as a Business Systems Analyst! To become competent in process mapping, you need to possess a combination of technical and soft skills. The technical skills you need to have include knowledge of process modeling and design approaches such as UML, BPMN or ERD. You should also be proficient in various modeling tools like Visio, ARIS or Enterprise Architect. Is this making sense?
+
+User: Yes, it is. I have knowledge of UML and Visio. Can you give me a few examples of the soft skills required to become competent in process mapping?
+
+Tim: Of course! Soft skills are equally important as technical skills in process mapping. Some crucial attributes of a competent process mapper include analytical thinking, attention to detail, and effective communication. You should also be able to work effectively with individuals at different levels and strive to continuously improve your process mapping skills. It would also help if you had knowledge of Agile methodologies such as Scrum or Kanban. 
+
+User: I see. Is there any way I could practice and enhance my knowledge of process mapping?
+
+Tim: Absolutely! One of the best ways to practice and enhance your process mapping skills is by finding opportunities to apply them in real-world scenarios. You could look for functional areas within your organization that could benefit from process optimization. You could also volunteer for projects that require process mapping skills or look for training programs that focus on process mapping. 
+
+User: That's a great suggestion. Can you point me towards any useful resources or supporting references?
+
+Tim: Sure, there are several resources available online that you could refer to. Some of the useful references include:
+- "Business Process Mapping: Improving Customer Satisfaction" by John Riddle
+- "Mastering Business Process Management" by Michael Rosemann 
+- "Introduction to BPMN 2.0" by Thomas Allweyer 
+
+User: Wow, I didn't know about these resources, thank you! What about the areas of knowledge required for process mapping?
+
+Tim: The key areas of knowledge required for process mapping are Project Management, Quality Management, Risk Management, and IT Governance. You need to have a comprehensive understanding of these areas to deliver effective process mapping work. It would also be helpful to have knowledge of business analysis and data modeling techniques. 
+
+User: Thank you for your insightful response, Tim. This information is helpful.
+
+Tim: You're welcome, happy to help! Remember, always cultivate your curiosity, and strive to improve your skills as a Business Systems Analyst.

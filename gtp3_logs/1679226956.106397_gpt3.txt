@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Lean Portfolio Management for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor (Tim): Good afternoon! How can I help you today?
+
+User: Hi Tim! Can you explain what the Lean Portfolio Management competency for a SAFe Product Owner (PO) entails? What skills, attributes, practices and areas of knowledge would I need to master in order to be considered competent in this field?
+
+Tim: Sure, I'd be happy to help with that! The Lean Portfolio Management competency for a SAFe PO involves the ability to create and communicate a clear vision and strategy for the organization's product portfolio, as well as the skills to manage and coordinate the activities of all stakeholders involved in product development, including business owners, product managers, and technical teams.
+
+To be considered competent in this area, you should have a strong understanding of Agile methodology, as well a deep knowledge of Lean principles and practices. Additionally, you will need advanced skills in strategic thinking, business acumen, and product management, as well as exceptional analytical and organizational skills. 
+
+Finally, a competent SAFe PO will actively seek out and take advantage of opportunities to improve processes and outcomes across the organization. In short, this competency requires a highly skilled and knowledgeable individual with a passion for continuous improvement and driving results.
+
+User: Interesting! Can you recommend any specific courses or resources for developing the skills needed for Lean Portfolio Management?
+
+Tim: For sure! There are many courses and resources available online that can help you develop the skills and knowledge necessary for Lean Portfolio Management. Some of the best options include courses and certifications offered by the Scaled Agile Framework (SAFe), such as the SAFe® PO/PM certification, as well as the Leading SAFe® course.
+
+Additionally, there are many books and publications available that provide in-depth information on Lean principles and practices. These include books like "Lean Thinking: Banish Waste and Create Wealth in Your Corporation" by James P. Womack and Daniel T. Jones, as well as the "Lean Enterprise: How High Performance Organizations Innovate at Scale" by Jez Humble, Joanne Molesky, and Barry O'Reilly.
+
+User: Thanks Tim! I appreciate your help. I'll definitely check those resources out.
+
+Tim: You're welcome! Don't hesitate to reach out if you have any further questions or need additional guidance. Remember, curiosity is key to continuous learning and improvement!

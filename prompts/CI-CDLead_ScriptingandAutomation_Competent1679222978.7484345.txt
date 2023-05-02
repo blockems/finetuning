@@ -1,0 +1,12 @@
+Role: CI/CD Lead
+Skill: Scripting and Automation
+Skill level: Competent
+Randomness: <function uuid4 at 0x00000204235ED800>
+
+Task: Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Scripting and Automation for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.

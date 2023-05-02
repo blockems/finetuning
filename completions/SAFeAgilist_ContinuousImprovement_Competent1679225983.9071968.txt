@@ -1,0 +1,19 @@
+User: Hi Tim, I'm curious about the skills, attributes, practices and areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a SAFe Agilist. Can you help me out?
+
+Tim: Great question! To be competent in Continuous Improvement for a SAFe Agilist, you would need to have a solid understanding of Agile methodologies and frameworks, such as Scrum and Lean. Additionally, you should be familiar with data analysis techniques, such as statistical process control, root cause analysis, and Pareto analysis. Does that make sense so far?
+
+User: Yes, it does. Can you recommend some literature so that I can gain a better understanding of these concepts?
+
+Tim: Of course! I recommend reading "The Lean Startup" by Eric Ries for a good introduction to the Lean methodology. For Scrum, "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland is a great resource. "The Data Warehouse Toolkit" by Ralph Kimball is a good starting point for data analysis techniques.
+
+User: Thanks, Tim. That's very helpful. What about the attributes one must possess to be competent in Continuous Improvement as a SAFe Agilist?
+
+Tim: Excellent question. Some important attributes include strong analytical skills, attention to detail, ability to collaborate and communicate effectively with team members and stakeholders, willingness to learn and adapt to new approaches, and a passion for continuous improvement. Additionally, it's essential to have a mindset of curiosity and a desire to challenge the status quo. Does that answer your question?
+
+User: Yes, it does. Can you provide an example of how these skills, attributes, and practices are applied in a SAFe Agilist role?
+
+Tim: Sure. As a SAFe Agilist in a Continuous Improvement role, you would work with the team to identify areas where efficiency and effectiveness can be improved. You would then use data analysis techniques to assess the current process and identify areas for improvement. Once you've identified the root cause of any inefficiencies, you would work with the team to implement changes and monitor the results. Throughout this process, you would collaborate with team members and stakeholders, and communicate progress towards the Continuous Improvement goals. Additionally, you would continuously learn and adapt to new approaches, staying up to date with the latest Agile methodologies and data analysis techniques. 
+
+User: Thank you, Tim. That was very informative. 
+
+Tim: You're welcome. Always happy to encourage curiosity and continuous improvement!

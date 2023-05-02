@@ -1,0 +1,116 @@
+{
+    "Role": "Technical Business Analyst",
+    "Description":"A Technical Business Analyst (BA) is a professional who works with technical teams and stakeholders to analyze business requirements and translate them into technical requirements for the development of software applications. They have a deep understanding of the technical aspects of software development and work closely with developers, project managers, and business stakeholders to ensure that software products meet the business requirements. Technical BAs must have strong analytical, communication, and problem-solving skills, as well as knowledge of software development methodologies and tools. They are responsible for creating project documentation, communicating with technical and non-technical stakeholders, and ensuring that the project is delivered on time and within budget.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Requirements Analysis",
+                "SkillDescription": "Experience in requirements analysis and the ability to translate business requirements into technical requirements",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Experience in data analysis and the ability to analyze and interpret data to inform technical decisions",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Experience in managing stakeholder expectations and communicating with customers, users, and other stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Software Development Lifecycle (SDLC)",
+                "SkillDescription": "Strong understanding of the software development lifecycle (SDLC) and experience in implementing and managing this process",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Technical Writing",
+                "SkillDescription": "Ability to create and maintain technical documentation, such as user manuals, system specifications, and workflow diagrams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "System Integration",
+                "SkillDescription": "Experience in system integration, including the ability to integrate disparate systems and applications",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Data Modelling",
+                "SkillDescription": "Experience in data modelling and database design, including knowledge of data modelling tools and techniques",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "API Development and Integration",
+                "SkillDescription": "Experience in developing and integrating APIs (Application Programming Interfaces) to connect software applications and systems",
+                "SkillLevel": "Emergent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Technical Acumen",
+                "SkillDescription": "Strong technical acumen and the ability to understand and communicate technical concepts to non-technical stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Business Process Modelling",
+                "SkillDescription": "Experience in modelling, analyzing, and improving business processes, using tools and techniques such as BPMN and Lean Six Sigma",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles and techniques",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Relevant Degree",
+                "SkillDescription": "A bachelors or masters degree in a relevant field, such as computer science, engineering, business administration, or a related field",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Cloud Computing",
+                "SkillDescription": "Knowledge of cloud computing technologies and the ability to design and implement cloud-based solutions",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Cybersecurity",
+                "SkillDescription": "Knowledge of cybersecurity principles and the ability to identify and mitigate potential security risks associated with software and systems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Agile and Scrum Methodologies",
+                "SkillDescription": "Strong understanding of Agile and Scrum methodologies and experience in implementing and managing these practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Experience in data science techniques, such as machine learning, statistical analysis, and data mining, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Experience in artificial intelligence (AI) techniques, such as machine learning, natural language processing, and computer vision, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Blockchain",
+                "SkillDescription": "Knowledge of blockchain technology, including understanding of smart contracts and distributed ledgers, and experience in applying this technology to business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Knowledge of Internet of Things (IoT) technologies, and the ability to design and implement IoT solutions",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "UX Design",
+                "SkillDescription": "Experience in UX design, including user research, wireframing, and prototyping, and the ability to design user-centered interfaces and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Product Management",
+                "SkillDescription": "Experience in product management, including the ability to identify customer needs and translate them into product requirements",
+                "SkillLevel": "Emergent"
+            }
+        ]
+    }
+}    
+           

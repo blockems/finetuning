@@ -1,0 +1,30 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Stakeholder Engagement for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am hoping to gain a deeper understanding of what it takes to be an expert in Stakeholder Engagement for a SAFe Lean Portfolio Manager. Can you guide me in the right direction in terms of skills, attributes, practices, and areas of knowledge that are necessary for achieving this level of proficiency?
+
+Tim: Hi there, certainly! I'm glad to hear that you're curious about this area, as it's an incredibly important competency for a SAFe LPM. In terms of skills, an expert in stakeholder engagement needs to be able to communicate effectively, listen actively, and collaborate with a wide range of individuals across various teams and departments. They should also be skilled at negotiating and resolving conflicts, as stakeholder engagement involves managing multiple competing interests.
+
+Attributes that are necessary for this level of proficiency include empathy, adaptability, and strategic thinking. Being able to put yourself in the shoes of different stakeholders and understand their perspectives will help to build trust and foster collaborative relationships. It's also important to be able to adapt to changing circumstances and to think strategically about how stakeholder engagement aligns with broader business objectives.
+
+Practices that are necessary for an expert in stakeholder engagement include utilizing agile methodologies, building trust and rapport with stakeholders, and creating and implementing effective communication plans. As an LPM, it's also important to understand the various stages of the portfolio lifecycle and how stakeholder engagement fits into each of these stages.
+
+Areas of knowledge that are necessary for this level of proficiency include stakeholder mapping and analysis, conflict resolution, communication planning and execution, and knowledge of SAFe principles and methodologies. It's also helpful to have an understanding of organizational psychology, as stakeholder engagement involves navigating complex interpersonal dynamics.
+
+User: Thank you, Tim. That is very helpful. Can you provide me with some references or literature that I can read to deepen my knowledge on this topic?
+
+Tim: Sure! Here are a few resources that may be helpful in deepening your knowledge:
+
+- “Agile Project Management with Scrum” by Ken Schwaber and Jeff Sutherland
+- “Scaling Lean and Agile Development: Thinking and Organizational Tools for Large-Scale Scrum” by Craig Larman and Bas Vodde
+- “The Fifth Discipline: The Art and Practice of the Learning Organization “ by Peter Senge
+- “Crucial Conversations: Tools for Talking When Stakes Are High” by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+
+I hope you find these resources helpful in deepening your knowledge of stakeholder engagement within the context of portfolio management. Let me know if you have any further questions or if there's anything else I can assist you with.

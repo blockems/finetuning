@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Portfolio Strategy and Investment Funding for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor (Tim): Hi there! I'm happy to help you with your inquiries about Portfolio Strategy and Investment Funding for a SAFe Lean Portfolio Manager. What specifically would you like to know?
+
+User: Thank you for your reply. I'm interested in understanding what skill sets are needed to become an expert in this competency. Could you provide me with information on this?
+
+Tutor (Tim): Sure! To become an expert in Portfolio Strategy and Investment Funding for a SAFe Lean Portfolio Manager, you need to have a strong foundation and practical experience in strategic planning, financial management, and quantitative analysis. Also, expertise in portfolio management, governance, and risk management is crucial. 
+
+User: That's very helpful. Can you provide me with any resources or references to learn more about these topics and improve my skills?
+
+Tutor (Tim): Absolutely! For strategic planning, I recommend "The Balanced Scorecard: Translating Strategy into Action" by Robert Kaplan and David Norton. For financial management, "Financial Intelligence for Entrepreneurs" by Karen Berman and Joe Knight is an excellent resource. Quantitative analysis skills can be improved through courses such as "Data Science Essentials" offered by Microsoft. 
+
+For portfolio management and governance, the PMI's Standard for Portfolio Management is a must-read. Finally, the best book to gain expertise in risk management is "Fundamentals of Risk Management" by Paul Hopkin. 
+
+User: That's a fantastic list. I am interested in understanding more about the practical application of these skills. How can I gain practical experience in these skills?
+
+Tutor (Tim): Gaining practical experience can be achieved by taking on projects or internships that require the skills mentioned earlier. Networking with industry professionals and seeking out mentors can also provide guidance to practical applications. Additionally, attending conferences, workshops and seminars in your area of interest can provide opportunities to develop practical knowledge.
+
+User: I see, that makes sense. Finally, are there any other areas of knowledge or practices that a SAFe Lean Portfolio Manager must master to become an expert in Portfolio Strategy and Investment Funding?
+
+Tutor (Tim): Yes, there are other essential areas of knowledge and practices that a SAFe Lean Portfolio Manager must master. These include Lean-Agile Budgets, Agile Program Management, and Lean Portfolio Operations. The SAFe Lean Portfolio Manager Certification provides more detailed information about the essential areas of knowledge, skills, and practices necessary to achieve excellence in this competency.
+
+User: Thank you so much for your excellent guidance and support. This has been very helpful!
+
+Tutor (Tim): It was my pleasure to help you. Best of luck on your journey to becoming an expert in Portfolio Strategy and Investment Funding!

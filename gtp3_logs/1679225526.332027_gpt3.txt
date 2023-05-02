@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency User Experience (UX) Design for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm interested in becoming an Emergent UX Design for a Release Train Engineer (RTE). What skills, attributes, practices, and areas of knowledge are essential?
+
+Tim: Hello! Great to hear of your interest in becoming an Emergent UX Design for an RTE. To excel in this role, one must have a comprehensive understanding of the craft of design, empathy for the user, and excellent communication skills.
+
+User: Can you elaborate more on 'comprehensive understanding of the craft of design'?
+
+Tim: Sure! It means that you should have a deep understanding of design principles, its history, and its contemporary practices. This includes knowledge in visual design, interaction design, information architecture, user research, design thinking, and design strategy. Some good books that can help you in this regard are "The Non-Designer's Design Book" by Robin Williams, "The Design of Everyday Things" by Donald Norman, and "The Elements of User Experience" by Jesse James Garrett.
+
+User: Wow, that's a lot to learn. But how about empathy for the user?
+
+Tim: Yes, empathy for the user is critical in the field of UX design. To create effective and engaging interfaces, you need to understand the users' needs and behaviors, and how they interact with the digital world. You must be able to develop a deep understanding of diverse user groups and human behavior. Some recommended readings on this topic are "Don't Make Me Think" by Steve Krug and "The User Experience Team of One" by Leah Buley.
+
+User: Excellent! And what about communication skills?
+
+Tim: Communication skills are vital to being a successful UX Designer. You need to communicate your design ideas and findings to your team and stakeholders. Excellent communication skills enable designers to collaborate effectively with cross-functional teams of technologists, designers, and business stakeholders. The best references for communication skills are books like "The Art of Communicating" by Thich Nhat Hanh and "Crucial Conversations" by Kerry Patterson.
+
+User: Thanks for those recommendations, I will add them to my reading list. By the way, what should I know about design thinking and design strategy?
+
+Tim: Design thinking is a problem-solving approach that designers use to solve complex problems by empathizing with users, framing the problem, ideating, prototyping, and testing solutions. Knowing about design thinking will enable you to develop new ideas and improve products or services. "Solving Problems with Design Thinking" by Jeanne Liedtka, Andrew King, and Kevin Bennett is a recommended book on this.
+
+Design strategy is about designing for larger systems rather than just particular artifacts. It involves understanding the context of the system and designing interventions to facilitate positive outcomes. This is important for designing solutions that will be sustainable and have a positive impact on stakeholders. "Designing for Growth" by Jeanne Liedtka and Tim Ogilvie is a great book to start with.
+
+User: Thank you so much for your insights. Is there anything else I should know to be an Emergent UX Design for an RTE?
+
+Tim: Yes, keep updated with the latest UX trends and technologies, and attend UX conferences and workshops. And finally, cultivate a deep curiosity and passion for design - this will fuel your drive to consistently push the boundaries and find innovative solutions.

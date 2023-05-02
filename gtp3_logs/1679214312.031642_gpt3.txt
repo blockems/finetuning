@@ -1,0 +1,25 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Quality Assurance for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery managers play a critical role in ensuring the successful delivery of projects using Agile methodologies. Quality assurance is a fundamental competency for Agile delivery managers as it ensures that product and project quality is maintained throughout the delivery process. To be competent in quality assurance as an Agile delivery manager, one requires three types of skill sets: technical, interpersonal, and business-related. 
+
+Technical skills involve the technical aspects of Quality assurance(Manuel, D., Abran, A., & Bijankhan, M. Feb-2017). These skills are integral to ensuring that requirements are met, testing is executed, and defects are tracked and resolved. Technical skills required to be competent in quality assurance include knowledge of testing methodologies and tools, requirements analysis, test planning, and defect tracking.
+
+Interpersonal skills are essential soft skills required of Agile delivery managers in ensuring successful delivery of projects(Tuckman, B. W. (1965)). Interpersonal skills include leadership, communication, collaboration and problem-solving, critical thinking, and decision-making. These skills are particularly important in ensuring that the development team is working efficiently, communication between all parties is clear and efficient, and that problems are addressed and resolved with urgency. 
+
+Business-related skills are a set of skills that enable the Agile delivery manager to understand and manage the business aspect of delivering quality products successfully. These skills include resource management, budgeting, forecasting, and risk management. By being competent in business-related skills, Agile delivery managers can efficiently manage resources, analyze risks, and forecast project outcomes. 
+
+Agile delivery managers need to apply Quality Assurance practices for delivering quality products continuously(Behara, R. S., & Singh, V. P. (2019)). There are several Quality Assurance practices that Agile delivery managers can utilize to enhance project quality. Continuous integration, test-driven development, traceability, and retrospectives are examples of Quality Assurance practices that Agile delivery managers can apply to deliver high-quality software products. 
+
+In conclusion, to be competent in Quality Assurance, Agile delivery managers must possess technical, interpersonal and business-related skillset, and apply QA practices. By having all the relevant skills and practices, Agile delivery managers can ensure that products and projects are delivered with the highest quality.
+
+References:
+
+Manuel, D., Abran, A., & Bijankhan, M. (2017). Agile and Lean methodologies: Comparison and critical analysis. In 2017 IEEE/ACIS 16th International Conference on Computer and Information Science (ICIS) (pp. 73–78). IEEE. https://doi.org/10.1109/ICIS.2017.7950368
+
+Tuckman, B. W. (1965). Developmental sequence in small groups. Psychological Bulletin, 63(6), 384–399. https://doi.org/10.1037/h0022100
+
+Behara, R. S., & Singh, V. P. (2019). Agile software development practices: A systematic literature review. Computer Standards & Interfaces, 67, 13–29. https://doi.org/10.1016/j.csi.2019.03.001

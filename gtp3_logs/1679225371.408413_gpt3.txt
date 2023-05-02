@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Acumen for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I've been reading up on the RTE role and one of the competencies that stands out to me is Business Acumen. What would you say are the key skills, attributes, practices and areas of knowledge needed to reach the Emergent level in this competency?
+
+Tim: Great question! To reach the Emergent level in Business Acumen as an RTE, it's important to possess strong analytical skills, have a deep understanding of market trends, and be able to anticipate potential business disruptions. Additionally, effective communication, critical thinking, and a strong sense of team collaboration are crucial for an RTE to succeed in this area.
+
+User: Thanks for the insights Tim. Can you recommend any specific resources or materials that could help me develop these skills further?
+
+Tim: I would recommend starting with the book "Business Acumen for Strategic Communicators: A Primer on Financial and Corporate Strategy for Success in Public Relations and Communication" by Simulations Publications. This book provides practical advice and tools, specifically for those in the communication field, but the concepts can be applied to any role. Another resource is the Harvard Business Review, which has great articles on business acumen and strategic thinking.
+
+User: That sounds great, I'll definitely check those out. Can you provide some examples of how an RTE with strong Business Acumen skills can make a difference in their role?
+
+Tim: Sure, an RTE with strong Business Acumen skills can improve their release planning by taking into account market trends and identifying potential risks that could impact the business. They can also help the development teams understand the importance of their work in relation to the overall business goals and objectives. Additionally, an RTE with business acumen can help the organization stay competitive in their industry and make strategic decisions that positively impact the bottom line.
+
+User: Wow, that's really insightful. Thanks for sharing that with me Tim. Are there any other competencies that I should focus on as an RTE?
+
+Tim: As an RTE, other competencies to focus on include systems thinking, continuous improvement, and servant leadership. These competencies will help you effectively manage and lead your release train, collaborate with stakeholders across the organization, and continuously improve your processes and practices.
+
+User: Thank you for your time and expertise, Tim. I really appreciate it.
+
+Tim: You're welcome! I encourage you to continue expanding your curiosity and learning mindset, it will only benefit you in your career.

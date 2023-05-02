@@ -1,0 +1,105 @@
+{
+    "Role": "Business Systems Analyst",
+    "Description":"A Business Systems Analyst (BSA) is responsible for analyzing and documenting the business requirements of an organization and translating them into technical requirements for software development projects. The role involves working closely with stakeholders to identify and document business processes, rules, and requirements, and communicating these requirements to the development team.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Requirements Analysis",
+                "SkillDescription": "Experience in requirements analysis and the ability to translate business requirements into technical requirements",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Experience in data analysis and the ability to analyze and interpret data to inform technical decisions",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Experience in managing stakeholder expectations and communicating with customers, users, and other stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Agile and Scrum Methodologies",
+                "SkillDescription": "Strong understanding of Agile and Scrum methodologies and experience in implementing and managing these practices",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Problem-Solving and Decision-Making",
+                "SkillDescription": "Ability to identify problems and make informed decisions, taking into account business objectives and risk management principles",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Business Process Modelling",
+                "SkillDescription": "Experience in modelling, analyzing, and improving business processes, using tools and techniques such as BPMN and Lean Six Sigma",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Visualization",
+                "SkillDescription": "Experience in creating and presenting data visualizations to facilitate decision-making and communicate insights to stakeholders",
+                "SkillLevel": "Emergent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Technical Acumen",
+                "SkillDescription": "Strong technical acumen and the ability to understand and communicate technical concepts to non-technical stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Excellent communication skills, including the ability to effectively communicate with technical and non-technical stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Process Mapping",
+                "SkillDescription": "Experience in process mapping and the ability to create process flows and diagrams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles and techniques",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Relevant Degree",
+                "SkillDescription": "A bachelor's or master's degree in a relevant field, such as computer science, engineering, business administration, or a related field",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Experience in data science techniques, such as machine learning, statistical analysis, and data mining, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Experience in UX design, including user research, wireframing, and prototyping, and the ability to design user-centered interfaces and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Cybersecurity",
+                "SkillDescription": "Knowledge of cybersecurity principles and the ability to identify and mitigate potential security risks associated with software and systems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Cloud Computing",
+                "SkillDescription": "Knowledge of cloud computing technologies and the ability to design and implement cloud-based solutions",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Experience in big data technologies, such as Hadoop, Spark, and NoSQL databases, and the ability to use these technologies to analyze and process large volumes of data",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Experience in artificial intelligence (AI) techniques, such as machine learning, natural language processing, and computer vision, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Knowledge of Internet of Things (IoT) technologies, and the ability to design and implement IoT solutions",
+                "SkillLevel": "Emergent"
+            }
+        ]
+    }
+}

@@ -1,0 +1,50 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Facilitation for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching is a fundamental competency that combines the skills of facilitation, coaching, teaching, mentoring, consulting, and advising to help organizations transform their culture and adopt agile practices. Facilitation is one of the essential skills that an Agile Coach should possess to create an environment of trust and collaboration in the organization. In this discussion, we will delve into the skills, practices, and areas of knowledge that an Agile Coach must acquire to achieve an Expert level of proficiency in facilitation.
+
+Skills:
+
+1. Active Listening: An Agile Coach must master active listening skills to understand the concerns and perspectives of every individual in the team.
+
+2. Empathy: Empathy is essential for building trust and a sense of psychological safety among the team members.
+
+3. Conflict Resolution: It is inevitable that conflicts will arise in any team. An Agile Coach must have the skills to resolve conflicts and disagreements effectively.
+
+4. Non-violent communication: The Agile Coach must have the ability to communicate in a non-judgmental and unbiased manner while addressing challenges or concerns within the team.
+
+5. Emotional Intelligence: An Agile Coach with a high level of emotional intelligence can understand emotions, reactions, and feelings of individuals in the team, which helps create an environment of trust and rapport.
+
+Practices:
+
+1. Preparing the team before the meeting: An Agile Coach must prepare the team before a meeting or a workshop. They must provide an agenda, explain the purpose of the meeting, and clarify the roles and responsibilities of each attendee.
+
+2. Planning and designing workshops: The Agile Coach should have expertise in designing and facilitating workshops that align with the team's goals, objectives, and desired outcomes.
+
+3. Establishment of expectations and norms: Agile Coach must ensure the team establishes a set of expectations and norms to create a safe environment for collaboration.
+
+4. Creating Ground rules: Creating ground rules for team communication and dynamics is a facilitation technique that an Agile Coach must master.
+
+5. Encouraging Team Participation: Agile Coaches must encourage and motivate team members to participate in discussions, brainstorming, and decision making.
+
+Areas of Knowledge:
+
+1. Group Dynamics: Knowledge about group dynamics, team building, and behavior patterns is the foundation of facilitating a successful Agile team.
+
+2. Agile Techniques: An Agile Coach must have a deep understanding of Agile methodologies, practices, and principles to guide and coach the team.
+
+3. Organizational Culture: Understanding organizational culture is essential for Agile Coaches to successfully facilitate the adoption of Agile practices and principles.
+
+4. Change Management: Agile Coaches must have expertise in change management, including the ability to plan, implement, and monitor change initiatives.
+
+5. Facilitation techniques: An Agile Coach must have a wide range of facilitation techniques up their sleeve, like brainstorming, open space, retrospectives, and many more.
+
+In conclusion, an Agile Coach can achieve Expert-level proficiency in facilitation through a combination of skills, practices, and areas of knowledge. They must have active listening, empathy, conflict resolution, non-violent communication, emotional intelligence, and be proficient in preparing for meetings, workshop planning, establishing expectations and norms, creating ground rules, and encouraging team participation. Agile Coaches must have a deep understanding of group dynamics, Agile methodologies, organizational culture, change management, and facilitation techniques, to create a safe environment for collaboration in the team. 
+
+References:
+- Agile Extension to the BABOK® Guide
+- Agile Coaching by Rachel Davies & Liz Sedley
+- Facilitation at a Glance! by Ingrid Bens

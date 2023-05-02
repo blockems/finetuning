@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Leadership for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in discussing the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Leadership for an Agile Program Lead.
+
+Tim: Hello, it's great to see your curiosity in this field. The role of an Agile Program Lead is crucial in agile development. To become an effective lead, you must have a combination of technical and leadership skills. 
+
+User: Can you share more about the technical skills required of an Agile Program Lead?
+
+Tim: Sure. As an Agile Program Lead, you must have a deep understanding of software development principles, including software design, architecture, development methodologies, and testing. You should also be proficient in relevant programming languages, and have hands-on experience in developing software applications. Would you like me to share some recommended literature on agile software development?
+
+User: That would be great, thank you.
+
+Tim: Some books worth reading include "Agile Estimating and Planning" by Mike Cohn, "Clean Code" by Robert C. Martin, and "Continuous Delivery" by Jez Humble and David Farley. These books provide a solid foundation in agile software development principles and practices.
+
+User: What leadership attributes are important in this role?
+
+Tim: Excellent question. An Agile Program Lead must demonstrate strong leadership skills, such as delegation, motivation, communication, and coaching. They should be able to inspire their team by setting clear goals, providing guidance, and fostering a positive team culture. Additionally, they must be able to adapt to rapidly changing circumstances and be comfortable with ambiguity.
+
+User: Can you provide some more details on Agile program management practices?
+
+Tim: Definitely. Agile program management practices include agile project management methodologies such as Scrum, Kanban, and Lean. Agile program management also includes continuous integration, continuous delivery/deployment, and continuous testing. These practices are designed to improve collaboration, software quality, and predictability in software development projects. 
+
+User: Are there any additional areas of knowledge that would be beneficial for someone in this role?
+
+Tim: Yes. To be an effective Agile Program Lead, knowledge of business strategy, budgeting, finance, and risk management are essential. As an Agile Program Lead, you must be able to understand the business objectives and align them with the software development program to achieve those objectives. You should also be able to manage budgets, understand resource allocations, and keep track of financial metrics. Knowing how to manage risks and implement risk mitigation strategies is also essential. 
+
+User: Thank you so much for sharing all that information, Tim! Your responses have been truly fascinating and enlightening.
+
+Tim: It's been a pleasure to share my knowledge with you. If you have further questions, don't hesitate to reach out.

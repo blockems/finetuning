@@ -1,0 +1,19 @@
+User: Hi Tim, I'm looking to be an Emergent level Agile Program Lead within Kanban Methodology. What skills should I develop to reach this level?
+
+Tim: Hi there! Glad to hear you're interested in developing your skills as an Agile Program Lead. To reach Emergent level within Kanban Methodology, you should develop your skills in areas such as lean management, process improvement, and project management. 
+
+User: That sounds like a great start! What attributes do I need to possess as an Agile Program Lead?
+
+Tim: In addition to skills, there are certain attributes that can help make you effective as an Agile Program Lead. Some of these include being proactive, adaptable, and open to feedback. You should also be comfortable collaborating with cross-functional teams and possess strong communication skills.
+
+User: That makes sense. Are there any practices that I need to be proficient in to excel in this role?
+
+Tim: Yes, there are several practices that you should be proficient in as an Agile Program Lead. These include process mapping, value stream analysis, and statistical process control. A strong understanding of these practices will help you identify areas of improvement and implement efficient processes to maximize productivity.
+
+User: Okay, got it. Which areas of knowledge should I develop to become an Emergent level Agile Program Lead?
+
+Tim: To become an Emergent level Agile Program Lead, you should focus on developing your knowledge in areas such as systems thinking, project management methodologies, and lean principles. 
+
+User: Thanks, Tim. These are really helpful insights. Do you have any references or recommended readings that can help me to further my understanding of these concepts?
+
+Tim: Sure thing! I would recommend reading "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson, "The Lean Startup" by Eric Ries, and "The Toyota Way: 14 Management Principles from the World's Greatest Manufacturer" by Jeffrey K. Liker. These resources will definitely help you get a deeper understanding of Kanban Methodology, lean principles, and project management methodologies.

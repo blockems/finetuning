@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Business Acumen for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I have been working towards becoming a lead Agile Coach and I hear that Business Acumen is a critical competency. Can you advise me on the skills, attributes, practices and areas of knowledge required to excel in that competency?
+
+Tim: Great question! Business Acumen is indeed a critical competency for Agile Coaches. To excel in this competency, you need to have a deep understanding of business processes, financial management, and organizational culture. You need to be able to identify key business drivers and align Agile processes with them.
+
+User: Can you elaborate more on how financial management is relevant to Business Acumen for Agile Coaches?
+
+Tim: Yes, financial management is important because Agile Coaches need to understand how to manage budgets, analyze financial data, and make informed decisions based on that data. They should also have knowledge of financial reporting, risk management, and forecasting. The Agile Coach should be able to communicate the business case for Agile and quantify its benefits in terms of ROI, productivity, and cost savings. I would recommend the book “Agile Estimating and Planning” by Mike Cohn as an excellent reference for learning about Agile financial management.
+
+User: That makes sense. What attributes do I need to have as an Agile Coach to build my Business Acumen?
+
+Tim: To build your Business Acumen, you need to be a keen observer, a strategic thinker, and an effective communicator. You should be able to understand what motivates people, what drives their behavior, and how you can influence that behavior to achieve better outcomes. You need to be able to read between the lines, ask probing questions, and identify potential problems before they arise. A report by Forbes suggests that traits like resilience, optimism, and self-motivation are crucial for Agile Coaches to excel in Business Acumen.
+
+User: Thank you, Tim. What about practices and areas of knowledge that I need to focus on?
+
+Tim: To develop your Business Acumen, you may want to spend time exploring business models, market trends, and industry standards. You could study areas such as supply chain management, product development, marketing, and customer service. You could attend industry conferences, meet with senior executives, and participate in cross-functional teams to gain exposure to diverse business operations. If you are looking for a good book to get started, I would recommend “The Lean Startup” by Eric Ries, which is an excellent resource for understanding the entrepreneurial mindset and the importance of iterative learning.
+
+User: This is all great advice! Thank you so much Tim for your insights and recommendations. I will certainly take them on board as I continue my personal and professional development towards becoming a lead Agile Coach.
+
+Tim: You're welcome! Remember to always be curious and never stop learning. Stay agile!

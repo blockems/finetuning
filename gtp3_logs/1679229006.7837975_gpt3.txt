@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor Tim: Hi there! I understand that you're interested in learning about the skills, attributes, practices, and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a SAFe Release Train Engineer (RTE). Is that correct?
+
+User: Hello Tim, Yes, that's correct. I want to know what it takes to be considered an Emergent level RTE for Big Data in SAFe.
+
+Tutor Tim: Great! Well, to start off, an RTE with a Big Data competency should have a solid understanding of several skills such as data modeling, data architecture, data warehousing, data mining, and data analysis. Additionally, they should be familiar with popular Big Data technologies and tools like Apache Hadoop, Spark, and NoSQL databases.
+
+User: Can you explain the importance of data modeling in Big Data?
+
+Tutor Tim: Certainly! The process of data modeling plays a crucial role in Big Data as it helps RTEs to better understand data relationships and maintain data integrity. It involves creating a conceptual or logical representation of various data entities and their relationships to understand how data flows within the system. This helps in building complex data structures and designing efficient data retrieval algorithms.
+
+User: That makes sense. How about data warehousing and data mining?
+
+Tutor Tim: Data warehousing is the process of collecting and storing large volumes of data from various sources in a way that is optimized for querying and analysis. Data mining, on the other hand, is the process of analyzing data from various sources to discover hidden patterns and correlations. RTEs should be familiar with both these practices as they help in making informed business decisions and optimizing system performance.
+
+User: Interesting! Are there any specific attributes that an RTE with Big Data competency should possess?
+
+Tutor Tim: Absolutely! An RTE working in Big Data should have excellent problem-solving skills, be able to think critically, pay attention to detail, and possess good communication skills. They should also be able to work well in a team and possess leadership qualities to guide their team towards achieving the desired outcome.
+
+User: Thank you, Tim. Are there any recommended readings or resources that I should explore to get a better understanding of these concepts?
+
+Tutor Tim: Sure! I recommend "Big Data: Principles and Best Practices of Scalable Realtime Data Systems" by Nathan Marz and "Hadoop: The definitive guide" by Tom White. Both are excellent resources for understanding Big Data concepts and relevant technologies.
+
+User: Thank you so much, Tim. You’ve been really helpful.
+
+Tutor Tim: You're welcome! Don't hesitate to reach out if you have any more questions.

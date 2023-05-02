@@ -1,0 +1,39 @@
+User: Hi Tim, I hope you are doing well. I am interested in becoming a SAFe Lean Portfolio Manager (LPM), and I was wondering what skills, attributes, practices and areas of knowledge are required to be competent in problem solving and conflict resolution?
+
+Tim: Hi there! Yes, I'm doing well, thank you. That's a great question and I'm happy to help you. Problem solving and conflict resolution are very important skills for a SAFe LPM to have. Some of the essential skills and attributes that come to mind for problem solving are critical thinking, analytical thinking, communication, teamwork, and adaptability. For conflict resolution, the key attributes and skills include empathy, active listening, communicating assertively, and negotiation. Do you have any specific questions about these areas or some of the practices?
+
+User: What are some of the practices that can help me develop my problem solving and conflict resolution skills?
+
+Tim: That's a great question. There are several practices that you can focus on:
+
+1. Root Cause Analysis (RCA) - This is a technique used to determine the underlying cause of a problem, and can help to identify solutions to prevent it from occurring again.
+
+2. Brainstorming - This is a technique used to generate ideas in a group setting. It can help to develop creative solutions to problems.
+
+3. Agile Problem Solving - This approach emphasizes the importance of adaptation and continuous improvement, and emphasizes experimentation and learning from both successes and failures.
+
+4. Collaborative Decision Making - This practice encourages input from all stakeholders, and allows for everyone to have a say in the decision-making process.
+
+For conflict resolution, there are several practices that can be effective, including:
+
+1. Active Listening - This involves giving full attention to what the other person is saying, and responding in a way that shows you understand their perspective.
+
+2. Assertive Communication - This involves being clear and direct in your communication, while also being respectful and open to feedback.
+
+3. Negotiation - This involves finding a middle ground that both parties can agree on, and can help to resolve conflicts in a positive way.
+
+4. Mediation - This involves bringing in a neutral third party to help resolve conflicts, and can be effective in situations where parties have difficulty resolving the conflict on their own.
+
+These practices can help to develop your skills in problem solving and conflict resolution. Do you have any further questions about these practices or other areas of knowledge?
+
+User: This is very helpful, thank you. Can you recommend any specific books or articles that focus on problem solving and conflict resolution in the context of SAFe?
+
+Tim: Definitely. There are a few resources that could be useful for you:
+
+1. SAFe® 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework: This book provides an overview of the SAFe framework and highlights key skills and practices for managing Agile programs.
+
+2. Agile Conflict Resolution: Good practice and useful tips: This article from Agile Alliance provides practical tips for resolving conflicts in an Agile environment.
+
+3. Think Like a Data Scientist: Tackling Complex Problems Using R: This book is not specific to SAFe, but focuses on practical techniques for problem-solving and critical thinking in a data-driven environment.
+
+I hope these resources help to deepen your understanding of problem solving and conflict resolution within SAFe. Let me know if you have any additional questions!

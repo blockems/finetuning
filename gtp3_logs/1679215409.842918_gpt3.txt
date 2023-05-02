@@ -1,0 +1,24 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management is all about effective communication, leading and empowering teams for success. For this, a project manager should possess certain skills, practices, and areas of knowledge to be competent in communication. Communication is the primary channel for achieving project success, and Agile project managers have to communicate effectively across various stakeholders to ensure that the project meets its objectives. 
+
+Skills:
+Effective communication requires interpersonal and communication skills, which include listening, questioning, observing, and empathizing. To be competent in this area, an Agile project manager should possess excellent communication skills, active listening capabilities, clarity of expression, and the ability to manage conflicts and deliver negative feedback. 
+
+Practices:
+Agile project managers need to be proficient in cultivating a communication-rich environment that is conducive to collaboration and innovation. They should encourage all stakeholders to communicate freely, actively participate in discussions and decision-making processes. Agile project managers should leverage Agile methodologies that use daily stand-ups, retrospectives, and feedback loops to facilitate communication among team members. 
+
+Areas of knowledge:
+Agile project managers must be knowledgeable about various communication mediums, including written, verbal, non-verbal, and visual, and choose the right channel for effective communication. They should consider the cultural and linguistic context of their audience and communicate accordingly. They should be well-versed in Agile project management terminology and be able to explain its concepts, principles, and practices to stakeholders who may not be familiar with them. 
+
+Effective communication requires aligning communication goals with project objectives, stakeholders' needs, and the organization's mission. Agile project managers can leverage various communication tools, such as emails, phone calls, video conferences, instant messaging, and other technological platforms, to ensure that communication is efficient, effective, and timely. 
+
+In conclusion, agile project managers should be skilled in active listening, empathizing with stakeholders, managing conflicts, and delivering feedback, among other skills. They should cultivate a communication-rich environment, leverage agile methodologies that use feedback loops, and choose the right communication channels to convey information effectively. They should be knowledgeable about Agile project management terminology, cultural and linguistic contexts, and be proficient in using communication tools to enhance project success. References:
+
+1. Agile Alliance: https://www.agilealliance.org/glossary/communication/
+2. PMI: https://www.pmi.org/learning/library/communication-key-agile-success-6289
+3. Agile Institute: https://www.agileinstitute.com.au/agile-communication/

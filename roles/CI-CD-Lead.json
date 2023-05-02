@@ -1,0 +1,100 @@
+{
+    "Role": "CI/CD Lead",
+    "Description":"A CI/CD Lead is responsible for overseeing the implementation and management of Continuous Integration and Continuous Delivery (CI/CD) processes and tools within an organization. The role involves working closely with development teams to ensure that software can be built, tested, and deployed efficiently and reliably.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "CI/CD Processes",
+                "SkillDescription": "Deep understanding of Continuous Integration and Continuous Delivery processes, and the ability to implement and manage these practices for both on-premise and cloud-based applications",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "DevOps Toolchain",
+                "SkillDescription": "Hands-on experience in DevOps toolchain, including build automation, configuration management, version control, continuous integration, and deployment automation tools",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Cloud Infrastructure",
+                "SkillDescription": "Hands-on experience with public cloud infrastructure, including AWS, Azure or Google Cloud Platform, and ability to manage and operate infrastructure as code using tools such as Terraform",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Scripting and Automation",
+                "SkillDescription": "Ability to write scripts and automate tasks using languages such as Python, Ruby, and Bash",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Agile Methodologies",
+                "SkillDescription": "Strong understanding of Agile methodologies, and the ability to implement and manage these practices for CI/CD processes",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Containers and Orchestration",
+                "SkillDescription": "Hands-on experience with containers and container orchestration technologies such as Docker and Kubernetes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Infrastructure as Code",
+                "SkillDescription": "Understanding of Infrastructure as Code (IaC) principles and experience using tools such as Terraform and CloudFormation",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Monitoring and Logging",
+                "SkillDescription": "Experience with monitoring and logging tools such as Splunk, ELK Stack, and Prometheus",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Security",
+                "SkillDescription": "Understanding of security best practices and experience implementing security controls for CI/CD processes and tools",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Release Management",
+                "SkillDescription": "Experience in release management, and the ability to manage and coordinate releases across multiple environments and teams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Collaboration",
+                "SkillDescription": "Ability to collaborate effectively with development, testing, and operations teams, and to facilitate effective communication and knowledge sharing",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to drive continuous improvement for CI/CD processes and tools, and to identify opportunities for optimization and efficiency gains",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Vendor Management",
+                "SkillDescription": "Ability to manage vendor relationships and to evaluate and select vendor solutions that meet the needs of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles, and the ability to manage CI/CD projects and programs",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Team Management",
+                "SkillDescription": "Ability to manage and lead teams of developers, engineers, and other technical personnel",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Strong communication skills, including the ability to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Leadership",
+                "SkillDescription": "Ability to provide leadership and mentorship to team members, and to create a culture of innovation and continuous improvement",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Strategic Planning",
+                "SkillDescription": "Ability to develop and execute strategic plans for CI/CD processes and tools, and to align these plans with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

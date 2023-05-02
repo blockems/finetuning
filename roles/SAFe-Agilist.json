@@ -1,0 +1,125 @@
+{
+    "Role": "SAFe Agilist",
+    "Description":"A SAFe Agilist is a key player in Scaled Agile Framework (SAFe) for enterprises. The role is responsible for promoting and implementing SAFe practices across the organization to ensure alignment with the overall business objectives. The SAFe Agilist is a change agent, coach, and servant leader, helping teams and stakeholders understand and adopt SAFe principles and practices. The role requires an in-depth understanding of the SAFe framework, Lean-Agile values, and principles, and strong facilitation, coaching, and leadership skills. The SAFe Agilist collaborates with teams, management, and other stakeholders to identify opportunities for improvement and drives the continuous improvement of the organization's Agile processes and practices. The SAFe Agilist's ultimate goal is to enable the organization to deliver high-quality, value-driven solutions to customers in a fast and efficient manner.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile and SAFe Methodologies",
+                "SkillDescription": "Strong understanding of Agile and SAFe methodologies and experience in implementing and managing these practices at the enterprise level",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Agile Release Train Planning and Execution",
+                "SkillDescription": "Experience in Agile Release Train planning and execution, and the ability to manage multiple teams and stakeholders within the ART",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Facilitation and Coaching",
+                "SkillDescription": "Ability to facilitate meetings and workshops, and to coach team members on Agile and SAFe practices and principles",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Team Building and Leadership",
+                "SkillDescription": "Ability to build and lead high-performing Agile teams, and to foster a culture of collaboration, continuous improvement, and transparency",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Problem Solving and Conflict Resolution",
+                "SkillDescription": "Ability to identify and solve problems, and to resolve conflicts within the Agile Release Train and across the enterprise",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to identify areas for improvement and to facilitate continuous improvement at the Agile Release Train and enterprise levels",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Certification",
+                "SkillDescription": "Certification in SAFe methodologies, such as SAFe Agilist (SA), SAFe Program Consultant (SPC), or SAFe Lean Portfolio Manager (LPM)",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Lean-Agile Leadership",
+                "SkillDescription": "Experience in Lean-Agile leadership, including the ability to drive organizational change and to build a Lean-Agile culture",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Experience in project management, and the ability to apply project management principles and techniques within the Agile and SAFe context",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Understanding of business concepts and the ability to align Agile and SAFe practices with business objectives and priorities",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Technical Knowledge",
+                "SkillDescription": "Understanding of technical concepts and the ability to communicate effectively with technical team members and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and techniques, and the ability to identify and mitigate potential risks associated with Agile Release Train and portfolio operations",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to the Agile Release Train and the enterprise, and to use this information to improve team performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "DevOps",
+                "SkillDescription": "Understanding of DevOps practices and their integration with Agile and SAFe practices, and the ability to work effectively with DevOps teams",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Understanding of Big Data technologies and the ability to apply Agile and SAFe practices to Big Data projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Knowledge of artificial intelligence (AI) techniques and the ability to apply these techniques to improve team performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Understanding of Internet of Things (IoT) technologies and the ability to apply Agile and SAFe practices to IoT projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Understanding of User Experience (UX) design principles and the ability to work effectively with UX designers to improve the user experience of Agile and SAFe products and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Understanding of data science concepts and the ability to work effectively with data scientists to improve the data-driven decision-making of Agile and SAFe teams and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Scaled Agile Framework (SAFe) Implementation",
+                "SkillDescription": "Experience in implementing SAFe at the enterprise level, and the ability to customize and tailor SAFe practices to the specific needs and context of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Vendor Management",
+                "SkillDescription": "Experience in managing vendors and external partners, and the ability to ensure that vendors and partners adhere to Agile and SAFe practices and standards",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Program Management",
+                "SkillDescription": "Understanding of program management principles and techniques, and the ability to manage large-scale programs and initiatives within the SAFe context",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Release Management",
+                "SkillDescription": "Understanding of release management principles and techniques, and the ability to manage the release of Agile and SAFe products and applications across multiple environments",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+Here is an example of the conversation between Tim (T) and the user (U):
+
+U: Hi Tim, I'm interested in becoming an Emergent level Technical Business Analyst in the area of Data Modelling. Can you tell me what skills, attributes, practices and Areas of Knowledge I would need to have?
+
+T: Hi, U. It's great to hear that you're interested in becoming an Emergent level Technical Business Analyst in Data Modelling. To answer your question, you will need to develop a strong foundation in both technical and business skills, along with specific knowledge and practices related to the data modelling process.
+
+In terms of technical skills, you should aim to master database design, data modelling techniques and tools, data warehousing, data integration, and data visualization. You will also need to have a solid understanding of programming languages such as SQL, Python or R, as well as knowledge of statistical analysis methods and machine learning algorithms.
+
+In terms of business skills, you should possess good analytical and problem-solving skills, strong communication abilities, strategic thinking, and attention to detail. Additionally, your experience working in different industries or domains can also be of great value.
+
+Lastly, you must be knowledgeable in the areas of both data governance and metadata management. This would include developing and maintaining data dictionaries, glossaries and logical and physical data models. You should also have a good understanding of the data architecture for the organization and an ability to fine-tune and optimize models using established standards and best practices.
+
+U: Thank you, Tim! That's very useful. Can you recommend any resources for me to develop these skills?
+
+T: Sure thing, U. I recommend you check out the following resources:
+
+1. "Data Modelling Essentials" by Graeme Simsion and Graham Witt – a comprehensive and practical guide to data modelling for business analysts.
+
+2. "The Data Warehouse Toolkit" by Ralph Kimball and Margy Ross – a must-read book for anyone interested in data warehousing and dimensional modelling.
+
+3. "The Data Science Handbook" by Carl Shan and William Chen – a collection of interviews with leading data scientists that provides insights into the practical applications of data modelling.
+
+4. Online courses and training programs such as those offered by Udacity, DataCamp, Coursera or edX – which offer a range of courses from basic to advanced data modelling skills.
+
+Remember to keep your curiosity alive and ask questions even beyond what is currently available for you. Best of luck, U!

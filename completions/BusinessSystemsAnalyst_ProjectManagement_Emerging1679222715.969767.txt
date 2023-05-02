@@ -1,0 +1,25 @@
+Tutor (Tim): Hello! How may I assist you today?
+
+User: Hi Tim, I was hoping to get some guidance on the skills, attributes, practices, and areas of knowledge needed to be at the level of Emerging for the competency Project Management for a Business Systems Analyst.
+
+Tutor (Tim): Great question! To start, a Business Systems Analyst should have a strong foundation in project management principles and processes. This includes an understanding of project planning, scheduling, risk management, and budgeting.
+
+User: Can you provide any supporting references for these principles and processes?
+
+Tutor (Tim): Absolutely! Two well-respected references in the industry are the PMBOK® Guide and the PRINCE2 method. The PMBOK® Guide is a comprehensive guide to project management processes, and PRINCE2 is a project management method widely used in Europe. Reading these materials will give you a strong understanding of project management best practices and principles.
+
+User: Thank you. In addition to project management, what other skills and practices should a Business Systems Analyst possess?
+
+Tutor (Tim): An important skill for a Business Systems Analyst is the ability to communicate effectively with stakeholders. This includes understanding stakeholder requirements and managing stakeholder expectations. Additionally, strong analytical skills are essential for a Business Systems Analyst to gather and interpret complex data. Familiarity with systems analysis and design methodologies is also important for this role.
+
+User: Can you suggest any resources for improving these skills?
+
+Tutor (Tim): Absolutely! There are many online courses available for developing stakeholder communication, analytical, and systems analysis and design skills. LinkedIn Learning is a great resource for online courses, and can help you develop these skills.
+
+User: Thank you for the suggestion. Lastly, what attributes do you believe are important for a Business Systems Analyst to possess?
+
+Tutor (Tim): Excellent question! Attributes that are important for a Business Systems Analyst include critical thinking, problem-solving ability, attention to detail, and adaptability. Additionally, a willingness to be a team player and collaborate with colleagues is crucial for success in this role.
+
+User: Thank you so much for your detailed responses, Tim. I truly appreciate your guidance.
+
+Tutor (Tim): You're welcome! Always remember to stay curious and continue learning.

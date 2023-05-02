@@ -1,0 +1,42 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Negotiation for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am a curious professional and I would like to know more about the skills, attributes, practices, and Areas of knowledge needed to be at the level of Competent for the competency Negotiation for an Agile Delivery Manager.
+
+Tim: Hi, glad to hear that you are curious and interested in this subject. Let's start with skills. Some skills that an Agile Delivery Manager needs to be competent in negotiation are active listening, empathy, problem-solving, communication, and strategic thinking. 
+
+User: Thank you, Tim. Can you please explain how these skills are relevant for negotiation?
+
+Tim: Sure. Active listening is crucial because it helps the Agile Delivery Manager to truly understand the needs and concerns of all parties involved in the negotiation. Empathy is important as it fosters mutual respect and understanding, and increases the chances of achieving a win-win outcome. Problem-solving is necessary to be able to identify possible solutions to issues that arise during the negotiation process. Communication is important to articulate ideas and to ensure that all parties are on the same page. Strategic thinking helps to create better opportunities to achieve ideal outcomes.
+
+User: Interesting. How do these skills translate into desirable attributes for an Agile Delivery Manager?
+
+Tim: The desired attributes include curiosity, flexibility, adaptability, openness, integrity, and confidence.
+
+User: How are these attributes important in negotiation?
+
+Tim: These attributes are important because they reflect the Agile Delivery Manager's mindset and approach to negotiation. Curiosity, flexibility, and adaptability help the manager to explore new perspectives and incorporate them into the process. Openness fosters a willingness to consider all options and ideas, even those that may seem unconventional. Integrity creates a sense of trust that is essential for a successful negotiation. Lastly, confidence is necessary to communicate assertively and handle potential conflicts without losing composure.
+
+User: Thanks, Tim. Are there any particular practices that an Agile Delivery Manager could follow to develop and maintain these skills and attributes?
+
+Tim: Yes indeed. Some of the practices that can help include active listening exercises, emotional intelligence assessments, role-playing exercises, negotiation simulations, case studies, and peer feedback sessions. 
+
+User: That sounds interesting. Are there any areas of knowledge that are a must-have for Agile Delivery Managers who want to be competent in negotiation?
+
+Tim: Absolutely. Some areas of knowledge that Agile Delivery Managers must have include principles of negotiation, techniques of mediation, conflict resolution strategies, cultural differences in communication, and ethical considerations in negotiation.
+
+User: Thank you so much, Tim. Can you please provide me with some references to learn more on this subject?
+
+Tim: Sure, here are a few:
+- "Getting to Yes: Negotiating Agreement Without Giving In" by Roger Fisher and William Ury
+- "The Mind and Heart of the Negotiator" by Leigh Thompson
+- "Negotiation and Conflict Management: Essential Skills for the New Manager" by M. Afzalur Rahim
+
+I hope these resources help!

@@ -1,0 +1,38 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Microservices for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Chat log:
+User: Hi Tim, thanks for getting back to me on this. I am really interested in discussing the competency Microservices for a Tech Lead, specifically what it takes to be at the level of Emergent. 
+
+Tim: Great to hear your interest! Before we start, let me clarify that the Emergent level for the competency Microservices for a Tech Lead relates to the ability to effectively design and implement microservices-based architectures. Now, do you have any prior knowledge in this area or should we start from the basics? 
+
+User: I have some basic understanding, but I would like to start from the basics to ensure I have a solid foundation. 
+
+Tim: Sure, let's start with the three key skills required - firstly, strong knowledge of cloud-native architectures, secondly, excellent understanding of software decomposition, and lastly, an understanding of distributed systems. Would you like references for these topics? 
+
+User: Yes, please! 
+
+Tim: You can begin with the book "Building Microservices" by Sam Newman, which provides a clear understanding of cloud-native architectures, and specifically, the twelve-factor methodology. For software decomposition, you can read the book "Implementing Domain-Driven Design" by Vaughn Vernon, which teaches how to decompose software into smaller bounded contexts. For distributed systems, I recommend the paper "The Fallacies of Distributed Computing" by Peter Deutsch and others, which provides a guide to reasoning about distributed systems. 
+
+User: These references are fantastic, thank you. What attributes would one require to be Emergent in this competency? 
+
+Tim: There are two key attributes required at the Emergent level. Firstly, one must have excellent problem-solving skills, because designing microservices-based architectures requires breaking down complex problems into smaller, more manageable parts. Secondly, one must have the ability to communicate effectively, as this is crucial when coordinating a team working on a microservices-based project. 
+
+User: That makes sense. So, what practices would one need to follow to be Emergent in this competency? 
+
+Tim: There are several practices to follow, including continuous delivery, automation testing, and monitoring. Continuous delivery is important as it allows for rapid feedback and iteration. Automation testing is critical because of the need for rigorous testing in complex microservices-based architectures. Monitoring is crucial to detect and diagnose any issues that may arise post-deployment. I have some great resources on these topics that I can send you. 
+
+User: Yes, please! 
+
+Tim: I recommend reading the books "Continuous Delivery" by Jez Humble and David Farley, which explains the principles and practices of continuous delivery. For automated testing, I suggest looking into the practices of Behavior Driven Development (BDD) and Test Driven Development (TDD). Lastly, for monitoring, you can start by reading "Monitoring Distributed Systems" by Rob Ewaschuk, which provides an overview of distributed systems monitoring. 
+
+User: Thank you so much for all of this. I really appreciate your help. 
+
+Tim: No problem at all. Remember, the best way to become Emergent in the competency Microservices for a Tech Lead is to continue learning, practicing and taking on projects that require microservices-based architectures. Always keep your curiosity alive and never stop asking questions!

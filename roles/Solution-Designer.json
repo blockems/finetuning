@@ -1,0 +1,120 @@
+{
+    "Role": "Solution Designer",
+    "Description":"A Solution Designer is responsible for designing and developing solutions to meet business and user needs. They work closely with stakeholders to understand business requirements and then design technical solutions that meet those requirements. They need to have strong technical knowledge and the ability to work with various tools and technologies. In addition to technical skills, they should also possess strong communication, collaboration, and problem-solving skills. The Solution Designer is a key player in the development of new projects and will work closely with project managers, developers, and other stakeholders to ensure the solution meets business needs and is delivered on time and within budget.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Solution Design",
+                "SkillDescription": "Experience in solution design and the ability to design complex technical solutions that meet business requirements",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Enterprise Architecture",
+                "SkillDescription": "Strong understanding of enterprise architecture principles and the ability to design and maintain an organization's technical architecture",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Technical Leadership",
+                "SkillDescription": "Experience in technical leadership, including the ability to lead and manage technical teams and projects",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "System Integration",
+                "SkillDescription": "Experience in system integration, including the ability to integrate disparate systems and applications",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Cloud Computing",
+                "SkillDescription": "Experience in cloud computing technologies, including the ability to design and implement cloud-based solutions",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Software Architecture",
+                "SkillDescription": "Strong understanding of software architecture principles and experience in designing and implementing scalable, maintainable, and high-performance software systems",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Business Process Modelling",
+                "SkillDescription": "Experience in modelling, analyzing, and improving business processes, using tools and techniques such as BPMN and Lean Six Sigma",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Degree",
+                "SkillDescription": "A bachelor's or master's degree in computer science, engineering, or a related field",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Agile and Scrum Methodologies",
+                "SkillDescription": "Strong understanding of Agile and Scrum methodologies and experience in implementing and managing these practices",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles and techniques",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Data Modelling",
+                "SkillDescription": "Experience in data modelling and database design, including knowledge of data modelling tools and techniques",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "API Development and Integration",
+                "SkillDescription": "Experience in developing and integrating APIs (Application Programming Interfaces) to connect software applications and systems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Knowledge of artificial intelligence (AI) techniques, such as machine learning, natural language processing, and computer vision, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Experience in big data technologies, such as Hadoop, Spark, and NoSQL databases, and the ability to use these technologies to analyze and process large volumes of data",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Blockchain",
+                "SkillDescription": "Knowledge of blockchain technology, including understanding of smart contracts and distributed ledgers, and experience in applying this technology to business problems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Cybersecurity",
+                "SkillDescription": "Knowledge of cybersecurity principles and the ability to identify and mitigate potential security risks associated with software and systems",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Knowledge of Internet of Things (IoT) technologies, and the ability to design and implement IoT solutions",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Microservices",
+                "SkillDescription": "Experience in designing and implementing microservices architectures, and knowledge of tools and techniques for managing microservices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Mobile Development",
+                "SkillDescription": "Experience in mobile development, including the ability to design and develop mobile applications for iOS and Android platforms",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Product Management",
+                "SkillDescription": "Experience in product management, including the ability to identify customer needs and translate them into product requirements",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "UX Design",
+                "SkillDescription": "Experience in UX design, including user research, wireframing, and prototyping, and the ability to design user-centered interfaces and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Experience in data science techniques, such as machine learning, statistical analysis, and data mining, and the ability to apply these techniques to solve business problems",
+                "SkillLevel": "Emergent"
+            }
+        ]
+    }
+}

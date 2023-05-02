@@ -1,0 +1,31 @@
+User: Hi Tim, how are you? I'm a little bit lost regarding the skills, attributes, practices, and Areas of knowledge needed to be at the level of Emergent for the competency Artificial Intelligence (AI) for a SAFe Lean Portfolio Manager (LPM).
+
+Tim: Hi there! Glad to hear from you. It looks like you're interested in learning more about the Emergent level of the AI competency for an LPM. To achieve this level, there are a few key areas to focus on. 
+
+Firstly, you will need to have a strong understanding of AI technologies, such as machine learning and natural language processing, as well as the related infrastructure, such as data storage and processing systems. Additionally, you will need to have a good understanding of agile practices and methodologies, since AI projects often involve experimentation and iteration.
+
+User: Thanks for that, Tim. Can you recommend any references for me to dive deeper into these areas?
+
+Tim: Sure, there are several books and articles that I can recommend. For AI technologies, I suggest checking out "Artificial Intelligence: A Modern Approach" by Russell and Norvig, as well as "Deep Learning" by Goodfellow, Bengio, and Courville.
+
+For agile methodologies, I recommend "Agile Estimating and Planning" by Mike Cohn, and "The Agile Samurai" by Jonathan Rasmusson. Additionally, you can check out the Agile Manifesto website for more resources and information.
+
+User: That's really helpful, Tim. What about the skills and attributes necessary for an LPM to effectively manage AI projects?
+
+Tim: Great question. As an LPM, you will need to have strong leadership skills, with the ability to motivate and inspire your team. You will also need to be able to communicate effectively, both with your team and with other stakeholders, such as business leaders and customers.
+
+In terms of technical skills, you should have knowledge of data science techniques, along with experience in implementing machine learning algorithms. You may also need to have an understanding of statistics, since you will be working with large amounts of data.
+
+Finally, you should have a solid understanding of ethical considerations related to AI, as well as legal and compliance issues.
+
+User: Thank you, Tim. You mentioned areas of knowledge. Can you provide examples?
+
+Tim: Sure. There are several key areas of knowledge that are relevant to AI for an LPM. These include:
+
+1. Understanding AI use cases and applications in different industries.
+2. Knowing how to identify, prioritize, and manage AI initiatives within a portfolio.
+3. Understanding how to measure the impact of AI initiatives, both in terms of business value and technical performance.
+4. Knowledge of industry standards and best practices for AI development and deployment.
+5. Understanding how to manage AI risks, such as data privacy and security.
+
+I hope that helps, and please let me know if you have any other questions or concerns.

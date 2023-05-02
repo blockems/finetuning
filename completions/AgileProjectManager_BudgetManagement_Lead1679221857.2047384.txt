@@ -1,0 +1,19 @@
+User: Hi Tim, I hope you’re doing well. I’ve been thinking about my career goals lately and I’m interested in becoming a Lead for the competency of Budget Management for an Agile Project Manager. What skills, attributes, practices and Areas of knowledge do you recommend I focus on acquiring?
+
+Tim: Hi there! That’s a great career goal, and I would be happy to help. Budget management for an Agile Project Manager requires a diverse skill set, including excellent communication skills, financial knowledge, and a strong understanding of project management methodology. Additionally, attributes such as critical thinking, creativity, adaptability, and leadership skills are all important to possess. To be fully prepared for the role, I would recommend that you focus on acquiring skills in the following areas:
+
+1. Financial Management: As a lead, you need to be proficient in financial principles and analysis. It’s essential to understand the cost-benefit relationships required to keep the project on track. I would suggest brushing up on various financial topics, such as budgeting, forecasting, and financial reporting.
+
+2. Project Management: A deep understanding of project management is critical because as a lead, you will be responsible for managing resources and project deliverables. Get acquainted with various methodologies that are used in Agile project management, such as Scrum, Lean, and Kanban.
+
+3. Communication Skills: The ability to communicate effectively with team members and stakeholders is essential to success. You will need to create reports and presentations, and facilitate meetings to communicate project status with project sponsors.
+
+4. Agile Project Management: It is important to develop a deep understanding of Agile methodology as a whole. Gain knowledge of how Agile Transformation works in an organization, adapting Agile at scale and most importantly, understanding and optimizing Agile Values and Principles.
+
+5. Leadership: Possessing strong leadership skills like motivating and inspiring team members for high performance, providing feedback, developing a shared vision of team success, conflict resolution, team building and coaching provides a competitive edge to the Budget Management lead.
+
+References:
+- PMP Exam Prep by Rita Mulcahy
+- Agile Estimating and Planning by Mike Cohn
+- Lean-Agile Procurement by John M. Nash & Emmanuel M. Tony
+- Agile Leadership Toolkit: Learning to Thrive with Self-Management and Strategic Leadership by Peter Koning

@@ -1,0 +1,45 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Acumen for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I was wondering if you could help me understand the skills and attributes needed to be at the level of Emergent for the competency Business Acumen for a SAFe Agilist?
+
+Tim: Hello there! I'd be happy to help you out. Business Acumen for a SAFe Agilist is critical for success in Agile organizations. To achieve Emergent level competency, one needs to possess certain skills and attributes. Some of these include:
+
+- Strong analytical skills to interpret financial statements and metrics effectively
+- Ability to understand market trends and competition
+- Sound understanding of business strategy and goals
+- Strong communication and interpersonal skills to understand the needs of stakeholders
+- The ability to make data-driven decisions
+- Familiarity with business models and organizational structures
+
+These skills and attributes can then be complemented with specific practices to further improve your business acumen.
+
+User: Thanks for the response, Tim! Could you elaborate more on the specific practices needed to achieve Emergent level competency?
+
+Tim: Sure thing! You should focus on the following practices to enhance your skills and expertise in Business Acumen:
+
+- Keep yourself updated with market trends and industry news
+- Learn from leaders in the field and engage in mentorship programs
+- Build your network by attending relevant conferences and events
+- Work on financial models to gain a better understanding of financial statements and metrics
+- Develop a strong understanding of your organization's business strategy and goals
+- Foster relationships with stakeholders, such as customers and suppliers, to understand their needs
+
+User: This is great information, Tim! Do you have any references so that I can further my knowledge?
+
+Tim: Absolutely! I recommend checking out the following resources:
+
+- The Harvard Business Review for articles related to business strategy and acumen
+- The McKinsey Quarterly for insights into market trends and competition
+- The Wall Street Journal and Financial Times for keeping up with current financial news
+- The Business Model Canvas by Alexander Osterwalder for developing your understanding of business models
+- The Agile Business Consortium for more information specifically related to Business Acumen for SAFe Agilists 
+
+I hope this helps you on your journey towards improving your Business Acumen!

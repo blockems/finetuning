@@ -1,0 +1,19 @@
+User: Hello Tim, I'm interested in becoming a competent Technical Business Analyst. What skills, attributes, practices and areas of knowledge do I need to focus on?
+
+Tim: Hi User, great question! To become a competent Technical Business Analyst you will need to have strong analytical and problem solving skills. You should also have knowledge in the technical aspects of business, including data analysis and software development methodologies. In addition, you should be proficient in written and verbal communication, and have the ability to work well in a team. These skills and attributes are vital when analyzing business needs and designing effective solutions.
+
+User: Thanks Tim, that's helpful. Can you give me some examples of methodologies and tools used in technical business analysis?
+
+Tim: Sure! Agile and Scrum methodologies are widely used in technical business analysis. The use of tools like Jira and Trello help in Agile project management, while diagramming tools like ERD, DFD and UML aid in data analysis and project design. You can also look into tools like SQL, Excel and Visio that are critical when working with data and business processes.
+
+User: Interesting, could you tell me more about Agile and Scrum methodologies?
+
+Tim: Agile and Scrum methodologies are iterative and incremental processes that enable rapid delivery and continuous improvement. Agile involves breaking down complex projects into smaller, manageable parts that are completed quickly and efficiently. Scrum, on the other hand, is a framework of Agile that focuses on delivering a working product in incremental phases, with continuous feedback and development.
+
+User: That's informative, thank you. How about Business Analysis Body of Knowledge (BABOK)?
+
+Tim: Business Analysis Body of Knowledge (BABOK) is a widely accepted framework for business analysis best practices. It offers guidance and direction for anyone involved in business analysis, and covers areas like business analysis planning, requirements elicitation, design, analysis, evaluation and much more. You can refer to the International Institute of Business Analysis (IIBA) website for more information on BABOK.
+
+User: Thank you so much, Tim. This has been really helpful. Where can I find more resources to continue learning about Technical Business Analysis?
+
+Tim: Glad to help out, User! You can find information on Technical Business Analysis on numerous online resources like IIBA.org, techopedia.com and BA Times. You can also enroll yourself in courses and certifications like ECBA, CBAP and CCBA from institutes like IIBA and BABOK.

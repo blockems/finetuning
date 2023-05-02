@@ -1,0 +1,23 @@
+User: Hi Tim, I’ve been researching the skills needed to be a lead in program management for SAFe Agilist. What skills would you recommend?
+
+Tim: Hi there! That's a great question. Being a program manager in SAFe requires a wide range of skills, including strategic planning, program execution, leadership, communication, and stakeholder management. Additionally, there are some core competencies needed in agile development practices, as well as experience managing complex initiatives.
+
+User: Thanks for the response, Tim! Can you provide more details on what you mean by agile development practices?
+
+Tim: Sure, agile development practices are a set of methodologies and principles that foster collaboration, flexibility, and customer-centricity in software development. Some of these include Scrum, Kanban, Lean, and XP. These practices emphasize rapid iteration, prioritization of features based on customer needs, and frequent feedback and communication loops between development teams and stakeholders.
+
+User: That makes sense, thank you! What about leadership skills? What kind of leadership skills would a program manager need in SAFe?
+
+Tim: Great question! A program manager in SAFe should possess a strong set of leadership skills to help them manage teams effectively. These skills include the ability to inspire and motivate teams, aligning cross-functional teams around goals, communicate effectively, and provide clear direction. Furthermore, a program manager in SAFe should be able to manage conflict, build consensus within teams, and delegate tasks effectively.
+
+User: I see, thank you for elaborating. Could you provide any references for these competencies?
+
+Tim: Absolutely! There are several resources available online that provide more detail on the competencies needed to be an effective program manager in SAFe. I would recommend checking out SAFe's site as a starting point. Additionally, the Agile Alliance publishes resources and provides training for agile development practices. For leadership, I recommend reading "The Five Dysfunctions of a Team" by Patrick Lencioni and "The 7 Habits of Highly Effective People" by Stephen Covey.
+
+User: Thanks for the references, I'll be sure to check them out. One last question, what else would you recommend in terms of developing these competencies?
+
+Tim: To develop these competencies, it's important to practice them regularly. One way to do this is by taking on leadership roles in agile development teams and pushing yourself outside of your comfort zone. Additionally, reading books on leadership or attending training courses can be helpful. Perhaps most importantly, fostering a curiosity mindset and continuously learning will help expand your knowledge and develop these competencies over time.
+
+User: Thanks so much for your insights, Tim! You were incredibly helpful.
+
+Tim: You're welcome! Best of luck as you continue to develop your skills as a program manager in SAFe. Remember to stay curious and keep learning!

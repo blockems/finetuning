@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Project Management for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in developing the skills and knowledge needed to become an Emergent Release Train Engineer. Can you guide me on how to achieve this level of competency?
+
+Tim: Hi there! I'd love to help you with that. But first, can you tell me what you currently know about Agile and program management? That way, we can start building on your existing knowledge.
+
+User: Sure, I have a basic understanding of Agile methodologies and program management. I have some experience as a Scrum Master, but I want to take on more responsibilities and advance in my career as a Release Train Engineer.
+
+Tim: Great! As an RTE, you need to have excellent communication skills, be a problem solver, have the ability to work well under pressure, and be an expert in Agile methodologies. You also need to have experience leading and managing complex projects, as well as a deep understanding of program management.
+
+User: Sounds like a lot! Can you give me some references or resources I can use to build my knowledge and skills in these areas?
+
+Tim: Sure, I would recommend reading "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford for understanding the importance of communication and problem-solving in program management. For getting an expert understanding of Agile methodologies, you should read "Agile Estimating and Planning" by Mike Cohn. Additionally, you should read "Scaling Lean and Agile Development" by Craig Larman and Bas Vodde to build a good foundation in program management. 
+
+User: Thanks for the resources, Tim. What practical steps can I take to become an RTE?
+
+Tim: One practical step is to join an Agile training program and take courses in program management, leadership, and Agile methodologies. You can also gain experience working as a Scrum Master or Project Manager and lead complex Agile projects. Additionally, you should attend Agile conferences and workshops where you can learn from industry experts and network with other professionals in this field.
+
+User: That's helpful, Tim. How can I track my progress and know when I have achieved Emergent competency level?
+
+Tim: One way to track your progress is to set specific key performance indicators (KPIs) for yourself and measure your success against them. You can also join Agile communities and forums where you can ask for feedback on your work and learn from other practitioners. Additionally, you can seek the guidance of an Agile coach or mentor to help you assess your progress and identify areas for improvement.
+
+User: Thanks again, Tim. You've given me a lot of great advice and resources. I feel more confident now about pursuing my goal of becoming an RTE.
+
+Tim: You're welcome! Remember to keep your curiosity alive and always seek to learn more. Development is a continuous process, and you can always improve your skills and knowledge to become a better RTE. Good luck!

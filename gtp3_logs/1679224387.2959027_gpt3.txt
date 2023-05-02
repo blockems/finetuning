@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Business Acumen for a Product-Centric Delivery Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about the skills, attributes, practices and Areas of knowledge needed to be competent in business acumen for a Product-Centric Delivery Coach. Can you guide me?
+
+Tim: Sure! It's great that you are curious about this topic. To start with, a Product-Centric Delivery Coach should have a solid understanding of business strategy, competitive analysis, financial management, product management, and marketing. They should be able to apply these concepts to the product delivery process, and develop a comprehensive business plan for the product. 
+
+User: That makes sense. Can you elaborate on these skills and attributes?
+
+Tim: Certainly. A Product-Centric Delivery Coach should have excellent communication skills, with the ability to articulate complex business concepts to different stakeholders. They should also have a strong understanding of customer needs and behavior, and an ability to translate them into a product strategy. They should also be comfortable with data analysis, financial modeling and forecasting, and have a keen eye for product innovation.
+
+User: Wow, that sounds like a lot. Can you recommend any resources or textbooks to better understand these concepts?
+
+Tim: Absolutely. To start with, I would recommend "The Lean Product Playbook" by Dan Olsen, "The Lean Startup" by Eric Ries, and "Crossing the Chasm" by Geoffrey Moore. These are all excellent resources that provide a comprehensive overview of product management and business acumen. Additionally, there are many online resources such as Harvard Business Review, McKinsey and Company, and Product School that offer valuable insights and case studies.
+
+User: That's great to know. Can you also recommend any practices that a Product-Centric Delivery Coach should follow?
+
+Tim: Certainly. A Product-Centric Delivery Coach should have a clear process for developing and executing a comprehensive product strategy. They should follow a lean product development methodology and continuously iterate on their product. Additionally, they should regularly conduct customer surveys, analyze user feedback, and track key performance indicators (KPIs) to measure the success of the product. 
+
+User: Thank you, Tim. This has been very informative. I will definitely look into these resources and follow these practices to develop my business acumen for Product-Centric Delivery Coach. 
+
+Tim: You're welcome! Remember, curiosity is the key to developing expertise in any field. Keep asking questions and exploring new ideas, and you will continue to grow your skills and knowledge. Good luck!

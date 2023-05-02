@@ -1,0 +1,17 @@
+User: Hello Tim, I'm curious about what it takes to be competent in conflict resolution as an Agile Delivery Manager. Can you give me an overview of the skills, attributes, practices and areas of knowledge needed?
+
+Tim: Hello! To be competent in conflict resolution as an Agile Delivery Manager, there are a few key skills, attributes, practices, and areas of knowledge that are essential. Firstly, it's important to have strong communication skills, both verbal and written, in order to effectively mediate conflicts between team members. Additionally, good listening skills, empathy, and the ability to understand and respect different perspectives are essential.
+
+In terms of attributes, a strong sense of emotional intelligence is important. This involves the ability to understand and regulate one's own emotions, as well as having an awareness of the emotions of others. It's also important to be able to remain calm and level-headed in high-pressure situations, as conflict resolution can be quite challenging at times.
+
+From a practice standpoint, it's important to have a well-defined conflict resolution process in place that is understood and followed by all team members. This should include techniques for mediating conflicts, such as active listening and reframing, as well as protocols for de-escalating conflicts and bringing in higher-level management if necessary.
+
+Finally, there are several areas of knowledge that are important for effective conflict resolution as an Agile Delivery Manager. This includes a deep understanding of Agile methodologies and the specific challenges that can arise when working in an Agile environment, as well as an understanding of the psychology of conflict and how to work effectively with different personality types.
+
+For more information on this topic, I recommend checking out the following resources:
+
+- "Crucial Conversations" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler
+- "Emotional Intelligence" by Daniel Goleman
+- "The Five Dysfunctions of a Team" by Patrick Lencioni
+
+Let me know if you have any further questions!

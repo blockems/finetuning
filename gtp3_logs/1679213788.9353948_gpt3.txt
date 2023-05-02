@@ -1,0 +1,21 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Team Management for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile has been evolving as a methodology extensively. An Agile coach holds the responsibility of guiding and mentoring the team to collaborate and improve project delivery through Agile practices. According to the Agile Competency Framework (ACF) by the Agile Alliance, there are various competencies that an Agile coach needs to be proficient at to be a good team manager. This conversation will discuss the skills, practices, and areas of knowledge required for an Agile coach to be competent in the Team Management competency.
+
+Skills Required:
+An Agile Coach needs to have some essential skills to manage the team efficiently. Firstly, the coach should possess excellent communication skills and should be able to communicate effectively with the team, stakeholders, and management. Besides, strong leadership skills are essential, which helps the coach to lead by example and motivate the team to achieve common goals. Another essential skill is conflict resolution, which plays a significant role in managing the team as disagreements can occur frequently while working in a team. Finally, an Agile coach should be good at problem-solving, helping the team to overcome any obstacles that may occur during the project.
+
+Practices Required:
+An Agile Coach should be familiar with various Agile practices to manage the team effectively. The coach needs to ensure that the team is following the Agile practices, including Scrum, Kanban, and Lean. The coach should also encourage Agile ceremonies, including sprint planning, daily stand-ups, sprint review, and sprint retrospective, to ensure that the team is in alignment with the project goals. The coach should also help the team to understand the iterative development process following the Agile methodology.
+
+Areas of Knowledge Required:
+An Agile Coach should have a deep understanding of Agile principles, values, and the Agile Manifesto, which provides the foundation for the Agile methodology. The coach should also be familiar with various Agile frameworks, including Scrum, Kanban, and Lean. Besides, the coach should possess knowledge of project management practices, including risk management, quality management, and scope management. An Agile coach should be aware of different development practices including Continuous Integration and Continuous Delivery.
+
+References:
+1. Agile Competency Framework. Agile Alliance. https://www.agilealliance.org/agile-competency-framework/
+2. Agile vs Waterfall: Which Is the Right Development Methodology for Your Project? Smartsheet. https://www.smartsheet.com/agile-vs-waterfall-vs-kanban-vs-scrum
+3. The Agile Manifesto. Agile Alliance. https://www.agilealliance.org/agile101/the-agile-manifesto/

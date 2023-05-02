@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Here is an example of a conversation between Tim and the user:
+
+User:
+Hi Tim, I am curious about what skills, attributes, practices, and areas of knowledge I need to master to be at the Emergent level of the Big Data competency as a Business Systems Analyst. Can you help me?
+
+Tim:
+Hello, glad to hear about your curiosity! In order to be at the Emergent level of the Big Data competency, you need to master skills in data analysis and visualization, statistical reasoning, and machine learning. You also need to have a good understanding of database management, data warehousing, and programming languages such as Python and R.
+
+User:
+Thanks for your response, Tim. Can you tell me more about the role of statistical reasoning in Big Data? 
+
+Tim:
+Of course! Statistical reasoning is necessary in Big Data analysis to help identify and interpret patterns and trends in the data. It helps you to analyze and understand data more deeply, to communicate your insights to stakeholders, and to make informed decisions based on the data. Some of the key statistical principles you need to master include hypothesis testing, regression analysis, correlation analysis, and Bayesian analysis.
+
+User:
+That's interesting, Tim. Now, what type of practices should I adopt to improve my Big Data competency?
+
+Tim:
+To improve your Big Data competency, you should practice data exploration and analysis, develop effective data visualization skills, and work on real-world Big Data projects to gain hands-on experience. You should also look for opportunities to collaborate with other professionals in the field and attend conference events to stay up-to-date with the latest trends and technologies.
+
+User:
+Thanks again, Tim. Could you please recommend some academic references that I can use to support my learning?
+
+Tim:
+Sure! Some recommended academic references include "Data Science for Business" by Foster Provost and Tom Fawcett, "Python for Data Analysis" by Wes McKinney, and "Introduction to Machine Learning with Python" by Andreas Müller and Sarah Guido. I would also recommend checking out academic journals like IEEE Transactions on Big Data and the Journal of Machine Learning Research for the latest research developments in the field.
+
+User:
+Excellent, Tim. Thank you very much for your help and insights. I will make sure to apply this knowledge and continue learning to improve my Big Data competency.
+
+Tim:
+You're welcome! Keep up the curiosity and good luck on your learning journey.

@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, could you help me understand what are the key skills, attributes and practices required to perform at the Emergent level for the competency Data Analysis as an Agile Delivery Manager?
+
+Tim: Of course, let's start with skills. Data Analysis requires the ability to work with large datasets, conduct statistical analysis, and use data visualization tools. The ability to write SQL queries and use Excel are also important technical skills. Additionally, critical thinking and problem-solving skills are important when analyzing complex data sets. Have you had experience with any of these skills?
+
+User: I am familiar with Excel and basic SQL, but could you recommend any resources or references for developing these skills further?
+
+Tim: Certainly, I would recommend the book "Data Analysis Using SQL and Excel" by Gordon Linoff and "Practical Statistics for Data Scientists" by Peter Bruce and Andrew Bruce. You can also practice using websites such as Kaggle and DataCamp or attend courses at Data Science Bootcamps.
+
+User: What about attributes that are important for Data Analysis?
+
+Tim: Some important attributes are attention to detail, strong communication skills, and curiosity. Attention to detail is required when dealing with large datasets and ensuring the accuracy of analysis. Communication skills are important to accurately convey insights and recommendations to stakeholders. Curiosity is also important because it allows one to ask meaningful questions and uncover insights that may have been overlooked with a more narrow approach. Would you agree with this?
+
+User: Yes, I would agree. That's interesting to know, what about best practices?
+
+Tim: In terms of best practices, it's important to start with a clear question and hypothesis. A structured approach like the scientific method can be used to form hypotheses and then test them. This ensures that analysis is focused and relevant. Additionally, visualization tools like Tableau or PowerBI can be used to create easily understandable dashboards and reports. Do you have any experience with these practices?
+
+User: I haven't used Tableau or PowerBI before, but I understand their importance. Could you recommend any particular resources for developing my understanding?
+
+Tim: I would recommend the book "Storytelling with Data" by Cole Nussbaumer Knaflic, which provides great advice on creating impactful visualizations. Additionally, Tableau offers a wide range of free online training resources and tutorials on their website to get started.
+
+User: Thanks Tim, this conversation has been very helpful. Do you have any other recommendations or advice for aspiring Agile Delivery Managers aiming for the Emergent level in Data Analysis?
+
+Tim: Yes, my advice would be to remain curious and passionate. Always look for ways to improve and learn new data analysis techniques. Attend conferences or meetups in the data science field to stay up to date with the latest trends and network with other data analysts. Finally, always remember to approach data analysis with a thorough and structured methodology rather than jumping into analysis without a clear goal.

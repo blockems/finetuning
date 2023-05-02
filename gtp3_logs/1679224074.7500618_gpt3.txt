@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Product Line Management for a Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a Lead Product Owner for Product Line Management. What skills, attributes, practices and areas of knowledge should I focus on developing? 
+
+Tim: That's a great question. To be a successful lead Product Owner in Product Line Management, I believe you'll need to possess a unique blend of both technical and business acumen, along with strong communication, leadership and decision-making skills. First and foremost, you should have a deep understanding of the software development lifecycle, as well as the specific requirements of your product line. 
+
+User: Thanks, Tim. What other specific technical skills do you think are important? 
+
+Tim: You should have a strong grasp of agile methodologies and the role of a Product Owner. Familiarity with scrum and Kanban methodologies is also important, as well as the ability to manage a product backlog and prioritize features based on business value. Familiarity with data analysis techniques, software architecture, and design patterns is also important.
+
+User: That's really helpful, thanks. What about business acumen and leadership skills?
+
+Tim: As a product owner, you should have a deep understanding of your target market, market trends, and consumer needs. You should be able to identify opportunities and present a compelling business case for your product line. Additionally, strong negotiation, collaboration and stakeholder management skills are critical to managing the product roadmap and aligning the team towards the product vision. 
+
+User: Great - So, if I was interested in developing these skills, where would you recommend looking for resources?
+
+Tim: There are many great resources out there to help you on this path. I'd recommend starting with books such as "Inspired" by Marty Cagan or "Product Leadership" by Martin Eriksson, as they provide a great foundation for product management principles. Additionally, attending conferences like Agile Alliance, attending relevant workshops, and joining local product owner groups or forums can be very helpful. 
+
+User: Thanks, Tim. That's really useful information. 
+
+Tim: You're welcome! Remember, it's important to continually learn and adapt to the ever-changing product management space. Stay curious and keep pushing yourself to learn and grow in this exciting profession.

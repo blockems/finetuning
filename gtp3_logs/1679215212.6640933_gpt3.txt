@@ -1,0 +1,54 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Project Management for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management is an iterative and incremental approach to project management that emphasizes flexibility, collaboration, and customer satisfaction. The Agile project manager is responsible for leading and coordinating the Agile team to deliver high-quality products that meet the customer's needs. To become an expert in Agile project management, the project manager needs to possess a range of skills, practices, and areas of knowledge.
+
+Skills:
+
+1. Leadership - The Agile project manager should be a strong leader who can motivate and guide the team to deliver quality products.
+
+2. Communication - Good communication is essential in Agile project management, as the team relies on effective communication to collaborate and work together.
+
+3. Time management – Agile project management requires delivering projects in sprints, within strict timelines that establish milestones for t teams working and delivery.
+
+4. Facilitation - The Agile project manager should have strong facilitation abilities to help the team collaborate and work together efficiently.
+
+5. Decision-making- Agile project managers should be confident and capable of taking decisions quickly, mainly when working with limited timelines.
+
+6. Problem-solving - The Agile project manager needs to be capable of identifying deliverable hiccups at an early stage and efficiently solving critical issues to keep project delivery on track.
+
+Practices:
+
+1. Agile methodologies - Agile project management involves using specific methodologies and frameworks such as Scrum, Kanban, or Lean Agile that align with the organization's values and objectives.
+
+2. Iterative development – Agile projects emphasize continuous feedback to ensure iterative approaches’ adoption until the product delivery's final phase.
+
+3. Sprints – Agile project management involves breaking the project into smaller sprints, each one involving deliverables in line with the Product Backlog.
+
+4. Daily stand-up meetings – The Agile project manager should conduct daily stand-up meetings to provide updates, set goals, and identify any blockers.
+
+5. Regular retrospectives - The Agile project manager should regularly conduct retrospectives to identify areas for improvement and incorporate delivery tracking and project success metrics.
+
+Areas of knowledge:
+
+1. Agile principles and values - Understanding the Agile principles and values that underpin Agile project management is essential to become an expert in the field.
+
+2. Requirement analysis and management – Agile project management relies on sound requirement analysis and management to ensure deliverables are well defined and aligned with the customer needs.
+
+3. Continuous integration and testing - An understanding of continuous integration and testing processes is essential to ensure that deliverables meet the desired outcome.
+
+4. Risk management - An Agile project manager should have proven experience of risk management with agility.
+
+5. Project management tools – Expert agility in project management requires a comprehensive grasp of Agile project management tools such as Jira, Asana, or Trello that align with the organization's goals and objectives.
+
+In conclusion, the Agile project manager must possess a range of skills, practices, and areas of knowledge to succeed as an expert in Agile project management. Agile principles, an understanding of project management methodologies and frameworks, continuous integration and testing, agile tools proficiency, and strong communication, leadership, and decision-making skills, are all essential traits required to succeed in Agile with an expert rank. These should all form part of a training and development program, incorporating practical experience and further studies to ensure the Agile project manager performs at the highest level of professionalism. 
+
+References:
+
+1. Agile project management: the agile project management process (APM) for delivering products. (2021). Available at: https://www.agilealliance.org/agile101/agile-project-management/.
+2. Cohn, M. (2014). Agile Estimating and Planning. USA: Addison-Wesley Professional Publishing.
+3. PMI. 2021. Agile Practice Guide. Newtown Square PA: Project Management Institute.
+4. Jansen, R. (2013). Agile project management: A comprehensive guide. USA: Van Haren Publishing.

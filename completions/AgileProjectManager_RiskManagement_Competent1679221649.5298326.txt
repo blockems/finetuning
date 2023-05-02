@@ -1,0 +1,27 @@
+User: Hello Tim, I was wondering how to become competent in Risk Management as an Agile Project Manager?
+
+Tim: There are several skills, attributes, practices and areas of knowledge required to be a competent Agile Project Manager in Risk Management. Firstly, do you have an understanding of Agile methodologies?
+
+User: Yes, I have a basic understanding of Agile methodologies, but how does that relate to risk management?
+
+Tim: Great! Risk management is an integral part of Agile methodologies. It involves the identification, analysis, assessment, and prioritization of risks, followed by the implementation of plans to avoid or minimize their impact. Some of the skills required for managing risks in Agile projects include identifying potential risks, assessing the likelihood and impact of those risks, and monitoring the progress of mitigation actions taken.
+
+User: That sounds like quite a lot of work. What attributes do I need to be successful in this role?
+
+Tim: As an Agile Project Manager in Risk Management, you need to have strong leadership qualities such as being proactive, assertive and able to make tough decisions when needed. Additionally, good communication and problem-solving skills, as well as being analytical and detail-oriented, are critical attributes for success.
+
+User: That makes sense. Can you give me some examples of the practices involved in Risk Management for Agile projects?
+
+Tim: Sure, some of the practices involved include risk identification, risk assessment, risk prioritization, risk mitigation planning, and risk monitoring. Risk identification involves brainstorming, interviewing, and reviewing documents to identify potential risks. Risk assessment involves assessing the likelihood and impact of identified risks. Risk prioritization involves ranking risks based on a risk matrix which considers their likelihood, impact, and urgency. Risk mitigation planning involves developing plans to reduce the likelihood or impact of identified risks. Finally, risk monitoring involves tracking risks and mitigation plans to ensure they are executed as planned, and risks are identified and addressed in a timely manner.
+
+User: That sounds great. Are there any other areas of knowledge I need to know?
+
+Tim: Yes, there are some critical areas of knowledge that you need to master as an Agile Project Manager in Risk Management. These include enterprise risk management, project risk management, financial risk management, and quality management. You should also be familiar with the Agile Manifesto and principles, as well as Agile frameworks such as Scrum, Kanban, and Lean.
+
+User: Thanks for sharing that with me Tim. Can you recommend any further reading on this subject?
+
+Tim: Sure, I would recommend reading the "Agile Practice Guide" by PMI, "Agile Estimating and Planning" by Mike Cohn and "Risk Management for Agile Projects" by Mike Griffiths. These references provide in-depth knowledge and understanding of the best practices for Risk Management in Agile projects.
+
+User: Thank you so much for your time and valuable advice, Tim. I appreciate it.
+
+Tim: You're welcome! Remember, always stay curious and keep learning. Good luck with your learning journey!

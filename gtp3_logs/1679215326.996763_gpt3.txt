@@ -1,0 +1,47 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean Principles for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management is a methodology that promotes a flexible, collaborative approach to software development. The lean principles are an essential part of agile project management, and they are critical for anyone who wants to be at the Emergent level of competency in this field. 
+
+To become an emergent-level agile project manager with expertise in lean principles, one must have a blend of both technical and non-technical skills. In addition, one must also be adept at using tools and techniques required to carry out agile projects proficiently. Below are the skills, practices, and areas of knowledge required to be an emergent-level agile project manager with expertise in lean principles.
+
+Skills
+
+Critical thinking skills: Emergent-level agile project managers should have the ability to evaluate complex situations and make informed decisions using logic and reasoning.
+
+Leadership skills: Agile project management requires effective leadership skills, including setting objectives, resolving conflicts, and motivating team members to work effectively towards project goals.
+
+Communication skills: It is crucial to communicate clearly and accurately to stakeholders about project progress, issues, and risks. Emergent-level agile project managers need to possess excellent communication skills to ensure that all stakeholders are up to date with the project status.
+
+Collaboration skills: Emergent-level agile project managers must facilitate effective team collaboration and create a collaborative environment that promotes teamwork, healthy communication, and problem-solving.
+
+Technical Skills
+
+Knowledge of software development life cycle (SDLC): Agile project managers should be familiar with the SDLC model, and they must be able to tailor an agile approach to fit within project requirements.
+
+Familiarity with agile methods and frameworks: Expertise in agile methodologies like Scrum, Kanban, Lean, and Crystal is essential for an emergent-level agile project manager.
+
+Tools and techniques: An emergent-level agile project manager must be adept at using tools like burndown charts, team boards, and retrospectives to manage the team, track progress, and identify opportunities for improvement.
+
+Areas of Knowledge
+
+Agile values and principles: A thorough understanding of the Agile Manifesto and its guiding principles is essential for an emergent-level agile project manager.
+
+Lean principles: Knowledge and expertise in lean principles, such as eliminating waste, continuous improvement, and value stream mapping, is critical when implementing lean practices in agile projects.
+
+Risk management: Emergent-level agile project managers must have an understanding of agile risk management techniques, including risk identification, analysis, mitigation, and communication.
+
+Project management tools and techniques: Emergent-level agile project managers need to know about agile project management practices, including sprint planning, backlog grooming, stakeholder management, and performance metrics.
+
+References:
+
+1. Highsmith, J. (2009). Agile Project Management: Creating Innovative Products. Addison-Wesley Professional.
+
+2. Poppendieck, M. & Poppendieck, T. (2003). Lean Software Development: An Agile Toolkit. Addison-Wesley Professional.
+
+3. Schwaber, K. & Sutherland, J. (2017). The Scrum Guide. Scrum.org.
+
+4. Agile Alliance. (2011). Agile Manifesto. Retrieved from https://agilemanifesto.org/.

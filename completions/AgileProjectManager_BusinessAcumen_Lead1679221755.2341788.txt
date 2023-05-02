@@ -1,0 +1,29 @@
+User: Hello Tim, it's great to connect with you. I've recently been promoted to the role of Lead Agile Project Manager and I want to develop my Business Acumen competency. Which skills, attributes, practices and Areas of knowledge are most important for me to focus on?
+
+Tim: Congratulations on your new role! You're right to identify Business Acumen as an important competency for Agile Project Managers, as it can greatly impact the success of Agile projects. Let's start by defining Business Acumen. It's the ability to understand and interpret business financials, market trends, customer needs and impacts of external factors like regulations or competition, and then use these insights to make informed business decisions.
+
+Some skills essential for Business Acumen include:
+
+1. Strong analytical skills to interpret complex data sets.
+
+2. Financial acumen to understand accounting and finance principles.
+
+3. Excellent communication skills to convey business insights and recommendations to stakeholders.
+
+4. Understanding of industry trends and market forces to stay abreast of change.
+
+As far as attributes go, Agile Project Managers who excel in Business Acumen are inquisitive, open-minded, and demonstrate good judgment. Curiosity is critical, as being curious will lead you to understand the context of the financial and business implications of the decisions you make.
+
+In terms of practices, there are a few to keep in mind:
+
+1. Regularly reading business publications and attending industry events to stay current on trends.
+
+2. Engaging with internal finance and operations stakeholders to understand company financials and operations in-depth.
+
+3. Developing financial acumen through courses and training sessions.
+
+4. Building relationships with professional associations like the Project Management Institute.
+
+Areas of knowledge include business strategy, financial management, and accounting principles. A great resource to develop your Business Acumen is to focus on Financial and Managerial Accounting -  an intro in Financial Accounting such as Financial Accounting Fundamentals from Coursera and Management Accounting from Edx.
+
+Do these insights help answer your question?

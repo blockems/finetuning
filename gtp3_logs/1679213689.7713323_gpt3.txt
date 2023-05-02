@@ -1,0 +1,61 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Collaboration for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching is a crucial role in the implementation of Agile methodologies in an organization. One of the fundamental competencies of an Agile coach is collaboration. Collaboration competency involves the ability to work with others in a team setting towards a common goal. In this discussion, we will explore the skills, practices, and areas of knowledge required for an Agile coach to become competent in collaboration.
+
+Skills
+
+The following are some of the key skills required for an Agile coach to be competent in collaboration:
+
+1. Active Listening – Agile coaches must be able to listen actively to team members, stakeholders, and customers to understand their concerns, challenges, and feedback.
+
+2. Effective Communication – Agile coaches must be able to communicate clearly and effectively both verbally and in writing, to ensure everyone is on the same page.
+
+3. Conflict Resolution – Agile coaches must be able to facilitate conflict resolution within teams, to ensure that all members are working together towards the common goal.
+
+4. Empathy – Agile coaches must have empathy towards team members, stakeholders, and customers to understand their perspectives and build trust.
+
+5. Facilitation – Agile coaches must have strong facilitation skills to lead team meetings, retrospectives, and other Agile ceremonies.
+
+Practices
+
+The following practices help support the skills required for an Agile coach to be competent in collaboration:
+
+1. Regular Check-Ins – Agile coaches should schedule regular check-ins with team members to build relationships and foster communication.
+
+2. One-on-One Meetings – Agile coaches should meet with team members individually to understand their concerns and support their growth.
+
+3. Team Building Activities – Agile coaches should organize team-building activities to build trust, foster communication, and encourage collaboration.
+
+4. Retrospectives – Agile coaches should facilitate regular retrospectives to encourage continuous improvement and conflict resolution.
+
+5. Collaborative Tools – Agile coaches should introduce collaborative tools to teams, such as whiteboards, online boards, and other team collaboration software.
+
+Areas of Knowledge
+
+The following are the areas of knowledge required for an Agile coach to be competent in collaboration:
+
+1. Agile Methodologies – Agile coaches must have a deep understanding of Agile methodologies and how they support collaboration in teams.
+
+2. Team Dynamics – Agile coaches should have knowledge of team dynamics and the various factors that impact team collaboration.
+
+3. Emotional Intelligence – Agile coaches must have knowledge of emotional intelligence to build empathy, trust, and understanding within teams.
+
+4. Conflict Resolution – Agile coaches must have knowledge of conflict resolution techniques and how to apply them in a team setting.
+
+5. Change Management – Agile coaches must have knowledge of change management to facilitate adoption of Agile methodologies and foster collaboration within teams.
+
+Supporting References:
+
+1. Liskin, O. (2020). The Agile Coach Competency Framework. https://www.scrum.org/resources/agile-coach-competency-framework
+
+2. Coaching Agile Teams (2010). https://www.safaribooksonline.com/library/view/coaching-agile-teams/9780321637703/
+
+3. Cohn, M. (2010). Succeeding with Agile: Software Development using Scrum. Pearson Education.
+
+4. Agile Alliance (2021). Agile Coaching Competency Framework. https://www.agilealliance.org/agile-coaching-competency-framework/
+
+5. Rico, D., & Sayles, S. (2016). Agile coaching competencies: A framework for coaches, mentors, and leaders in Agile organizations. Addison-Wesley Professional.

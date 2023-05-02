@@ -1,0 +1,37 @@
+User: Hi Tim, I'm interested in becoming an Emergent Business Systems Analyst specializing in Cloud Computing. What skills do I need to develop to get to that level?
+
+Tim: Hi there! Great to hear that you're interested in becoming an Emergent Business Systems Analyst in Cloud Computing. In order to reach that level, you need to have a strong foundation in both business and technology. You need to be able to understand the business needs and goals and translate them into technical requirements for the cloud environment. Some essential skills include:
+
+1. Knowledge of cloud computing platforms and services (such as AWS, Azure, Google Cloud Platform).
+2. Understanding of the business processes and workflows.
+3. Expertise in data analytics and data modelling.
+4. Ability to design and develop cloud-based solutions.
+5. Knowledge of security protocols and compliance standards.
+
+Are you familiar with these areas?
+
+User: Yes, I have some foundational knowledge in these areas, but I'd like to know more about the specific attributes that are necessary to succeed at this level.
+
+Tim: Great to hear that you have foundational knowledge. Some essential attributes include:
+
+1. Analytical thinking and problem-solving: As a Business Systems Analyst, you need to be able to identify the root cause of the problems and provide solutions.
+2. Attention to detail: You need to have a keen eye for detail to ensure that your solutions meet the business and technical requirements.
+3. Communication and collaboration: You need to be able to work with both the business and the technical teams, and communicate effectively across both domains.
+4. Adaptability and flexibility: Given the dynamic nature of the cloud computing industry, you need to be able to adapt quickly to changes in technology and business needs.
+
+Would you like me to elaborate on any of these attributes?
+
+User: Yes, I would like to know more about data analytics and modelling. How do these skills apply in a cloud computing environment?
+
+Tim: Absolutely. Data analytics and modelling skills are essential in a cloud computing environment. With the massive amounts of data being generated in the cloud, you need to be able to make sense of it and turn it into meaningful insights. This requires a good understanding of data structures, algorithms, and statistical analysis. 
+
+Data modelling is also crucial in the cloud environment because it helps you design databases and data warehouses that can efficiently store and retrieve data. This is important because the cloud is known for being highly scalable, and having well-designed data solutions can help you leverage this scalability to its fullest extent.
+
+Some of the specific skills you need to develop in data analytics and modelling include: 
+
+1. Familiarity with database management systems and data warehousing techniques.
+2. Experience in data analysis and visualization tools.
+3. Knowledge of data cleaning and preparation techniques.
+4. Understanding of machine learning algorithms and statistical models.
+
+Let me know if you have any other questions or if you'd like me to provide any references or resources to support your learning.

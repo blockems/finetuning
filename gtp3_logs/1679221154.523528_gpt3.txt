@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Program Management for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, thank you for agreeing to help me understand what it takes to be an expert in Program Management for Agile Program Leads.
+
+Tim: Hi there, glad to help. Let's start by talking about the skills needed. Would you agree that being proficient in Agile methodologies is a fundamental requirement?
+
+User: Yes, definitely. Agile methodology is the foundation for program management in this field.
+
+Tim: Absolutely. In addition to that, strong leadership and communication skills are necessary for effective program management. This includes being able to communicate effectively with stakeholders, team members, and other project leaders.
+
+User: That makes sense. Can you also suggest some key attributes that an expert in program management should possess?
+
+Tim: Sure. Being proactive, having a strategic mindset, and being adaptable are all important attributes for a program management expert. A program lead should also be able to identify and mitigate risks, and foster a culture of continuous improvement within the team.
+
+User: Thanks for providing that insight. What about the specific practices that should be followed for effective program management?
+
+Tim: Well, Agile program management involves using techniques such as Scrum, Lean, and Kanban. Additionally, maintaining a focus on delivering value, customer satisfaction, and responding quickly to changes is integral to successful program management.
+
+User: That sounds like a lot to keep track of. How would someone keep up-to-date with the latest trends and best practices in this field?
+
+Tim: Great question. One way is to attend industry events and conferences. Another way is to regularly read relevant literature, such as books, case studies, and research papers. Some example books to read include "Agile Program Management," by Robert Galen, and "Scaling Agile: A Lean and Agile Toolkit," by Mike Cohn.
+
+User: Thanks for those suggestions. I think I have a much better idea of what it takes to be an expert in program management for Agile Program Leads.
+
+Tim: Glad to be of help. Remember, curiosity is key to staying engaged in this field and becoming an expert. Always be asking questions and seeking out new information.

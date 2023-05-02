@@ -1,0 +1,47 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Strategy for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers are responsible for ensuring the delivery of Agile projects that meet the business strategy goals. To manage this effectively, they must have a broad range of skills and knowledge, including expertise in Business Strategy. At the Emergent level, Agile Delivery Managers are expected to be able to work independently and lead the overall strategy for their organization.
+
+Skills for Business Strategy at the Emergent level:
+
+1. Strategic thinking: An Agile Delivery Manager must have the ability to think strategically and align business strategy with the project objective. They must be able to identify the gaps between the current and desired state and provide solutions that are aligned with the strategic goals of the organization.
+
+2. Analytical skills: An Agile Delivery Manager must have analytical skills to analyze data and derive insights that are crucial in developing a sound business strategy. They should be able to understand the customers’ needs, industry trends, and competitor strategies to develop a strategy that meets the company’s objectives.
+
+3. Communication skills: An Agile Delivery Manager must have excellent communication skills. They should be able to communicate the business strategy to the team members and stakeholders to ensure everyone has a clear understanding of the goals and objectives.
+
+4. Presentation skills: An Agile Delivery Manager should be able to create and deliver effective presentations to communicate the business strategy internally and externally.
+
+5. Leadership skills: An Agile Delivery Manager should have excellent leadership skills to guide and motivate the team to achieve the project goals. They should be able to inspire the team to align their work with the strategic objectives of the organization.
+
+Practices for Business Strategy at the Emergent level:
+
+1. SWOT analysis: An Agile Delivery Manager must conduct a SWOT analysis to identify the strengths, weaknesses, opportunities, and threats of the project and the organization. This analysis helps the team to understand the market context and to take informed decisions.
+
+2. Business Model Canvas: An Agile Delivery Manager must use the business model canvas to identify and analyze the key elements of the business model, such as customers, value proposition, revenue streams, channels, and key resources.
+
+3. Lean Startup: An Agile Delivery Manager should use the Lean Startup method to develop and validate the business model by testing different hypotheses, measuring and learning from the results, and adjusting the strategy to maximize the value.
+
+4. Agile Product Roadmap: An Agile Delivery Manager should use an Agile Product Roadmap to align the project deliverables with the business strategy, to prioritize the backlog items based on the strategic value, and to monitor the progress towards the strategic goal.
+
+Areas of knowledge for Business Strategy at the Emergent level:
+
+1. Business model innovation: An Agile Delivery Manager should have knowledge of the different business models and their applicability to the project and industry, as it provides insight into new revenue streams and opportunities.
+
+2. Competitive analysis: An Agile Delivery Manager should have an understanding of competitors’ strategies, strengths, and weaknesses, as it enables the development of a unique value proposition and competitive advantage.
+
+3. Industry analysis: An Agile Delivery Manager should have an understanding of industry trends, drivers, and disruptors, as it enables the development of a responsive and adaptive business strategy.
+
+4. Strategic planning: An Agile Delivery Manager should have knowledge of strategic planning concepts, such as vision, mission, goals, and objectives, as it provides a framework for developing and communicating the business strategy.
+
+References:
+
+1. Agile Business Strategy framework by Mckinsey & Company
+2. Business Model Generation Book by Alex Osterwalder and Yves Pigneur
+3. The Lean Startup book by Eric Ries
+4. SWOT Analysis framework by Alfred Humphrey
+5. Agile Product Roadmap by Roman Pichler

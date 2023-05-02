@@ -1,0 +1,39 @@
+User: Hi Tim, I am curious to know about the skills, attributes, practices, and areas of knowledge required to become a lead for the competency of leadership in CI/CD. Can you guide me on this?
+
+Tim: Sure, I'd be happy to help. Leadership in CI/CD requires a broad range of skills and attributes. Some of the most essential skills and attributes include:
+
+- Excellent communication and collaboration abilities
+- Ability to inspire and motivate team members
+- Strong strategic thinking and problem-solving skills
+- Knowledge of agile methodologies and principles
+- Ability to manage projects effectively
+- Expertise in DevOps tools and technologies
+- Understanding of the software development life cycle
+- Experience in managing and leading teams
+
+Would you like me to elaborate on any of the above points?
+
+User: Thank you, that is very helpful. Can you provide some examples of best practices that a CI/CD Lead should follow?
+
+Tim: Here are some best practices that a CI/CD Lead should follow:
+
+- Set clear expectations and goals for the team
+- Encourage a culture of continuous improvement
+- Foster an environment of collaboration and communication
+- Develop and maintain a robust and reliable CI/CD pipeline
+- Monitor and measure the performance of the pipeline
+- Regularly solicit feedback from team members and stakeholders
+- Continuously improve the tools and technologies used in the pipeline
+
+These are just a few examples. Do you have any follow-up questions?
+
+User: Yes, that was very helpful. Can you recommend some resources or references to help me further understand the competencies of leadership in CI/CD?
+
+Tim: Sure, here are some resources that you may find helpful:
+
+- "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley
+- "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford
+- "Agile Estimating and Planning" by Mike Cohn
+- "The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries
+
+These are just a few resources, but they should provide a good foundation to build on. Do you have any other questions?

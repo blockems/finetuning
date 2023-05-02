@@ -1,0 +1,32 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency API Development and Integration for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am really curious to know more about the skills, attributes, practices and areas of knowledge needed to reach the emergent level of competency in API development and integration. Can you please guide me?
+
+Tim: Hi, I'm glad you're interested in this! To begin with, it is important to have a solid understanding of programming languages, data structures, algorithms, and database management. You also need to be familiar with HTTP, REST, and JSON protocols, as well as have experience with API management and security.
+
+User: That makes sense, Tim. But could you suggest any specific books or resources I can refer to for a deeper understanding of these areas of knowledge?
+
+Tim: Yes, sure. Here are some recommended resources: 
+1. "RESTful Web APIs" by Leonard Richardson and Mike Amundsen
+2. "Web API Design: Crafting Interfaces that Developers Love" by Brian Mulloy
+3. "APIs: A Strategy Guide" by Daniel Jacobson, Greg Brail, and Dan Woods.
+
+User: Thanks for the suggestions, Tim. What about the attributes and practices required to reach the emergent level of competency?
+
+Tim: Well, aside from technical skills, you need to possess excellent communication and collaboration skills, as you will be working with different teams and stakeholders. You must also have a solid understanding of software development lifecycle methodologies, such as Agile and DevOps. In terms of practices, you should be adept at testing, debugging, and troubleshooting API issues, as well as constantly staying up-to-date with the latest industry trends and best practices.
+
+User: That's really insightful, Tim. Can you suggest any specific practices I can incorporate into my daily routine to improve my API development skills?
+
+Tim: Sure! Some practices you can incorporate into your daily routine include reviewing API documentation frequently, using troubleshooting tools to debug API issues, and participating in online forums and communities to share knowledge and learn from others.
+
+User: Thanks again, Tim. Your insights and recommendations are really valuable. I will definitely incorporate these practices into my daily routine and refer to the resources you've recommended. 
+
+Tim: You're welcome! Always remember to stay curious and never stop learning. Good luck on your journey towards reaching the emergent level of competency in API development and integration!

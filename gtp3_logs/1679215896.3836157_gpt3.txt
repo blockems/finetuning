@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emerging for the competency Project Management for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The competency of project management for a business systems analyst involves a combination of skills, practices, and areas of knowledge necessary to successfully manage projects within the realm of information technology. The emerging level is an intermediate stage towards developing the full range of competencies required for this role.
+
+Skills
+At the emerging level, a business systems analyst needs to possess a basic set of project management skills. These include communication, leadership, problem solving, and planning. They need to be able to communicate effectively with stakeholders, lead teams, solve problems, and plan and manage project timelines.
+
+Practices
+To effectively manage projects, a business systems analyst must be able to follow a set of best practices. Some of these best practices are documented in the Project Management Institute's Project Management Body of Knowledge (PMBOK). For example, they should be able to create project charters, develop project plans, manage project risks, and monitor and control project scopes. They should also be familiar with different methodologies such as Waterfall, Agile, and DevOps.
+
+Areas of knowledge
+A business systems analyst needs to have a good understanding of project management domains such as scope, time, cost, quality, communication, risk, procurement, and stakeholder management. They should be able to identify and manage project risks and constraints, maintain and manage project documentation, and evaluate and communicate project status to stakeholders.
+
+To develop these competencies, a business systems analyst can obtain project management certification such as Project Management Professional (PMP) or Certified Associate in Project Management (CAPM) from the Project Management Institute. They can also attend project management training courses, participate in project management communities, and gain practical experience by working on projects.
+
+References:
+1. Project Management Institute. (2017). A Guide to the Project Management Body of Knowledge (PMBOK Guide). Sixth Edition.
+2. Verzuh, E. (2015). The Fast Forward MBA in Project Management. Fifth Edition.
+3. Crawford, K. (2014). The Strategic Project Office: A Guide to Improving Organizational Performance. Second Edition.

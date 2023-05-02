@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what skills, attributes, practices, and areas of knowledge are needed to be at the level of Emergent for the competency Data Analysis for a SAFe Product Owner (PO).
+
+Tim: Hi there! Great question. To be at the Emergent level for this competency, you'll need to have a solid understanding of basic statistical concepts and techniques, such as probability distributions, hypothesis testing, and regression analysis. Additionally, you should have experience with data visualization tools and techniques, as well as experience with data mining and machine learning methods.
+
+User: Thanks for the response, Tim. Can you give me some examples of data visualization tools and techniques?
+
+Tim: Sure thing. Some common data visualization tools include Tableau, PowerBI, and D3.js. These tools allow you to create interactive and engaging visualizations of your data, which can help you better understand patterns and relationships in your data. In addition to these tools, there are also various visualization techniques that you can use, such as scatter plots, box-and-whisker plots, and heatmaps.
+
+User: Interesting. So what are some good practices for conducting effective data analysis?
+
+Tim: One key practice is to ensure that your data is clean and well-organized before you begin your analysis. This means that you should take the time to remove any duplicates, missing values, or outliers that may skew your results. Another good practice is to always be critical of your results and to consider alternative explanations for any patterns or relationships that you observe. Finally, it's important to communicate your findings effectively using clear and concise language, as well as visual aids such as charts and graphs.
+
+User: Thanks, Tim. Can you recommend any resources or references for further reading on this topic?
+
+Tim: Absolutely. For a comprehensive introduction to statistical concepts and techniques, I would recommend the textbook "Statistical Inference" by Casella and Berger. For more specialized topics such as machine learning and data mining, "The Elements of Statistical Learning" by Hastie, Tibshirani, and Friedman is a great resource. Finally, for practical advice on data analysis and visualization, "Storytelling with Data" by Cole Nussbaumer Knaflic is a must-read.

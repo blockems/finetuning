@@ -1,0 +1,110 @@
+{
+    "Role": "Scrum Master",
+    "Description":"A Scrum Master is a key member of an Agile team responsible for ensuring the Scrum framework is implemented effectively, removing any obstacles that may hinder the team's progress and facilitating the team's overall success. They act as a coach, mentor and facilitator to help the team understand and adopt Agile practices, values and principles, and enable the team to work together effectively and efficiently to deliver high-quality products.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile and Scrum Methodologies",
+                "SkillDescription": "Strong understanding of Agile and Scrum methodologies and experience in implementing and managing these practices",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Facilitation and Coaching",
+                "SkillDescription": "Ability to facilitate and coach Agile and Scrum practices, and to provide guidance and leadership to the development team",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Team Building and Leadership",
+                "SkillDescription": "Experience in team building and leadership, including the ability to motivate and inspire team members, and to build a collaborative and high-performing team",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Problem Solving and Conflict Resolution",
+                "SkillDescription": "Ability to identify and solve problems, and to resolve conflicts within the team",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to identify areas for improvement and to facilitate continuous improvement within the team",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Certification",
+                "SkillDescription": "Certification in Agile and Scrum methodologies, such as Certified ScrumMaster (CSM) or Professional Scrum Master (PSM)",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Software Development Lifecycle (SDLC)",
+                "SkillDescription": "Understanding of the software development lifecycle and the ability to apply Agile and Scrum methodologies to different stages of the SDLC",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Collaboration and Communication",
+                "SkillDescription": "Ability to facilitate collaboration and communication among team members, stakeholders, and the product owner",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles and techniques",
+                "SkillLevel": "Emerging"
+            },
+            {
+                "SkillName": "Technical Knowledge",
+                "SkillDescription": "Understanding of technical concepts and the ability to communicate effectively with technical team members",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Product Management",
+                "SkillDescription": "Understanding of product management principles and the ability to work effectively with the product owner",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and techniques, and the ability to identify and mitigate potential risks associated with Agile and Scrum practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to the development process, and to use this information to improve team performance",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Lean Methodology",
+                "SkillDescription": "Understanding of Lean methodology and its application to Agile and Scrum practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "DevOps",
+                "SkillDescription": "Understanding of DevOps practices and their integration with Agile and Scrum practices, and the ability to work effectively with DevOps teams",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Understanding of Big Data technologies and the ability to apply Agile and Scrum practices to Big Data projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Knowledge of artificial intelligence (AI) techniques and the ability to apply these techniques to improve team performance and project outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Understanding of Internet of Things (IoT) technologies and the ability to apply Agile and Scrum practices to IoT projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Understanding of User Experience (UX) design principles and the ability to work effectively with UX designers to improve the user experience of products and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Understanding of data science concepts and the ability to work effectively with data scientists to improve the data-driven decision-making of teams",
+                "SkillLevel": "Emergent"
+            }
+        ]
+    }
+}

@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in knowing about the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency Data Science for a SAFe Product Owner. Can you please help me with this?
+
+Tim: Hello! It's great to hear that you're interested in acquiring competencies in Data Science for SAFe Product Ownership. To become an Emergent level PO in Data Science, you need to have a strong foundation in statistics and data analysis. In addition to that, you need to have experience in problem-solving and domain knowledge in the field you're working in. 
+
+User: That's interesting. Can you elaborate more on problem-solving skills in Data Science?
+
+Tim: Definitely! Problem-solving in Data Science involves the use of statistical techniques and algorithms to analyze data and identify trends, patterns, and relationships. It also involves identifying the business problem you want to solve and working with stakeholders to define the success criteria for the project. You must be comfortable working with data in various formats and have experience in data cleansing, data wrangling, and data visualization.
+
+User: Thank you, Tim. Could you recommend some valuable practices in Data Science for a PO?
+
+Tim: Some of the valuable practices in Data Science for a PO are Agile and Lean principles. These principles involve the use of collaborative cross-functional teams, iterative development, and continuous improvement. Other valuable practices include data governance, data ethics, and data security.
+
+User: How about some attributes that one should possess to excel in Data Science for a SAFe PO role?
+
+Tim: Some attributes that one should possess to excel in Data Science for a SAFe PO role include strong communication skills, critical thinking, curiosity, and the ability to work well under pressure. You should also possess a growth mindset, and be willing to learn and adapt as new technologies and trends emerge.
+
+User: Thank you, Tim! Can you please recommend some references to read more about Data Science in SAFe Product Ownership?
+
+Tim: Yes, sure. Here are some references that you can read to gain more knowledge in Data Science for SAFe Product Ownership:
+
+- "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" by Foster Provost and Tom Fawcett
+- "The Agile Enterprise: Building and Running Agile Organizations" edited by Mario E. Moreira
+- "Lean Analytics: Use Data to Build a Better Startup Faster" by Alistair Croll and Benjamin Yoskovitz
+
+I hope you find these references helpful. Let me know if you have any other questions.

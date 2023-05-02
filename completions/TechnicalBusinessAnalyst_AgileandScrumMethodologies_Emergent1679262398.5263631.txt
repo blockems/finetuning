@@ -1,0 +1,27 @@
+User: Hi Tim, I'm a technical business analyst interested in improving my skills in Agile and Scrum methodologies. Can you tell me more about what it means to be at the Emergent level of competency in this area?
+
+Tim: Hi there! It's great to see your curiosity around Agile and Scrum methodologies. At the Emergent level of competency, you would have a good understanding of Agile principles and how they apply to a software development team. This would include proficiency in areas such as user story creation, feature prioritization, and backlog management. You would also have experience working with Scrum teams and be familiar with the Scrum framework.
+
+User: Thanks for the introduction, Tim. Can you give me some more specific examples of skills and attributes I would need at this level of competency?
+
+Tim: Sure thing! Some of the key skills and attributes that would be important at the Emergent level would include:
+
+- Collaborative teamwork: You would need to be able to work effectively in a team environment and communicate clearly with both technical and non-technical stakeholders.
+
+- Agile methodologies: You would need to be familiar with Agile principles and how they can be applied to software development, including Scrum, Kanban, and Lean.
+
+- Backlog management: You would need to have a good understanding of how to create and manage a product backlog, including writing user stories, prioritization, and estimation.
+
+- Continuous improvement: You would need to be committed to ongoing learning and improvement, both for yourself and for your team.
+
+User: That's helpful, thank you. Can you recommend any resources or references to learn more about Agile and Scrum methodologies?
+
+Tim: Absolutely! Some great resources for learning more about Agile and Scrum include the Scrum Guide, which provides a comprehensive overview of the Scrum framework, as well as the Agile Manifesto and the Agile Alliance website. There are also many great books and online courses available, such as "Scrum: A Pocket Guide" by Gunther Verheyen and "The Agile Samurai" by Jonathan Rasmusson. Do you have any specific areas you'd like me to recommend resources for?
+
+User: Thank you for the resources, Tim. Can you tell me more about the role of Agile coaching in terms of helping teams adopt Agile and Scrum methodologies?
+
+Tim: Agile coaching can be a very valuable asset for teams and individuals looking to improve their Agile and Scrum skills. An Agile coach can provide guidance and support in areas such as user story creation, backlog management, and sprint planning. They can also help teams identify areas of improvement and provide strategies for ongoing growth and development. Agile coaching can be especially valuable for teams that are new to Agile and Scrum and may need additional support and guidance in transitioning to these methodologies.
+
+User: That's interesting. Can you recommend any specific training or certification programs for Agile coaching?
+
+Tim: Sure thing! There are a wide range of Agile coaching training and certification programs available, including those offered by the Scrum Alliance and the International Consortium for Agile. The Scrum Alliance offers a Certified Scrum Coach program, which requires significant experience and training in both Agile and coaching. The International Consortium for Agile also offers a variety of certification programs, including the Certified Agile Coach program. These programs can be a great way to gain formal training and recognition in Agile coaching, although they are not necessarily required in order to become an effective coach. It's also important to note that coaching skills can be developed through a variety of experiences, including working with Agile teams and participating in professional development opportunities.

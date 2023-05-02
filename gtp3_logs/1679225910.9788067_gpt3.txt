@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile and SAFe Methodologies for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in developing my skills in Agile and SAFe methodologies. What are some of the attributes needed to become a SAFe Agilist expert?
+
+Tim: Hi there! That's a great question. To become a SAFe Agilist expert, you need to have a deep understanding of Agile principles and practices, as well as SAFe methodologies. This includes skills like strategic thinking, leadership, communication, and collaboration.
+
+User: What are some specific practices that I should focus on?
+
+Tim: Some specific practices that are important for a SAFe Agilist are Agile project management, Agile scaling, and Agile product management. Additionally, you'll want to focus on continuous improvement and experimentation.
+
+User: Can you recommend any resources or books that I can use to learn more about these practices?
+
+Tim: Sure! "SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework" by Richard Knaster and Dean Leffingwell is a great resource for learning more about SAFe methodologies. For Agile project management, "Agile Project Management with Scrum" by Ken Schwaber is a classic. "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries is also a great resource for learning about continuous improvement and experimentation.
+
+User: Thank you Tim! One more question, what areas of knowledge are important for a SAFe Agilist?
+
+Tim: In addition to the skills and practices we talked about, it's also important for a SAFe Agilist to have knowledge in areas like business analysis, systems thinking, and Lean principles. A good understanding of technical concepts is also important, as it helps you communicate effectively with engineers and technical team members.
+
+User: Thanks again Tim, this has been really helpful!
+
+Tim: You're welcome! Don't hesitate to reach out if you have any more questions or want to delve deeper into any of these topics. Keep up your curiosity on this subject, it will help you become an expert and a true Agile practitioner.

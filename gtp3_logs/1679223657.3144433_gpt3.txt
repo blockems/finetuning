@@ -1,0 +1,40 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Automation and Scripting for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in pursuing a career as a Lead Automation and Scripting DevOps Consultant. What skills, attributes, practices and areas of knowledge do I need to excel in this field?
+
+Tim: Hi there, great question! To become a successful Lead Automation and Scripting DevOps Consultant, you'll need a mix of technical and soft skills. Technical skills include knowledge of automation tools, scripting languages, and configuration management tools. Examples include Ansible, Puppet, Chef, Python, and Bash. You'll also need a strong understanding of DevOps principles and processes, as well as cloud-based infrastructure management.
+
+In terms of soft skills, you'll need excellent communication and collaboration skills, as you'll often be working with cross-functional teams. Analytical and problem-solving skills will also be essential to identify and resolve technical issues. Additionally, a keen eye for detail and the ability to adapt and learn quickly are important traits.
+
+User: That sounds like a lot to handle. Are there any specific practices that can help me develop the necessary skills and attributes?
+
+Tim: Absolutely! One key practice is to continuously learn and stay up-to-date with the latest trends and technologies. Reading relevant blogs, attending webinars, and participating in community events can help you stay current. Additionally, practicing regular code reviews and sharing code with others can help improve your skills and gain new perspectives.
+
+User: That makes sense. Can you suggest any areas of knowledge that I should focus on?
+
+Tim: Sure, here are some areas of knowledge that you may find helpful:
+
+- Agile methodologies and DevOps practices
+- Cloud computing and infrastructure management
+- Continuous integration and deployment (CI/CD) pipelines
+- Containerization technologies such as Docker and Kubernetes
+- Monitoring and logging tools like Nagios, Zabbix or Logstash
+
+User: Thank you for the information, Tim. Are there any books or articles that you recommend?
+
+Tim: Yes, here are some resources that I suggest:
+
+- "Infrastructure as Code" by Kief Morris (book)
+- "The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford (book)
+- "Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale" by Jennifer Davis and Katherine Daniels (book)
+- "What Is DevOps?" by Patrick Debois (article)
+
+I hope you find these helpful. Let me know if you have any other questions or if there is anything else I can assist you with.

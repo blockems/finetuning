@@ -1,0 +1,47 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Technical Knowledge for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in knowing what skills, attributes, practices, and areas of knowledge I need to have to be at the Emergent level of the Technical Knowledge competency for a SAFe Lean Portfolio Manager (LPM).
+
+Tim: Hi there! That's a great question! To begin with, the technical knowledge competency for a SAFe LPM is crucial in ensuring an organization's market competitiveness by constantly improving technology capabilities. 
+
+User: Yes, I agree. But what skills are necessary to meet the Emergent level of the competency?
+
+Tim: To achieve the Emergent level of the Technical Knowledge competency, you must have experience in Portfolio management, software development, and operations. You should also be proficient in one or more software development methodologies such as Agile, Scrum, or Kanban. Moreover, you should possess advanced analytical skills for data-driven decision-making, capability-driven planning, and quantitative management. 
+
+User: That makes sense. But what attributes should a person have to meet the Emergent level of the competency?
+
+Tim: Good question! A person at the Emergent level of the Technical Knowledge competency should have excellent collaboration and communication skills. They should take an experimental approach to problem-solving, be proactive, and have a deep understanding of business and technology. They should also be confident in taking calculated risks, be innovative, resilient, and adaptable. 
+
+User: Thank you, Tim. What practices do you recommend to improve my Technical Knowledge competency?
+
+Tim: To improve Technical Knowledge competency, you need to be continuously learning and improving. You can read industry journals, attend conferences, participate in online forums, and take relevant courses or certifications. You can also join a community of practice or a professional network to interact with other professionals in your field. It will help you gain insights, share experiences, and expand your knowledge. 
+
+User: Great! What areas of knowledge should I focus on?
+
+Tim: As a LPM, you need to have a deep understanding of emerging and disruptive technologies, software development methodologies, DevOps practices, architecture, and design thinking. You should also be familiar with Agile, Lean, continuous delivery, and automated testing. Additionally, understanding the business strategy, market trends, customers’ needs, and product development should be on your priority list.
+
+User: Fascinating! Can you suggest some references for me to study further?
+
+Tim: Sure! Here are some recommendations:
+
+1. SAFe Lean Portfolio Manager Courseware - https://www.scaledagile.com/training/courses/lean-portfolio-management/
+
+2. The Lean Portfolio Management website - https://leanportfoliomanagement.org/
+
+3. "The Phoenix Project" book by Gene Kim, Kevin Behr, and George Spafford - https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8
+
+4. "Continuous Delivery" book by Jez Humble and David Farley - https://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912
+
+5. The DevOps Institute website – https://devopsinstitute.com/
+
+6. SAFe community – https://www.scaledagile.com/
+
+I hope these references help you in your learning journey. Let me know if you have any further questions or concerns.

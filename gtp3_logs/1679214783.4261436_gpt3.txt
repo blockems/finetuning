@@ -1,0 +1,53 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean Principles for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile principles are an effective way of organizing and managing a software development project. The Lean principles for Agile program lead are essential skills for continuing improvement and sustainable development. In this discussion, we will explore the skills, practices and areas of knowledge required to be at the level of emergent for the competency Lean Principles for an Agile Program Lead.
+
+Skills:
+
+To be at the level of emergent Lean principles for Agile program lead, the person needs the following skills:
+
+1. Lean thinking: A mindset and way of thinking that focuses on value delivery by eliminating waste and non-value-added activities.
+
+2. Communication: Effective communication skills to articulate Lean concepts and requirements, and ensure all stakeholders are aligned.
+
+3. Collaboration: The ability to work collaboratively with teams, customers, and stakeholders to identify opportunities for optimization and continuous improvement.
+
+4. Data analysis: The ability to gather, analyze and interpret data to identify and prioritize areas of improvement.
+
+Practices:
+
+The following are the practices an Agile program lead should have in order to be at the level of emergent for Lean principles.
+
+1. Value stream mapping: Value stream mapping is a visual tool used to map out every step in a process, identify areas of waste and make improvements.
+
+2. Kaizen events: Kaizen is a continuous improvement process applied to workflows, processes, and systems. Kaizen events are structured sessions that focus on making improvements in a specific area.
+
+3. Gemba walks: Gemba walks involve going to the actual workspace to observe how work is being done and identify opportunities for improvement.
+
+4. A3 thinking: A3 thinking is a problem-solving technique that involves using a single sheet of paper to document the problem, the analysis, and the proposed solution.
+
+Areas of knowledge:
+
+To be at the level of emergent for Lean principles, an Agile program lead should have knowledge in the following areas:
+
+1. Value stream analysis: The ability to analyze the value stream, including identifying waste, bottlenecks, and process improvement opportunities.
+
+2. Process improvement methodologies: Familiarity with methodologies like Lean, Six Sigma, and Agile can help identify and implement improvements.
+
+3. Quality management: Knowledge of quality management principles and practices can help identify opportunities for improvement in the quality of the product, service or process.
+
+4. Data analysis: The ability to gather, analyze and interpret data to identify areas of improvement.
+
+References:
+
+1. Lean Enterprise Institute. (2020). Lean Principles. https://www.lean.org/LeanPost/Posting.cfm?LeanPostId=1166
+
+2. Agile Alliance. (2020). Agile Principles. https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+
+3. MSU. (n.d.). Identifying Process Waste. https://www.bus.msu.edu/information-technology-management/docs/IdentifyingProcessWaste7.pdf
+
+4. Six Sigma Online. (n.d.). Six Sigma Vs. Lean. https://www.sixsigmaonline.org/six-sigma-vs-lean/

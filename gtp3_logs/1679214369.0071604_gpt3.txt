@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Conflict Resolution for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery managers are responsible for resolving conflicts within their teams while accomplishing project goals. Conflict resolution is, therefore, a crucial competency for agile delivery managers. Competency, in this context, is defined as a set of skills, practices, and areas of knowledge needed to perform conflict resolution effectively, efficiently and achieve customer satisfaction. Below is a detailed discussion of the skills, practices, and areas of knowledge needed for a competent level of conflict resolution competency.
+
+Skills
+Agile delivery managers need specific skills to resolve conflicts in a dynamic agile environment. The first skill is communication, which involves active listening and the ability to express oneself clearly and respectfully. The second skill is emotional intelligence, which involves awareness of one's own emotions, those of others, and the ability to regulate them. The third skill is assertiveness, which involves the ability to state one's needs without threatening others. Finally, problem-solving is a skill necessary for identifying and implementing solutions that meet the needs of all parties involved.
+
+Practices
+Agile delivery managers must follow specific practices to address conflicts effectively. The first practice is to address conflicts early before they escalate. The second practice is to approach conflicts in a collaborative way that involves all parties and encourages open communication. The third practice is to focus on interests rather than positions; that is, concentrate on why people want something rather than what they want. The fourth practice is to brainstorm different options for resolving the conflict, and the fifth practice is to select the best option collaboratively, considering the needs of all parties.
+
+Areas of knowledge
+Agile delivery managers must possess knowledge and understanding of specific areas to perform conflict resolution effectively. The first area is an understanding of the agile methodology, including its values and principles, and its emphasis on teamwork, customer satisfaction, and rapid response to change. The second area of knowledge is organizational culture, including its norms, values, and beliefs, which impact communication, decision-making, and conflict resolution. The third area of knowledge is negotiation, which involves understanding the different negotiation styles, strategies, and tactics, as well as the factors that influence negotiation outcomes. Finally, knowledge of conflict management theories and models provides a framework for assessing, analyzing, and resolving conflicts effectively.
+
+References
+1. Agile Alliance (2021). Agile Framework 101. Retrieved from https://www.agilealliance.org/agile101/
+2. Cameron, K., & Quinn, R. (2011). Diagnosing and changing organizational culture: Based on the competing values framework. John Wiley & Sons.
+3. Fisher, R., Ury, W., & Patton, B. (2011). Getting to Yes: Negotiating agreement without giving in. Penguin.
+4. Rahim, M. A. (2017). Managing conflict in organizations. Routledge.
+5. Rahim, M. A. (2014). Theory and research in conflict management. Routledge.

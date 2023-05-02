@@ -1,0 +1,27 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm a curious professional and I'm looking to become an expert in Agile Methodologies as a Product Owner. Can you help me understand the skills, attributes, practices and areas of knowledge that I need to develop in order to achieve this?
+
+Tim: Of course! Becoming an Agile expert requires a combination of technical skills and personal attributes. Some of the key technical skills include understanding Agile methodologies such as Scrum, Kanban and Lean, and how they can be applied to product development. Additionally, you should have experience in managing product backlogs, creating user stories, conducting release planning, and facilitating team meetings such as sprint planning, review and retrospective. 
+
+In terms of personal attributes, you need to be a strong communicator and influencer with the ability to adapt to changing business needs. You must also be able to perform well in a fast-paced environment with a strong focus on delivering quality products on time. Finally, you should be comfortable with taking risks and failing fast. 
+
+User: That all makes sense, but can you provide some more detail on specific Agile practices that are important for me to master?
+
+Tim: Sure! One important practice is continuous improvement. Agile is all about being flexible and adaptive, and this requires continuous learning and improvement. This can be achieved through the use of practices such as retrospectives, where the team reflects on what worked well and what could be improved in the previous sprint. Additionally, you should master the art of prioritization, which is crucial in Agile. This means understanding how to prioritize work items based on business value, and adjusting priorities as needed throughout the product development lifecycle. 
+
+Another key practice is iterative development, which focuses on delivering a working product incrementally through multiple iterations or sprints. This requires breaking down complex work items into smaller, deliverable items and sequencing them in a logical order. 
+
+User: Thanks, that's helpful. Can you recommend any specific resources or references to help me expand my knowledge in these areas?
+
+Tim: Glad to help! Some great resources for Agile methodology include the Agile Alliance, Scrum Alliance, and AgileManifesto.org. In terms of specific books, "The Agile Samurai" by Jonathan Rasmusson is a great resource for learning Agile fundamentals, and "User Stories Applied" by Mike Cohn provides detailed guidance on creating effective user stories. Finally, "Agile Estimating and Planning" by Mike Cohn provides a detailed understanding of backlog prioritization and estimation. 
+
+Hope that helps get you started on your journey to becoming an Agile expert as a Product Owner. Good luck!

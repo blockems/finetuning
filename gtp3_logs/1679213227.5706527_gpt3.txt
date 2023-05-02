@@ -1,0 +1,24 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Change Management for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching requires an expert level of competency in Change Management. This competency refers to the ability to manage the people, processes, and technologies associated with a change initiative. Agile coaches who are experts in Change Management possess a wide range of skills, practices, and areas of knowledge that enable them to navigate complex change situations.
+
+One of the key skills required for an expert level of competency in Change Management is the ability to manage stakeholder expectations. Stakeholders include anyone who is impacted by the change initiative, whether positively or negatively. Agile coaches must be able to engage with stakeholders effectively, build trust, and manage their expectations throughout the change process. This involves active listening, effective communication, and negotiation skills.
+
+In addition, expert Agile coaches must be skilled in building and maintaining strong relationships with team members, leaders, and other stakeholders. Building trust is crucial in change initiatives, and Agile coaches must establish trust with all stakeholders. They must be able to understand the needs of team members and leaders, while also balancing these needs against the goals of the change initiative.
+
+Expert Agile coaches must also have a deep understanding of organizational culture and dynamics. They must be able to recognize and navigate the cultural and political factors that impact the success of a change initiative. This includes understanding how to communicate with different levels of the organization, and identifying and managing resistance to change.
+
+Agile coaches must also have a strong knowledge of change management frameworks, tools, and techniques. They must be able to select and apply the appropriate approach for each change initiative, whether it’s a small incremental change or a larger transformation. They must also be able to monitor and evaluate change initiatives to ensure that they are achieving their intended outcomes.
+
+Finally, Agile coaches must be able to lead and manage change initiatives effectively. This includes setting clear goals and objectives, developing and executing a plan, tracking progress, and adapting the plan as needed. They must also be able to identify and manage risks, make data-informed decisions, and lead effective team meetings and workshops.
+
+References:
+
+- Conner, D. R. (2012). Leading at the edge of chaos: How to create the nimble organization. John Wiley & Sons.
+- Hiatt, J. M., & Creasey, T. J. (2012). Change management: The people side of change. Prosci.
+- Kotter, J. P. (2012). Leading change. Harvard Business Press.
+- McKinsey & Company. (2020). The eight essentials of agile transformation. https://www.mckinsey.com/business-functions/organization/our-insights/the-eight-essentials-of-agile-transformation

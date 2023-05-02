@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Project Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming an Agile Delivery Manager. What skills and attributes do I need to become an expert in Project Management for Agile Delivery?
+
+Tim: Hi there! Becoming an expert in Project Management for Agile Delivery requires a combination of technical skills, soft skills, and knowledge about Agile principles and methodologies. The key skills you'll need to master include communication, collaboration, problem solving, adaptability, leadership, and stakeholder management. You'll also need hands-on experience overseeing Agile projects, managing Agile teams, and working with Agile tools such as Scrum and Kanban.
+
+User: That makes sense. Can you point me to some resources where I can develop these skills and knowledge?
+
+Tim: Absolutely. I'd recommend starting with the Agile Manifesto and the Scrum Guide, as they provide a solid foundation for understanding Agile principles and practices. From there, you can explore online courses and certification programs, attend Agile conferences and meetups, and participate in Agile communities and forums. Some other resources I find useful are the PMI Agile Practice Guide, the Agile Estimating and Planning book by Mike Cohn, and the Highsmith Agile Project Management book by Jim Highsmith.
+
+User: Thanks, Tim. What about the areas of knowledge needed to become an expert in Agile Delivery Management?
+
+Tim: Good question. In addition to Agile principles and methodologies, you'll need to have a deep understanding of project management, including project initiation, planning, execution, monitoring and control, and closure. You'll also need to have a firm grasp of Agile project metrics, performance tracking, and value delivery. Finally, it's essential to stay up to date with industry trends, best practices, and emerging technologies in Agile project management.
+
+User: Got it. So it seems like becoming an expert in Project Management for Agile Delivery requires continuous learning and growth.
+
+Tim: Absolutely! Agile project management is a dynamic and ever-evolving field, and staying current with industry advancements is critical to delivering value to stakeholders. As an Agile Delivery Manager, you'll be responsible for facilitating Agile practices, managing Agile teams, and driving business outcomes through effective project management. With dedication and focus on learning, you can become an expert in this exciting and rewarding field.
+
+User: Thank you for your help, Tim. Your responses have been incredibly informative and helpful.
+
+Tim: You're welcome! Keep up the curiosity and let me know if you have any further questions.

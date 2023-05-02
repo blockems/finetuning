@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Project Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management has gained popularity in recent years, and Agile Delivery Manager is a pivotal role in Agile project management. Agile Delivery Managers need to possess a unique set of skills, practices, and areas of knowledge to become an expert in the competency of project management. To discuss this in detail, we need to define various aspects of project management competencies and Agile Delivery Managers.
+
+The Project Management Institute defines project management competencies as a combination of knowledge, skills, and abilities required to perform project management effectively. According to PMI, there are three broad categories of competencies: Technical project management competencies, Business competencies, and Leadership competencies. Additionally, Agile Delivery Managers need to have Agile-specific competencies to manage Agile projects effectively.
+
+Various skills are essential to become an expert Agile Delivery Manager. One of the most critical skills is the ability to facilitate communication and collaboration within the Agile team. In Agile project management, the Agile Delivery Manager acts as a facilitator, which requires excellent interpersonal skills, including active listening, empathetic communication, and conflict resolution (Paasivaara et al., 2019). Another critical skill is the ability to manage project metrics effectively. Agile Delivery Managers are responsible for tracking project progress, which requires competency in using Agile tools and technologies to generate and analyze project metrics.
+
+Agile Delivery Managers need to develop Agile-specific practices to excel in their role. One of the essential Agile practices is Continuous Improvement, which requires the Agile Delivery Manager to challenge the status quo, identify areas for improvement, and implement changes proactively (Dikert et al., 2016). Another important practice is the ability to manage risks effectively by anticipating potential risks and taking corrective actions proactively.
+
+Several areas of knowledge are crucial for Agile Delivery Managers. One of the crucial knowledge areas is Agile Project Management, which includes Agile methodologies, Agile frameworks, and Agile tools and techniques. Additionally, Agile Delivery Managers should have knowledge of the software development life cycle, including software testing, project planning, and requirements gathering. Finally, an essential area of knowledge for Agile Delivery Managers is leadership, including team-building, change management, and stakeholder management.
+
+In conclusion, to become an expert in the competency of project management for Agile Delivery Manager, one needs to possess a unique set of skills, practices, and areas of knowledge. These skills include communication and collaboration, metrics management, and Agile tools and technologies. Practices include continuous improvement and risk management, while areas of knowledge include Agile project management and the software development life cycle. To achieve mastery in these competencies, Agile Delivery Managers need to develop their knowledge, skills, and practices by participating in training, mentoring, and on-the-job experience.
+
+References:
+
+Dikert, K., Paasivaara, M., & Lassenius, C. (2016). Challenges and success factors for large-scale agile transformations: A systematic literature review. Journal of Systems and Software, 119, 87-108.
+
+Paasivaara, M., Dikert, K., & Lassenius, C. (2019). What agile practitioners mean by success: Results from an international survey. Journal of Systems and Software, 158, 110-143.

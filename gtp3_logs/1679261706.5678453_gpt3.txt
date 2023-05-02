@@ -1,0 +1,45 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Degree for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! Thank you for agreeing to help me. Can you explain what skills are needed to be considered competent in Solution Design?
+
+Tim: Hello! Glad to help. At a high level, a Solution Designer needs a range of skills to succeed. Specifically, they need skills in strategic programming, system architecture, and design thinking methods.
+
+User: Can you give more details about strategic programming skills?
+
+Tim: Sure. Strategic programming skills imply that a Solution Designer can read and write code in multiple programming languages that are relevant to the problem at hand. This skill requires an understanding of data structures, algorithms, and object-oriented programming languages like Java or C++.
+
+User: Can you explain what system architecture skills are needed?
+
+Tim: Yes, a Solution Designer must have the ability to model and analyze software systems, including understanding their interactions and dependencies. This requires an understanding of hardware and software components, as well as how those components come together to form a cohesive system.
+
+User: You mentioned design thinking methods. Can you explain what those entail?
+
+Tim: Of course. Design thinking encompasses a range of methods and strategies for research, ideation, and prototyping. A Solution Designer uses these methods to understand user needs and design software systems that meet those needs. These methods include empathy mapping, wireframing, and user testing, among others.
+
+User: I'm interested in learning more about design thinking methods. Can you recommend any resources?
+
+Tim: Yes, I recommend the book "Design Thinking for Strategic Innovation" by Idris Mootee. It provides an overview of design thinking methods and their practical applications in business settings.
+
+User: Thank you for the recommendation. Can you give more details about areas of knowledge?
+
+Tim: Sure. A Solution Designer needs knowledge in several areas, including software engineering, human-computer interaction, and data analysis. They must also be familiar with industry-specific tools and technologies.
+
+User: What specific tools and technologies are commonly used in Solution Design?
+
+Tim: This can vary depending on the industry and the specific problem being solved, but common tools and technologies include wireframing software such as Axure or Balsamiq, prototyping tools such as Adobe XD or Sketch, and project management tools like Trello or Asana. Familiarity with programming languages like Java, C++ or Python is also important.
+
+User: Thank you for the detailed response. Can you recommend any books or articles for further reading?
+
+Tim: Yes, I recommend the book "The Principles of Beautiful Web Design" by Jason Beaird, which provides an introduction to design concepts and principles. Additionally, the book "The Lean Startup" by Eric Ries is a great resource for understanding how to approach software design from an iterative, feedback-driven perspective.
+
+User: Thank you, Tim. This has been very helpful. 
+
+Tim: You're welcome! Keep asking questions and stay curious about Solution Design!

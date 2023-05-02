@@ -1,0 +1,27 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I'm interested in developing my skills as a Lead for the competency Strategic Planning for an Agile Program Lead. What skills, attributes, practices and areas of knowledge would be useful for me to focus on?
+
+Tim: Hi! Great to hear you're interested in developing your skills in this area. There are a number of skills, attributes, practices and areas of knowledge that would be useful for a Lead for Strategic Planning for an Agile Program. Some of these include:
+
+1. Communication skills - as a Lead, you'll be responsible for communicating with a variety of stakeholders, including team members, clients, and executives. You'll need to be able to communicate clearly and effectively, both verbally and in writing.
+
+2. Agile methodology - you'll need to have a deep understanding of Agile methodology and how it can be applied to program management. This includes understanding Agile frameworks such as Scrum and Kanban, as well as Agile practices such as continuous improvement and incremental development.
+
+3. Strategic thinking - you'll need to be able to think strategically and understand how your program fits into the overall business strategy. This includes being able to anticipate and plan for future challenges and opportunities.
+
+4. Leadership and management skills - you'll need to be able to inspire and motivate your team, as well as manage their performance and make tough decisions when necessary.
+
+5. Technical knowledge - while you don't necessarily need to be a technical expert, you'll need to have a solid understanding of the technical aspects of your program. This includes understanding the systems and platforms being used, as well as the technical debt and risks associated with the program.
+
+User: Thank you Tim, that was really helpful. Do you have some reading material that I can use to develop my knowledge and skills in these areas?
+
+Tim: Absolutely! For communication skills, I recommend "Crucial Conversations: Tools for Talking When Stakes are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler. For Agile methodology, "Agile Estimating and Planning" by Mike Cohn is a great resource. "The Art of Possibility" by Rosamund Stone Zander and Benjamin Zander is a great book for fostering strategic thinking. For leadership and management skills, "The Five Dysfunctions of a Team" by Patrick Lencioni is a classic, and for technical knowledge, "The Phoenix Project" by Gene Kim, George Spafford, and Kevin Behr is a great read.

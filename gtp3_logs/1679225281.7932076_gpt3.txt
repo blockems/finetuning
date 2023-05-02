@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Problem Solving and Conflict Resolution for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I'm very curious about the skills, attributes, practices, and areas of knowledge needed to be an expert in problem solving and conflict resolution as a RTE. Could you help me understand this better?
+
+Tim: Hi there, great to hear that you're curious about this topic. To become an expert in problem solving and conflict resolution as a RTE, you need to have a combination of technical skills, soft skills, and domain knowledge. Let me elaborate on this.
+
+Firstly, you need to have a sound understanding of Agile Frameworks such as SAFe, Scrum, Kanban, Lean, etc. The knowledge of these frameworks will enable you to work efficiently as a RTE.
+
+Secondly, your technical skills should include a deep knowledge of Agile engineering practices such as test-driven development, continuous integration, and automated testing.
+
+Thirdly, it's important to have a good grasp of the Software Development Lifecycle (SDLC) and the specifics of the problem-solving and conflict resolution strategies that are effective at each stage.
+
+Moreover, effective communication, leadership, and interpersonal skills are critical to resolving conflicts between stakeholders, identifying and addressing issues, and driving problem-solving initiatives to successful completion.
+
+Lastly, soft skills, such as empathy and active listening, are essential to fostering positive relationships with stakeholders and approaching problem-solving initiatives and conflict resolution issues with a collaborative mindset.
+
+To further dive into this topic, I recommend the book "Agile Estimating and Planning" by Mike Cohn, which provides practical insights into estimating and planning in Agile software development.
+
+User: Thank you, Tom, for the insightful response. Can you give me a few examples of how you've applied some of these skills in your career as an Agile coach and program manager?
+
+Tim: Sure! One example would be where I was working as a coach for a large organization, and there was a conflict between two teams that caused delays in the release of a program. I took the initiative of facilitating a meeting between both parties to understand the cause of the conflict and to help them come up with a solution. We ended up identifying communication gaps, which led to a misunderstanding. By working through differences and addressing specific communication gaps, the problem was effectively solved, and the release was delivered on time.
+
+Another example would be where I was working as a program manager for a new software development initiative. The project was lagging behind schedule, and morale was low. In this case, I worked with the team to identify areas where they were encountering challenges and were struggling with solutions. We developed a strategy to unpack more detail from the product owner to reduce uncertainty, identify impediments for the team, and increase the team's accountability to the defined end goal. With the strategy in place, the team turned around the project, and we delivered it on time.
+
+Hope this helps!

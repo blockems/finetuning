@@ -1,0 +1,73 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Cybersecurity for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what skills, attributes, practices, and areas of knowledge would be needed to reach the Emergent level of competency in Cybersecurity for a Tech Lead. 
+
+Tim: Hi there! Great question. To reach the Emergent level, you would need to have a solid understanding of the following: 
+
+1. Security Principles - this involves understanding the basic concepts of cybersecurity, such as confidentiality, integrity, availability, and non-repudiation. These principles will serve as the foundation for all cybersecurity practices. 
+
+2. Risk Management - this involves identifying and assessing potential threats and vulnerabilities and implementing measures to mitigate them. You need to understand what constitutes a risk, how to quantify it, and how to prioritize it. 
+
+3. Security Architecture and Engineering - this involves designing and implementing security measures, such as encryption, access controls, and firewalls. You will need to choose the right tools and techniques to protect your organization's information assets. 
+
+4. Communication and Network Security - this involves understanding the network infrastructure and implementing appropriate measures to secure it. You should be familiar with protocols such as SSL/TLS, DNS, and IPsec. 
+
+5. Security Operations - this involves monitoring and responding to security incidents. You should be able to identify and analyze security events, and take appropriate action to prevent or mitigate them. 
+
+6. Software Development Security - this involves integrating security into the software development lifecycle. You should be familiar with secure coding practices and testing for vulnerabilities. 
+
+7. Incident Management - this involves having a plan in place for responding to security incidents. You should be able to identify, contain, and recover from security breaches and other incidents. 
+
+User: Thank you for your thorough response, Tim. What attributes would one need to have to excel in these areas? 
+
+Tim: Great question. Here are some attributes that are crucial for excelling in cybersecurity: 
+
+1. Attention to detail - cybersecurity requires a meticulous approach to identifying and mitigating risks. You must be able to spot potential vulnerabilities and assess their impact. 
+
+2. Analytical thinking - you need to be able to analyze complex data and come up with effective solutions. This involves thinking creatively and critically. 
+
+3. Communication skills - cybersecurity requires collaboration and communication with other stakeholders, such as IT teams, management, and end-users. You must be able to explain technical concepts in a clear and concise manner. 
+
+4. Ethical mindset - cybersecurity professionals must be ethical and committed to upholding the integrity and confidentiality of information. 
+
+5. Adaptability - cybersecurity is constantly evolving, so you need to be able to adapt to new technologies, threats, and regulations. 
+
+6. Strong work ethic - cybersecurity requires diligence and persistence. You must be committed to safeguarding your organization's information assets, even in the face of challenges. 
+
+User: That makes sense. Are there any particular practices or approaches that one should adopt when working in cybersecurity? 
+
+Tim: Yes, definitely. Here are some practices that are essential for success in cybersecurity: 
+
+1. Follow the security lifecycle - cybersecurity involves a continuous cycle of assessment, implementation, and monitoring. You should adopt a systematic approach to identifying and mitigating risks. 
+
+2. Stay up-to-date with industry news and trends - cybersecurity is constantly evolving, so it's important to stay informed about new threats, vulnerabilities, and emerging technologies. 
+
+3. Identify and prioritize risks - you should adopt a risk-based approach to cybersecurity, where you prioritize the risks that are most critical to your organization. 
+
+4. Test your defenses - it's important to conduct regular penetration testing and vulnerability assessments to identify weaknesses in your security defenses. 
+
+5. Establish strong incident response protocols - you should have a plan in place for responding to security incidents, including alerts, containment, investigation, and recovery. 
+
+6. Foster a culture of security - cybersecurity is everyone's responsibility, so you should engage and educate all stakeholders about the importance of cybersecurity best practices. 
+
+User: Thank you for your time, Tim. Do you have any recommended reading material or resources that I can use to deepen my understanding in this area? 
+
+Tim: Absolutely. Here are some resources that I highly recommend: 
+
+1. "CISSP All-in-One Exam Guide" by Shon Harris - This is a comprehensive guide to the CISSP examination, which covers all areas of cybersecurity. 
+
+2. "The Basics of Cyber Safety: Computer and Mobile Device Safety Made Easy" by John Sammons - This is a beginner's guide to cybersecurity, which offers practical tips for staying safe online. 
+
+3. "The CERT Guide to Insider Threats: How to Prevent, Detect, and Respond to Information Technology Crimes" by Dawn M. Cappelli, Andrew P. Moore, and Randall F. Trzeciak - This book focuses on insider threats, which are a critical component of cybersecurity. 
+
+4. "The Cybersecurity Canon: Books Every Cybersecurity Professional Should Read" - This is a curated list of essential reading for cybersecurity professionals. 
+
+I hope these resources are helpful, and best of luck in your cybersecurity journey!

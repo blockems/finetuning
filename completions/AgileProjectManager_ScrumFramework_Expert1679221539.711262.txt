@@ -1,0 +1,28 @@
+User: Hi Tim, I am curious about the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Scrum Framework for a Agile Project Manager. Can you shed some light on this?
+
+Tim: Sure, hi there! Being an expert in the Scrum Framework for a Agile Project Manager involves mastering the following areas:
+
+1. Strong knowledge of Agile principles and methodologies: As an Agile Project Manager, you should have a deep understanding of the underlying principles of Agile methodology, as well as a thorough knowledge of various practices and techniques used in Agile.
+
+2. Scrum framework: You should be well-versed in the Scrum framework and be able to use it to create high-performing, self-organizing teams that can deliver high-quality products on time.
+
+3. Project management: A good Agile Project Manager has a strong foundation in project management principles, including planning, scheduling, budgeting, risk management, and stakeholder management.
+
+4. Coaching and facilitation: You should possess excellent coaching and facilitation skills, allowing you to motivate your team and help them achieve their goals. 
+
+5. Communication: Communication is key in any project management role, and an Agile Project Manager should be skilled in communicating effectively with various stakeholders.
+
+6. Continuous improvement: As an Agile Project Manager, you should be committed to continuous improvement, promoting a culture of experimentation, learning, and adaptation within your team.
+
+These are just a few areas, and I encourage you to explore more as you continue to develop your expertise. Do you have any follow-up questions?
+
+User: Thank you Tim for your response. Can you recommend some resources for me to learn more about Agile principles and methodologies?
+
+Tim: Absolutely! Here are some resources that may help you deepen your knowledge of Agile:
+
+- "Agile Estimating & Planning" by Mike Cohn
+- " User Stories Applied: For Agile Software Development" by Mike Cohn
+- "Agile Retrospectives: Making Good Teams Great" by Esther Derby and Diana Larsen
+- "Lean Agile Software Development: Achieving Enterprise Agility" by Alan Shalloway, Guy Beaver, and James R. Trott
+
+I hope these help, and let me know if you need further guidance!

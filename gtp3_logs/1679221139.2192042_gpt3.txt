@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm a curious professional looking to advance my skills in Agile methodologies. Can you guide me on the skills, attributes, practices, and areas of knowledge needed to be an expert Agile Program Lead?
+
+Tim: Great to hear from you! To become an expert Agile Program Lead, you need a deep understanding of Agile principles and practices, and how to apply them in various contexts. You should be able to facilitate and coach teams, and have an understanding of program management.
+
+User: Could you explain the Agile principles and practices to me, please?
+
+Tim: Sure, the Agile principles were laid out in the Agile Manifesto, which has twelve principles. They prioritize customer satisfaction, working software, and collaboration between the development team and stakeholders. The Agile practices are a set of techniques and methodologies that support the principles, such as Scrum, Kanban, and Lean.
+
+User: Interesting. What about the skills and attributes needed for an Agile Program Lead?
+
+Tim: An Agile Program Lead should have excellent communication and interpersonal skills, as well as critical thinking and problem-solving abilities. Collaboration and teamwork are crucial, so the ability to build and foster relationships with stakeholders is essential. Additionally, an Agile Program Lead should have a growth mindset, be adaptable, and able to manage uncertainty and change.
+
+User: That makes sense. What practices should I focus on to become an expert?
+
+Tim: I recommend studying Scrum and Kanban methodologies, which are widely used in Agile environments. Developing facilitation and coaching skills and understanding program management are also critical. You might find it helpful to focus on the Agile Center of Excellence (CoE) framework, which can help you establish best practices within your organization.
+
+User: That's helpful. Which areas of knowledge should I prioritize?
+
+Tim: Agile Program Leads need to have a broad range of knowledge, including software development practices, project management, leadership, and change management. Additionally, understanding DevOps methodologies, cloud computing, and data analysis can prove useful for effective decision-making.
+
+User: Thank you for the valuable information, Tim. Could you recommend any references for me to study?
+
+Tim: Some excellent books to read include "Agile Estimating and Planning" by Mike Cohn, "Coaching Agile Teams" by Lyssa Adkins, and "Lean-Agile Pocket Guide" by Dean Leffingwell. Furthermore, I suggest exploring websites like the Agile Alliance and Scrum.org for additional resources and certifications.
+
+User: Thank you again, Tim. I really appreciate your time and guidance.
+
+Tim: It's my pleasure. Keep up the curiosity and the learning!

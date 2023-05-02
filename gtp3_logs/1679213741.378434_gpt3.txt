@@ -1,0 +1,49 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Project Management for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The competency of Project Management is crucial for an agile coach. Being competent in project management allows the coach to effectively oversee and plan projects while keeping them within scope, schedule, and budget. In this discussion, we will look at the skills, practices, and areas of knowledge necessary for an agile coach to be competent in project management.
+
+Skills:
+
+1. Leadership: Leaders motivate and guide team members towards achieving their goals. Agile coaches need leadership skills to supervise the project team and ensure team members follow the agile methodology.
+
+2. Communication: Effective communication guarantees that the team has a shared understanding of the project goals and objectives. An agile coach needs to possess excellent communication skills to manage the daily stand-up meetings, sprint retrospectives, and other key agile ceremonies.
+
+3. Facilitation: Facilitation involves managing group discussions and conflict resolution. Agile coaches must have the skill to facilitate team discussions and create an environment for open communication.
+
+4. Problem Solving: An agile coach must have the ability to identify and solve problems quickly. Being able to think critically is an important skill to have when delivering projects in a dynamic and fast-paced environment.
+
+5. Collaboration: Collaboration skills enable agile coaches to work with team members effectively. An agile coach must be able to collaborate seamlessly with stakeholders, team members, and the product owner.
+
+Practices:
+
+1. Agile Methodologies: Agile coaches must be proficient in agile methodologies such as Scrum, Lean, and Kanban, and understand the benefits and limitations of each method.
+
+2. Project Management Tools: Agile coaches must be skilled in using project management tools such as JIRA, Asana, Trello, etc. to help manage their projects effectively.
+
+3. Continuous Improvement: Agile coaches must establish continuous improvement practices that enable the team to learn from their mistakes and make necessary adjustments.
+
+Areas of Knowledge:
+
+1. Scope Management: Agile coaches must understand how to manage the project scope through effective project planning, requirements gathering, and change management.
+
+2. Time Management: Agile coaches must possess skills to optimize schedules, meet deadlines and ensure timely delivery of project milestones.
+
+3. Risk Management: Agile coaches must be aware of uncertainties that might affect their project schedules and can identify potential risks and develop mitigation plans.
+
+4. Cost Management: Agile coaches must be able to understand and manage project budgets to avoid overspending, rework, or scope creep.
+
+5. Quality Management: Agile coaches must be aware of the importance of quality and how to ensure the project goals are being met.
+
+In conclusion, being competent in project management is essential for agile coaches. Their ability to manage projects, teams, and stakeholders effectively helps to ensure project success. As agile coaching continues to grow in popularity, it is essential that agile coaches have a diverse skill set, master best practices, and acquire knowledge of various project management areas. 
+
+References:
+
+1. PMI Agile Certified Practitioner (PMI-ACP)® Handbook. (n.d.). https://www.pmi.org/-/media/pmi/documents/public/pdf/certifications/agile-acp-handbook.pdf.
+
+2. McConnell, S. (2006). Software Project Survival Guide. Pearson Education.
+
+3. Project Management Institute. (2017). Agile Practice Guide. Project Management Institute.

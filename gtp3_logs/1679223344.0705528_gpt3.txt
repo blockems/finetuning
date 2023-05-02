@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency DevOps Methodologies for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming an expert in DevOps methodologies. Can you tell me what skills and attributes I need to develop?
+
+Tim: Hi there! Becoming an expert in DevOps methodologies requires a range of skills and attributes. Some key skills include problem-solving, collaboration, automation, configuration management, and testing. You'll also need to have strong communication and leadership abilities as DevOps consultants typically work with a number of different teams and stakeholders. 
+
+In terms of attributes, being curious and open-minded are vital. You need to be willing to learn new things and stay up-to-date with the latest developments in the field. Attention to detail is also important, as is a willingness to keep an eye on the big picture and make sure that all aspects of a project are properly integrated.
+
+User: Thanks for the response, Tim! What specific practices should I focus on in order to develop these skills?
+
+Tim: Great question! There are a number of different practices that can help you build the skills and attributes needed to become an expert in DevOps methodologies. Some key practices include continuous integration, continuous delivery, test-driven development, and infrastructure as code. These practices involve working closely with developers, testers, and operations teams to ensure that software is developed, tested, and deployed in a fast and efficient manner.
+
+You'll also want to focus on a range of tools and technologies such as Docker, Kubernetes, Jenkins, and Ansible. These tools are widely used in DevOps and can help you automate key processes and speed up the delivery of software.
+
+User: Thanks for the suggestions, Tim. What areas of knowledge should I consider studying in order to be an expert in DevOps methodologies?
+
+Tim: Another great question! There are a number of different areas of knowledge that are important for DevOps consultants. Some key areas include software development, systems administration, and network engineering. You'll want to have a solid understanding of these areas in order to effectively collaborate with different teams.
+
+Other areas to consider include cloud computing, cybersecurity, and data analytics. These areas are becoming increasingly important in DevOps as more organizations move to the cloud and face new security and data-related challenges.
+
+User: Thanks for the detailed response, Tim. Can you recommend any specific references or resources I can use to deepen my understanding of DevOps methodologies?
+
+Tim: Of course! There are a number of great resources available for those looking to deepen their understanding of DevOps methodologies. Some well-regarded books in the field include "The Phoenix Project" by Gene Kim, "Continuous Delivery" by Jez Humble and David Farley, and "The DevOps Handbook" by Gene Kim, Jez Humble, Patrick Debois, and John Willis.
+
+In addition to books, there are a number of online courses and certifications that can help you develop your skills and knowledge. The DevOps Institute offers a range of certifications in areas such as Continuous Delivery and DevOps Leadership, while platforms like Udemy and Coursera offer a range of online courses.
+
+I hope that helps! Are there any other questions you have?

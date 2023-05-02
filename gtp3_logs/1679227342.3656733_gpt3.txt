@@ -1,0 +1,40 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Technical Knowledge for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm trying to get a handle on the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Technical Knowledge for a SAFe Product Owner (PO). Can you help guide me in the right direction?
+
+Tim: Hi there, I'm glad to hear that you're eager to learn more about this topic. To achieve the level of Emergent for the Technical Knowledge competency, a SAFe Product Owner needs to have a solid understanding of software development principles and practices.
+
+This includes knowledge of programming languages, development tools, and the software development lifecycle. They should also have a good understanding of the various types of testing, including unit testing, integration testing, and acceptance testing.
+
+Additionally, they need to have expertise in creating user stories and acceptance criteria. A thorough understanding of Agile methodologies, particularly Scrum and SAFe, is also essential.
+
+Finally, as a Product Owner, they need to have excellent communication skills and the ability to work well with cross-functional teams.
+
+User: That's great information, Tim. Can you suggest some specific practices or techniques that I can use to build expertise in these areas?
+
+Tim: Certainly! One approach is to seek out training opportunities. For example, attending Agile Product Owner training courses or Scrum certification courses can give you a solid foundation in Agile methodologies and software development principles.
+
+Additionally, you can stay up-to-date on industry trends and best practices by reading blogs, articles, and publications from industry thought leaders. I would suggest exploring the Scaled Agile Framework (SAFe) website, as well as websites such as Agile Alliance and Scrum.org.
+
+Finally, actively participating in Agile communities through meetups, conferences, and online forums can help you connect with other Agile practitioners, share your experiences, and learn from others.
+
+User: Thanks for the suggestions. Can you recommend any specific resources or articles that you think would be particularly useful for me to read?
+
+Tim: Sure, there are a ton of great resources out there. I would start by checking out the "Agile Manifesto" and the "Principles behind the Agile Manifesto." Both of these documents provide an excellent introduction to Agile methodologies and principles.
+
+Beyond that, here are a few articles that I think would be particularly useful:
+
+1. "What is a Product Owner in Agile?" by Mike Cohn
+2. "Creating Effective User Stories," by Investopedia
+3. "The Benefits of Acceptance Test-Driven Development (ATDD)," by ATD Solutions
+4. "SAFe 5.0 Framework Overview," by Scaled Agile, Inc.
+
+I hope these resources prove helpful to you, and please don't hesitate to reach out if you have any additional questions or concerns.

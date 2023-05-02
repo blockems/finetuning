@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am curious about what skills and attributes are needed to be an Emergent level Release Train Engineer in the Big Data competency?
+
+Tim: Hi there! Great question. To be at the Emergent level in the Big Data competency for a RTE, you should have a deep understanding of data modeling, data mining, data analysis, machine learning, data warehousing, data visualization, and data integration. Additionally, you will need to have excellent communication skills, strategic thinking, problem-solving skills, and leadership abilities. Would you like me to elaborate on any of these skills or attributes?
+
+User: That's a great start, Tim. Can you elaborate on the importance of data modeling and data mining for a RTE in the Big Data competency?
+
+Tim: Sure thing! In Big Data, data modeling and mining are critical skills for a RTE to have. Data modeling helps RTEs understand the structure and relationships between data entities, which is essential for designing effective data storage solutions. This knowledge also helps to determine what data should be collected, where it should be stored, and how it should be maintained.
+
+Data mining, on the other hand, refers to the process of discovering patterns and insights from data. This skill is particularly essential for data analysts and scientists, as it enables them to use statistical and machine learning techniques to identify trends, clusters, and anomalies. An RTE who can understand the basics of data mining can better understand and promote data-driven decision-making within their organization. 
+
+Would you like me to go into more detail or provide some references for further reading?
+
+User: That's helpful, Tim! Can you provide some references on data modeling?
+
+Tim: Sure! The book "Data Modeling Essentials" by Graeme Simsion and Graham Witt is an excellent starting point. It covers everything from conceptual and logical data modeling to physical implementation considerations. Another great reference is "The Data Warehouse Toolkit" by Ralph Kimball and Margy Ross, which includes a comprehensive guide to dimensional data modeling.
+
+User: Thank you, Tim! Can you give me some more insights on the leadership skills needed for a RTE in Big Data competency?
+
+Tim: Sure thing! Good leaders are essential for any organization, especially in the Big Data field. As a RTE, you will need to be able to inspire and motivate your team, build strong relationships with stakeholders, and drive results. 
+
+Effective communication skills are essential for a RTE, as you will need to be able to present complex data concepts to both technical and non-technical stakeholders. In addition, you will need to be able to influence decision-making at all levels of the organization, from individual contributors up to senior management.
+
+Finally, strategic thinking and problem-solving skills are critical for a RTE in Big Data. You will need to be able to anticipate and respond to challenges, prioritize tasks, and manage resources effectively. Being able to identify opportunities for growth and improvement within the big data field is also essential for success.
+
+I hope that gives you a good overview of the leadership skills needed for a RTE in the Big Data competency. Do you have any more questions or would you like some references?

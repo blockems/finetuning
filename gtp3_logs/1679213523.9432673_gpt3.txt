@@ -1,0 +1,27 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Leadership for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The competency of leadership in agile coaching requires a range of interpersonal, communication, and planning skills, as well as a deep understanding of agile methodologies and their application in practice. To be an expert in this competency, one must possess advanced knowledge and expertise in various areas, including team building, leadership theories, change management, coaching, and facilitation.
+
+Effective team building is critical in agile coaching, as it enables the coach to form and empower high-performing teams that work collaboratively towards achieving common goals. The coach must understand how to apply different team-building techniques, including creating a shared vision, fostering transparency and trust, clarifying roles and responsibilities, and facilitating collaboration.
+
+Leadership theories provide a valuable framework for understanding how to lead and motivate individuals and teams. The coach must have a deep understanding of leadership theories such as the Situational Leadership Model, Transformational Leadership, and Servant Leadership, and be able to apply them in an agile context.
+
+Change management is another essential skill in agile coaching. The coach must be able to recognize and manage change, including dealing with resistance to change, engaging stakeholders, and communicating effectively to support change initiatives.
+
+Coaching and facilitation skills are key in agile coaching, as the coach must be able to guide teams towards self-organization, acceptance of change, and effective decision-making. The coach must have expertise in various coaching techniques, including active listening, asking powerful questions, providing feedback and guided reflection, and facilitating meetings and workshops.
+
+Finally, the coach must have a deep understanding of agile methodologies and their application in practice to effectively guide teams through the agile development process. The coach must know how to apply agile principles, practices, and frameworks, including Scrum, Kanban, Lean, and XP.
+
+In conclusion, an expert in the competency of leadership for agile coaching must possess diverse skills across various areas of knowledge. These skills include team building, leadership theories, change management, coaching, facilitation, and agile methodologies. With this expertise, an agile coach can guide teams towards achieving their goals, promoting collaboration, innovation, and continuous improvement.
+
+References:
+
+- Aguilar, C. A. (2010). The Art of Coaching: Effective Strategies for School Transformation. John Wiley & Sons.
+- De Vries, J., & Van Beest, N. (2016). Agile Coaching: Wisdom from Practitioners. Addison Wesley Professional.
+- Grealish, T., & Landay, J. A. (2015). The Practitioner's Guide to Product Management. O'Reilly Media, Inc.
+- Smith, G., & Sidky, A. (2017). Becoming an Agile Leader. Addison Wesley Professional.
+- Stuckenbruck, L. C. (2017). Agile Leadership: A Leader's Guide to Orchestrating Agile Strategy, Product Quality and IT Governance. Apress.

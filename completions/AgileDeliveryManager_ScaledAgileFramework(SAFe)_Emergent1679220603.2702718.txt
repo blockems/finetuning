@@ -1,0 +1,25 @@
+User: Hi Tim, I am interested in becoming proficient in the competency of ‘Emergent’ for the Scaled Agile Framework (SAFe) Agile Delivery Manager role. Can you give me a rundown of the skills, attributes, practices and Areas of knowledge needed to achieve this level of proficiency?
+
+Tim: Sure, I’d love to help you with that. Emergent level proficiency for the SAFe Agile Delivery Manager role requires a solid set of skills, attributes, practices and knowledge areas. SAFe provides specific recommendations for the required knowledge areas that an Agile Delivery Manager should be proficient in. These include areas like SAFe principles, Lean-Agile mindset, Agile development practices, DevOps and Technical Agility. 
+
+User: Can you explain the SAFe principles in more detail please?
+
+Tim: Sure, SAFe principles represent the necessary mindset shift required for individuals to embrace agile transformation. SAFe principles guide individuals and teams to produce high-quality, timely products and services. The main principles of SAFe include alignment, built-in quality, transparency, program execution and cadence.
+
+User: Ok, what about ‘Lean-Agile mindset’?
+
+Tim: A Lean-Agile mindset is defined as a way of thinking and behaviour that brings together the Lean enterprise and Agile methods in order to address the business’s challenges. It requires a deep understanding of Lean and Agile values and principles.
+
+User: Agile development practices?
+
+Tim: Agile development practices refer to the core Agile practices that should be implemented by Agile Delivery Managers. These practices emphasize on iterative development and customer feedback to deliver high-quality and timely products. It includes practices such as Scrum, Kanban, and XP (Extreme Programming).
+
+User: And Technical Agility?
+
+Tim: Technical Agility refers to the technical skills required to build and maintain high-quality software products. It includes expertise in areas such as test-driven development, continuous integration and continuous deployment, automated testing, and agile architecture.
+
+User: Thanks for the explanations. Can you recommend any reference books or articles to read and learn more?
+
+Tim: Of course! ‘SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework’ by Richard Knaster and Dean Leffingwell is a great read for those who want to learn more about the SAFe framework. There are also many articles and resources available on the SAFe website.
+
+User: Thanks, Tim. This is really helpful.

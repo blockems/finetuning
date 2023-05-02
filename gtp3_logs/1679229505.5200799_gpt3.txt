@@ -1,0 +1,38 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency DevOps for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I am interested in becoming an Emergent DevOps Scrum Master. What skills and practices should I focus on developing?
+
+Tim: Hello! That's a great goal to work towards. To become an Emergent DevOps Scrum Master, you need a combination of technical and soft skills. Some key technical skills would be proficiency in continuous integration and deployment, infrastructure as code, and automation testing.
+
+User: Thank you for the response. Could you provide a reference for continuous integration and deployment?
+
+Tim: Sure thing! You can refer to Martin Fowler's article on Continuous Integration: https://martinfowler.com/articles/continuousIntegration.html 
+For continuous deployment, I recommend reading this article: https://blog.dataloop.io/what-is-continuous-deployment-and-why-is-it-important/
+
+User: Thanks for the resources. What soft skills are important for this role?
+
+Tim: Soft skills are essential in every role and are especially important for a Scrum Master. Interpersonal skills, communication, facilitation, and conflict resolution are important to have in order to build rapport with the team, resolve issues, and effectively facilitate communication.
+
+User: That makes sense. Can you recommend any resources to develop these skills?
+
+Tim: Absolutely. I recommend 'The 7 Habits of Highly Effective People' by Stephen Covey for interpersonal skills, Effective Communication by Dale Carnegie for communication skills, 'Facilitating With Ease!' by Ingrid Bens for facilitation skills, and 'Crucial Conversations' by Kerry Patterson for conflict resolution skills.
+
+User: That's an extensive list, thank you. Are there any practice exercises to help me improve in these areas?
+
+Tim: Definitely. For interpersonal skills, practice active listening and empathy daily. For communication, practice summarizing and paraphrasing information. For facilitation skills, practice creating and leading meetings with objectives as the team's development goals. For conflict resolution skills, practice mediating of disputes that you have experienced, such as at work or within your family.
+
+User: Thank you, Tim. How can I stay up-to-date on the latest industry tools and trends?
+
+Tim: Reading blogs, online webinars, and attending industry events are generally the best ways to keep learning the latest trends and newest innovations. I recommend following reputable thought leaders in the industry such as Gene Kim and Jez Humble to keep an eye on emerging tools and trends.
+
+User: That's helpful. Thank you for all the great resources and guidance. 
+
+Tim: You're very welcome! Remember, it’s essential to remain curious and adaptable because continuous learning is a requirement for anyone in the tech industry. Wish you luck in your journey towards becoming an Emergent DevOps Scrum Master!

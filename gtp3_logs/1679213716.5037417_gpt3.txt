@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaches are responsible for fostering collaboration and communication among team members, stakeholders, and customers. The competency of communication is a crucial skill that an agile coach should possess with the aim of building strong relationships and ensuring effective delivery of projects. In this debate, we will discuss the skills, practices, and areas of knowledge necessary for an agile coach to be competent in communication.
+
+Communication skills refer to the ability to convey information and ideas to others effectively. An agile coach should possess excellent communication skills and be able to use various communication techniques to communicate with different stakeholders within the project team. These skills include active listening, non-verbal communication, and the ability to use language that is easy to understand. According to Batista et al. (2017), an agile coach should also have the ability to communicate through visual tools such as diagrams and flowcharts, video conferencing, and other remote communication tools.
+
+An agile coach should understand the importance of collaboration and teamwork in an agile project. The coach should foster an environment that encourages open communication and collaboration among team members regardless of their geographical locations. In their study, Chrouch et al. (2017) noted that effective communication among team members is essential for enhancing collaboration and timely delivery of projects.
+
+In addition to communication skills, an agile coach should possess business acumen, should understand the dynamics of different teams and the value of the project delivered. An understanding of the Agile Manifesto is also an essential area of knowledge that an agile coach needs to possess. This includes the twelve principles outlined in the manifesto, such as the principle of individuals and interactions over processes and tools, as well as the principle of customer collaboration over contract negotiation (Agile Alliance, n.d).
+
+The agile coach also needs to possess knowledge of different agile methodologies, which include Scrum, Kanban, Lean, and SAFe, among others. According to Suthar (2018), understanding these methodologies can help an agile coach provide guidance and coaching to different teams based on the specific context and needs of the project.
+
+In conclusion, for an agile coach to be competent in communication, they need to possess excellent communication skills, understand the importance of collaboration and teaming, possess business acumen, business dynamics of agile teams, understanding of the Agile manifesto, and knowledge of different agile methodologies. These skills and areas of knowledge will help the coach build robust relationships with different stakeholders within the project team and ensure timely delivery of projects.
+
+References
+Agile Alliance. (n.d). Agile Manifesto. Retrieved from https://www.agilealliance.org/agile101/12-principles-behind-the-agile-manifesto/
+Batista, L. et al. (2017). Agile coaching: a systematic literature review. Journal of software engineering research and development, 5(1), 10. https://doi.org/10.1186/s40411-017-0042-6
+Chrouch, M. et al. (2017). Agile project management importance in development and success of information systems. International Journal of Agile Systems and Management, 10(2), 87-104. https://doi.org/10.1504/IJASM.2017.083852
+Suthar, B. (2018). The role of an Agile Coach: A comprehensive guide. Retrieved from https://www.cio.com/article/3276812/the-role-of-an-agile-coach-a-comprehensive-guide.html

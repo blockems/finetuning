@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Software Development Lifecycle (SDLC) for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am really curious about Software Development Lifecycle (SDLC) for a Technical Business Analyst. Can you tell me about the skills, attributes, practices and Areas of knowledge needed to be an expert in it?
+
+Tim: Hi there. Great question. To be an expert in SDLC for a Technical Business Analyst, there are several skills, attributes, practices, and areas of knowledge one must possess. 
+
+User: That's great, Tim. Can you please provide some specific skills that I should work on to be an expert in SDLC?
+
+Tim: Sure. As a Technical Business Analyst, it is important to have strong technical skills, such as proficiency in programming languages, database management, and familiarity with software development tools. Additionally, you should have excellent analytical and problem-solving skills, be able to think and communicate clearly, and have a good understanding of business operations.
+
+User: That's very helpful, Tim. Can you speak to the specific practices that a Technical Business Analyst should follow to be an SDLC expert?
+
+Tim: One essential practice is following sound development and project management methodologies such as Agile and Scrum. Additionally, developing and following processes for requirements gathering, analysis, design, and testing is crucial. It's also important to keep up with industry trends and standards and seek out opportunities for professional development, such as attending conferences and training sessions.
+
+User: Thank you, Tim. Lastly, can you tell me about the areas of knowledge I should master to become an SDLC expert?
+
+Tim: Certainly. You should have a deep understanding of SDLC phases, such as planning, analysis, design, implementation, and maintenance. You should also have expertise in software testing, quality assurance, and software development best practices. Additionally, you should have a good understanding of industry standards and compliance requirements such as General Data Protection Regulation (GDPR) and ISO/IEC 27001. 
+
+User: That was very informative, Tim. Thank you so much for the detailed response. Can you refer me to some resources I can study to further support my learning around SDLC for Technical Business Analysts?
+
+Tim: Absolutely. Here are a few resources that can help you expand your knowledge and skills: 
+
+- "Software Development Life Cycle(SDLC)" by Gary Jackson.
+- "The Business Analyst's Handbook" by Howard Podeswa. 
+- "The Agile Samurai: How Agile Masters Deliver Great Software" by Jonathan Rasmusson 
+
+I hope you find these resources helpful. Let me know if you have any more questions or need further guidance.

@@ -1,0 +1,21 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Security for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To be at the level of Emergent for the competency Security for a CI/CD Lead, one needs to possess a range of skills, practices, and areas of knowledge. These can be broadly classified into technical and non-technical skills. Technical skills include knowledge of security principles, secure coding practices, vulnerability assessment, threat modeling, and penetration testing. Non-technical skills include communication, collaboration, and leadership. 
+
+Technical Skills:
+1. Security Principles: Understanding of security principles such as confidentiality, integrity, and availability, and their application to software development practices. (Dube, 2019).
+2. Secure Coding: Knowledge of secure coding practices, such as input validation, output encoding, and error handling, to prevent common vulnerabilities such as injection attacks and cross-site scripting (CSS) attacks. (OWASP Top Ten Project, 2017).
+3. Vulnerability Assessment: Ability to perform vulnerability assessments using tools such as Nessus, OpenVAS, or Qualys to identify security threats and prioritize remediation efforts (Kumar, 2019).
+4. Threat Modeling: Skill to perform threat modeling, a process to identify potential threats and mitigation strategies for software applications (OWASP Threat Modelling, 2020).
+5. Penetration Testing: Knowledge of penetration testing frameworks such as Metasploit, Nmap, and Burp Suite to test the effectiveness of defensive measures in place.
+
+Non-Technical Skills:
+1. Communication: Ability to communicate complex technical concepts to both technical and non-technical stakeholders effectively (Haskins, B., & George, J., 2018).
+2. Collaboration: Ability to work collaboratively with stakeholders, including developers, testers, and security teams, to develop effective security solutions (Riordan, 2017).
+3. Leadership: Ability to lead cross-functional teams to ensure comprehensive security measures are in place and that all team members are aware of their security responsibilities. (Bhasin, 2018).
+
+In conclusion, a CI/CD Lead with an Emergent level competence in Security needs to possess a range of technical and non-technical skills. Technical skills include knowledge of security principles, secure coding practices, vulnerability assessment, threat modeling, and penetration testing. Non-technical skills include communication, collaboration, and leadership. References cited in this discussion include OWASP Top Ten Project, OWASP Threat Modeling, Dube (2019), Kumar (2019), Haskins & George (2018), Riordan (2017), and Bhasin (2018).

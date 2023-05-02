@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Vendor Management for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about the skills and attributes needed to be a Lead for the competency Vendor Management in a SAFe Lean Portfolio Manager role. Can you please help me understand?
+
+Tim: Sure thing! To be a Lead in Vendor Management, you need to have a deep understanding of the key principles and practices of vendor management, including sourcing strategies, contract management, risk mitigation, vendor performance management, and relationship management.
+
+User: That makes sense. Can you recommend any resources for learning more about these principles and practices?
+
+Tim: Absolutely! For an in-depth understanding of vendor management, I recommend the book "The Vendor Management Handbook: A Comprehensive Guide to Sourcing Strategies, Contracting, Negotiations and Relationship Management" by Stephen Guth. Additionally, the online course "Vendor Management Fundamentals" offered by the International Association of Outsourcing Professionals is a great resource for learning more about vendor management best practices.
+
+User: Thank you, Tim! What about skills and attributes needed for the role of Lead in vendor management?
+
+Tim: As a Lead in vendor management, it's important to have excellent communication skills, negotiation skills, business acumen, and a strong customer focus. You should also have a great attention to detail, be able to manage multiple projects simultaneously, and have strong analytical and problem-solving skills.
+
+User: Those sound like challenging skills to develop! Can you recommend any strategies for building these skills?
+
+Tim: Of course! One effective strategy for building these skills is to participate in vendor management training programs and workshops, such as those offered by the International Association of Contract and Commercial Management. Additionally, it's helpful to seek out opportunities to practice your communication, negotiation, and problem-solving skills in real-world situations.
+
+User: Thanks, Tim! What about areas of knowledge that someone in the role of Lead in vendor management should be knowledgeable in?
+
+Tim: Areas of knowledge that are essential for a Lead in vendor management include procurement and contracting, financial management, risk management, and governance and compliance. You should also have a sound understanding of competitive landscapes, market trends, and emerging technologies.
+
+User: Wow, that's a lot to keep up with! Can you recommend any resources for staying up-to-date on these knowledge areas?
+
+Tim: Absolutely! I recommend subscribing to industry publications, such as Supply Chain Management Review and Purchasing Magazine. Additionally, attending industry conferences and networking with other vendor management professionals can be a great way to stay up-to-date on emerging trends and best practices.

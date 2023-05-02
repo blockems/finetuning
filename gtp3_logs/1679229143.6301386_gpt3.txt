@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Vendor Management for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about the skills and attributes required to be a successful Lead for the competency Vendor Management for a SAFe Release Train Engineer (RTE). Can you help guide me in the right direction?
+
+Tim: Of course, glad to help! There are several key skills and attributes I think are important to consider when it comes to this competency. First and foremost, strong communication and collaboration skills are essential, as the Lead for Vendor Management will be working closely with vendors and internal teams to ensure successful delivery. Additionally, experience with procurement, vendor management, and contract negotiation is important. Knowledge of agile methodology and SAFe practices is also necessary.
+
+User: That makes sense. Could you provide more specific examples of SAFe practices related to Vendor Management that a Lead should be familiar with?
+
+Tim: Of course! One important practice is to establish a vendor ecosystem, which includes identifying and evaluating potential vendors and creating a vendor management strategy. Another key practice is to collaborate with vendors to develop and maintain Service Level Agreements (SLAs), which outline the expectations and responsibilities for both the vendor and internal teams. Additionally, the Lead for Vendor Management should be familiar with the vendor management process within the SAFe framework, which includes vendor assessment and selection, contract negotiation, and ongoing vendor performance management.
+
+User: That's interesting. Are there any specific Areas of Knowledge that the Lead for Vendor Management should be familiar with?
+
+Tim: Yes, there are several. Knowledge of procurement and sourcing best practices is important. Additionally, understanding the legal and regulatory requirements related to vendor management is essential. Knowledge of financial management, risk management, and supplier performance management is also necessary. In terms of recommended reading, I would suggest the SAFe Vendor Management article, the PMI Guide to Procurement Management, and the book "Vendor Management Simplified: A Practical Guide for Sourcing and Managing Business Services."
+
+User: Thank you for the references, Tim. What advice would you give to someone who wants to become a Lead for Vendor Management in a SAFe organization?
+
+Tim: My advice would be to actively seek opportunities to work with vendors and gain experience in vendor management practices. Don't be afraid to ask questions and take on new responsibilities. Additionally, network with other professionals in the industry and seek out a mentor who can provide guidance and support. Finally, continue to educate yourself through reading, attending industry events, and taking relevant courses or certifications.

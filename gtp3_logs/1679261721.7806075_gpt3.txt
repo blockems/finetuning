@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile and Scrum Methodologies for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming competent in Agile and Scrum Methodologies for a Solution Designer. Can you tell me what skills, attributes, practices and Areas of knowledge are needed to reach this competency level?
+
+Tim: Hi there! Sure thing. To become competent in Agile and Scrum Methodologies, you'll need to have a good understanding of project management, software development, and Agile methodologies. You'll also need to be highly organized, communicative, and able to work in a team. Some key skills include:
+
+1. Strong leadership and decision-making skills
+2. Excellent communication and negotiation skills
+3. The ability to collaborate with others to achieve a common goal
+4. The ability to work independently and manage your own workload effectively
+5. Excellent time-management and organizational skills
+
+Mastering Agile and Scrum methodologies also requires an understanding of software development practices and principles. You'll need to be familiar with Agile frameworks, such as Scrum, Kanban, and Lean. You'll also need to have a good understanding of the software development life cycle, including requirements gathering and analysis, design, development, testing, and deployment.
+
+User: Thanks, Tim. That's really helpful. Can you recommend any resources on Agile and Scrum methodologies that I can use to improve my knowledge in these areas?
+
+Tim: Of course! Here are a few resources that I highly recommend:
+
+1. Agile Manifesto: This website provides a comprehensive overview of Agile principles and values that underpin the Agile methodology. 
+
+2. Scrum.org: Scrum.org is a great resource for anyone interested in Scrum methodology. It provides a wealth of information, including training, certification, and community support. 
+
+3. CSPO – Certified Scrum Product Owner:  This certification helps you take on the pivotal role of Product Owner with confidence. 
+
+4. Kanbanize Blog: This blog provides regular updates on Kanban methodology, along with helpful tips and insights to help you improve your Agile practices.
+
+5. Lean Blog: This blog provides regular updates on lean methodology, along with helpful tips and insights to help you improve your Agile practices.
+
+Let me know if you have any other questions!

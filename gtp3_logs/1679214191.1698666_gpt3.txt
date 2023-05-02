@@ -1,0 +1,37 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Change Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers are responsible for leading the change management process in an agile environment. Effective change management is crucial to the success of agile projects, as it helps to identify potential roadblocks, manage risks and ensure that changes are implemented smoothly. The competency of a Change Management for an Agile Delivery Manager can be categorized into four stages: Traditional, Aware, Emergent, and Adaptive. 
+
+At the Emergent level, the Agile Delivery Manager is capable of adapting to the changing needs of the organization in response to external and internal factors. The manager has the skills, practices and areas of knowledge to identify changes that need to be made, and to create innovative solutions to address them.
+
+Skills:
+
+- Strategic Thinking: The Agile Delivery Manager at the Emergent level must have the ability to think long-term and be able to create a vision that aligns with the organization's goals. Their strategic thinking capability enables them to identify change management opportunities and develop strategies to implement them effectively.
+
+- Problem-Solving: Effective change management requires an Agile Delivery Manager to be able to identify problems and develop solutions to address them. An Emergent Agile Delivery Manager must have the skills to anticipate potential issues and proactively develop solutions before the issues arise.
+
+- Communication: Communication is essential when managing change effectively. An Agile Delivery Manager at the Emergent level must possess excellent communication skills to convey the need for change, the vision for the future, and how it will impact the organization.
+
+Practices:
+
+- Collaboration: Successful change management implementation requires collaboration across departments and teams. An Agile Delivery Manager at the Emergent level must be able to work collaboratively with cross-functional teams to identify potential areas for change and develop solutions based on the input of all stakeholders.
+
+- Agile Methodologies: Agile Delivery Managers at the Emergent level must be skilled in Agile Methodologies that enhance their understanding of adaptive planning, early delivery, and continuous improvement.
+
+Areas of Knowledge:
+
+- Organizational Change Management: An Agile Delivery Manager at the Emergent level must have a sound understanding of approaches to change management, change models, and how to integrate change management with agile principles.
+
+- Business Process Improvement: A clear understanding of business processes is essential for an Agile Delivery Manager at the Emergent level to identify inefficient processes, and to develop effective solutions for greater process optimization.
+
+References:
+
+1. Knapp, M. (2016). Agile method: What is it and where did it come from? Retrieved from https://www.cio.com/article/3053429/agile-development/agile-methodology-what-is-it-and-where-did-it-come-from.html
+
+2. PMI (2017). Change management: What it is, why it matters, and how it affects Project Management. Retrieved from https://www.pmi.org/learning/library/change-management-affect-project-management-10400
+
+3. Al-Mudimigh, A., & Zairi, M. (2012). Business process improvement through BPM approaches: A review. Business Process Management Journal, 18(3), 479 – 492. https://doi.org/10.1108/14637151211234511

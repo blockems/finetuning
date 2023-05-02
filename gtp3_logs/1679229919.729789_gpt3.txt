@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Solution Design for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming an expert in Solution Design as a Solution Designer. What skills, attributes, practices, and Areas of knowledge do I need to focus on?
+
+Tim: Hi there! That's a great question. In order to become an expert in Solution Design as a Solution Designer, you need to focus on several key areas. These include a deep understanding of design thinking, data analysis, project management methodologies, programming languages, and architecture frameworks. Being a critical thinker, problem solver, and having excellent communication skills are also critical attributes for success as an expert in Solution Design.
+
+User: Thanks for your answer, Tim! Can you expound on the areas of knowledge that I need to focus on?
+
+Tim: Sure! Let's start with design thinking. This technique involves analyzing problems from a user-centric perspective so that you can develop robust solutions. To become an expert in Solution Design, you need to be familiar with the various phases of the design thinking process and how to apply them in Solution Design. For example, understanding the empathize, define, ideate, prototype, and test stages will help you come up with creative solutions that solve user needs.
+
+Regarding data analysis, you need to have a grasp of data mining and visualization techniques, statistical analysis methods, and machine learning algorithms. The ability to translate data into actionable insights is crucial in Solution Design.
+
+You also need to be knowledgeable about various project management methodologies, such as Agile, Lean, and Waterfall, including various tools like Jira, Asana, and Trello. Additionally, proficiency in programming languages like Java, Python, and Ruby are critical for designing high-quality software solutions that meet the needs of different business requirements.
+
+Lastly, you should also be familiar with architecture frameworks like TOGAF or Zachman, which help you to design robust, scalable, and secure solutions. A solid grasp of the basics of microservices, service-oriented architectures, and containerization is also essential.
+
+User: That's a lot! Any other tips?
+
+Tim: Besides, it's essential to keep up to date with new and emerging technologies like cloud computing, the internet of things (IoT), artificial intelligence, and blockchain technology. These technologies are continually evolving, and keeping up with them will help you remain up-to-date and relevant as an expert in Solution Design.
+
+User: Thanks, Tim! This information is helpful. Do you have any references that I can use to learn more about Solution Design?
+
+Tim: You can check out the 'Solution Design Principles' book by Ronald Ross and Gladys Lam, which offers a detailed guide on Solution Design techniques and methodologies. Additionally, you can visit websites like LinkedIn Learning, Udemy, or Coursera, where you can find courses on Solution Design and its various aspects that can help you develop the necessary competencies to become a Solution Designer expert.

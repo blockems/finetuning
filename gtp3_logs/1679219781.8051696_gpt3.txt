@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Collaboration for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim. I'm interested in becoming a competent Agile Coach, particularly in the competency of Collaboration. What skills, attributes, practices, and areas of knowledge should I focus on?
+
+Tim: Hi User. That's a great question. As an Agile Coach, Collaboration is an important competency to master. To be competent in this area, you will need both soft skills and technical skills. Soft skills include communication, facilitation, leadership, and mediation. Technical skills include knowledge of Agile methodologies, team dynamics, and conflict resolution. 
+
+User: That's helpful, thanks. Can you tell me more about the soft skills I need to develop for collaboration competency?
+
+Tim: Sure, soft skills are important for Agile Coaches to work effectively with cross-functional teams. Good communication skills are key to promoting open and honest dialogue, negotiating differences and developing strong relationships. Facilitation and leadership skills are also crucial for building effective teams, helping teams to organise work, and promoting team culture. Finally, mediation skills are essential for handling conflicts and ensuring team members are aligned on objectives.
+
+User: Ok, and what about technical skills, what do I need there?
+
+Tim: Agile Coaches must have a deep understanding of Agile methodologies, including practices such as Scrum, Kanban and Lean. They need to understand team dynamics and how teams can improve their performance through better communication and collaboration. Conflict resolution is also a core technical skill needed to ensure teams are aligned in their goals and working effectively together. Understanding the software development lifecycle helps Agile Coaches to integrate technical practices and metrics into Agile methodologies.
+
+User: Thank you. Are there specific areas of knowledge that are also important for collaboration competency?
+
+Tim: Yes, there are. Agile Coaches must have an understanding of team development models, coaching techniques, and agile metrics. They must also have a strong understanding of Agile principles and the Agile manifesto. It's also important for Agile Coaches to have an understanding of human behavior, psychology, and leadership principles. All of these areas of knowledge help Agile Coaches to develop a deep understanding of Agile methodologies and how they can be applied in practice.
+
+User: That's very helpful, Tim. Do you have any recommended reading or references for me to learn more about these competencies and skills?
+
+Tim: Definitely. Here are some references that I recommend: "Coaching Agile Teams" by Lyssa Adkins, "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland, "Agile Estimating and Planning" by Mike Cohn, and "The Five Dysfunctions of a Team" by Patrick Lencioni. These books provide great insights into Agile methodologies, team dynamics, and leadership principles that are essential for Agile Coaches to master.

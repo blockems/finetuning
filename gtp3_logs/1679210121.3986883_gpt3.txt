@@ -1,0 +1,81 @@
+Task: Break down into skills, practices and areas of knowledge needed to be at the Expert>> level for the competency of Agile Methodologies for a Agile Coach.
+Display the results in a JSON object, with the skill detail in the root of the object.
+
+==========
+
+{
+  "Skills": [
+    {
+      "Skill": "Facilitation",
+      "Knowledge": [
+        "Facilitation techniques",
+        "Group dynamics and psychology",
+        "Conflict resolution",
+        "Collaborative decision-making"
+      ],
+      "Practices": [
+        "Leading and facilitating Agile ceremonies such as daily stand-ups, retrospectives, and sprint planning",
+        "Facilitating team decision-making processes",
+        "Mediating team conflicts and promoting collaboration"
+      ]
+    },
+    {
+      "Skill": "Coaching",
+      "Knowledge": [
+        "Agile principles and methodologies",
+        "Lean and Kanban principles",
+        "Change management",
+        "Organizational culture and behavior"
+      ],
+      "Practices": [
+        "Providing Agile coaching to individuals and teams",
+        "Assessing team health and providing recommendations for improvement",
+        "Identifying areas for process improvement and facilitating the adoption of Agile best practices"
+      ]
+    },
+    {
+      "Skill": "Program Management",
+      "Knowledge": [
+        "Project management methodologies",
+        "Agile scaling frameworks",
+        "Risk management",
+        "Budget management"
+      ],
+      "Practices": [
+        "Managing multiple Agile teams across a large program or portfolio of projects",
+        "Collaborating with stakeholders to define program scope and priorities",
+        "Developing and managing program budgets and schedules",
+        "Facilitating communication and coordination among Agile teams"
+      ]
+    },
+    {
+      "Skill": "Technical Knowledge",
+      "Knowledge": [
+        "Software development methodologies",
+        "Software architecture and design",
+        "Continuous integration and delivery",
+        "Test-driven development"
+      ],
+      "Practices": [
+        "Providing technical guidance and coaching to Agile teams",
+        "Assessing technical risks and providing recommendations for improvement",
+        "Enabling teams to deliver high-quality software through continuous integration and delivery practices"
+      ]
+    },
+    {
+      "Skill": "Leadership",
+      "Knowledge": [
+        "Servant leadership",
+        "Emotional intelligence",
+        "Team building and motivation",
+        "Coaching and mentoring"
+      ],
+      "Practices": [
+        "Leading Agile transformation initiatives at the organizational level",
+        "Developing high-performing Agile teams",
+        "Mentoring Agile coaches and other Agile leaders",
+        "Driving cultural change and promoting Agile values and principles"
+      ]
+    }
+  ]
+}

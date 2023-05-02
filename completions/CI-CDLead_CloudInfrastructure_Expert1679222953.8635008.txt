@@ -1,0 +1,37 @@
+User: Hi Tim, I am really curious about what it takes to become an expert in Cloud Infrastructure for a CI/CD Lead. What skills, attributes, practices and Areas of Knowledge are needed to achieve that level of expertise?
+
+Tim: Hi there! That's a great question, and it's great to hear that you're curious about this field. To become an expert in Cloud Infrastructure for a CI/CD Lead, you need a strong foundation in a number of different areas. First and foremost, you need a deep understanding of the underlying technology and systems that make up cloud infrastructure. This includes knowledge of virtualization techniques, storage, networking, and security.
+
+User: That sounds challenging. Are there any specific skills I need to develop in order to learn the underlying technology and systems of cloud infrastructure?
+
+Tim: Absolutely. These include: 
+
+1. Familiarity with a range of programming languages, such as Python or Java. 
+2. Expertise in operating systems such as Linux, MacOS or Windows.
+3. Proficient in Configuring and managing cloud resources as well as understanding its resource limits.
+4. Knowledge of core admin functions: Monitoring, logging, backup, and patching.
+
+User: That's very helpful. But what about the attributes needed to be a successful CI/CD Lead?
+
+Tim: Good question! Being an effective leader requires a combination of personal and professional attributes. Here are a few key ones:
+
+1. Strong communication and collaboration skills to work with both technical and non-technical stakeholders.
+2. Strategic thinking and a focus on the big picture.
+3. Creativity and the ability to think outside of the box.
+4. Results-oriented mindset and being detailed oriented.
+
+User: What are the best practices that a Cloud Infrastructure Lead should follow?
+
+Tim: One good practice is to stay current with emerging technologies and trends. This means being proactive in your learning and keeping up with the latest developments in your field.
+
+Another key practice is to prioritize automation and scalability to ensure seamless continuous delivery deployments. And of course, it's important to have a strong focus on security and compliance, as well as a plan for disaster recovery and business continuity in the event of an outage.
+
+User: Thank you, Tim. This has been very helpful. Can you recommend any additional reading or resources to help me further develop my skills in this area?
+
+Tim: Absolutely! Here are a few resources that I highly recommend:
+
+1. AWS Certified Solutions Architect - Associate Exam Study Guide: https://www.amazon.com/Certified-Solutions-Architect-Study-Guide/dp/111950421X
+2. Google Cloud Infrastructure Online Course: https://cloud.google.com/training/cloud-infrastructure
+3. VMware Cloud Documentation: https://docs.vmware.com/en/VMware-Cloud-on-AWS/index.html
+
+These resources should provide you with a strong foundation and help you further develop your skills in Cloud Infrastructure for a CI/CD Lead.

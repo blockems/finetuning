@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Team Building and Leadership for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I have been reading about the skills and attributes needed to become an expert in team building and leadership for an RTE role. Can you recommend any resources that can provide a detailed understanding of this competency?
+
+Tim: Hello! Sure, let me recommend some resources that can help you gain an in-depth understanding of the skills, attributes, practices, and areas of knowledge needed to become an expert in team building and leadership for an RTE role. I suggest studying the works of John C. Maxwell, Simon Sinek, and Stephen Covey. They have written extensively on leadership, team building, and organizational management. Their works can provide you with an excellent foundation for mastering the competencies you need.
+
+User: Thanks, Tim. As an RTE, what are the top skills that I need to possess in order to be an effective team builder and leader?
+
+Tim: The key skills that you should possess as an RTE are excellent communication, negotiation, and conflict resolution skills. You should also have a deep understanding of Agile methodologies and practices, as well as the ability to motivate and provide feedback to your team members. Additionally, leadership and project management skills are critical, as you will have to manage teams and coordinate activities across multiple departments.
+
+User: That makes sense, Tim. Can you expand on what you mean by Agile methodologies and practices? 
+
+Tim: Sure! Agile methodologies are a set of principles and values that guide the development and delivery of software products through working in increments and building trust between the development teams and customers. Agile practices include Continuous Integration and Delivery, Sprint Planning, stand-up meetings, and retrospectives. As an RTE, it is essential that you have a deep understanding of Agile principles and methodologies, as you will be responsible for ensuring that the teams within the release train are working in accordance with these principles.
+
+User: Thank you, Tim. Can you recommend any specific training programs to help me develop these competencies?
+
+Tim: Absolutely! I suggest that you undergo training in Agile methodologies and project management. Check out the Agile Alliance website for training and certifications related to Agile methodologies. The Project Management Institute also offers certifications and training programs focused on project management skills. In addition, there are several online courses and workshops focused on leadership, team building, and communications skills that you can enroll in to supplement your knowledge.
+
+User: That's really helpful, Tim. Thank you so much for your guidance and resources. I appreciate it.
+
+Tim: You're welcome! Remember, as an RTE, cultivating curiosity and a passion for learning is critical to your success. Stay curious and continue to learn and develop your competencies!

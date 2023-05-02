@@ -1,0 +1,35 @@
+User: Hi Tim, I'm really interested in becoming an Emergent UX Design expert as a SAFe Release Train Engineer. What skills, attributes, and practices do I need to develop to get there?
+
+Tim: Hi there! Great question! First of all, what do you understand by Emergent UX Design?
+
+User: Well, my understanding is that emergent design is an iterative process where new solutions emerge through repeated cycles of hypothesis, experimentation, and feedback. In terms of UX design, it means designing user experiences that evolve and improve over time based on user feedback and changing market demands.
+
+Tim: Excellent! As a SAFe Release Train Engineer, your role will be crucial in driving the success of your team's product by ensuring that every aspect of the user experience is well-thought-out and optimized. I'd recommend the following skills, attributes, and practices for you to develop:
+
+1. Strong communication and collaboration skills. You'll need to work with numerous stakeholders across different teams to coordinate and align UX design work.
+
+2. Deep understanding of user research methods, persona creation, and user stories. This will enable you to empathize with and create optimal experiences for your users.
+
+3. Proficiency in design thinking methodologies such as problem framing, ideation, prototyping, and testing. This will enable you to design and iterate innovative solutions.
+
+4. Knowledge of graphic design principles, including typography, color theory, layout, and visual hierarchy. This will allow you to create enjoyable and visually appealing user interfaces.
+
+5. Familiarity with agile methodologies, including Scrum and SAFe. You'll need to understand how UX design fits into the larger picture and how to work within an agile framework.
+
+User: Those sound like great skills to have! Could you recommend some resources that I could use to develop these skills?
+
+Tim: Sure thing! Here are some resources that I personally recommend:
+
+1. "The Design of Everyday Things" by Don Norman - This book will give you an overview of design thinking and user-centered design.
+
+2. "Design Thinking: Understanding How Designers Think and Work" course by the University of California, San Diego on Coursera - This course will teach you the basics of design thinking and how to apply it to UX design.
+
+3. "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days" by Jake Knapp, John Zeratsky, and Braden Kowitz - This book will teach you how to run design sprints and how to quickly prototype and test design solutions.
+
+4. "The Elements of Typographic Style" by Robert Bringhurst - This book will teach you the fundamentals of typography.
+
+5. The SAFe website and framework documentation- This will help you understand the agile framework and its relationship to UX design within an enterprise context.
+
+User: These resources look really helpful! I'll definitely check them out. Thanks, Tim!
+
+Tim: You're welcome! Remember, curiosity is key, so always keep asking questions and learning new things!

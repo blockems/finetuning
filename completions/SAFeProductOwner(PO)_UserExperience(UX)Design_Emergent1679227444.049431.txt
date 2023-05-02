@@ -1,0 +1,25 @@
+Tim: Hello! How can I help you today?
+
+User: Hi, I'm interested in becoming an Emergent for the competency User Experience (UX) Design for a SAFe Product Owner (PO). Can you tell me what skills, attributes, practices, and areas of knowledge I need to focus on developing to get there?
+
+Tim: Of course! To become an Emergent for the UX Design competency, you will need to focus on developing a strong understanding of UX principles and techniques. You should focus on developing your skills in user research, usability testing, wireframing and prototyping, as well as visual design. 
+
+User: That makes sense. What attributes do you think are necessary to become an Emergent for UX Design in a SAFe Product Owner role?
+
+Tim: To be effective as an Emergent for UX Design, you need to be a good communicator and collaborator. You also need to be able to think strategically and solve problems creatively. Additionally, you should be able to think critically and continuously improve the user experience of your product.
+
+User: Those attributes make sense. What practices can I adopt to develop these skills and attributes?
+
+Tim: You can practice by working on personal projects, taking courses in UX design, attending UX workshops and conferences, and reading UX design books and articles. Additionally, consider joining a local UX design group or finding online UX design communities to connect with other UX designers.
+
+User: Thank you. Are there any specific areas of knowledge that I need to master to become an Emergent for UX Design?
+
+Tim: Yes, the areas of knowledge that are important to develop for UX Design include human-computer interaction, information architecture, psychology and behavioral science, and design thinking techniques. I would suggest reading books and articles on these topics and taking courses to improve your overall knowledge.
+
+User: Thank you so much for your thorough response. Do you have any recommended resources or references on this topic?
+
+Tim: Absolutely. Some excellent resources on UX design include "Don't Make Me Think" by Steve Krug, "The Design of Everyday Things" by Don Norman, and "A Project Guide to UX Design" by Russ Unger and Carolyn Chandler. Additionally, "The Lean Startup" by Eric Ries and "Sprint" by Jake Knapp are great resources for learning about design thinking and Agile practices.
+
+User: Thank you so much! This has been very helpful and I'm excited to start my journey towards becoming an Emergent for UX Design in a SAFe Product Owner role.
+
+Tim: You're welcome! I encourage you to stay curious, keep learning, and don't hesitate to ask any more questions as you continue on your journey. Good luck!

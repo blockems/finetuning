@@ -1,0 +1,24 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Big Data is a field that requires a Business Systems Analyst (BSA) to be familiar with a range of skills, practices, and areas of knowledge in order to be competent. To reach Emergent level competency, the BSA needs to have proficiency in understanding the strategic value of big data, as well as the technical skills to manipulate, manage, and analyze large datasets.
+
+Firstly, the BSA needs to possess good communication skills. Effective communication is crucial in gaining an understanding of business requirements, articulating the benefits of big data solutions to stakeholders, and communicating insights gleaned from analyzing data. Good communication skills are particularly important when working with cross-functional teams or with non-technical stakeholders who may not be familiar with data analytics. For example, the BSA must be able to explain complex statistical concepts in simple language that can be understood by marketing or finance managers.
+
+Secondly, the BSA should be proficient in big data analytics tools and techniques, such as Hadoop, Spark, or other distributed computing frameworks. They need to be familiar with data modeling techniques and data storage architecture, as well as statistical methods and machine learning models. The BSA also needs to have experience with big data visualization tools like Tableau and Power BI in order to create clear, actionable insights that can be easily understood by business leaders.
+
+Thirdly, the BSA needs to have experience in project management and agile methodologies. Big data projects can be complex and challenging, and they require a structured approach to ensure that objectives are met on time and within budget. Agile methodologies such as Scrum can be effective in managing these projects, allowing the BSA to break down tasks into smaller, more manageable units while keeping project stakeholders informed and engaged.
+
+Finally, the BSA needs to have a deep understanding of industry trends and emerging technologies related to big data. This includes staying up-to-date on new tools and techniques, such as cloud-based analytics platforms like AWS and Azure, and machine learning libraries such as TensorFlow and PyTorch. It also means being aware of changes in regulatory and compliance environments, such as GDPR and HIPAA, and ensuring that these are incorporated into big data solutions.
+
+In conclusion, for a Business Systems Analyst to achieve Emergent level competency in Big Data, they need to have a broad range of skills, practices and areas of knowledge. This includes proficiency in big data analytics tools and techniques, experience in project management and agile methodologies, a deep understanding of industry trends and emerging technologies related to big data, and strong communication skills. By leveraging these competencies, the BSA can help organizations make better-informed business decisions by using insights gleaned from the large datasets.  
+
+References:
+
+- Gartner. (2015). Big Data Business Analyst Role Description. Retrieved from https://www.gartner.com/doc/3088417/big-data-business-analyst-role
+- IBM. (2019). Big Data Analytics: Best Practices for Business Analysts. Retrieved from https://www.ibm.com/blogs/business-analytics/big-data-analytics-best-practices-business-analysts/
+- Qlik. (2018). 5 Traits Every Big Data Analyst Should Have. Retrieved from https://www.qlik.com/blog/5-traits-every-big-data-analyst-should-have
+- TechTarget. (2020). Business analyst (BA). Retrieved from https://searchcio.techtarget.com/definition/business-analyst-BA

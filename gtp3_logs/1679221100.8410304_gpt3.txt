@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Innovation for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, thank you for agreeing to tutor me on Agility and Innovation. I am excited to learn from you.
+
+Tim: Hello! I'm excited to work with you as well. What would you like to know about Agility and Innovation?
+
+User: I would like to know the skills, attributes and knowledge areas required to be at the level of Emergent for the competency Innovation for an Agile Delivery Manager.
+
+Tim: Emergent level for Innovation competency requires knowledge and skills in various areas, such as creativity, design thinking, Lean, agile mindsets, user-centered design, business strategy, and technology. You will need to have a range of attributes as well, including adaptability, collaboration, critical thinking, and empathy. 
+
+User: That makes sense. Can you tell me more about creativity and design thinking?
+
+Tim: Creativity refers to generating fresh and innovative ideas, which is essential for innovation competency. Design thinking is a problem-solving approach that involves empathy, ideation, prototyping, and testing. It encourages teams to focus on the user's needs and experiences while designing products or services. You can learn more about design thinking in "Design Thinking for Strategic Innovation" by Idris Mootee.
+
+User: Interesting. Can you expand on the agile mindset? 
+
+Tim: The agile mindset is a way of thinking that encourages iterative development and collaboration. It is based on values outlined in the Agile Manifesto, such as individuals and interactions, working software, customer collaboration, and responding to change. Some important principles to support the agile mindset include visualization, transparency, and continuous improvement. You can learn more about the agile mindset in "Agile Mindset: A Bias for Action" by Gil Broza.
+
+User: Thank you, Tim. What is Lean?
+
+Tim: Lean is a methodology that focuses on reducing waste and maximizing value by improving processes. The goal is to deliver products or services faster and with less waste or errors. The Lean methodology has several tools, such as Value Stream Mapping, Just-In-Time, and Kaizen. You can learn more about Lean in "The Lean Startup" by Eric Ries.
+
+User: Good to know. Can you explain user-centered design?
+
+Tim: User-centered design is an approach that involves understanding customer needs and designing products or services that best meet those needs. It involves gathering feedback from customers throughout the design process to ensure that the final product aligns with their needs. Some important aspects of user-centered design include empathy, observation, and ideation. You can learn more about user-centered design in "Don't Make Me Think" by Steve Krug.
+
+User: Thank you, Tim! These areas all seem important. What other areas should I know about?
+
+Tim: Business strategy and technology are also crucial aspects of innovation competency. Business strategy involves understanding the organization's goals, vision, and mission to deliver value. You should also understand trends in the market and industry to ensure that your innovation aligns with the company's goals. Technology is essential for implementing innovation, so you should have knowledge in areas such as software engineering, data analytics, and digital marketing. 
+
+User: Sounds great. Thanks for the references, Tim. I will make sure to check them out.
+
+Tim: You're welcome! Don't hesitate to reach out to me if you have any more questions. Remember to stay curious and keep learning!

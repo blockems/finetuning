@@ -1,0 +1,43 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Kanban Methodology for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am curious about the skills and attributes needed to be at the Emergent level for the Kanban Methodology as an Agile Coach. Can you please guide me on this topic?
+
+Tim: Hi there! It's great to see your curiosity. To become an Emergent Agile Coach with Kanban Methodology, you would need to have a solid foundation in several skills, attributes, practices and areas of knowledge. Starting with skills, you need to be proficient with Agile principles, Kanban methodologies, and Lean principles to guide teams in their Agile journey.
+
+User: That makes sense, but what specific attributes should I develop as an Agile Coach?
+
+Tim: As an Agile Coach, you should have strong communication and leadership skills, the ability to create an environment of trust, and the capability to foster a culture of continuous improvement. Additionally, a focus on outcomes, empathy, and collaboration are some of the key attributes to become an Emergent Agile Coach.
+
+User: I see. What practices can I implement as an Agile Coach?
+
+Tim: There are several practices to implement as an Agile Coach to help your teams achieve their goals. One of the key practices is to facilitate continuous improvement through retrospectives and experiments. Another practice is to visualize work and improve flow using Kanban boards. You should also encourage ongoing learning through communities of practice and peer coaching.
+
+User: Ok. What specific areas of knowledge should I focus on?
+
+Tim: To become an Emergent Agile Coach, you should focus on various areas of knowledge, including Agile methodologies, Kanban methodology, Lean principles, DevOps practices, Systems Thinking, Change Management, Facilitation techniques, Coaching techniques, and soft skills such as conflict resolution and emotional intelligence.
+
+User: Wow, that's a lot! Can you provide some references for further learning in these areas?
+
+Tim: Sure! Here are some resources to help you learn more about these areas:
+
+- Agile methodologies: Agile Manifesto (https://agilemanifesto.org/)
+- Kanban methodology: Kanban Guide for Scrum Teams (https://www.scrum.org/resources/kanban-guide-scrum-teams)
+- Lean principles: The Lean Startup by Eric Ries (https://www.amazon.com/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
+- DevOps practices: The Phoenix Project by Gene Kim (https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
+- Systems Thinking: The Fifth Discipline by Peter Senge (https://www.amazon.com/Fifth-Discipline-Practice-Learning-Organization/dp/0385517254)
+- Change Management: Managing Transitions by William Bridges (https://www.amazon.com/Managing-Transitions-Making-Most-Change/dp/0738208244)
+- Facilitation techniques: The Facilitator's Guide to Participatory Decision-Making by Sam Kaner (https://www.amazon.com/Facilitators-Participatory-Decision-Making-Jossey-Bass-Management/dp/0787982018)
+- Coaching techniques: Co-Active Coaching by Laura Whitworth (https://www.amazon.com/Co-Active-Coaching-Changing-Business-Transforming/dp/1857885678)
+- Soft skills: Emotional Intelligence by Daniel Goleman (https://www.amazon.com/Emotional-Intelligence-Matter-More-Than/dp/055338371X)
+
+User: Thanks, Tim! I have a lot to study now, but I am excited to learn more and develop my skills as an Agile Coach.
+
+Tim: Great to hear that! Remember to keep your curiosity alive and always strive for continuous learning. Good luck!

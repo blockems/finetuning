@@ -1,0 +1,30 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Scaled Agile Framework (SAFe) for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers are responsible for implementing Agile methodologies on a large scale, and managing complex projects across multiple teams. In order to be effective at this role, they must have a deep understanding of the Scaled Agile Framework (SAFe) and the skills and practices necessary to implement it at an Emergent level.
+
+SAFe is a framework for implementing Agile methodologies at scale, and it consists of multiple layers, including Portfolio, Program and Team levels. At the Program level, SAFe focuses on the delivery of value through the Agile Release Train (ART) and the synchronization of multiple teams working on the same product. 
+
+To be successful at the role of Agile Delivery Manager, one must possess a deep understanding of the SAFe framework, including the principles that guide it, the practices and techniques that enable it, and the leadership skills necessary to implement it successfully.
+
+Some of the primary skills and practices that an Agile Delivery Manager must possess in order to operate at an Emergent level within the SAFe framework include:
+
+1. Agile principles and practices - The Agile Delivery Manager must have a thorough understanding of the Agile principles and practices that underpin the SAFe framework. This includes the Agile Manifesto, Agile ceremonies, and Agile methodologies such as Scrum and Kanban.
+
+2. Program management - As the Agile Delivery Manager is responsible for managing the Agile Release Train (ART), they must have a solid foundation in program management. This includes skills such as stakeholder management, risk management, planning and prioritization, and communication.
+
+3. Leadership skills - The Agile Delivery Manager must be an effective leader, able to inspire and motivate teams across the ART. This includes skills such as coaching and mentoring, conflict resolution, and team building.
+
+4. Continuous improvement - SAFe is built on the principle of continuous improvement, and the Agile Delivery Manager must have the skills necessary to implement this at the program level. This includes skills such as metrics and reporting, retrospectives, and continuous learning and improvement.
+
+References:
+
+1. Scaled Agile Framework (SAFe) - https://www.scaledagileframework.com/
+2. The Agile Manifesto - https://agilemanifesto.org/
+3. Agile Ceremonies - https://www.atlassian.com/agile/ceremonies
+4. Program Management - https://www.pmi.org/learning/library/program-management-9714
+5. Leadership Skills - https://www.pmi.org/learning/library/leadership-skills-project-managers-8385
+6. Continuous Improvement - https://www.atlassian.com/agile/continuous-improvement

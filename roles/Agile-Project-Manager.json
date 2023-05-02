@@ -1,0 +1,105 @@
+{
+    "Role": "Agile Project Manager",
+    "Description":"An Agile Project Manager is responsible for managing the delivery of Agile projects within an organization. The role involves overseeing one or more Agile teams to ensure that projects are delivered on time, within budget, and to a high standard of quality.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile Methodologies",
+                "SkillDescription": "Deep understanding of Agile methodologies, and the ability to lead and guide teams in implementing and optimizing these practices",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Expertise in project management principles and practices, and the ability to manage Agile projects and programs",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Scrum Framework",
+                "SkillDescription": "Expertise in Scrum framework and the ability to lead and guide teams in implementing and optimizing Scrum practices",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Ability to manage stakeholder expectations and relationships, and to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Team Management",
+                "SkillDescription": "Ability to manage and lead Agile teams, and to coordinate team efforts across multiple departments and business units",
+                "SkillLevel": "Expert"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Kanban Methodology",
+                "SkillDescription": "Understanding of Kanban methodology and experience in implementing and optimizing Kanban practices for software development and other areas",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Lean Principles",
+                "SkillDescription": "Understanding of Lean principles, and the ability to guide organizations in implementing and optimizing Lean practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Agile Scaling Frameworks",
+                "SkillDescription": "Understanding of Agile scaling frameworks such as SAFe, LeSS, and Scrum@Scale, and the ability to guide organizations in implementing and optimizing these frameworks",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Ability to identify and manage risks and issues, and to develop risk mitigation strategies that minimize project risks",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to drive continuous improvement for Agile practices and tools, and to identify opportunities for optimization and efficiency gains",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Strong communication skills, including the ability to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Facilitation",
+                "SkillDescription": "Strong facilitation skills, and the ability to lead meetings and workshops that promote effective communication and collaboration",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Training and Development",
+                "SkillDescription": "Ability to design and deliver effective Agile training and development programs for individuals and teams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Strong understanding of the business context in which Agile practices are implemented, and the ability to align Agile practices with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Strategic Planning",
+                "SkillDescription": "Ability to develop and execute strategic plans for Agile transformation and implementation, and to align these plans with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Leadership",
+                "SkillDescription": "Ability to provide leadership and mentorship to individuals and teams, and to create a culture of innovation and continuous improvement",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Innovation",
+                "SkillDescription": "Ability to foster a culture of innovation and creativity within teams, and to promote the development of new and innovative solutions",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Collaboration",
+                "SkillDescription": "Ability to facilitate effective collaboration among individuals and teams, and to promote a culture of knowledge sharing and cross-functional teamwork",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Budget Management",
+                "SkillDescription": "Ability to manage project budgets, and to develop and implement financial plans that maximize the value of the project while minimizing costs",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}    

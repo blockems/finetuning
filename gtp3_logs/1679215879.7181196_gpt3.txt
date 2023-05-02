@@ -1,0 +1,47 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Process Mapping for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Business Process Mapping is a critical skill that a Business Systems Analyst should possess to effectively identify, analyze, and optimize business processes. Being competent in Process Mapping means having a thorough understanding of the principles, tools, techniques, and practices involved in mapping business processes to evaluate their efficiency and effectiveness. 
+
+To achieve competency in Process Mapping, a Business Systems Analyst should have a set of core skills, practices, and areas of knowledge. Some of these skills and practices are:
+
+1. Process Analysis: The ability to analyze and comprehend complex business processes, identify inefficiencies, and suggest improvements.
+
+2. Process Modeling: The ability to create graphical models that represent business processes and systematically identify and link activities, tasks, and relationships.
+
+3. Process Mapping: The ability to create detailed maps that identify process steps, decision points, subprocesses, and work assignments.
+
+4. Documentation and Communication: The ability to document processes and present findings using a variety of techniques such as flowcharts, diagrams, and narratives.
+
+5. Tools and Techniques: The ability to use modeling and mapping tools, such as swimlane diagrams, value stream maps, and process flowcharts, to visualize and document processes.
+
+6. Stakeholder Engagement and Management: The ability to engage and manage stakeholders, including process owners, subject matter experts, and end-users, to ensure that process mapping and optimization is aligned with organizational goals.
+
+7. Quality Assurance: The ability to assess the quality of a process map and identify areas where standards and best practices can be improved.
+
+To achieve competency in Process Mapping, Business Systems Analysts need to have a deep understanding of the following areas of knowledge:
+
+1. Business Process Management (BPM): BPM is a discipline that focuses on the design, monitoring, and optimization of business processes. A Business Systems Analyst should have an in-depth knowledge of BPM concepts, methodologies, and tools.
+
+2. Data Analysis: A Business Systems Analyst should have strong quantitative and qualitative data analysis skills to identify patterns, trends, and key performance indicators in process maps.
+
+3. Organizational Behavior: A Business Systems Analyst should have a solid understanding of organizational behavior concepts, such as culture, motivations, and incentives, to effectively engage stakeholders and drive change.
+
+4. Information Technology: A Business Systems Analyst should have a good understanding of the IT landscape, including applications, platforms, and systems, to identify opportunities for process optimization.
+
+5. Project Management: A Business Systems Analyst should have experience in project management methodologies, such as Agile, SCRUM, and Waterfall, to effectively manage process optimization initiatives.
+
+References:
+
+1. BPMN 2.0 Handbook, Second Edition: Methods, Concepts, Case Studies and Standards in Business Process Modeling Notation by Stephen A. White.
+
+2. Business Process Management: Concepts, Languages, Architectures by Mathias Weske.
+
+3. Practical Process Mapping for Business: An Overview of Business Process Mapping Techniques by John Dale.
+
+4. Process Mapping, Process Improvement, and Process Management: A Practical Guide to Enhancing Work Flow and Information Flow by Dan Madison.
+
+5. Business Analysis Techniques: 72 Essential Tools for Success by James Cadle, Debra Paul, and Paul Turner.

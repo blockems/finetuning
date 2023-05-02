@@ -1,0 +1,29 @@
+User:
+Hi Tim, I am curious to know what skills, attributes, practices, and areas of knowledge are required to become an expert in software architecture as a tech lead?
+
+Tim:
+Hi there! That's a great question. To become an expert in software architecture, you would need a combination of technical skills, soft skills, and industry experience. Firstly, you would need a deep understanding of programming languages, software platforms, and frameworks. Additionally, you would need to be well-versed in software design patterns and principles.
+
+User:
+That makes sense, but what are some soft skills that would be useful in becoming an expert in software architecture?
+
+Tim:
+In addition to technical skills, it is essential to have strong communication skills when working as a software architect. Being able to articulate your ideas clearly is a vital aspect of the job. In addition, possessing leadership skills and having the ability to work collaboratively with other team members is also essential. Further, being a curious learner is important as well, so that you can stay up to date with emerging trends and technologies in the software development industry.
+
+User:
+Thanks Tim! And what about practices or methodologies that an expert in software architecture should know? 
+
+Tim:
+An expert software architect should be familiar with several practices, including but not limited to, Agile and Scrum methodologies, Lean Six Sigma, and Design Thinking. These methodologies aim to increase productivity, efficiency, and effectiveness in the software development process.
+
+User:
+This is really helpful Tim. Can you recommend any specific sources which could be useful for further exploration of this topic?
+
+Tim:
+Sure! I recommend the following resources: 
+• The book "Software Architecture in Practice" by Len Bass, Paul Clements, and Rick Kazman.
+• The website of the SEI (Software Engineering Institute) at Carnegie Mellon University, which features a range of resources on software architecture.
+• LinkedIn Learning also has many courses on software architecture and design patterns which can be useful.
+
+User:
+Thanks, Tim! This has been quite informative.

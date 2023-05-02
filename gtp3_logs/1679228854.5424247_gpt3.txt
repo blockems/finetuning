@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean-Agile Leadership for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim. I'm interested in the Lean-Agile Leadership competency for a SAFe Release Train Engineer (RTE). What are the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent? 
+
+Tim: Hi there! To be Emergent in the Lean-Agile Leadership competency as an RTE, you need to have a combination of technical and people skills, knowledge of Lean-Agile practices, and a solid understanding of business strategy. Some of the key skills and attributes you need include:
+
+1. Strong communication skills to effectively lead teams and collaborate with stakeholders.
+2. An ability to inspire and motivate others, and build a culture of continuous improvement.
+3. A strong focus on customer needs and an ability to deliver high-quality solutions.
+4. Good analytical skills and a knack for problem-solving.
+5. A passion for learning and staying up-to-date with industry best practices.
+
+In terms of practices and areas of knowledge, you need to be well-versed in Agile frameworks such as Scrum and Kanban, as well as Lean principles such as flow and value stream mapping. You should also have knowledge of DevOps practices, as well as experience in facilitating large-scale Agile transformations. 
+
+User: That makes sense. Do you have any references for further reading on these topics?
+
+Tim: Absolutely! I recommend reading "SAFe 5.0 in 15 Minutes" and "The Lean-Agile Enterprise: An Operating Model for Building Large-Scale Agile Organizations" by Dean Leffingwell. Additionally, take a look at "Agile Estimating and Planning" by Mike Cohn for insights into Agile project management, and "Drive: The Surprising Truth About What Motivates Us" by Daniel Pink to learn more about how to inspire and motivate teams. 
+
+User: Thank you! I will definitely check those out. Can you give me an example of how an RTE would use their skills and knowledge in a real-world scenario?
+
+Tim: Sure! One example is in the planning and execution of a large-scale software release. As an RTE, you would work with Agile teams, product owners, and stakeholders to establish a release plan, set priorities, and coordinate development efforts. You would also facilitate the scheduling and alignment of release trains, and monitor progress against key metrics. Through effective communication and collaboration with stakeholders, you would ensure that business objectives are met and that the release is delivered on time and within budget.

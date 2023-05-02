@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean Methodology for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in learning more about Lean Methodology for a Scrum Master. Can you give me an overview of the skills and attributes required to be at the level of Emergent for this competency?
+
+Tim: Hello! That's a great question. To be at the level of Emergent for Lean Methodology as a Scrum Master, there are a few skills and attributes that are important. Firstly, it's important to have a deep understanding of the principles of lean methodology, including the 5S methodology, Value Stream Mapping, and identifying Waste in processes. Secondly, you should be skilled in coaching, mentoring and facilitating others through the lean process, as well as problem-solving and analytical thinking. Finally, having an adaptive and flexible mindset is important to adjust processes as necessary during the lean journey.
+
+User: I see that a certain level of knowledge in lean methodology is needed. Where can I find some references to learn more about it?
+
+Tim: Absolutely! A good starting point would be the book "The Lean Startup" by Eric Ries as well as "Lean Thinking" by James Womack and Daniel Jones. These books provide a thorough overview of lean methodology, its principles, and practical implementation.
+
+User: Thanks, Tim. Another question arises. Are there any practices or techniques that need to be applied when implementing the principles of lean methodology?
+
+Tim: There are various practices and techniques that can be applied within the implementation of lean methodology. Two such practices are "Kaizen" and "Gemba Walks". Kaizen is a continuous improvement process that involves small, incremental changes to processes that can accumulate over time to significant improvements. Gemba Walks are a practice in which a Scrum Master walks on a factory floor or work environment to observe and identify areas for improvement. There are many other practices and techniques, but starting with these two can give you a good jumping-off point.
+
+User: Interesting! What are the areas of knowledge that someone should master in order to achieve Emergent level?
+
+Tim: There are a few areas of knowledge that are important to master in order to achieve Emergent level in lean methodology. Firstly, understanding the history and evolution of lean methodology is important, including its relationship with other manufacturing and process improvement methodologies. Secondly, knowledge of lean tools and techniques, such as Value Stream Mapping, and Knowledge of how to apply these tools in practical settings. Lastly, knowledge of the various lean metrics and KPI's that can be used to measure progress in lean implementation.
+
+User: Thanks, Tim. This has been a really enlightening discussion. I look forward to learning more about lean methodology.
+
+Tim: You're welcome, and I'm glad to have been of help! Remember, curiosity is key to learning and growing in any area, so don't hesitate to ask questions or do some further research on the topics we've discussed today. Good luck on your journey!

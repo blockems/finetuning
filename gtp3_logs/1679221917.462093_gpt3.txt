@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Data Analysis for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming competent in data analysis as a Business Systems Analyst. What skills and attributes should I work on developing?
+
+Tim: Hello! That's a great goal to have. To be competent in data analysis, I recommend developing strong critical thinking skills, proficiency in statistical analysis and data visualization, and attention to detail. Additionally, effective communication skills and the ability to work collaboratively with others are important attributes to possess.
+
+User: Thanks, Tim. How can I improve my critical thinking skills?
+
+Tim: Critical thinking involves objectively analyzing information and evaluating arguments. To improve this skill, you can practice identifying assumptions and biases in arguments, assessing the credibility of sources, and recognizing logical fallacies. One recommended resource is the book "Thinking, Fast and Slow" by Daniel Kahneman.
+
+User: That sounds interesting. How can I become proficient in statistical analysis and data visualization?
+
+Tim: To become proficient in statistical analysis, you should have a solid understanding of statistical concepts and techniques, such as descriptive and inferential statistics, hypothesis testing, and regression analysis. You can practice these skills using statistical software like R or SPSS. For data visualization, it's important to be familiar with different types of charts and graphs, and how to choose the most appropriate ones to convey your data effectively. Tools like Tableau or Excel can help you practice your data visualization skills.
+
+User: Thank you for the advice, Tim. What about attention to detail? Can you give me any tips on improving that?
+
+Tim: Attention to detail is critical in data analysis because a single mistake can lead to inaccurate conclusions. To improve this skill, you can practice reviewing your work carefully and double-checking your calculations. It may also be helpful to work on tasks that require close attention to detail, like proofreading or editing. The book "The Checklist Manifesto" by Atul Gawande offers great tips on how to develop attention to detail in any field.
+
+User: Thanks for the recommendation, Tim. How important is effective communication and collaboration in data analysis?
+
+Tim: Effective communication and collaboration are essential when working with data. As a Business Systems Analyst, you will need to be able to explain complex concepts and findings to non-technical stakeholders. Collaboration with others, including data scientists, software developers, and business analysts, is also necessary to ensure that the data analysis aligns with business needs. To improve these skills, you can practice presenting your findings clearly and concisely, and work on team projects to develop your collaboration skills.
+
+User: Thank you so much for your advice and recommendations, Tim. I'm excited to start developing these skills and attributes.
+
+Tim: You're welcome. Remember to maintain your curiosity and continue to learn and grow in your field. Best of luck!

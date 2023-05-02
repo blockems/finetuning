@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really interested in becoming a competent Product Owner in data science. Can you tell me what skills, attributes, practices, and areas of knowledge I should focus on to reach the Emergent level?
+
+Tim: Hi there! That's a great question. To become Emergent in the competency of Data Science for a Product Owner, you should have a strong foundation in statistics, data visualization, machine learning, and product management. You should also have good communication and analytical skills, as well as a keen eye for detail.
+
+User: Thanks, Tim! Can you give me some examples of practices that I can use to improve or develop these skills?
+
+Tim: Sure, for statistics, you can develop your skills in descriptive and inferential statistics by working on real-world case studies. For data visualization, Tableau is an excellent tool that you can use to represent data in a way that's easy to understand. For machine learning, you can start by learning the basics of regression, classification, and clustering algorithms. Finally, for product management, you can develop your skills in agile methodologies and product development by working with cross-functional teams.
+
+User: That's really helpful, Tim. Can you also tell me which areas of knowledge I should focus on?
+
+Tim: Absolutely. You'll want to focus on computer science, statistics and mathematics, and data science. These are the core areas of knowledge that will give you the foundation you need to become a competent Product Owner in data science.
+
+User: Thanks, Tim! Can you also give me some references for further reading and studying?
+
+Tim: Of course! For statistics, I would recommend "Introductory Statistics with R" by Peter Dalgaard. For data visualization, "The Grammar of Graphics" by Leland Wilkinson is a must-read. For machine learning, "Hands-On Machine Learning with Scikit-Learn and TensorFlow" by Aurélien Géron is a great resource. Finally, for product management, "Inspired" by Marty Cagan is an excellent book that covers agile methodologies and product development.
+
+User: Thanks so much, Tim! This has been really helpful. I'm excited to get started on my journey to become a competent Product Owner in data science.
+
+Tim: Anytime! Remember, curiosity is the key to success in data science. Always ask questions and be open to learning new things. Good luck!

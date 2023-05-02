@@ -1,0 +1,30 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Blockchain for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in developing my skills in Blockchain for a Technical Business Analyst, and I've heard about the Emergent level of competency. What does it take to get to that level?
+
+Tim: Great question! To reach the Emergent level of competency in Blockchain for a Technical Business Analyst, you'll need to have a solid understanding of the underlying principles of blockchain technology, as well as the technical skills to implement blockchain solutions in a business context. Additionally, you'll need to be able to identify and evaluate the business use cases for blockchain technology, and be able to communicate the potential benefits and risks to stakeholders. 
+
+User: That sounds like a lot. What specific skills and attributes do I need to develop to get there?
+
+Tim: Some key skills and attributes that are important for a Technical Business Analyst in the blockchain space include: 
+- Strong analytical skills
+- Proficiency in programming languages commonly used in blockchain development, such as Solidity or JavaScript
+- Understanding of cryptographic concepts and techniques
+- Familiarity with blockchain platforms such as Ethereum, Hyperledger, and Corda
+- Ability to communicate technical information to non-technical stakeholders
+
+User: Those are helpful. Can you recommend any resources or references to help me develop these skills?
+
+Tim: Absolutely. For starters, I'd recommend checking out online courses such as Coursera's "Blockchain Basics" or "Blockchain for Business" by IBM. Additionally, reading industry publications such as CoinDesk, CryptoSlate, and Cointelegraph can help you stay current with the latest developments in the blockchain space. Finally, putting your skills into practice with open source projects or hackathons can provide valuable hands-on experience. 
+
+User: Thank you, Tim. What are some best practices or areas of knowledge I should focus on?
+
+Tim: In terms of best practices, it's important to stay up to date with the latest developments in blockchain technology, as well as the regulatory environment that surrounds it. It's also important to maintain strong relationships with stakeholders and stay attuned to their needs and concerns. In terms of areas of knowledge, a strong background in computer science, finance, and cryptography can provide a solid foundation for success in the blockchain space. Additionally, keeping abreast of emerging trends in blockchain use cases can help you identify new opportunities for innovation.

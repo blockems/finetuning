@@ -1,0 +1,23 @@
+User:
+Hi Tim, I've been reading about Emergent competencies for Data Science for a SAFe Agilist, and I'm curious about the necessary skills, attributes, practices, and areas of knowledge. Can you help me understand what it takes to reach the Emergent level?
+
+Tim:
+Definitely! The Emergent level for Data Science competency requires a combination of technical, analytical, and communication skills, as well as proficiency in Agile methodologies. Some of the key skills include computer programming languages (such as Python or R), data visualization, statistical analysis, machine learning, and data management. It's also important to have strong problem-solving and critical-thinking abilities, as well as the ability to work collaboratively in a team.
+
+User:
+That makes sense. Can you recommend any specific resources or courses to help develop these skills?
+
+Tim:
+Sure. For technical skills like programming languages and statistical analysis, I recommend online courses through platforms like Coursera, EdX, or Codecademy. For Agile methodologies, I recommend reading books like "Agile Estimating and Planning" by Mike Cohn and "Agile Project Management with Scrum" by Ken Schwaber. It's also important to practice applying these skills, such as working on real-world projects or participating in Kaggle competitions.
+
+User:
+What about communication skills? How can I improve in that area?
+
+Tim:
+Communication skills are vital for a data scientist, as you'll need to be able to explain complex technical concepts to non-technical stakeholders. Some ways to improve your communication skills include practicing presenting your work to others, participating in public speaking events, and writing blog posts or research papers. Additionally, seeking feedback from others is crucial to improving your communication skills; consider finding a mentor or joining a peer review group.
+
+User:
+Thank you, Tim. What about areas of knowledge? Are there specific fields or domains that a Data Scientist should be well-versed in?
+
+Tim:
+Yes, a Data Scientist should have a solid grounding in statistics, mathematics, and computer science. Additionally, having domain-specific knowledge can be valuable in pursuing career opportunities in particular industries. For example, a Data Scientist in the healthcare industry may want to have a background in biology or medicine, while a Data Scientist in finance may want to have knowledge about banking and investment principles.

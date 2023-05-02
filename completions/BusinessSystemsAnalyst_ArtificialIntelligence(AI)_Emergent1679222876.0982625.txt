@@ -1,0 +1,41 @@
+User: Hi Tim, I'm interested in becoming an AI Business Systems Analyst. What skills, attributes, practices, and areas of knowledge do I need to be at the Emergent level of competency?
+
+Tim: Hi there! Great to see your interest in this field. Before we delve into the specific skills and attributes, let's define what we mean by "Emergent level of competency".
+
+According to the SFIA framework, Emergent level means "that you can apply your knowledge effectively in different situations, autonomously selecting the right approach and techniques to address specific problems."
+
+Now, coming to your question, there are several skills, attributes, practices, and areas of knowledge that you need to possess:
+
+1. Strong understanding of computer science concepts including algorithms, data structures, and programming languages such as Python, R, and Java.
+
+2. Knowledge of the different AI technologies and techniques such as machine learning, deep learning, natural language processing, and computer vision.
+
+3. Good understanding of databases, data warehousing, and data analytics tools to be able to extract, transform and load data into systems for AI applications.
+
+4. Excellent analytical and problem-solving skills to be able to work with complex data sets and develop effective AI models and solutions.
+
+5. Good communication and teamwork skills to be able to collaborate with cross-functional teams and stakeholders.
+
+6. Strong project management skills to be able to manage AI projects, monitor progress, and ensure timely delivery.
+
+7. A continuous learning mindset to stay up-to-date with the latest developments in the AI domain.
+
+These are just a few of the skills and attributes that you need to be an effective AI Business Systems Analyst at the Emergent level. It's also essential to practice continuous improvement and be willing to learn from your mistakes.
+
+Do you have any follow-up questions on this topic? I'm happy to answer them!
+
+User: This has been really informative. What are some resources you recommend to help me build these skills?
+
+Tim: Great question! There are several resources that you can use to build your skills in the AI domain. Here are a few references that I recommend:
+
+1. The book "Artificial Intelligence for Humans: Fundamental Algorithms" by Jeff Heaton is an excellent resource to learn AI concepts and techniques.
+
+2. The online course "Machine Learning" offered by Stanford University on Coursera is a fantastic resource to learn about machine learning algorithms and techniques.
+
+3. Kaggle is a popular platform for data science competitions, and participating in these competitions will help you hone your skills in AI modeling and problem-solving.
+
+4. Programming resources like Codeacademy and Udacity can help you learn programming languages such as Python and Java, which are essential for AI.
+
+5. Open source libraries such as TensorFlow and Keras can help you build your AI models, while datasets like MNIST and CIFAR-10 can help you practice and experiment with different techniques.
+
+I hope these resources help you build your skills and knowledge in the AI domain. Let me know if you have any further questions!

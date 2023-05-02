@@ -1,0 +1,23 @@
+User: Hi Tim, thanks for being available for this chat. I'm working towards becoming a SAFe Release Train Engineer and wanted to know what skills, attributes, practices and Areas of knowledge I need to be at the level of Competent for the competencies Problem Solving and Conflict Resolution?
+
+Tim: Hi there, happy to help. To be competent in Problem Solving and Conflict Resolution for a SAFe RTE, you need to have a strong foundation in the following areas - Active Listening, Emotional Intelligence, Collaborative Problem Solving and Decision Making, Managing Conflict and Negotiation Skills. Do you have any experience in these areas?
+
+User: Yes, I do have some experience, but I would like to know more about each of these areas and their relevance to SAFe RTE.
+
+Tim: Sure, let's start with Active Listening - it is an essential skill for SAFe RTEs as it allows them to empathize with team members, understand their perspective better and build stronger relationships. Emotional Intelligence, on the other hand, helps RTEs self-manage their emotions, understand others' emotions and use this information to make better decisions.
+
+Collaborative Problem Solving and Decision Making is a critical practice for RTEs as it helps them work collaboratively with cross-functional teams to solve complex problems and make informed decisions. Managing Conflict is another essential skill for RTEs, which helps them navigate disagreements and resolve conflicts constructively. Finally, the Negotiation Skills help in negotiating with stakeholders to reach mutually beneficial outcomes.
+
+User: Thanks, Tim for explaining these areas. Can you provide me with some references or reading materials to gain more in-depth knowledge about these areas?
+
+Tim: Sure, here are some references that may help - For Active Listening Skills, you can refer to the book "Active Listening: Improve Your Ability to Listen and Lead" by Michael H. Hoppe. For Emotional Intelligence, the book "Emotional Intelligence 2.0" by Travis Bradberry and Jean Greaves is an excellent resource.
+
+For Collaborative Problem Solving, "Collaborative Intelligence: Thinking with People Who Think Differently" by Dawna Markova and Angie McArthur is a great read. "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson and Joseph Grenny can help you in Managing Conflict, and "Negotiating the Impossible: How to Break Deadlocks and Resolve Ugly Conflicts (without Money or Muscle)" by Deepak Malhotra can guide you on Negotiation Skills.
+
+User: Thanks, Tim, for sharing these references. This will help me a lot. Do you have any follow-up questions for me to spur my curiosity?
+
+Tim: Sure, can you think of any challenging situations you have faced while working with cross-functional teams or stakeholders? What did you do to resolve them, and how do you think the skills I mentioned earlier could have helped you in those situations?
+
+User: Yes, I remember an instance where stakeholders had conflicting priorities, which impacted the project's progress. I had to bring all the stakeholders together to align their priorities and come up with a mutually agreeable solution. I think the negotiation skills could have helped me in this situation.
+
+Tim: That's great, always remember that curiosity is essential in continuous learning and growth, and always be open to new perspectives and experiences. Good Luck!

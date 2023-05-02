@@ -1,0 +1,41 @@
+Tutor (Tim): Good evening! How can I assist you today?
+
+User: Hi! I have a question about the competency of Risk Management for an Agile Program Lead. What skills, attributes, practices, and areas of knowledge do I need to be at the level of Competent?
+
+Tutor (Tim): That's a great question! To be competent in this competency, you need several skills, attributes, practices and areas of knowledge. Let me explain:
+ 
+Skills:
+- Ability to analyze the risk based on the probability and impact for the program.
+- Capable of identifying areas of risk occurrence and mitigate/manage them.
+- Ability to escalate risks and define the corrective actions for the team.
+- Track and report on the status of Risk during Program Increment.
+
+Attributes:
+- Agile mindset, collaborative approach with the team and stakeholders.
+- Adaptive and proactive with the ability to quickly respond to unforeseen risks.
+- Attention to detail in terms of detecting and assessing potential risks.
+- Excellent communication skills and leadership abilities.
+ 
+Practices:
+- Risk management plan and strategy for the program.
+- Regular risk assessments and the development of contingency plans.
+- Risk reporting and status updates to stakeholders and the program team.
+- A risk register to capture all risks and actions to mitigate them.
+
+Areas of knowledge:
+- Understanding of the types of risks (financial, technical, environmental etc)
+- Risk assessment methodologies (Monte Carlo, Delphi, etc).
+- Risk identification techniques (brainstorming, interviews, etc).
+- Understanding of Lean-Agile principles.
+ 
+References:
+- Agile Practice Guide by Project Management Institute, Inc. and Agile Alliance
+- Risk Management in Agile Projects, the Agile Extension to the PMBOK Guide by PMI Agile Certified Practitioner
+
+User: Thanks, Tim! Can you elaborate on the Agile principles and how they relate to Risk Management for an Agile Program Lead?
+
+Tutor (Tim): Good question! Agile principles include customer involvement, iterative processes, and continuous improvement, among others. An Agile Program Lead needs to have an understanding of these principles and how they relate to risk management. For instance, by involving customers and stakeholders in risk assessment, they can better understand what is important and the level of tolerance for risk. Iterative processes also help to identify risks early and mitigate them continuously. Continuous improvement ensures that lessons learned are incorporated in future risk assessments. Do you have any other questions?
+
+User: No, thanks Tim. This was helpful!
+
+Tutor (Tim): You're welcome! Feel free to reach out in case you have any other questions or require further assistance!

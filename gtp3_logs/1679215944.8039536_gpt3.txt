@@ -1,0 +1,67 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction
+
+Data science is an interdisciplinary field that involves extracting, analyzing, and interpreting data sets to gain insights and knowledge that can drive business decisions. Business analysts are responsible for contributing to the strategic planning of an organization, while data scientists are responsible for managing and interpreting data to provide insights to their organization. Combining the competencies of these two professionals is an excellent way to create a data-driven and sustainable organization. This debate will discuss the skills, practices, and areas of knowledge necessary to achieve the level of Emergent in data science competency for a business systems analyst.
+
+Skills
+
+To become an Emergent data scientist, a Business Systems Analyst must have a set of skills that transcend traditional business analytics. These include:
+
+1. Statistical Analysis: A Business Systems Analyst must have a solid understanding of statistics to be able to analyze statistical data and understand what it means.
+
+2. Data Wrangling Expertise: This skill includes formatting, cleaning, and transforming data sets that are relevant to the business domain.
+
+3. Coding Skills: A Business Systems Analyst should have coding skills in at least one popular programming language such as Python and R. This would enable them to develop basic programs to collect, analyze and visualize data.
+
+4. Machine Learning Expertise: A Business Systems Analyst should have an understanding of machine learning algorithms and how to implement them in the course of their work.
+
+5. Communication and Presentation Skills: A Business Systems Analyst must have strong communication and presentation skills to be able to convey their results effectively to colleagues and management.
+
+Practices
+
+To ensure that a Business Systems Analyst attains Emergent competency level in data science, they must develop some vital practices, which include:
+
+1. Developing data models that bridge data analysis with business performance indicators.
+
+2. Engaging in data exploration that enables discovery of patterns and trends in data.
+
+3. Designing experiments and making predictions based on statistical analysis and machine learning algorithms.
+
+4. Creating data visualizations that are easily understandable to company stakeholders.
+
+5. Gleaning insights from data, and creating actionable strategies based on these insights.
+
+Areas of Knowledge
+
+There are fundamental areas of knowledge that a Business Systems Analyst seeking Emergent competency level in data science must acquire. These areas include:
+
+1. Mathematics: Topics like probability, calculus, and statistics are critical foundations in data science.
+
+2. Programming: A thorough understanding of at least one popular programming language, such as Python or R, would enable a Business Systems Analyst to manage and analyze data effectively.
+
+3. Computer Science: Knowledge of computer science fundamentals, like data structures and algorithms, is essential in data science.
+
+4. Business: Business knowledge is necessary to understand how businesses work and which data will drive business decisions.
+
+5. Data Science: Finally, a solid foundation in data science concepts, including machine learning, statistical analysis, data cleaning, preprocessing, and visualization, is necessary to achieve the Emergent competency level in data science.
+
+Conclusion
+
+The combination of business analysis and data science skills is becoming increasingly essential in today's data-driven world. To become an Emergent data scientist, the Business Systems Analyst must acquire the skills, practices, and areas of knowledge discussed above. They also need to develop a curious mind and learn continuously through personal projects, community involvement, and academic research.
+
+References
+
+1. McKinsey & Company. (2018). What data scientists do. Retrieved from https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/what-data-scientists-do
+
+2. Loukides, M. (2010). What is data science? Retrieved from https://www.oreilly.com/ideas/what-is-data-science
+
+3. Gutierrez-Osuna, R. (2016). Introduction to data science. Retrieved from https://www.coursera.org/learn/introduction-to-data-science
+
+4. Martelli, A. (2017). Python for data science handbook. O'Reilly Media, Inc.
+
+5. Hastie, T., Tibshirani, R., & Friedman, J. (2017). The elements of statistical learning. Springer.

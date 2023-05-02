@@ -1,0 +1,26 @@
+User: Hi Tim, I'm really interested in becoming an Emergent CI/CD Lead. Can you tell me what skills, attributes, practices, and areas of knowledge are necessary to be at that level?
+
+Tim: Hello there! Great to see your curiosity. To become an Emergent CI/CD Lead, you should be proficient in containerization and orchestration tools such as Kubernetes, Docker, and Puppet. You should have a deep understanding of how to build CI/CD pipelines and how to automate the deployment process.
+
+User: Thanks, Tim. Can you elaborate more on what skills and attributes I should have to be proficient in containerization and orchestration tools like Kubernetes, Docker, and Puppet?
+
+Tim: Sure thing! Containerization is the process of packaging an application so that it can run consistently regardless of the environment. As a CI/CD Lead, you should have an excellent understanding of containerization and how it works. For Kubernetes, you should be proficient in deploying, scaling, and managing containerized applications. For Docker, understanding Docker Compose Files and Dockerfile is essential. Also, you should be able to write and deploy Puppet modules, manage manifests, and troubleshoot problems.
+
+User: Thanks, Tim. What practices should I follow to be able to build CI/CD pipelines and automate the deployment process?
+
+Tim: You should be familiar with Agile and DevOps methodologies. Also, you should be well-versed in Git, Jenkins, and other build tools. You should develop practices such as Infrastructure as a code, designing for failure, continuous integration, monitoring, and logging. You should be able to automate the testing process (unit tests, integration tests, and acceptance tests) and automate the deployment process. 
+
+User: Thanks, Tim. What areas of knowledge should I have to succeed in this job?
+
+Tim: You should have excellent knowledge of system infrastructure, networking, and security to ensure that the deployment of containerized applications is secure, reliable, and scalable. You should be good at application design patterns for containerization, as well as disaster recovery and backup strategies. Knowledge of public cloud services such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform is also essential. 
+
+User: Thank you so much, Tim. Do you have any references or resources that could help me learn more?
+
+Tim: You’re welcome! Here are some academic articles and books related to these topics that you may find useful:
+
+1. “Kubernetes Handbook” by Jian Huang
+2. “Continuous Delivery” by Jez Humble and David Farley
+3. “Site Reliability Engineering” by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy
+4. “The DevOps Handbook” by Gene Kim, Patrick Debois, John Willis, and Jez Humble
+
+Hope you find these resources helpful!

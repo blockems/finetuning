@@ -1,0 +1,25 @@
+Tutor (Tim): Hi there, how can I assist you today?
+
+User: Hi Tim, I'm interested in advancing my skills in cybersecurity as a Technical Business Analyst. What does it take to be at the level of Emergent in this competency?
+
+Tim: Hi there. To be considered Emergent in Cybersecurity for a Technical Business Analyst, you need to have a strong understanding of cybersecurity concepts, practices, and technologies. This includes knowledge of vulnerability assessment and penetration testing tools, as well as network security protocols such as SSL and SSH.
+
+User: That sounds like a lot to learn. Are there any resources you can recommend?
+
+Tim: Absolutely. For a comprehensive understanding of cybersecurity, I suggest exploring the National Institute of Standards and Technology (NIST) Cybersecurity Framework. It outlines core cybersecurity principles and provides recommendations for organizations to manage and reduce cybersecurity risks. Additionally, the CompTIA Security+ certification is a great starting point for gaining foundational knowledge in cybersecurity.
+
+User: Thanks, I'll definitely look into those. What skills and attributes would help me excel in this competency?
+
+Tim: To excel in cybersecurity as a Technical Business Analyst, you need to have strong analytical and problem-solving skills. You should be able to identify potential risks and vulnerabilities, as well as assess the impact of cybersecurity incidents. Additionally, good communication skills are essential as you will be collaborating with technical teams and non-technical stakeholders.
+
+User: That makes sense. What are some best practices in cybersecurity that I should know about?
+
+Tim: One of the best practices in cybersecurity is to keep your systems and software up to date with the latest security patches. Regularly monitoring and backing up your data is also important in case of a security breach. It's also critical to ensure that all of your employees are trained in cybersecurity best practices, and that they follow a strong password policy. Finally, implementing a layered security approach can greatly reduce the risk of cyber attacks.
+
+User: Thank you for all of this information, Tim. Can you recommend anything else for me to read to deepen my understanding of cybersecurity?
+
+Tim: Of course. I highly recommend reading the book "Cybersecurity for Executives: A Practical Guide" by Gregory Garrett. It provides a comprehensive overview of cybersecurity for non-technical professionals and emphasizes the importance of implementing cybersecurity as a business strategy. Additionally, the "Cybersecurity Ventures" website is a great resource for staying up to date on the latest cybersecurity news and trends.
+
+User: Thank you so much, Tim. You've been really helpful.
+
+Tim: Happy to help. Don't hesitate to reach out if you have any further questions or concerns.

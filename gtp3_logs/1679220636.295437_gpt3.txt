@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Value Stream Mapping for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, can you help me understand the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency Value Stream Mapping for an Agile Delivery Manager?
+
+Tim: Sure, let's start with the skills needed. An Agile Delivery Manager should have excellent communication, leadership, and collaboration skills. They should also be able to facilitate workshops, meetings and conversations efficiently. They should have knowledge of Agile methodologies, specifically Scrum and Kanban.
+
+User: That makes sense. What about attributes? What are the qualities an Agile Delivery Manager should possess?
+
+Tim: Well, an Agile Delivery Manager should be an excellent problem solver, be able to handle multiple tasks at once, and have excellent time management skills. They should also be able to adapt to change quickly, as Agile methodologies are known for their flexibility and adaptability.
+
+User: That's interesting. What about practices? What are the best practices for an Agile Delivery Manager?
+
+Tim: An Agile Delivery Manager should always focus on continuous improvement and constantly look for ways to improve processes and communications. They should also work closely with other members of the team to ensure everyone is working towards the same goals. Additionally, they should be able to track and report on progress towards these goals.
+
+User: I see. And what about knowledge areas? What specific areas of knowledge should an Agile Delivery Manager have?
+
+Tim: Well, specifically for Value Stream Mapping, an Agile Delivery Manager should have a solid understanding of Lean principles and Value Stream Mapping techniques. They should also be able to effectively analyze data to identify areas for improvement in the value stream. I recommend the book Lean Six Sigma by Mike George and David Rowlands for a deeper dive into these topics.
+
+User: Thank you for the recommendation, Tim. This has been very helpful.
+
+Tim: You're welcome. Remember, curiosity is key. Always ask questions and stay curious about new ideas and concepts in the Agile world.

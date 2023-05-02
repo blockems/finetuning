@@ -1,0 +1,26 @@
+Tutor (Tim): Hello, how can I assist you today with Agile and Scrum methodologies?
+
+User: Hi Tim, I am curious about the required skills, attributes, practices and areas of knowledge needed to be at the level of Expert for the competency Agile and Scrum Methodologies for a Scrum Master. Can you please help me with this?
+
+Tim: Sure, let's start with skills. A Scrum Master with an expert level of competency should possess strong leadership, interpersonal, and communication skills. They should be able to communicate effectively with teams, stakeholders, and clients. Additionally, they should be able to solve complex problems and make informed decisions in a timely manner.
+
+User: That makes sense. What attributes should they have?
+
+Tim: An Agile and Scrum expert should be patient, empathetic, and open-minded. They should have a positive attitude and be willing to learn from both their successes and failures. They should be able to work collaboratively with the team and not be afraid to take feedback.
+
+User: Okay, and what are the practices that an expert Scrum Master should follow?
+
+Tim: A few practices that an expert Scrum Master should follow include taking an iterative and incremental approach to project management. They should prioritize transparency and encourage team members to work towards achieving common goals. It is essential to continuously improve and adapt to changing circumstances.
+
+User: I see. What areas of knowledge should they have?
+
+Tim: They should have strong knowledge of Agile and Scrum methodologies, including their core principles and practices. They should also be familiar with the roles and responsibilities of Scrum team members and be capable of implementing Scrum frameworks effectively. Additionally, they should be well-versed in project management, risk management, and software development practices.
+
+User: That's quite informative. Can you provide some references for further reading?
+
+Tim: Sure, here are some references that will be helpful:
+
+- The Agile Samurai: How Agile Masters Deliver Great Software by Jonathan Rasmusson
+- Scrum: The Art of Doing Twice the Work in Half the Time by Jeff Sutherland
+- Agile Estimating and Planning by Mike Cohn
+- Agile Project Management with Scrum by Ken Schwaber

@@ -1,0 +1,46 @@
+Break the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Coach.
+Display the results in a JSON object, with the role=Agile Coach, competency=Agile Methodologies and level=Expertin the root of the object, and arrays for skills, practices and knowledge.
+
+
+==========
+
+{
+   "role": "Agile Coach",
+   "competency": "Agile Methodologies",
+   "level": "Expert",
+   "skills": [
+      "Facilitation skills",
+      "Coaching skills",
+      "Leadership skills",
+      "Collaboration skills",
+      "Presentation skills",
+      "Problem-solving skills",
+      "Adaptability"
+   ],
+   "practices": [
+      "Scrum framework",
+      "Kanban methodology",
+      "Lean principles",
+      "Agile scaling frameworks",
+      "Continuous Integration and Continuous Deployment",
+      "Continuous Improvement",
+      "User Story & Requirement Analysis",
+      "Backlog management",
+      "Product Roadmapping",
+      "Retrospectives",
+      "Agile Metrics & KPIs"
+   ],
+   "knowledge": [
+      "Agile Manifesto and Principles",
+      "Agile Frameworks",
+      "Agile Methodologies",
+      "Agile Mindset",
+      "Agile Culture",
+      "Agile Values",
+      "Agile Tools and Techniques",
+      "Agile Coach Competencies",
+      "Agile Coaching Techniques",
+      "Agile Facilitation Techniques",
+      "Agile Estimation and Planning Techniques"
+   ]
+}

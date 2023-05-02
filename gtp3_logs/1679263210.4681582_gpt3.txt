@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Internet of Things (IoT) for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm a tech lead and I'm very curious about the Internet of Things. I want to know what skills, attributes, practices, and areas of knowledge I should have to be at the level of Emergent for IoT. Can you help me?
+
+Tim: Hi! Sure, I'd be happy to help. The IoT is a complex and rapidly evolving field, and to be at the level of Emergent, you need to have a solid foundation in several areas. To start with, you need to have a good understanding of programming languages, specifically those used in IoT devices such as C, C++, and Python. You also need to have knowledge of distributed systems, data structures, and algorithms. In addition, you should have a good understanding of hardware platforms, such as microcontrollers and sensors.
+
+User: Thank you for your response, Tim. Can you recommend any resources or references to help me learn more about these skills and areas of knowledge for IoT?
+
+Tim: Absolutely. For programming languages, I would recommend "Programming for the Internet of Things: Using Windows 10 IoT Core and Azure IoT Suite" by Dawid Borycki. For distributed systems and algorithms, "Distributed Systems: Principles and Paradigms" by Andrew S. Tanenbaum is a great resource. A good reference for hardware platforms would be "Internet of Things with Raspberry Pi 3: Leverage the power of Raspberry Pi 3 and JavaScript to build exciting IoT projects" by Maneesh Rao.
+
+User: Thanks for the recommendations, Tim. What about attributes and practices that are important for being Emergent in IoT?
+
+Tim: Great question. One attribute that is crucial for success in IoT is curiosity, which you clearly possess! You should also have strong problem-solving skills, as IoT projects often involve complex technical challenges. In terms of practices, continuous learning is essential to keep up with the rapidly evolving nature of the field. Collaboration and communication skills are also important as IoT projects often involve cross-functional teams.
+
+User: Thanks for that, Tim. Can you give me some examples of IoT projects that would require these skills and attributes?
+
+Tim: Sure, here are a few examples:
+
+1. Smart home automation system: This project would require knowledge of programming languages, distributed systems, and hardware platforms. It would also need problem-solving skills to integrate different devices and sensors with different communication protocols.
+
+2. Predictive maintenance: In this project, you would need to be skilled in data analytics and machine learning to predict equipment failures. Strong problem-solving skills are crucial to find the root cause of the problem, while collaboration and communication skills are needed to present your findings to stakeholders.
+
+3. Healthcare wearables: This project would require knowledge of sensors, hardware platforms, and programming languages. Continuos learning is important as the healthcare industry is ever-evolving. This project would also require collaboration between healthcare professionals and technology experts to ensure privacy and security standards are adhered to.
+
+User: These are great examples, Tim. Thank you for sharing them with me. 
+
+Tim: You're welcome! Keep asking questions and exploring the exciting world of IoT. Remember, curiosity is key to learning and growth.

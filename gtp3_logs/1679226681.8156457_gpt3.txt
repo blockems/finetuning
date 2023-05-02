@@ -1,0 +1,21 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency DevOps for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in learning about the skills, attributes, practices, and Areas of knowledge that are needed to be at the Emergent level of DevOps competency for a SAFe Lean Portfolio Manager (LPM).
+
+Tim: Hi there! That's a great question. To be at the Emergent level of DevOps competency for a SAFe Lean Portfolio Manager, there are certain skills, attributes, practices, and areas of knowledge that you should focus on. Are there any specific areas you would like me to start with, such as skills or areas of knowledge?
+
+User: Can you start with the skills that are needed?
+
+Tim: Sure! The skills that are essential for being at the Emergent level of DevOps competency for an LPM can be grouped into three categories: technical, business, and leadership skills. Technical skills include understanding infrastructure, coding, and automation. Business skills include a good knowledge of agile methodologies, business analysis, and product management. Leadership skills, on the other hand, involve the ability to motivate and influence others while making decisions that keep the business objectives in mind. 
+
+User: That's interesting, can you recommend any books or academic papers on this topic?
+
+Tim: Absolutely. Some of the books that I recommend for developing skills in DevOps and lean portfolio management include "The Phoenix Project" by Gene Kim, "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley, and "Leading the Transformation" by Gary Gruver and Tommy Mouser. Additionally, there are a number of academic papers worth reading, such as "DevOps for Enterprise Systems" by Carol Wellington and Stephen Tratz, and "Achieving Effective DevOps through Continuous Improvement" by S. Peer Hussain and R. S. Hiremani.

@@ -1,0 +1,27 @@
+Tutor - Tim: Hello, how can I help you today?
+
+User: Hi Tim, I'm curious about Stakeholder Management for a Product Owner (PO). What skills, attributes, practices and Areas of knowledge do I need to be competent in?
+
+Tutor - Tim: Great question! To be competent in Stakeholder Management as a PO, you will need a variety of skills, attributes, practices and areas of knowledge. 
+
+Firstly, you will need to have excellent communication skills to effectively engage with stakeholders, listen to their needs, and communicate effectively. You will also need to be a talented problem solver, as this will allow you to be able to anticipate and manage stakeholder needs proactively.
+
+Secondly, it's important to have a deep understanding of business, market trends and customer needs. This knowledge will help you anticipate stakeholder needs and proactively address issues before they arise. In this regard, effective market analysis, market segmentation and good understanding of what makes an ideal customer, will all come in handy.
+
+In addition, you will need to be a strategic thinker who can plan and execute stakeholder management efforts with an eye to long-term success. You will need to have strong project management skills which  includes maintaining stakeholder engagement as part of the project objective.
+
+Lastly, to be a competent PO, you should have knowledge of software development, user experience, and design thinking. 
+
+User: That makes sense. Can you recommend some literature on this topic?
+
+Tutor - Tim: Yes, absolutely! Here are some recommended readings:
+- "The Agile Product Owner Guide: A Scrum Practice Guide" by the Scrum Alliance 
+- "Agile Estimating and Planning" by Mike Cohn 
+- "User Story Mapping" by Jeff Patton 
+- "Design Thinking for Product Owners: A Guide to the Next Generation of Digital Products" by Ben Leggett
+
+These readings provide great insights into the concepts, strategies and best practices for effective Stakeholder Management as a PO.
+
+User: Thank you, Tim. This has been really helpful. 
+
+Tutor - Tim: You're welcome! Keep asking questions and stay curious, you're doing great!

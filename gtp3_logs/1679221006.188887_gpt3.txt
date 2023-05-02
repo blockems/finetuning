@@ -1,0 +1,36 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Mentoring and Coaching for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a competent mentor and coach for Agile Delivery Managers. Can you guide me on the skills, attributes, practices and areas of knowledge I need to develop?
+
+Tim: Hi, great to connect with you. To become a competent mentor and coach for Agile Delivery Managers, you need to have a deep understanding of Agile principles and practices, effective communication and leadership skills, and a passion for helping others grow and develop. Additionally, you need strong facilitation and problem-solving skills, the ability to manage conflict and create a culture of continuous learning.
+
+User: Thanks, Tim. How do I acquire these skills and attributes?
+
+Tim: There are many ways to acquire these skills and attributes. You may take formal training in Agile methodologies, communication techniques, coaching and mentoring, leadership, and facilitation. You may also attend conferences, workshops, and meetups focused on Agile delivery and coaching. Reading books, articles, and blogs on the Agile framework and related topics can help build your knowledge base. Volunteering to mentor or coach within your organization or community can also help develop your skills.
+
+User: Can you recommend any books, articles or blogs that can help me develop in these areas?
+
+Tim: Sure, here are a few resources that I would recommend:
+
+- The Agile Manifesto: http://agilemanifesto.org/
+- Coaching Agile Teams by Lyssa Adkins: https://www.amazon.com/Coaching-Agile-Teams-ScrumMasters-ebook/dp/B003YCXLFI
+- The Scrum Guide: https://www.scrum.org/resources/scrum-guide
+- The Coaching Habit: Say Less, Ask More & Change the Way You Lead Forever by Michael Bungay Stanier: https://www.amazon.com/Coaching-Habit-Less-Change-Forever/dp/0978440749/
+
+User: Thanks, Tim. Finally, what practices and areas of knowledge should I focus on?
+
+Tim: In terms of practices, you should focus on developing your coaching and mentoring skills, learning to facilitate effective meetings, and practicing active listening and questioning. You should also understand how to apply Agile principles to various industries and situations.
+
+In terms of knowledge areas, I recommend developing a deep understanding of Agile methodologies, and keeping up-to-date with industry trends and best practices. Additionally, you should develop knowledge in areas like software development, project management, change management, and organizational design.
+
+User: Thank you for the guidance, Tim. I appreciate the resources and information you've provided.
+
+Tim: You're welcome! Always remember to stay curious and continue learning. Good luck on your journey to becoming a competent mentor and coach for Agile Delivery Managers.

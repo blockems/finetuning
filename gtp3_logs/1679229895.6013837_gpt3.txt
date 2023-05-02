@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Science for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, thank you for taking the time to chat with me today. I'm really interested in what skills, attributes, practices, and areas of knowledge a Scrum Master needs in data science to be at the level of "Emergent". Can you provide some guidance on where to start?
+
+Tim: Hi there. Glad to help. As a Scrum Master, individuals should be proficient in data analysis and interpretation, as well as proficient problem solvers. These are fundamental skills that can help Scrum Masters in data science reach Emergent proficiency. 
+
+User: Thank you for the response...Can you elaborate more on what you mean for problem solving and data analysis in the context of a Scrum Master?
+
+Tim: Sure. Problem solving for a Scrum Master in data science involves identifying and analyzing problems, identifying various corrective options, gathering and analyzing data to support decision making, evaluating the end-to-end impact, and ensuring the selected solution addresses the issues without creating others. 
+
+In terms of data analysis, the Scrum Master must be able to understand data, including what data points or parameters are useful, how to structure a useful data set, and how to manage data for use in agile planning and estimating.
+
+User: That makes sense. What specific areas of knowledge should a Scrum Master in data science hone in on?
+
+Tim: Scrum Masters in data science should focus on learning the basics of probability and statistics, as they form the foundation of data analysis. They should also be proficient in data manipulation, data storage, and data visualisation with popular tools like R or Python. In addition, it is essential to understand the basics of machine learning, data mining, and data warehousing. 
+
+User: Thank you, Tim. That was quite comprehensive. Do you have any references or resources you recommend checking out for someone starting their journey on this track?
+
+Tim: Yes, there are several resources that can help you get started. For an overall understanding of data science, I recommend the book "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" by Foster Provost and Tom Fawcett. For a deep dive into the basics of probability and statistics, I suggest "Introduction to Probability" by Blitzstein and Hwang, "Applied Statistics" by W.N. Venables & B.D. Ripley, and "Probability and Statistics for Computer Scientists" by Michael Baron. 
+
+For learning data manipulation and storage, you can check out "Pandas for Data Analysis" by Wes McKinney and "Data Wrangling with Python" by Jacqueline Kazil and Katharine Jarmul. For data visualisation, "ggplot2" by Hadley Wickham is a great resource. For machine learning, you can explore "Python Machine Learning" by Sebastian Raschka, and for data warehousing, you can check out "Data Warehousing for Dummies" by Thomas C. Hammergren.
+
+User: Thank you so much, Tim. That is a wealth of resources that I can start with.

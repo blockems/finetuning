@@ -1,0 +1,146 @@
+{
+    "Role": "Agile Delivery Manager",
+    "Description":"An Agile Delivery Manager is responsible for managing and coordinating the delivery of Agile projects within an organization. This involves overseeing multiple Agile teams to ensure that projects are delivered on time, within budget, and to a high standard of quality.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile Methodologies",
+                "SkillDescription": "Strong understanding of Agile methodologies, and the ability to implement and manage these practices at the program and portfolio levels",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Experience in project management, and the ability to manage large, complex projects using Agile and traditional methodologies",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Leadership",
+                "SkillDescription": "Ability to lead and manage Agile development teams, and to inspire a culture of continuous improvement and delivery excellence",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Ability to manage stakeholder expectations and to build strong relationships with key stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Budget Management",
+                "SkillDescription": "Ability to manage program and portfolio budgets, and to ensure that resources are allocated effectively to support project delivery",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Scaled Agile Framework (SAFe)",
+                "SkillDescription": "Understanding of the Scaled Agile Framework (SAFe), and the ability to implement and manage SAFe practices at the program and portfolio levels",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Value Stream Mapping",
+                "SkillDescription": "Ability to map and analyze the value stream, and to identify areas for improvement and optimization",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Lean-Agile Leadership",
+                "SkillDescription": "Ability to lead and coach Agile teams and to develop a culture of continuous improvement and delivery excellence",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and the ability to identify, assess, and mitigate risks at the program and portfolio levels",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to program and portfolio performance, and to use this information to drive continuous improvement",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Business Strategy",
+                "SkillDescription": "Understanding of business strategy and the ability to align program and portfolio delivery with the strategic objectives of the organization",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Vendor Management",
+                "SkillDescription": "Ability to manage vendor relationships, and to ensure that vendors deliver solutions that meet the business and technical requirements",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Change Management",
+                "SkillDescription": "Understanding of change management principles and the ability to lead change management initiatives at the program and portfolio levels",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "DevOps",
+                "SkillDescription": "Understanding of DevOps principles and practices, and the ability to work effectively with development and operations teams to improve delivery speed and quality",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Software Development Life Cycle (SDLC)",
+                "SkillDescription": "Understanding of software development life cycle (SDLC) principles and the ability to work effectively with development teams to ensure that development processes are aligned with the program and portfolio goals",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Systems Thinking",
+                "SkillDescription": "Ability to apply systems thinking principles to the design and management of Agile programs and portfolios",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Team Building",
+                "SkillDescription": "Ability to build and maintain high-performing Agile teams, and to foster a collaborative and supportive team culture",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Quality Assurance",
+                "SkillDescription": "Understanding of quality assurance principles and the ability to ensure that all program and portfolio deliverables meet the required quality standards",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Strong communication skills, including the ability to communicate effectively with both technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Conflict Resolution",
+                "SkillDescription": "Ability to resolve conflicts and to facilitate constructive dialogue and collaboration between team members and stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Facilitation",
+                "SkillDescription": "Ability to facilitate meetings and workshops, and to encourage active participation and collaboration among team members and stakeholders",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Mentoring and Coaching",
+                "SkillDescription": "Ability to mentor and coach team members and stakeholders, and to support their professional development and growth",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Presentation Skills",
+                "SkillDescription": "Ability to deliver clear, concise, and engaging presentations to technical and non-technical audiences",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Negotiation",
+                "SkillDescription": "Ability to negotiate effectively with stakeholders and to reach mutually beneficial agreements that support the program and portfolio goals",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Time Management",
+                "SkillDescription": "Ability to manage time effectively and to prioritize competing demands to ensure that program and portfolio delivery stays on track",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Innovation",
+                "SkillDescription": "Ability to encourage and support innovation within the program and portfolio, and to identify opportunities for process and product improvement",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Emotional Intelligence",
+                "SkillDescription": "Ability to understand and manage one's own emotions, and to recognize and respond effectively to the emotions of others",
+                "SkillLevel": "Competent"
+            }
+        ]
+    }
+}
+           

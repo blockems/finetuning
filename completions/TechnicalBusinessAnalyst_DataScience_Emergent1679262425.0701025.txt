@@ -1,0 +1,27 @@
+User: Hi Tim, I'm a technical business analyst and I'm interested in learning more about data science. What skills, attributes, practices and areas of knowledge are needed to be considered at the Emergent level for the competency Data Science?
+
+Tim: Hello, great question! To be considered at the Emergent level for Data Science in business analysis, you should have strong skills in programming, data manipulation and analysis, statistical inference, data visualization and communication, as well as domain-specific knowledge in your industry.
+
+User: Can you tell me more about programming skills needed for Data Science?
+
+Tim: Certainly. In Data Science, programming skills are necessary to clean, wrangle and manipulate data, conduct statistical analysis and build models. For example, proficiency in programming languages like Python, R, SQL and MATLAB are highly valued in the field. 
+
+User: Can you recommend any textbooks or resources that can help me develop my programming skills?
+
+Tim: Absolutely! 'Python for Data Science Handbook' by Jake VanderPlas and 'R for Data Science' by Hadley Wickham and Garrett Grolemund are excellent resources for learning programming for Data Science. 
+
+User: What about data visualization?
+
+Tim: Data visualization is an essential aspect of Data Science. You should have the ability to create effective visualizations that communicate insights and highlight patterns in data. Tableau, Power BI and Python libraries like Matplotlib and Seaborn are common tools used for data visualization in business analysis.
+
+User: How about statistical inference?
+
+Tim: Statistical inference is a key competency that enables you to make data-driven decisions by quantifying uncertainty in data. You should have knowledge of statistical concepts such as hypothesis testing, probability distributions, confidence intervals and regression analysis. I recommend the book 'Statistical Inference' by George Casella and Roger Berger for a thorough understanding of statistical inference.
+
+User: Thank you. Can you elaborate on domain-specific knowledge?
+
+Tim: In addition to technical skills, domain-specific knowledge is critical to data analysis in a business setting. Familiarity with industry-specific terminology, metrics and trends allows you to ask the right questions and contextualize data. For example, if you're working in finance, knowledge of financial statements and market trends is important. To learn more, you should read 'Applied Predictive Modeling' by Max Kuhn and Kjell Johnson, which provides a comprehensive overview of Data Science in different industries.
+
+User: Thank you for your thorough responses, Tim. I appreciate your help.
+
+Tim: You're welcome. Remember, curiosity is key in any learning process. Don't hesitate to reach out if you have more questions.

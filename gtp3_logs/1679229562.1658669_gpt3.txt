@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Big Data for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in learning about the skills, attributes, practices, and Areas of knowledge required for a Scrum Master to be at the level of Emergent for the competency Big Data. Can you help me understand this better?
+
+Tim: Hi there! I'd be happy to help. To be at the level of Emergent for the Big Data competency as a Scrum Master, you will need to have a solid understanding of data analytics and be able to effectively integrate big data analytics into the Scrum framework. You may also need to have experience with database management, data modeling, and data visualization tools. 
+
+User: That makes sense. Can you give me an example of how to integrate big data analytics into the Scrum framework?
+
+Tim: Certainly. One way to do so is to use big data analytics to inform your product backlog prioritization process. By analyzing data from customer interactions, user behavior, and market trends, you can identify the most critical features to develop next. This helps to ensure that you are delivering the most value to your customers.
+
+User: That's a helpful example. What about the skills and attributes required?
+
+Tim: Well, some important skills for a Scrum Master with a focus on Big Data include data analysis, data modeling, and data visualization. You should also have strong communication and collaboration skills, as you will be working closely with stakeholders and teams to integrate big data analytics into the development process. Additionally, you will need to be able to think critically and creatively to solve problems and develop innovative solutions.
+
+User: Those all sound important. Are there any best practices that you would recommend?
+
+Tim: Absolutely. One best practice is to continuously evaluate and improve your big data analytics strategy. This includes setting goals and metrics, conducting regular data analyses, and incorporating feedback from stakeholders. It's also important to establish clear procedures for data collection, analysis, and sharing to ensure that everyone is on the same page. Finally, you should prioritize transparency and communication throughout the process to foster collaboration and engage all stakeholders in the decision-making process.
+
+User: That's really helpful. Do you have any additional resources that you would recommend to learn more about this competency and its requirements?
+
+Tim: Yes, there are many great resources out there. Some that I would recommend include the Certified ScrumMaster® (CSM®) certification program offered by the Scrum Alliance, as well as the Data Analytics and Visualization Specialization on Coursera. Additionally, there are many books on the topic of big data and agile methodology, including "Agile Analytics" by Ken Collier and "Big Data, Agile, and the Cloud" by Michael Minelli.

@@ -1,0 +1,23 @@
+User: Hi Tim, can you explain the Agile Methodologies needed for a CI/CD Lead role? 
+
+Tim: Sure, in order to be competent in Agile Methodologies for a CI/CD Lead role, one must possess certain skills, attributes, practices and areas of knowledge. Agile Methodologies are an iterative approach to software development that focuses on delivering value to the customer through continuous improvement and feedback. 
+
+User: I understand, can you elaborate on the skills, attributes, and practices necessary for the role?
+
+Tim: Of course. Firstly, skills such as project management, leadership, collaboration, and communication are essential. Attributes such as adaptability, creativity, and a customer-centric mindset are valuable as well. Practices like Continuous Integration and Delivery, Unit Testing, Test Driven Development, and Agile Estimation can greatly aid in delivering working software in a timely and effective manner.
+
+User: That makes sense. What areas of knowledge are necessary for the role?
+
+Tim: Areas of knowledge for a CI/CD Lead include Agile Frameworks such as Scrum, Lean, and Kanban. Additionally, knowledge of Continuous Integration and Delivery tools such as Jenkins and Git are important. Knowledge of software development practices such as Object Oriented Programming, Software Design Patterns, and Database Design are also beneficial. 
+
+User: Ok, so how can I develop these skills and knowledge areas necessary for the role? 
+
+Tim: There are many ways to develop these skills and knowledge areas. Courses, certifications, books, and technical workshops are a few examples. Here are a few books I recommend:
+
+- "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford
+- "Agile Estimating and Planning" by Mike Cohn
+- "Continuous Delivery" by Jez Humble and David Farley
+
+User: Thank you Tim, I will have a look. Anything else I should know?
+
+Tim: Yes, remember that Agile is not a one-size-fits-all approach. It requires experimentation, adaptation to the team, and continuous improvement. Keep that in mind as you embark on your journey to become a CI/CD Lead.

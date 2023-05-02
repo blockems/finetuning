@@ -1,0 +1,17 @@
+User: Hi Tim, I'm curious about what it takes to be at the emergent level for the competency Internet of Things for a SAFe Lean Portfolio Manager. Can you give me some guidance in terms of skills, attributes, practices, and areas of knowledge needed to achieve this level?
+
+Tim: Hi there! Great question. To be at the emergent level for IoT as an LPM, one should have a solid understanding of the foundational concepts of IoT as well as the underlying technologies that are being used to enable IoT. This includes knowledge of protocols, hardware, sensors, data storage and management, security and privacy concerns, and the integration of IoT with other systems.
+
+In terms of specific skills, it's important to have experience in product development and management, agile methodologies, and project management. Being able to navigate complex, cross-functional projects is also crucial, as IoT implementations often involve multiple teams and stakeholders.
+
+Attributes such as curiosity, adaptability, and a willingness to experiment are also important. IoT is an ever-evolving field, and individuals who are open to new ideas and approaches will be better equipped to keep up with the fast pace of change.
+
+User: Thank you for the thorough response, Tim. Can you recommend any resources for me to further develop my knowledge on IoT and its related technologies?
+
+Tim: Of course! For an overview of IoT concepts and applications, "Building the Internet of Things" by Maciej Kranz is a great read. "The Art of Agile Development" by James Shore and Shane Warden is a must-read for anyone in product development and agile methodologies, while "Managing Projects with GNU Make" by Robert Mecklenburg is a great resource for project management.
+
+Additionally, I would recommend checking out IEEE Spectrum and IoT World Today for the latest news and insights on IoT trends and developments.
+
+User: Thanks for the recommendations, Tim! One last question, do you have any follow-up questions for me to encourage my curiosity on this topic?
+
+Tim: I'm glad you're interested! What specific use cases for IoT in the LPM context intrigue you the most? How do you think IoT can help businesses become more efficient and competitive? Are there any potential ethical concerns with IoT that you think need to be addressed?

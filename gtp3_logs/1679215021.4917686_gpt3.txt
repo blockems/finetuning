@@ -1,0 +1,30 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Business Acumen for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Program Leads require Business Acumen to be effective leaders, but what exactly does this competency entail? According to the Project Management Institute (PMI), Business Acumen is “the ability to understand business functions and metrics within the organization and industry, interpret financial information, and use that information to make informed decisions that contribute to the strategic planning process.” (PMI Agile Practice Guide, 2017, p.70). 
+
+To achieve competence in Business Acumen as an Agile Program Lead, there are certain skills, practices and areas of knowledge that should be cultivated. 
+
+SKILLS:
+- Financial literacy: Understanding financial statements, budgeting, cash flow management, forecasting, return on investment (ROI) analysis, and other financial metrics is essential to make informed business decisions.
+- Strategic thinking: Agile Program Leads must be able to think and act strategically, understanding the organization’s goals and aligning them with the program’s objectives. This requires a deep understanding of the organization’s mission, vision, and competitive landscape.
+- Risk management: Being able to identify and mitigate risks is crucial to the success of an Agile program. Agile Program Leads must be able to assess and analyze risks, plan for risk mitigation, and execute risk management strategies effectively.
+- Communication and negotiation skills: Agile Program Leads must be able to communicate effectively with stakeholders, team members, and external partners. They must also be skilled negotiators, able to manage conflicts and reach consensus.
+
+PRACTICES:
+- Lean thinking: Agile Program Leads should be familiar with Lean principles, which emphasize minimizing waste, optimizing processes, and maximizing value for customers. This mindset can be applied to all aspects of the program, from planning to execution to evaluation.
+- Business strategy alignment: Agile Program Leads should ensure that the program’s goals are aligned with the organization’s overall strategy. They should regularly review the program’s objectives and adjust them as needed to ensure alignment with the organization’s goals.
+- Continuous improvement: Agile Program Leads should embrace continuous improvement, regularly evaluating the program’s performance against metrics and adjusting processes and practices to maximize efficiency and outcomes.
+
+AREAS OF KNOWLEDGE:
+- Financial management: Agile Program Leads should have a solid understanding of financial management principles and practices, including budgeting, forecasting, cash flow management, and ROI.
+- Industry knowledge: Agile Program Leads should be knowledgeable about the industry and market in which the program operates, including trends, emerging technologies, and competitors.
+- Organizational knowledge: Agile Program Leads should have a deep understanding of the organization’s structure, culture, values, and goals, as well as its decision-making processes and internal communication channels. 
+
+In summary, the Business Acumen competency for Agile Program Leads requires a combination of skills, practices and areas of knowledge, including financial literacy, strategic thinking, risk management, communication and negotiation skills, lean thinking, business strategy alignment, continuous improvement, financial management, industry knowledge, and organizational knowledge. Agile Program Leads who develop and cultivate these competencies will be better equipped to drive successful outcomes for their programs and organizations. 
+
+Reference:
+Project Management Institute. (2017). Agile Practice Guide. Newtown Square, PA: Author.

@@ -1,0 +1,36 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Product-Centric Delivery Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I’ve been really interested in becoming a Product-Centric Delivery Coach. What skills, attributes, practices, and areas of knowledge are needed to be competent in the Communication competency?
+
+Tim: Hi there! That’s a great question. The Communication competency is an essential part of being a Product-Centric Delivery Coach. There are several skills you’ll need to develop. These include active listening, effective written and verbal communication, and the ability to provide clear and concise feedback.
+
+User: That makes sense. What about attributes? Are there any specific personal qualities that are needed to excel in this competency?
+
+Tim: Yes, there are several attributes that are important for effective communication. These include empathy, the ability to build rapport, being a good listener, and having a growth mindset. These qualities will help you connect with individuals and teams, and build trust.
+
+User: That’s interesting. What about practices? Are there any specific strategies or tools that one should use to communicate effectively?
+
+Tim: Yes, there are several practices that can be helpful for effective communication. One important practice is to understand your audience and tailor your message to their needs. Another is to use visual aids and other methods to enhance your message. And finally, it is essential to actively listen and be open to feedback.
+
+User: Thank you, Tim! What about areas of knowledge? Are there any specific subjects that I should study to be competent in this competency?
+
+Tim: Yes, there are several areas of knowledge that are essential for effective communication. These include psychology, conflict resolution, project management, and effective collaboration. Understanding these fields will help you communicate more strategically and effectively.
+
+User: Thank you, Tim! Do you have any supporting references I can read to dive deeper into this competency?
+
+Tim: Absolutely. Here are some great resources to get you started: 
+1. "Crucial Conversations" by Kerry Patterson, 
+2. "Nonviolent Communication" by Marshall Rosenberg, 
+3. "Project Management for Dummies" by Stanley E. Portny, 
+4. "Collaborating with the Enemy" by Adam Kahane, and 
+5. "Difficult Conversations" by Douglas Stone, Bruce Patton, and Sheila Heen. 
+
+I hope you find these resources helpful!

@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Degree for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm interested in becoming a Tech Lead, and I wanted to know what skills, attributes, practices, and areas of knowledge I need to develop to be considered competent in this role.
+
+Tim: Hi there! Being a Tech Lead requires a mix of technical and soft skills. Some technical skills include proficiency in programming languages, familiarity with software design patterns and principles, and knowledge of cloud computing technologies. As for soft skills, a Tech Lead needs to have excellent communication skills, strong leadership abilities, and the ability to manage projects and teams effectively. In terms of practices, a Tech Lead should be well-versed in Agile methodologies and have experience with project management tools like Jira. Finally, areas of knowledge that would be helpful include software engineering, computer science, and project management.
+
+User: Thanks for the overview! Could you provide some references where I can learn more about these skills?
+
+Tim: Of course! For programming languages, I recommend "Programming Language Pragmatics" by Michael L. Scott. "Design Patterns: Elements of Reusable Object-Oriented Software" by the Gang of Four is a classic read for software design patterns. For cloud computing, "Cloud Native Infrastructure: Patterns for Scalable Infrastructure and Applications in a Dynamic Environment" by Justin Garrison and Kris Nova is a great resource. As for soft skills, "The Five Dysfunctions of a Team" by Patrick Lencioni is an essential read for anyone looking to improve their leadership abilities. "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler is also a must-read for effective communication. Finally, for Agile methodologies, I recommend "Agile Estimating and Planning" by Mike Cohn and "Coaching Agile Teams" by Lyssa Adkins.
+
+User: Thanks, Tim! What about certifications? Are there any that would demonstrate competence as a Tech Lead?
+
+Tim: While certifications are great for demonstrating proficiency in certain technical areas, they may not necessarily demonstrate competence as a Tech Lead. However, the Certified ScrumMaster (CSM) certification and the Project Management Professional (PMP) certification are both widely recognized in the software industry and could be helpful in showcasing your experience with Agile methodologies and project management, respectively.
+
+User: Okay, that makes sense. One more question - how can I continue improving my skills as a Tech Lead after I become competent?
+
+Tim: Continuous learning is key for staying relevant in any profession. Some ways you can continue improving your skills as a Tech Lead include attending conferences and meetups, participating in online communities, reading blogs and articles on emerging technologies and best practices, and networking with other professionals in your industry. You could also consider pursuing additional certifications or even a Master's degree in computer science, business administration, or a related field. Never stop learning!

@@ -1,0 +1,34 @@
+User: Hi Tim, I'm interested in advancing my competency in IoT as a Business Systems Analyst. Can you tell me what skills, attributes, practices, and Areas of knowledge I should focus on to reach the Emergent level in this area?
+
+Tim: Hi there! It's great to see your curiosity and eagerness to learn. To be at the Emergent level in IoT as a Business Systems Analyst, you will need to possess various competencies.  
+
+Firstly, it is essential to have a strong foundation in computer science, programming, database management, and network infrastructure. A Business Systems Analyst needs to have the capability to design and develop software systems and experience in scripting languages like Python and Java.
+
+Abilities in cloud platform management, data analytics, and machine learning are additional competencies that are crucial in IoT. These skills allow you to interpret data from sensors and other devices and give insights that are essential for making business decisions.
+
+Additionally, skills in project management, leadership, and collaboration are very important as you will work with several teams such as software engineers, hardware engineers, and network administrators.
+
+You should also be familiar with general business practices and understand the ethical implications embedded in IoT applications.
+
+User: Thank you, Tim. Could you tell me more about areas of knowledge I should focus on to reach the Emergent level in IoT as a Business Systems Analyst?
+
+Tim: Sure thing! To be competent in IoT, you need to keep up to date with emerging trends, software, and hardware technologies that are related to IoT. 
+The areas of knowledge that you need to understand include data science, security, compliance, and privacy.
+ 
+You should also have an understanding of some IoT protocols like MQTT, CoAP, and HTTP as well as their implementations. Learning communication network systems like 5G will also be of great help.
+
+I would recommend you check out IoT research papers or IoT-focused magazines like IoTForAll, IoT World Today, and IoT Now to stay updated with the latest trends and technologies in the field. 
+
+User: Thank you, Tim, for the detailed explanation. Could you provide some academic references that could support further learning in these areas?
+
+Tim: Absolutely, here are a few references that can help you kickstart your learning journey:
+
+- "IoT: a survey of techniques, operating systems, and trends" by M. Varghese and M. K. Antony, which provides an extensive overview of technologies and techniques used in IoT.
+ 
+- "IoT infrastructure: A review" by V. Jayasankar et al. that details various infrastructure elements needed for an IoT system.
+
+- "Securing IoT: Current State, Key Challenges, and Future Trends" by S. Ruj et al. explores security issues in IoT systems and points out the challenges and emerging trends.
+
+- "The Ethical Impact of IoT on Business and Beyond" by M. Frisina discusses the ethical implications of using IoT for business applications.
+
+These references should give you a solid starting point for advancing your knowledge and skillset in IoT as a Business Systems Analyst.

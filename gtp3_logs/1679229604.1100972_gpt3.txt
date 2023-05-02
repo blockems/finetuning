@@ -1,0 +1,46 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Internet of Things (IoT) for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am a Scrum Master who is looking to develop my skills to be at the Emergent level for the competency of Internet of Things (IoT). Can you tell me what skills, attributes, and practices would be needed for this level?
+
+Tim: Hi there, great to hear that you are interested in developing your skills for IoT competency. Here are some key skills, attributes, and practices that you should focus on:
+
+Skills:
+1. Understanding of various IoT devices and platforms
+2. Familiarity with cloud computing and data management systems
+3. Knowledge of machine learning and artificial intelligence.
+
+Attributes:
+1. Innovation
+2. Analytical Thinking
+3. Adaptability
+
+Practices:
+1. Agile methodology
+2. Continuous learning and improvement
+3. Customer focus
+
+Would you like me to elaborate on any of these?
+
+User: Yes, thanks for the information. Can you provide examples of how these skills, attributes, and practices would be applied in an IoT project?
+
+Tim: Sure! Let's start with the skill of understanding various IoT devices and platforms. For example, a Scrum Master with this skill could be able to identify which devices or platforms would be most appropriate based on the project requirements or constraints. This would help ensure that the project is efficient and effective.
+
+As for the attributes of Innovation and Adaptability, these are crucial for IoT projects as they require creative problem solving and flexibility. These attributes can be applied in various scenarios, such as finding new ways to integrate IoT devices or adapting to changes in the project requirements.
+
+Lastly, the practice of Agile methodology can help facilitate collaboration, flexibility, and customer focus. This can be particularly important in IoT projects as they often involve multiple teams and stakeholders.
+
+To support these ideas, I recommend reading the following articles:
+
+1. "IoT: Key Skills You Need to Build a Successful Team" by Alex Radu (https://www.cio.com/article/2382928/internet-of-things-skills-you-need-for-building-a-successful-team.html)
+2. "How Adaptability and Technological Innovation are Driving IoT Forward" by Heather Landi (https://www.fiercehealthcare.com/sponsored/how-adaptability-and-technological-innovation-are-driving-iot-forward)
+3. "Agile Project Management and the Internet of Things" by Dr. Salim Haddad (https://www.insidebigdata.com/2017/12/01/agile-project-management-internet-things/) 
+
+Do these references help?

@@ -1,0 +1,46 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Leadership for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management is a modern approach to project management that seeks to deliver projects incrementally and iteratively in response to changing customer needs and requirements. Agile project managers are responsible for leading teams of developers, designers, and other stakeholders in the successful delivery of agile projects. To be an effective lead for the competency of leadership for an agile project manager, one must possess a range of skills, practices, and areas of knowledge. 
+
+Skills:
+
+Leadership skills are critical for an agile project manager. They must have strong communication, negotiation, and conflict resolution skills to manage team dynamics effectively. They should also have strategic thinking, problem-solving, and decision-making expertise to guide the team towards achieving project objectives. 
+
+Collaboration skills are essential too. Agile project managers must be able to work collaboratively with cross-functional teams to build consensus and develop innovative solutions. They should also foster a culture of continuous improvement where individuals are encouraged to learn and grow.
+
+Organizational skills are also crucial for the agile project manager to lead the team effectively. They must prioritize tasks, manage resources, and ensure that project goals are met within the specified timeline and budget.
+
+Practices:
+
+Agile project management relies on several practices to deliver projects effectively. These practices include:
+
+1. Agile project management methodologies, such as Scrum, Lean, and Kanban
+2. Agile project planning, including release planning, backlog grooming, and sprint planning
+3. Daily stand-up meetings to allow team members to share updates and plan their work for the day
+4. Continuous integration and testing to ensure that software is always in a releasable state
+5. Sprint reviews and retrospectives to evaluate project progress and identify areas for improvement.
+
+Areas of knowledge:
+
+Agile project managers must have knowledge in several areas, including:
+
+1. Agile project management methodologies and frameworks, including Scrum, Kanban, and Lean
+2. Agile project planning and estimation
+3. Agile software development practices, such as continuous integration and testing
+4. Requirements gathering and management
+5. Risk management and mitigation
+6. Change management
+7. Team dynamics and communication
+8. Leadership and organizational behavior.
+
+References:
+
+1. Agile Alliance. (n.d.). Agile project management. https://www.agilealliance.org/agile101/agile-project-management/
+
+2. Agile Manifesto. (n.d.). Agile principles. https://agilemanifesto.org/principles.html
+
+3. Project Management Institute. (2017). Agile Practice Guide. https://www.pmi.org/-/media/pmi/documents/public/pdf/standards/agile-practice-guide-2017.pdf

@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Collaboration for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Program Leads are responsible for managing multiple teams and stakeholders in an Agile environment to ensure successful collaboration, delivery of high-quality products, and meeting business objectives. To be effective as a Lead for the competency collaboration, an Agile Program Lead must possess a range of skills, practices, and areas of knowledge.
+
+One critical skill that an Agile Program Lead must have is effective communication. They need to be able to communicate complex information in a way that everyone can understand, manage stakeholder expectations, and facilitate agreement among team members effectively. A study conducted by McKinsey & Company showed that effective communication leads to a 25% increase in productivity as it reduces errors that could have to lead to re-works and communication of intentions helps the teams feel more connected leading to better focus and higher moral among the team members (Kaplan &Mikes,2012).
+
+Another crucial skill is conflict resolution, which involves identifying and addressing conflicts and working towards consensus. Agile Program Leads must focus on resolving conflicts as soon as they arise to avoid disruptions in the development process, and this should be done at the team level to ensure the affected parties come to a mutual understanding. Effective conflict resolution usually involves empathy and an open mind, and Agile Program Leads should be aware of these. Focusing on empathy and being objective may help program leads to reduce groupthink, a kind of bias that occurs when team members stand behind an idea following established norms that may not be changing when new information arises (Hendricks & Singhal,2018).
+
+Practices such as Agile Coaching, Stakeholder management, and Facilitation are also critical skills for Agile Program Leads. Agile Coaching enables them to develop an understanding of Agile methodologies and support the teams with Agile practices. Stakeholder management involves identifying and engaging with stakeholders and facilitating their collaboration with the project. It focuses on keeping the stakeholders aligned with the goals of the project and managing their expectations. Facilitation, on the other hand, emphasizes enabling the smooth flow of communication among team members and removing any impediments that negatively affect collaboration. A report by the Project Management Institute (2019) states that coaches can help programs teams navigate complex projects by facilitating open communication channels, encouraging innovation and nurturing an Agile culture.
+
+Finally, Areas of knowledge like Agile Frameworks, Agile Methodologies, team dynamics, and conflict management techniques are crucial in guiding Agile Program Leads to successfully establish collaborative teams. Knowledge of Agile methodologies, such as Scrum, Kanban, and Lean, helps Agile Program Leads in tailoring project management techniques that are suitable for each team. Team dynamics involve understanding how different personalities interact and addressing any issues that could hinder productivity, cohesion and identifying ways to boost trust and the diversity of the team (Hackman, 2012).
+
+In conclusion, for relatively small Agile programs, the Agile Program Lead's collaboration competence is essential for guiding the program to success. The Agile Program Lead must have effective communication, conflict resolution, Agile Coaching, Stakeholder management, Facilitation Skills, and knowledge of Agile Frameworks, Agile Methodologies, Conflict management techniques and team dynamics. These skills, practices, and areas of knowledge enable Agile Program Lead to establish teams that can collaborate effectively, achieve business objectives within the set timelines and budgets. 
+
+References
+- Hackman, R. J. (2012). Making teams work. Washington, DC: Brookings Institution Press.
+- Hendricks, S., & Singhal, A. (2018). The biases that punish racial minority groups in team collaborations, and what to do about it. Academy of Management Perspectives, 32(4), 461-476.
+- Kaplan, R. S., & Mikes, A. (2012). How to solve the cost crisis in health care. Harvard Business Review, 90(9), 46-52.
+- Project Management Institute. (2019). PMI’s pulse of the profession® in-depth report. 1-28.

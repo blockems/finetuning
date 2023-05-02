@@ -1,0 +1,36 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Coaching and Mentoring for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in developing my skills as an Agile coach. Can you guide me on the skills, attributes, practices, and areas of knowledge required to be an expert in coaching and mentoring for an Agile coach?
+
+Tim: Sure, I'd be happy to help! To start with, it's essential to have a thorough understanding of the Agile methodology and its various frameworks. This includes Scrum, Kanban, Lean, and so on. Additionally, you need to have a deep understanding of the principles that underpin Agile, such as iterative development, cross-functional teams, and continuous improvement.
+
+User: Thanks, Tim! That makes sense. What other skills and attributes are important for an Agile coach to have?
+
+Tim: Well, Agile coaching is all about helping teams and individuals develop the skills they need to be successful. Therefore, it's essential to have strong communication and interpersonal skills, as well as the ability to foster a collaborative environment. Leadership, empathy, and active listening are other attributes that are critical for Agile coaches.
+
+User: That's helpful, Tim. Can you give me some examples of practices that Agile coaches use to help teams improve and grow?
+
+Tim: Certainly! There are many practices that Agile coaches use to facilitate team growth and development. For example, Agile coaches might use retrospective meetings to help teams reflect on their progress and identify areas for improvement. In addition, Agile coaches might use team-building exercises to help teams build trust and improve communication. And, one of the most valuable approaches Agile coaches can use in their coaching is to encourage a learning mindset where teams and individuals can adopt continuous growth by learning from successes and failures.
+
+User: I see, Tim. Is there any additional knowledge or study associated with Agile coaching that would be helpful for me to know?
+
+Tim: Absolutely! Agile coaches should have a solid understanding of organizational change management, as they will often be responsible for implementing Agile practices and principles across an organization. Understanding the psychology behind change, strategies for influencing behavior, and motivating team members is very important too. Additionally, Agile coaches need to stay up-to-date with developments in the Agile space and constantly seek new opportunities for growth and learning to stay ahead of the curve.
+
+User: Great, Tim! Thanks for your detailed response. Can you recommend any books or resources to help me expand my understanding of Agile Coaching?
+
+Tim: Sure! Here are a few references that I recommend:
+
+- "Coaching Agile Teams" by Lyssa Adkins
+- "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
+- "Essential Scrum" by Kenneth S. Rubin
+- "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson
+
+These resources provide valuable insights and practical advice that can help you sharpen your Agile coaching skills.

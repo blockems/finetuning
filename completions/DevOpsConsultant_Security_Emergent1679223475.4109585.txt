@@ -1,0 +1,19 @@
+User: Hello Tim! I'm trying to improve my skills in Security as a DevOps Consultant. What skills, attributes, practices and Areas of knowledge do I need to reach the Emergent level in this competency? 
+
+Tim: Hi there! Great to hear that you're looking to improve your skills in Security as a DevOps Consultant. To reach the Emergent level in this competency, you should first have a deep understanding of the various types of security risks and threats that exist in the modern technology landscape. You should also be familiar with industry standards and best practices, as well as relevant policies and regulations.
+
+User: That sounds reasonable. Can you give me an example of a specific risk or threat that I should be familiar with, and some industry standards or regulations that are relevant?
+
+Tim: Sure, one specific risk that you should be familiar with is SQL injection attacks, which can allow malicious attackers to access and manipulate sensitive data within a database. Industry standards and best practices that can help prevent SQL injection attacks include the use of parameterized queries and prepared statements, as well as input sanitization and validation. Relevant policies and regulations include the General Data Protection Regulation (GDPR) and the Payment Card Industry Data Security Standard (PCI DSS).
+
+User: Thanks for that explanation, Tim. What other skills or attributes should I develop to reach the Emergent level in Security as a DevOps Consultant?
+
+Tim: In addition to technical knowledge, it's also important to have strong communication and collaboration skills. As a DevOps Consultant, you'll be working with various stakeholders across different teams, and you'll need to be able to effectively communicate security risks and mitigation strategies to both technical and non-technical audiences. You should also be able to collaborate with different teams and departments to implement security measures in a coordinated and effective manner.
+
+User: That makes sense. Can you recommend any resources or references that I can use to learn more about Security in the DevOps context?
+
+Tim: Certainly! One great resource is the book "DevOps and Security" by Jim Bird, which provides a comprehensive overview of various security practices and principles in the context of DevOps. Another excellent resource is the "Securing DevOps" online course offered by the SANS Institute, which covers various topics such as secure software development, infrastructure security, and incident response. There are also many industry conferences and workshops focused on DevOps and Security, such as the DevOps Enterprise Summit and the RSA Conference.
+
+User: Thanks, Tim! I'll definitely check those out. Do you have any final advice for me as I work to reach the Emergent level in this competency?
+
+Tim: My final piece of advice would be to maintain a continuous learning mindset and to never stop asking questions. As a DevOps Consultant, you'll need to stay up-to-date on the latest security trends, technologies, and best practices, and you'll need to constantly adapt your approach as new threats arise. So, never stop learning, and always remain curious and open-minded!

@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emerging for the competency Software Development Lifecycle (SDLC) for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hey Tim! I'm curious about what it takes to be at the Emerging level for the competency SDLC as a Scrum Master. Can you enlighten me?
+
+Tim: Hi there! Sure, I'd be happy to help. To be at the Emerging level for the SDLC competency as a Scrum Master, one must have a thorough understanding of software development lifecycle phases.
+
+User: Can you give me an example of some of the skills and practices that an Emerging level Scrum Master for the SDLC competency should have?
+
+Tim: Some of the skills and practices that an Emerging level Scrum Master for the SDLC competency should possess could include proficiency in agile methodologies, facilitation skills to encourage collaboration, strong communication skills, and the ability to identify potential roadblocks in the development process and determine possible solutions. Additionally, they should possess technical know-how to understand and navigate software development processes and tools.
+
+User: That makes sense. What kind of attributes should one have to excel as an Emerging level Scrum Master for the SDLC competency?
+
+Tim: Excellent communication, persuasion, networking, and organization are some of the key attributes required for a Scrum Master. In addition to those, an Emerging level Scrum Master must have the ability to connect the team's work with business goals, drive continuous improvement and act as a servant-leader to the team. 
+
+User: So, knowledge of both the technical side of software development and the business context are important?
+
+Tim: Correct! A Scrum Master who can balance and integrate the technical aspects, team dynamics and business context can effectively optimize the value delivered by the team.
+
+User: I see. Thanks for sharing that with me. Do you have any references or recommended readings on this topic?
+
+Tim:  Absolutely. Some great resources for learning more about the Scrum Master role and the Software development lifecycle include the "Scrum Guide" by Jeff Sutherland and Ken Schwaber, "Agile Estimating and Planning" by Mike Cohn and "Lean Software Development" by Mary and Tom Poppendieck.

@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Modelling for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I was wondering if you can help me understand what skills, attributes, practices and areas of knowledge are required to be at the Emergent level of competency for Data Modelling as a Solutions Designer.
+
+Tim: Hi there! Thanks for reaching out. That's a great question. In order to be at the Emergent level of competency for Data Modelling, there are a few skills, attributes, practices, and areas of knowledge you should focus on. Let's explore them one by one.
+
+User: That sounds great. Can you explain what skills are required?
+
+Tim: Sure. You need to have a strong foundation in mathematics, especially in areas like Set Theory, Statistics, and Linear Algebra. You should also be skilled in programming languages like SQL, R, and Python. Additionally, you must have a good understanding of data structures and algorithms, as well as the ability to visualize complex data models.
+
+User: Thanks for that Tim. What about attributes?
+
+Tim: Some of the key attributes needed for Data Modelling include attention to detail, problem-solving skills, and analytical thinking. You also need to be able to work collaboratively with others, as Data Modelling often requires input from multiple team members. Lastly, you should be able to communicate complex data models in a way that is easy to understand for anyone across the organization.
+
+User: That all makes sense. What about practices?
+
+Tim: The best practices for Data Modelling include using proper naming conventions, defining relationships, and documenting the data model. You should also be able to manage the data model through version control, and be able to validate the data model before implementing it. Furthermore, you should practice Continuous Integration and Continuous Delivery, which will help ensure data models are thoroughly tested and reliable.
+
+User: Great, that brings us to our last area of discussion - areas of knowledge.
+
+Tim: Excellent. You should be familiar with the various types of databases such as relational databases, document databases, and graph databases. You should also be knowledgeable in data warehousing techniques, database design, and development concepts. Additionally, you should know about data quality and its importance, how to use tools like Entity Relationship Diagrams and Object-Relational Mapping, and able to implement appropriate indexing strategies.
+
+User: That was really insightful, Tim. Thank you so much for your help. Are there any resources you recommend to further explore these skills and knowledge areas?
+
+Tim: Sure thing. I would recommend "Fundamentals of Database Systems" by Ramez Elmasri and Shamkant B. Navathe as a good starting point for database design concepts. Also, "Agile Data Warehousing for the Enterprise" by Ralph Hughes is a great resource for learning about data warehousing techniques. Lastly, the book "Data Modeling Made Simple: A Practical Guide for Business and IT Professionals" by Steve Hoberman is a great resource for practical data modelling techniques.
+
+User: Thank you, Tim. I really appreciate your guidance.
+
+Tim: You're welcome. Don't hesitate to reach out if you have any further questions. Keep up the curiosity!

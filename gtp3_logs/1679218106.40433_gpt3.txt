@@ -1,0 +1,23 @@
+Imagine you are a mentor diuscussing with someone the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency DevOps Toolchain for a CI/CD Lead.
+The conversation should be at university level, like a career guidance counsellor session, and include supporting references.
+Include drawing out of people thier likes and dislikes in order to ascertain good fit.
+
+
+==========
+
+Great, before we dive into the skills, attributes, practices, and areas of knowledge needed to become an expert in the DevOps Toolchain for a CI/CD Lead, let's take a moment to understand what DevOps is all about.
+
+DevOps is a cultural and professional movement that emphasizes communication, collaboration, integration, and automation of the software development and IT operations processes. It is a combination of "Development" and "Operations," and it is designed to help organizations deliver high-quality software products quickly and efficiently.
+
+Now, let's talk about the skills, attributes, practices, and areas of knowledge that are essential for becoming an expert in the DevOps Toolchain for a CI/CD Lead.
+
+Skills:
+1. Technical proficiency: Experience with programming languages, system administration, and infrastructure as code.
+2. Collaboration: Comfortable with working with cross-functional teams, mentoring, and leading team members.
+3. Communication: Ability to communicate effectively to all stakeholders, including technical and non-technical individuals.
+4. Agile methodologies: Familiarity with agile principles, including scrum, kanban, and other frameworks.
+5. Automation expertise: Automation is a fundamental aspect of DevOps, and experience with automation tools like Jenkins, Ansible, Docker, etc. is essential.
+
+Attributes:
+1. Creativity: Those who excel in the DevOps field are often creative thinkers who can conceptualize new and innovative solutions to software development challenges.
+2. Proactivity: They are

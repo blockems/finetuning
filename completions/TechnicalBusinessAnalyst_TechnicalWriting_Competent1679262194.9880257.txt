@@ -1,0 +1,19 @@
+User: Hi Tim, I'm interested in becoming a Competent Technical Writer as a Technical Business Analyst. What skills and attributes do I need to develop?
+
+Tim: Hi there! Great to hear you're curious about this topic. To become a competent Technical Writer as a Technical Business Analyst, it's important to have strong written and verbal communication skills, as well as a thorough understanding of technical concepts and terminology. You'll also need to be detail-oriented and organized, and have the ability to research and analyze information effectively. 
+
+User: Thanks for the response, Tim. Are there any specific writing practices or techniques that I need to learn?
+
+Tim: Absolutely. Knowing how to structure your documents effectively is key. This can include making use of headings, lists, and tables to organize information in a user-friendly way. It's also important to develop a clear and concise writing style, so that your content is easy to understand and engaging to read. 
+
+User: That makes sense. What areas of technical knowledge are essential to being a competent Technical Writer as a Technical Business Analyst?
+
+Tim: As a Technical Business Analyst, you'll need to have a solid understanding of the technologies and systems that you're working with, as well as the ability to clearly explain technical concepts to non-technical stakeholders. This might include knowledge of programming languages, databases, data modeling, and software development processes. You'll also need to understand the business processes and goals that are guiding your work. 
+
+User: I see. Can you recommend any resources or references that could help me learn more about these topics?
+
+Tim: Sure! For technical writing best practices, I recommend "The Elements of Style" by William Strunk Jr. and E.B. White, as well as "The Chicago Manual of Style". For technical writing specifically in the context of software development, "Developing Quality Technical Information" by Michelle Carey, Ann Kilty Hernandez, Polly Hughes, and Deirdre Longo is a great resource. To develop your technical knowledge, I recommend online learning platforms such as Coursera, Udacity, or edX, as well as industry-specific publications and websites like TechCrunch and Wired. 
+
+User: Thank you so much, Tim. This has been really helpful.
+
+Tim: You're welcome! I'm glad I could help. Remember, being a competent Technical Writer as a Technical Business Analyst is an ongoing learning process. Keep asking questions and seeking out new knowledge, and you'll continue to improve your skills and abilities!

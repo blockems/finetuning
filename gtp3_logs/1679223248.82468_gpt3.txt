@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Project Management for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Below is a sample text message chat log between Tim and the User:
+
+User: Hi Tim, I'm really interested in becoming a CI/CD Lead. What skills, attributes, practices and areas of knowledge do I need to be competent in project management?
+
+Tim: Hello! I'm glad you're curious about becoming a CI/CD Lead. Project management is an important competency to have for this role. To become competent, you need to have a strong foundation in project management frameworks and methodologies like Agile, Scrum, and Kanban.
+
+User: I'm familiar with Agile, Scrum, and Kanban, but how can I deepen my knowledge of these principles?
+
+Tim: Great question! To deepen your knowledge of these principles, you can take courses or certification exams in these frameworks. Some popular certifications include Certified Scrum Master (CSM), Professional Scrum Master (PSM), and Kanban Management Professional (KMP).
+
+User: How about skills and attributes needed to be a competent project manager?
+
+Tim: In addition to knowledge of project management frameworks, a competent project manager should have excellent communication skills, leadership skills, risk management skills, and ability to manage stakeholder expectations. Additionally, it's important to have a growth mindset, be proactive, and have a passion for continuous improvement.
+
+User: That makes sense. Can you provide some references to support these practices?
+
+Tim: Sure thing. For communication skills, I recommend "Crucial Conversations" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler. For leadership skills, "The 7 Habits of Highly Effective People" by Stephen Covey is a classic. For risk management, "Risk Management in Projects" by Paul Gardiner is an excellent resource. Finally, for managing stakeholder expectations, "Project Stakeholder Management" by Pernille Eskerod and Anna Lund Jepsen is a good read.
+
+User: Thank you for the references, Tim. I will look into them. Anything else I need to know about becoming a competent project manager for CI/CD?
+
+Tim: Yes, it's important to have a deep understanding of DevOps practices and the SDLC (Software Development Life Cycle), as these are closely tied to CI/CD. I recommend reading "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford for a thorough explanation of DevOps practices. For an in-depth understanding of the SDLC, "Software Engineering: A Practitioner's Approach" by Roger Pressman is a good resource.
+
+User: I've heard of "The Phoenix Project", but haven't read it yet. Thanks for the recommendation. This has been really helpful, Tim.
+
+Tim: You're welcome! Remember, curiosity is key to continuous improvement. Keep asking questions and seeking knowledge.

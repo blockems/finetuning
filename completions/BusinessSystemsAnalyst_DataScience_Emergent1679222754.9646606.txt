@@ -1,0 +1,24 @@
+Here is an example of the chat log:
+
+User: Hi Tim, I'm looking to develop my skills and knowledge in data science as a business systems analyst. Can you help me understand what it means to be at the Emergent level for this competency?
+
+Tim: Of course! At the Emergent level for Data Science in a Business Systems Analyst role, you should be able to identify relevant data sources, apply basic descriptive statistics, and understand basic data visualization techniques. You should also understand the principles of machine learning and be able to identify appropriate algorithms for a given problem.
+
+User: That's helpful, thanks! What kind of skills and attributes should I develop to reach the Emergent level?
+
+Tim: Some important skills for data science in this context include: proficiency in using relevant software and programming languages, such as Python or R, as well as a good understanding of statistical concepts and machine learning algorithms. Additionally, strong analytical and problem-solving skills, as well as an ability to work with large datasets, are important attributes to develop.
+
+User: I see. Are there any particular practices I should follow to advance my knowledge in data science?
+
+Tim: Yes, there are several best practices you can follow to advance your knowledge in data science. This includes staying up-to-date with the latest research and trends in the field, participating in online courses or MOOCs, contributing to data science communities or online forums, and working on real-life data science projects.
+
+User: Those are great suggestions. Can you recommend any references or resources for me to learn more about data science in a business systems analyst role?
+
+Tim: Absolutely. Some key references and resources I recommend for this subject include:
+- "Python for Data Analysis" by Wes McKinney
+- "R for Data Science" by Hadley Wickham and Garrett Grolemund
+- "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" by Foster Provost and Tom Fawcett
+- "Machine Learning Mastery" blog by Jason Brownlee
+- "Towards Data Science" blog and community on Medium
+
+Do you have any other questions or concerns, User?

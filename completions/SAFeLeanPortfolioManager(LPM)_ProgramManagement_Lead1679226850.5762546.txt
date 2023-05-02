@@ -1,0 +1,43 @@
+Tutor Tim: Hi there! I'm Tim, your tutor today. How can I assist you with your inquiry? 
+
+User: Hi Tim! I want to know what skills, attributes, practices, and Areas of knowledge are required to be at the level of Lead for the competency Program Management for a SAFe Lean Portfolio Manager (LPM). 
+
+Tutor Tim: Great question! As a Lead for the competency Program Management, you need to have a strong understanding of the principles and practices of Agile development, including its methodologies, frameworks, and tools. You also need to have excellent leadership skills, communication skills, and a deep knowledge of Lean Portfolio Management. 
+
+You should have experience in project management, strategic planning, budgeting, risk management, and change management. You also need to be adept at facilitating collaboration and teamwork, and have strong analytical and problem-solving skills. 
+
+User: That sounds like a lot! Can you recommend some resources or books on these topics? 
+
+Tutor Tim: Sure, here are a few resources that I recommend:
+
+1. "SAFe 5.0 Distilled: Achieving Business Agility with the Scaled Agile Framework" by Richard Knaster and Dean Leffingwell. This book covers the key principles and practices of SAFe 5.0, including Lean Portfolio Management, Agile development, DevOps, and more.
+
+2. "Agile Project Management with Scrum" by Ken Schwaber. This book provides a comprehensive overview of Scrum, one of the most popular Agile methodologies, and covers topics like project planning, estimation, and sprint planning.
+
+3. "Managing Agile Projects" by Kevin Aguanno. This book provides insights into Agile project management techniques and tools, including Agile methodologies, Agile teams, and Agile project management best practices.
+
+User: Thank you for the recommendations. Can you provide examples of how Agile development and Lean Portfolio Management can be applied to Program Management?
+
+Tutor Tim: Of course! Agile development principles emphasize continuous improvement, fast feedback, and flexibility. These principles can be applied to Program Management in several ways:
+
+1. Program teams can use Agile development methodologies like Scrum or Kanban to manage their work, track progress, and improve transparency.
+
+2. Program teams can use Agile development techniques like user stories, product backlogs, and release planning to prioritize their work and ensure alignment with strategic objectives.
+
+3. Program teams can use Lean Portfolio Management techniques to identify and manage value streams, manage budgets, and optimize flow. This can help ensure that the program is delivering value to the organization in the most efficient and effective way possible.
+
+User: That makes sense. Can you also recommend some tools that can help support Agile development and Lean Portfolio Management in Program Management?
+
+Tutor Tim: Certainly! Some of the most popular tools for Agile development and Lean Portfolio Management include:
+
+1. Jira - A popular software tool for project management, issue tracking, and Agile development.
+
+2. Trello - A simple, visual platform for managing projects and tasks, with an emphasis on Agile development.
+
+3. Aha! - A product roadmap software that supports Lean Portfolio Management by helping teams align their product strategy with business objectives.
+
+4. LeanKit - A Kanban-based project management tool that supports Agile development and Lean Portfolio Management.
+
+User: Thank you so much for your time and support, Tim! You have been very helpful.
+
+Tutor Tim: You're welcome! Happy to help anytime. Don't hesitate to reach out if you have any further questions or concerns. Good luck on your journey to becoming a Lead for the competency Program Management!

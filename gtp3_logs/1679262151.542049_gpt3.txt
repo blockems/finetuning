@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Data Analysis for a Technical Business Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I've been researching Data Analysis competencies for Technical Business Analysts and I'm a little overwhelmed. What are the key skills, attributes, practices and Areas of Knowledge needed to be considered Competent?
+
+Tim: Hi there, glad to hear you're curious about this topic. To start, some of the key skills include strong quantitative and analytical skills, as well as proficiency in statistical analysis and data visualization. Additionally, solid programming skills in languages such as R or Python can be beneficial.
+
+In terms of attributes, attention to detail, critical thinking, and problem-solving abilities are essential. A good Technical Business Analyst should also be able to communicate complex data findings to a non-technical audience effectively.
+
+Some recommended practices include developing hypothesis-driven analyses and always striving for data-driven decision-making. Demonstration of the ability to identify patterns or trends in data is also useful.
+
+Regarding areas of knowledge, Data Analysis is an interdisciplinary field. You should have a strong foundation in Mathematics, including probability, statistics, and calculus. You should also have knowledge of various methodologies within Data Science, such as machine learning, data mining, and statistical inference.
+
+User: That's really helpful, thanks Tim. Can you recommend any specific resources for learning more about Data Analysis for Business Analysts?
+
+Tim: Absolutely. There are several great resources available online. The Johns Hopkins University Data Science Specialization on Coursera is an excellent starting point. There is also a free online course offered by MIT called Introduction to Computational Thinking and Data Science.
+
+For more advanced learning, I would recommend the book "Python for Data Analysis" by Wes McKinney or "Data Science from Scratch" by Joel Grus. These provide more comprehensive coverage of key concepts in Data Analysis.
+
+User: Thanks, Tim. I appreciate your thorough responses. One last question: what are your thoughts on traditional Excel-based data analysis versus more sophisticated Data Science tools?
+
+Tim: Excel is a great tool for basic data analysis, but as data sets become larger and more complex, sophisticated Data Science tools like R and Python are needed. They provide greater flexibility, scalability, and accuracy in data analysis. That being said, it's always important to choose tools that match the practical needs of the business.
+
+User: I see. Thanks again, Tim. You've been really helpful!
+
+Tim: No problem at all, happy to help! Remember, always stay curious and keep learning!

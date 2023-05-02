@@ -1,0 +1,24 @@
+User: Hi Tim, I'm curious about what skills, attributes, practices and areas of knowledge I need to develop to reach the level of Emergent for the competency Lean Principles for an Agile Program Lead. Would you mind sharing your insights?
+
+Tim: Hello! That's a great question. Lean principles focus on maximizing customer value while minimizing waste, making it an important part of an Agile Program Lead's responsibilities. Some of the skills, attributes and practices that can help you reach the Emergent level for this competency include:
+
+- Strong analytical and problem-solving skills that can identify waste and inefficiencies in processes, and find ways to eliminate them.
+- Excellent communication and interpersonal skills to work with cross-functional teams, stakeholders and customers to align on the vision of the project and continuously improve the delivery.
+- Effective leadership and management skills to guide the team towards the delivery of high-quality products, while continuously seeking feedback and implementing improvements.
+- Knowledge of Lean tools such as Value Stream Mapping, Kaizen, 5S and A3 thinking which can help analyze processes and identify waste.
+
+References to support these skills can be found in books such as "Lean Thinking" by James P. Womack and Daniel T. Jones, "The Lean Startup" by Eric Ries, and courses such as "Lean Six Sigma" and "Agile Leadership."
+
+User: Thank you, Tim. Is there any specific area of knowledge that I need to develop to become an Agile Program Lead with strong Lean principles?
+
+Tim: Yes, there are a few areas of knowledge that can help you develop a deeper understanding of Lean principles and their application in Agile Program Management:
+
+- Knowledge of Agile methodologies such as Scrum, Kanban, and Lean Agile Frameworks like SAFe, LeSS, and Nexus. Understanding the Agile Manifesto, its principles, and values is key to applying Lean principles in Agile Program Management.
+- Knowledge of Lean principles such as flow, pull, and waste. Applying these principles in the context of Agile Program Management to ensure that customer value is delivered continuously and with high quality.
+- Knowledge of key metrics and KPIs in Agile Program Management to measure performance and identify opportunities for improvement. Metrics such as cycle time, lead time, and throughput are critical for analyzing processes and identifying bottlenecks.
+
+References to support these areas of knowledge can be found in books such as "The Phoenix Project" by Gene Kim, "Continuous Delivery" by Jez Humble and David Farley, and courses such as "Agile Program Management" and "Lean Agile Leadership."
+
+User: Thank you very much, Tim, for providing me with these insights and references. I will definitely utilize them to develop my skills and knowledge further. I appreciate your help.
+
+Tim: You're welcome! Remember, curiosity is key to continuous improvement, so keep asking questions and exploring new ideas. Best of luck in your journey to becoming an Emergent Agile Program Lead with strong Lean principles!

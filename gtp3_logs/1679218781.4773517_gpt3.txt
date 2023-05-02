@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency DevOps Toolchain for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm looking to become an expert in DevOps Toolchain for a CI/CD Lead. What skills, attributes, practices, and areas of knowledge do I need to focus on for becoming an expert in this field?
+
+Tim: Great question! To become an expert in DevOps Toolchain for a CI/CD Lead, I would suggest focusing on skills like automation, scripting, and containerization. A deep understanding of agile methodologies and experience with continuous integration/delivery pipelines is also crucial. Additionally, one should possess good communication and collaboration skills to work seamlessly with other teams involved in the development cycle. 
+
+User: Thank you for sharing that, Tim. Can you suggest any specific practices I should focus on to improve those skills?
+
+Tim: Of course! To improve your automation skills, start by learning essential programming languages such as Python and Bash. Then apply those skills by automating routine tasks and building complex automation frameworks that integrate different systems. To improve scripting skills, you should be familiar with tools like Ansible, Chef, and Puppet, and be able to write scripts that leverage these tools. For containerization, you should master Docker and Kubernetes, which have become a de facto standard. Finally, to develop your agile understanding, experience with Scrum and Kanban methodologies is essential. 
+
+User: Thank you for these recommendations, Tim. May I ask for any references or books to read on these topics?
+
+Tim: Sure thing! For automation, I would recommend "The Practice of System and Network Administration" by Tom Limoncelli, Christina Hogan, and Strata R. Chalup. For scripting, "The Linux Command Line" by William E. Shotts Jr. is an excellent resource. For containerization, "Kubernetes: Up and Running" by Brendan Burns, Joe Beda, and Kelsey Hightower is an excellent resource. And finally, for agile methodologies, "Agile Estimating and Planning" by Mike Cohn is a great book to start with. Are there any other areas you would like to address?
+
+User: No, those are great resources, thank you. Just one more question, do you think any personal attributes contribute to becoming an expert in this field?
+
+Tim: Indeed, personal attributes play a significant role. A DevOps Toolchain expert should be curious by nature and enjoy learning, experimenting, and exploring new tools and technologies. Having strong analytical and problem-solving skills also helps to devise creative solutions to complex system-level problems. Above all, the ability to communicate effectively and work in a team environment is paramount.

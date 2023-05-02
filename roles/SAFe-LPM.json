@@ -1,0 +1,125 @@
+{
+    "Role": "SAFe Lean Portfolio Manager (LPM)",
+    "Description":"The role of a SAFe LPM is to support the development and implementation of a Lean-Agile portfolio management function within an organization. The SAFe LPM is responsible for overseeing the execution of strategic initiatives and ensuring alignment across the organization's various levels. They work with multiple stakeholders and teams to prioritize, plan, and deliver value to the organization's customers. The SAFe LPM also helps with the continuous improvement of the Lean-Agile portfolio management function, including the implementation of agile methodologies, and ensures that the program is in compliance with regulatory requirements.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile and SAFe Methodologies",
+                "SkillDescription": "Strong understanding of Agile and SAFe methodologies and experience in implementing and managing these practices at the enterprise level",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Portfolio Strategy and Investment Funding",
+                "SkillDescription": "Experience in developing and executing portfolio strategy and investment funding, and the ability to align portfolio investments with business objectives and priorities",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Lean Portfolio Operations",
+                "SkillDescription": "Experience in managing Lean Portfolio Operations, including the ability to prioritize and manage epics, and to manage the flow of value through the portfolio",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Stakeholder Engagement",
+                "SkillDescription": "Ability to engage with stakeholders and to build and maintain strong relationships with internal and external partners",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Problem Solving and Conflict Resolution",
+                "SkillDescription": "Ability to identify and solve problems, and to resolve conflicts within the portfolio and across the enterprise",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to identify areas for improvement and to facilitate continuous improvement at the portfolio and enterprise levels",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Certification",
+                "SkillDescription": "Certification in SAFe methodologies, such as SAFe Lean Portfolio Manager (LPM), SAFe Program Consultant (SPC), or SAFe Agilist (SA)",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Lean-Agile Leadership",
+                "SkillDescription": "Experience in Lean-Agile leadership, including the ability to drive organizational change and to build a Lean-Agile culture",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Understanding of business concepts and the ability to align portfolio investments with business objectives and priorities",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Financial Management",
+                "SkillDescription": "Understanding of financial management principles and techniques, and the ability to manage the financial aspects of portfolio operations and investments",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Technical Knowledge",
+                "SkillDescription": "Understanding of technical concepts and the ability to communicate effectively with technical team members and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and techniques, and the ability to identify and mitigate potential risks associated with portfolio investments and operations",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to the portfolio and the enterprise, and to use this information to improve portfolio performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "DevOps",
+                "SkillDescription": "Understanding of DevOps practices and their integration with portfolio operations and investments, and the ability to work effectively with DevOps teams",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Big Data",
+                "SkillDescription": "Understanding of Big Data technologies and the ability to apply portfolio management practices to Big Data projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Artificial Intelligence (AI)",
+                "SkillDescription": "Knowledge of artificial intelligence (AI) techniques and the ability to apply these techniques to improve portfolio performance and business outcomes",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Internet of Things (IoT)",
+                "SkillDescription": "Understanding of Internet of Things (IoT) technologies and the ability to apply portfolio management practices to IoT projects",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Understanding of User Experience (UX) design principles and the ability to work effectively with UX designers to improve the user experience of portfolio products and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Understanding of data science concepts and the ability to work effectively with data scientists to improve the data-driven decision-making of portfolio and enterprise",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Scaled Agile Framework (SAFe) Implementation",
+                "SkillDescription": "Experience in implementing SAFe at the enterprise level, and the ability to customize and tailor SAFe practices to the specific needs and context of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Vendor Management",
+                "SkillDescription": "Experience in managing vendors and external partners, and the ability to ensure that vendors and partners adhere to Agile and SAFe practices and standards",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Program Management",
+                "SkillDescription": "Understanding of program management principles and techniques, and the ability to manage large-scale programs and initiatives within the SAFe context",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Release Management",
+                "SkillDescription": "Understanding of release management principles and techniques, and the ability to manage the release of portfolio products and applications across multiple environments",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

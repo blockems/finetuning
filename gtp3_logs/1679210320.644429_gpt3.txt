@@ -1,0 +1,39 @@
+Role: Agile coach and Program Manager.
+Task: Break the skills, practices and Areas of knowledge needed to be at the Expert level for the competency of Agile Methodologies for a Agile Coach.
+Display the results in a JSON object, with the competency details in the root of the object, arays for skills, practices and knowledge.
+
+==========
+
+{
+  "competency": "Agile Methodologies for an Agile Coach",
+  "skills": [
+    "Facilitation",
+    "Coaching",
+    "Teaching",
+    "Change Management",
+    "Mentoring",
+    "Leadership",
+    "Collaboration"
+  ],
+  "practices": [
+    "Agile frameworks (Scrum, Kanban, XP, etc.)",
+    "Continuous Improvement",
+    "Agile Planning and Estimation",
+    "Agile Metrics",
+    "Visual Management",
+    "Agile Retrospectives",
+    "Agile Team Development"
+  ],
+  "knowledge": [
+    "Agile values and principles",
+    "Agile Manifesto",
+    "Agile ceremonies (standups, sprint reviews, grooming, etc.)",
+    "Agile roles (Product Owner, Scrum Master, etc.)",
+    "Agile frameworks (Scrum, Kanban, XP, etc.)",
+    "Agile practices and techniques (pair programming, TDD, etc.)",
+    "Agile scaling frameworks (SAFe, LeSS, etc.)",
+    "Agile transformation strategies",
+    "Lean and Lean-Agile practices",
+    "Organizational change management principles"
+  ]
+}

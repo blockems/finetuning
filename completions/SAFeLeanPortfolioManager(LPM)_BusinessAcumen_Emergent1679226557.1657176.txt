@@ -1,0 +1,19 @@
+User: Hi Tim, hope you are doing great. I have been reading about the SAFe Lean Portfolio Manager (LPM) and I am curious about the competency Business Acumen. Can you give me some insights on what skills, attributes, practices and Areas of knowledge are necessary to have an Emergent level of competency in this area?
+
+Tim: Hi, good to hear from you. The Emergent level of competency in Business Acumen for a SAFe Lean Portfolio Manager requires several skills, attributes, practices, and Areas of knowledge. Business Acumen is about the ability to understand and manage the financial and economic aspects of the organization's operations.
+
+User: That sounds very interesting, can you provide me with some more specific skills and attributes that a SAFe LPM needs to possess for Business Acumen?
+
+Tim: Sure thing. When it comes to skills, a SAFe LPM should have an in-depth understanding of finance and accounting principles to analyze financial statements and evaluate investment opportunities. They should also be adept at creating and maintaining portfolios and business cases, as well as conducting scenario planning and risk management. Regarding attributes, a SAFe LPM should have strong analytical skills, the ability to communicate effectively, and be comfortable with ambiguity and change.
+
+User: That makes sense, what about practices?
+
+Tim: A SAFe LPM should engage in continuous learning and improvement to develop and maintain business acumen. They should study the trends in the industry and continuously upgrade their knowledge and skill set. They should also seek mentorship from senior executives in the organization, participate in training courses and workshops, and seek feedback from peers and stakeholders.
+
+User: Great, and what Areas of knowledge should they focus on?
+
+Tim: A SAFe LPM needs to have knowledge of macro and microeconomics, financial statement analysis, business strategy, investment principles, data analysis, and financial management principles such as budgeting, forecasting, and working capital management.
+
+User: Thank you so much, Tim. This was a comprehensive response. Can you provide me with any references or readings that I can use for further reading?
+
+Tim: Absolutely. Some useful reference materials include "The Intelligent Investor" by Benjamin Graham, "How to Read Financial Statements" by John A. Tracy, and "The Lean Portfolio Management Guide" published by Scaled Agile, Inc.

@@ -1,0 +1,31 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery management is the process of monitoring and supervising the various facets of an agile project. It involves overseeing the agile delivery team, tracking progress, and maintaining effective communication with stakeholders. Agile delivery managers also impart coaching and mentorship to their teams for continuous improvement. In this context, facilitation is an essential competency for an agile delivery manager. Facilitation calls for the development of certain skills, practices, and areas of knowledge that help managers create an environment of collaboration, trust, and open communication. This paper will explore the skills, practices, and areas of knowledge necessary to become competent in facilitation for an Agile Delivery Manager.
+
+Skills
+
+Facilitation skills are fundamental to the agile delivery manager role. They include active listening, effective communication, conflict management, and decision-making. Active listening is the ability to pay attention to the speaker, understand their message and ask relevant questions to clarify any confusion. Effective communication skills enable the manager to articulate their messages clearly, concisely, and unambiguously. Conflict management skills help the agile delivery manager to identify sources of conflict and take proactive steps to prevent them from escalating. Decision-making skills empower the agile delivery manager to prioritize issues and make informed decisions quickly.
+
+Practices
+
+Facilitation practices are equally essential to the agile delivery manager role. They involve creating an environment of psychological safety and ensuring that participants feel comfortable to express their views openly. As a facilitator, the agile delivery manager needs to establish ground rules that promote mutual respect and clarify expectations. They should also create an agenda that outlines the main topics for discussion, allocate time for each item, and stick to the schedule. Facilitation practices also entail preparing necessary materials such as flipcharts, whiteboards, or post-it notes.
+
+Areas of knowledge
+
+Facilitation for an agile delivery manager requires a good understanding of various areas of knowledge. Firstly, they must have a comprehensive understanding of agile principles and methodologies, including Scrum, Kanban, and XP. Secondly, they need to be proficient in project management practices such as planning, monitoring, and control. Agile delivery managers should also have a good grasp of team dynamics and effective collaboration practices. Understanding leadership principles, including servant leadership, is also an important area of knowledge.
+
+Conclusion
+
+In conclusion, Agile Delivery Managers need to acquire skills, practices, and areas of knowledge to become competent facilitators. Effective facilitation skills include active listening, effective communication, conflict management, and decision-making. The facilitation practices include creating an environment of psychological safety, establishing ground rules and creating an agenda. The areas of knowledge for a competent Agile Delivery Manager includes Agile principles and methodologies, project management practices, team dynamics, collaboration practices, and leadership principles. Aspiring Agile Delivery Managers should strive to acquire these competencies through training, practice, and continuous learning.
+
+References:
+
+1. Scholtes, P. R. (1997). The leader’s handbook: Making things happen, getting things done. New York, NY: McGraw-Hill.
+
+2. Cockburn, A. (2002). Agile software development: The cooperative game. New York, NY: Addison-Wesley.
+
+3. Highsmith, J. (2010). Agile project management: Creating innovative products. Boston, MA: Addison-Wesley Professional.

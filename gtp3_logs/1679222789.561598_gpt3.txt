@@ -1,0 +1,38 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency User Experience (UX) Design for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, hope you are doing well today. I was wondering if we can have a chat about the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency User Experience (UX) Design for a Business Systems Analyst?
+
+Tim: Hi there, great to hear from you. I'd be happy to discuss this with you. Are you looking for a general overview or do you have specific questions in mind?
+
+User: Thank you, Tim. I would like to have a general overview and specific examples if you have any. 
+
+Tim: Sure. To start with, a Business Systems Analyst specializing in UX design should have a strong foundation in user-centered design principles, including usability testing, wireframing, prototyping, and user experience solutions development. Additionally, they should have strong communication and collaboration skills, as working with stakeholders, project teams, and developers is an essential aspect of their work.
+
+User: That's insightful Tim. Can you provide examples of some common UX design methodologies that a Business Systems Analyst should be familiar with?
+
+Tim: Absolutely. Examples of common UX design methodologies include Human-Centered Design (HCD), Design Thinking, Lean UX, and Agile/Scrum. Each of these methodologies has its unique approach, making them applicable to different types of UX design projects. 
+
+User: How about some soft skills and attributes that are important for this competency level?
+
+Tim: Great question. Soft skills and attributes important for a Business Systems Analyst at the Emergent level of UX Design include critical thinking, creativity, empathy, and adaptability. They should also possess a strong work ethic, be detail-oriented, and have excellent time management skills to meet collaborative design deadlines.
+
+User: That makes perfect sense Tim. Do you have any recommended reading materials or resources that could help me delve deeper into this field?
+
+Tim: Yes, here are some recommended resources that could be helpful for you: 
+1. Don't Make Me Think, by Steve Krug
+2. The Design of Everyday Things, by Don Norman
+3. UX for Lean Startups, by Laura Klein
+4. Lean UX: Applying Lean Principles to Improve User Experience, by Jeff Gothelf
+5. Nielsen Norman Group
+
+User: Thank you so much for your time and expertise, Tim! This has been very insightful, and I am excited to dive deeper into this field. 
+
+Tim: You're welcome! Don't hesitate to reach out if you have any other questions or need further advice. Keep up the curiosity!

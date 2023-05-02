@@ -1,0 +1,51 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Project Management for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management for a CI/CD lead requires a unique blend of technical and soft skills to effectively manage complex processes, technical teams, and stakeholders. The following is a detailed debate on the necessary skills, practices, and areas of knowledge needed to be at the level of competent for the competency of Project Management as a CI/CD Lead.
+
+1. Technical Skills
+
+Technical skills are essential for a CI/CD Lead to manage automated deployment and delivery pipelines. To be competent, a CI/CD Lead must have expertise in the following areas:
+
+a) Software Development: A CI/CD Lead must be proficient in software development, including scripting, programming languages such as Python, Ruby, JavaScript, and Git.
+
+b) Continuous Integration Tools: A competent CI/CD Lead should understand Continuous Integration tools such as Jenkins, GitLab CI, and Travis CI. They should also have hands-on experience creating, configuring, and managing CI pipelines.
+
+c) Continuous Deployment and Delivery: The CI/CD Lead requires expertise in Continuous Deployment and Continuous Delivery tools such as Ansible, Docker, Kubernetes, and Terraform. They should know how to configure, manage, and deploy with these tools.
+
+2. Soft Skills
+
+Soft skills are critical competency for project management, and successful CI/CD Lead must possess the following skills:
+
+a) Communication: Excellent verbal and written communication skills are essential for effective communication with stakeholders, team members, and business partners.
+
+b) Leadership: A competent CI/CD Lead should be a natural leader, have a clear vision, and can motivate teams effectively. They should inspire and motivate their team, have conflict resolution skills, and foster collaboration.
+
+c) Adaptability: A CI/CD lead should demonstrate the ability to adapt to different environments and solve complex problems under pressure. They must navigate uncertainties and embrace new technologies to facilitate changes that impact stakeholders.
+
+3. Best Practices
+
+To ensure successful project management as a CI/CD Lead, it’s essential to follow Agile best practices, such as:
+
+a) Scrum and Kanban Methodologies: Scrum is an Agile methodology that emphasizes collaboration, Teamwork, and iteration management, while Kanban provides visualization to manage workflow.
+
+b) User Stories and Agile Requirements: Agile Requirements are high-level deliverables that need to be met for the project to be considered successful. They address what end customers need.
+
+c) Agile Estimation and Planning: One of the Agile project management frameworks, this focused on estimation and planning for predictable delivery. 
+
+Conclusion
+
+In conclusion, managing CI/CD as a lead requires technical, soft skills and adherence to Agile best practices. We have discussed the necessary competency Project Management for a CI/CD Lead that includes technological expertise, soft skills, and best practices. These competencies will ensure that the team can create, deploy software continuously and predictively while maintaining high levels of quality. To stay ahead of the technological curve, a CI/CD Lead must constantly update themselves with new technologies in the industry and other strategies that come into the Agile development. Therefore, organizations benefit from them, saving costs and time because to this continuous delivery. 
+
+References
+
+1. C. M. Miers, "On the success of agile project management," Journal of systems and software, vol. 85, no. 6, pp. 1371-1381, 2012.
+
+2. G. Ugarte, "Agile project management," Tesis de grado - Universidad Santiago de Chile, 2015.
+
+3. D. Stare, L. Nemec-Begluk, and M. Heričko, "The role of project manager in agile development," Journal of universal computer science, vol. 19, no. 4, pp. 547-573, 2013. 
+
+4. L. M. J. Pires and J. A. Carvalho, "Agile project management: A bibliometric analysis," International Journal of Project Management, vol. 33, no. 4, pp. 772-783, 2015.

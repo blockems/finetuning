@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Process Modelling for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am very curious about what skills, attributes, practices and Areas of knowledge I need to master to become Emergent in Business Process Modelling as a Business Systems Analyst. Can you please help me out?
+
+Tim: Hi there, I'd be happy to discuss this with you. To begin with, you need to have a strong understanding of the fundamentals of Business Analysis, especially BPMN fundamentals to understand how to model business processes. Additionally, you'll need to have excellent communication and analytical skills, including the ability to communicate complex ideas effectively.
+
+User: Thanks, Tim. Can you please tell me how I could start developing these fundamental skills and knowledge?
+
+Tim: Certainly. You could start by studying some reputable books and resources on Business Analysis and BPMN. I highly recommend the book 'Business Analysis for Practitioners: A Practice Guide' by the International Institute of Business Analysis (IIBA). You can also refer to the BPMN 2.0 Handbook by the Object Management Group (OMG), which will provide you with a comprehensive understanding of the language and how to use it in real-world scenarios.
+
+User: That sounds fantastic! How about the practices and attributes that I need to master?
+
+Tim: Great question. You need to have excellent problem-solving skills along with a keen attention to detail. You should also possess the ability to be proactive in identifying opportunities for process improvement. You need to be collaborative and have experience in handling stakeholders from diverse backgrounds.
+
+User: That sounds like a well-rounded set of skills, Tim. Can you give me an example of how an Emergent-level Business Systems Analyst would use this set of skills and knowledge?
+
+Tim: Sure. As an Emergent level Business Systems Analyst, you should possess the skills to identify gaps in existing processes and identify opportunities to optimize them. For instance, you can help your organization implement new process models and work with your team to successfully implement the new solution. You can also liaise with stakeholders to gather information on their requirements, create process models, and ensure that the implementation aligns with the overall organizational goals.
+
+User: That's a great example, Tim. One final question, are there any advanced resources that I should turn to in order to further develop my capabilities as a Business Systems Analyst?
+
+Tim: Yes, you can look into the Business Analysis Body of Knowledge (BABOK) guide by the IIBA, which offers detailed guidelines on how to practice Business Analysis. Also, there is a comprehensive online course on LinkedIn Learning titled 'Business Analysis Foundations' that is highly recommended. It provides you with essential principles and techniques required to be a Business Systems Analyst.
+
+User: Thanks, Tim. This has been very insightful. I look forward to exploring these resources and developing my capabilities further.
+
+Tim: You are welcome, always remember to stay curious, and never stop learning.

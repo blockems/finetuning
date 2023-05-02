@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Internet of Things (IoT) for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I want to learn more about the skills, attributes, practices and areas of knowledge needed to reach Emergent level for the IoT competency as a RTE. Can you help me?
+
+Tim: Certainly, I'd be happy to help. To start, it's important to have a strong understanding of IoT concepts, including network protocols, data security, cloud computing, and edge computing. Are you familiar with these?
+
+User: Yes, I have a basic understanding of these concepts. Can you recommend any specific resources to deepen my knowledge?
+
+Tim: Absolutely. I would recommend reading "IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things" by David Hanes, Gonzalo Salgueiro, and Patrick Grossetete. It provides a comprehensive introduction to IoT technologies and concepts.
+
+User: Thank you, I'll look into that book. What about specific skills and practices?
+
+Tim: As an RTE for an IoT project, you should have strong communication and collaboration skills to facilitate coordination among different teams and stakeholders. It's also important to practice agile methodologies, as they are an ideal approach for developing IoT applications due to their iterative and flexible nature. Additionally, it's beneficial to have some experience with IoT hardware and software platforms, such as Arduino or Raspberry Pi.
+
+User: That makes sense. Is there anything else I should keep in mind?
+
+Tim: Yes, it's essential to stay up-to-date with the latest developments in the IoT industry, as it is constantly evolving. Attending conferences, networking with other professionals in the field, and keeping an eye on emerging technologies will all help you stay at the forefront of the IoT industry.
+
+User: Thank you Tim, this has been really helpful. Do you have any final recommendations for me?
+
+Tim: My final recommendation is to always embrace curiosity and learning. As an IoT professional, you must have a desire to continually learn and adapt to new technologies and practices. This will not only help you reach Emergent level for the competency, but also drive innovation in the IoT industry.

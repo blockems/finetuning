@@ -1,0 +1,39 @@
+User: Hi Tim, I was wondering if you could help me understand what skills, attributes, practices, and areas of knowledge are needed to be competent in communication as an Agile Delivery Manager?
+
+Tim: Hi there! Sure, I'd be happy to help. Effective communication is essential for Agile Delivery Managers, so being competent in this area is critical for success. Before diving into the specifics, I'd like to clarify what you mean by "competent." Are you referring to the Agile Alliance's definition of competency or something else?
+
+User: Yes, I was referring to the Agile Alliance's definition of competency.
+
+Tim: Great! According to their website, communication competency for an Agile Delivery Manager includes the ability to skillfully facilitate meetings, create a culture of openness, demonstrate active listening, communicate progress and challenges, and adapt communication style to suit the audience. To be competent in these areas, an Agile Delivery Manager should have several skills, attributes, and practices.
+
+User: That makes sense. What skills, attributes, and practices do Agile Delivery Managers need to have to be competent in communication?
+
+Tim: There are several skills, attributes, and practices that Agile Delivery Managers should have to be competent in communication. 
+
+Skills:
+- Active listening: This involves fully understanding the speaker's message and responding with thoughtful questions or comments.
+- Facilitation: An Agile Delivery Manager should be able to facilitate meetings effectively by encouraging participation, keeping the group on track, and avoiding conflicts.
+- Writing: Clear and concise writing is important, as an Agile Delivery Manager should be able to communicate reports and updates to stakeholders.
+- Verbal communication: An Agile Delivery Manager should be able to clearly articulate ideas and provide feedback to team members.
+
+Attributes:
+- Empathy: Being empathetic helps Agile Delivery Managers engage with team members and understand their perspectives.
+- Openness: An Agile Delivery Manager should be open to feedback and able to create a culture of openness and trust.
+- Assertiveness: To effectively facilitate meetings and maintain progress, an Agile Delivery Manager should be assertive when needed.
+- Diplomacy: Conflict can arise in any team, and being diplomatic helps an Agile Delivery Manager navigate these situations in a positive way.
+
+Practices:
+- Regularly check in with team members: This helps Agile Delivery Managers understand their needs and concerns.
+- Encourage open communication: Agile Delivery Managers can establish a culture of openness by setting an example of transparency and vulnerability.
+- Communicate progress and challenges: Informing stakeholders about project progress and any potential roadblocks creates trust and helps with planning.
+- Identify and adapt to different communication styles: Different team members may prefer different communication styles, so adjusting to suit each individual's needs can improve communication.
+
+User: Wow, that's a lot to take in. Do you have any references or resources where I can learn more about this?
+
+Tim: Certainly! Here are a few resources that may be helpful:
+
+- Agile Alliance Competency Matrix: This is a great starting point to understand what competencies are needed for Agile Delivery Managers, including communication.
+- "Crucial Conversations: Tools for Talking When Stakes Are High" by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler: This book offers practical advice for having difficult conversations in the workplace, which can be useful for Agile Delivery Managers.
+- "The Five Dysfunctions of a Team: A Leadership Fable" by Patrick Lencioni: This book provides insight into the dynamics of effective teams, which is crucial for Agile Delivery Managers managing moving pieces and teams.
+
+I hope these resources help. Let me know if you have any more questions!

@@ -1,0 +1,21 @@
+User: Hi Tim, I’m interested in developing my competency in IoT as a Technical Business Analyst. What skills, attributes, practices and areas of knowledge do I need to get to the Emergent level?
+
+Tim: Hi there User, great to hear about your interest in IoT! In order to reach the Emergent level for this competency, there are a few key areas you will need to focus on. 
+
+Firstly, you will need to have a strong understanding of the technical aspects of IoT. This includes knowledge of hardware and software architecture, data integration and security, and protocols such as MQTT and CoAP. I recommend studying IoT architectures, such as the three-layer architecture model proposed by Gubbi et al. (2013).
+
+Secondly, it is important to have proficiency in data analytics and visualization, as IoT generates vast amounts of data that need to be processed and interpreted. You should learn to use tools such as Python, R, and Tableau for data analysis and visualization. 
+
+Thirdly, you will need to have some knowledge of business processes and operations, as IoT can be applied to improve and optimize those processes. I recommend studying the concept of Industry 4.0, which emphasizes the digitization and automation of industrial processes.
+
+Additionally, you will need to develop skills in problem-solving, communication, and project management. These are essential to driving successful IoT initiatives. 
+
+Do you have any specific questions about these areas or anything else related to IoT?
+
+User: Yes, I’m curious about the role of information security in IoT. Can you point me to some relevant resources?
+
+Tim: Absolutely! Security is a critical aspect of IoT, as devices and networks are vulnerable to cyber-attacks. I recommend reading the research paper “A survey on Internet of Things: Security and Privacy Issues” by Al-Fuqaha et al. (2015), which provides an overview of the main security and privacy challenges in IoT.
+
+In addition, I suggest exploring the National Institute of Standards and Technology (NIST) Cybersecurity Framework as a guide for best practices in cybersecurity. 
+
+Let me know if you have any follow-up questions about these resources or any other topic related to IoT.

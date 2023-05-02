@@ -1,0 +1,39 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project management includes Continuous Improvement as one of its competencies. A competent Agile Project Manager should possess an array of skills, practices, and areas of knowledge to drive continuous improvement.
+
+Skills
+Effective communication: Communication is pivotal when leading any agile project team. As a competent Agile Project Manager, one should have excellent communication skills to ensure that the team has a clear understanding of the project's objectives and the changes that need to be made continuously.
+
+Problem-solving: Continuous improvement is all about identifying problems and addressing them effectively. As such, a competent Agile Project Manager should have strong problem-solving skills to identify and address any problems that emerge during the project's lifespan.
+
+Leadership: An Agile Project Manager should be an effective leader who can energize and motivate the team to drive continuous improvement.
+
+Practices
+Continuous feedback: Continuous feedback is critical to driving continuous improvement in an agile project. Regular feedback ensures that the team is always kept informed about what they are doing well and what they need to work on.
+
+Retrospectives: Agile project management requires periodic retrospectives to identify areas for improvement. The Agile Project Manager should facilitate these retrospectives to ensure that the team has the necessary information to drive continuous improvement.
+
+Metrics and measurements: To drive continuous improvement in an Agile project, the Agile Project Manager should use metrics and measurements. These metrics and measurements should be analyzed and acted upon to drive continuous improvements in the project.
+
+Areas of Knowledge
+Agile methodologies: A competent Agile Project Manager should be well-versed in agile methodologies such as Scrum and Kanban.
+
+Project management: A comprehensive knowledge of project management methodologies and practices is essential for every Agile Project Manager. This includes knowledge of project planning, project execution, and project monitoring and control.
+
+Change management: Changes are inevitable in agile projects. Therefore, a competent Agile Project Manager should have a deep understanding of change management processes, including change identification, change evaluation, and change implementation.
+
+Conclusion
+Continuous improvement is one of the essential competencies of an Agile Project Manager. The skills, practices, and areas of knowledge mentioned above are some of the key elements that a competent Agile Project Manager would require to drive continuous improvement. By implementing these elements, an Agile Project Manager can lead an Agile project team to success.
+
+References
+
+1. Agile Project Management: The complete guide to Agile Project Management (2019), by Marcus William.
+
+2. Continuous Improvement Agile Project Management: A practical guide (2018), by Sharath Menon. 
+
+3. Agile Project Management with Scrum (2020), by Ken Schwaber.

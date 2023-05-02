@@ -1,0 +1,55 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery managers play a crucial role in managing and leading agile teams in delivering projects. Effective communication is a critical skill for agile delivery managers to succeed in their roles. Communication helps them to build strong relationships with stakeholders, facilitate collaboration, and create a shared understanding of project goals and objectives. In this debate, we will discuss the skills, practices, and areas of knowledge required for an agile delivery manager to be competent in communication.
+
+Skills
+
+There are several skills that an agile delivery manager needs to develop to become competent in communication. These skills include:
+
+1. Listening - Active listening is crucial for effective communication. It helps the agile delivery manager gain a better understanding of the team's needs, concerns, and aspirations. It also shows that they value and respect their opinions.
+
+2. Verbal and written communication - An agile delivery manager needs to communicate effectively through different mediums. They should be able to present complex information in a clear and concise manner both orally and in writing.
+
+3. Emotional intelligence - Understanding and managing emotions, both their own and those of others, is important for communicating effectively. An agile delivery manager needs to have empathy and be able to create a safe and positive environment for team members.
+
+4. Conflict resolution - Disagreements and conflicts are inevitable in any team. An agile delivery manager needs to be able to address conflicts and negotiate a resolution that is acceptable for all parties.
+
+Practices
+
+An agile delivery manager must follow certain practices to implement effective communication. Some of the practices include:
+
+1. Face-to-face communication - Agile delivery managers should prioritize direct face-to-face communication over email or phone conversations. Face-to-face communication helps in building a rapport and trust with team members.
+
+2. Keep stakeholders informed - Agile delivery managers must ensure that all stakeholders are informed about project status, risks, and issues. Regular updates through status reports or meetings help stakeholders feel connected and engaged in the project.
+
+3. Use visual aids - Using visual aids such as diagrams, charts, and graphs helps in simplifying complex information and concepts. Visual aids improve understanding and retention of information.
+
+4. Continuous feedback - Agile delivery managers should provide continuous feedback to team members, both positive and constructive feedback. Feedback facilitates learning and improvement.
+
+Areas of knowledge
+
+An agile delivery manager must have knowledge of the following areas to be competent in communication:
+
+1. Agile methodologies - Agile delivery managers must have a deep understanding of the agile principles and be familiar with agile methodologies such as Scrum, Kanban, and Lean.
+
+2. Project management - Knowledge of project management principles and best practices helps agile delivery managers manage projects effectively.
+
+3. Stakeholder management - Agile delivery managers must understand how to identify stakeholders, prioritize their needs, and manage their expectations.
+
+4. Technical knowledge - Although agile delivery managers are not required to have deep technical expertise, they should understand the technical aspects of the project to communicate effectively with the technical team members.
+
+In conclusion, effective communication is critical for an agile delivery manager to succeed in their role. By developing the necessary skills, following effective practices, and acquiring the required knowledge, agile delivery managers can create an environment that fosters collaboration, empowers team members, and delivers successful projects. 
+
+References:
+
+1. Agile Alliance. (2018). Agile Communication: An Overview. Retrieved from https://www.agilealliance.org/agile101/agile-communication-an-overview/
+
+2. PMI. (2008). A Guide to the Project Management Body of Knowledge (PMBOK® Guide) – Fourth Edition. Newtown Square, PA: Project Management Institute. 
+
+3. Duhigg, C. (2016). Smarter Better Faster: The Secrets of Being Productive in Life and Business. Random House. 
+
+4. Hofstede, G. (2010). The Hofstede Centre. Retrieved from https://www.hofstede-insights.com/products/compare-countries/

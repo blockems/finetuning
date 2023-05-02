@@ -1,0 +1,57 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Lean Principles for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction
+
+Agile coaching focuses on the principles of the Agile manifesto and other empirical process models like Lean, Scrum, and Kanban. The competencies of Agile coaches are not only related to the Agile framework but also to the Lean Principles. Lean Principles are an essential part of Agile coaching as they provide guidance on minimizing waste and delivering maximum value to the customer. This essay will examine the skills, practices, and areas of knowledge required by an Agile coach to be at the level of Emergent for the competency Lean Principles.
+
+Skills for Emergent Level
+
+An Agile coach at the Emergent Level for Lean Principles should have demonstrated proficiency in:
+
+1. Coaching and Mentoring: An Agile coach should have excellent coaching and mentoring skills. They should be able to guide the team members and stakeholders in understanding the Lean principles and how they relate to Agile practices. Coaching and mentoring are essential tools for changing the behavior of teams and organizations towards Lean practices.
+
+2. Team Management: An Agile coach should be able to manage teams effectively. They should have the ability to create an environment that fosters collaboration, continuous improvement, and learning. They should also identify team dysfunctions and use appropriate techniques to resolve them.
+
+3. Lean Thinking: An Agile coach should understand the principles of Lean thinking, including value stream mapping, flow, pull, and continuous improvement. They should also be able to apply Lean thinking to Agile practices, such as Scrum and Kanban.
+
+4. Influence and Leadership: An Agile coach should be able to influence and lead teams and stakeholders in adopting Lean practices. They should be able to articulate the benefits of Lean and motivate teams to change their behavior towards Lean thinking.
+
+Practices for Emergent Level
+
+The following practices are essential for an Agile coach at the Emergent level for Lean Principles:
+
+1. Value Stream Mapping: An Agile coach should be proficient in conducting value stream mapping exercises. Value stream mapping is an essential tool for identifying waste and inefficiencies in processes and systems. By conducting regular value stream mapping exercises, an Agile coach can identify areas of improvement and opportunities for implementing Lean principles.
+
+2. Continuous Improvement: An Agile coach should promote a culture of continuous improvement. They should encourage teams to identify and eliminate waste in their processes continually. They should also promote learning and experimentation by encouraging teams to try new approaches to problem-solving.
+
+3. Kaizen Events: An Agile coach should be proficient in facilitating Kaizen events. Kaizen events are structured improvement events designed to identify and eliminate waste in processes. An Agile coach should be able to facilitate Kaizen events and guide teams towards implementing Lean principles.
+
+4. Gemba Walks: An Agile coach should conduct regular Gemba walks. Gemba walks are intended to observe processes and systems in action and identify areas of waste and inefficiency. An Agile coach should be able to conduct Gemba walks and use the observations to guide teams towards implementing Lean principles.
+
+Areas of Knowledge for Emergent Level
+
+An Agile coach at the Emergent Level for Lean Principles should have knowledge of the following areas:
+
+1. Lean Principles: An Agile coach should have a deep understanding of the principles of Lean, including value, value stream, flow, pull, and continuous improvement. They should understand how these principles relate to Agile practices and be able to guide teams towards implementing Lean principles.
+
+2. Lean Tools and Techniques: An Agile coach should be proficient in using Lean tools and techniques, such as value stream mapping, Kaizen events, and Gemba walks.
+
+3. Lean Metrics: An Agile coach should be able to identify and measure Lean metrics. Lean metrics are essential for monitoring and measuring the success of Lean initiatives. An Agile coach should identify metrics that are aligned with Lean principles and guide teams towards measuring and improving these metrics.
+
+4. Lean Culture: An Agile coach should promote a culture of Lean thinking. They should be able to create an environment that fosters collaboration, continuous improvement, and learning.
+
+Conclusion
+
+An Agile coach at the Emergent level for Lean Principles should have the skills, practices, and areas of knowledge described in this essay. The Agile coach should have a deep understanding of Lean principles, be proficient in Lean tools and techniques, and promote a culture of Lean thinking. The Agile coach should also have excellent coaching and mentoring skills and be able to manage teams effectively. Implementing Lean principles requires a significant shift in organizational culture and behavior. An Agile coach at the Emergent level for Lean Principles should be able to guide teams and stakeholders towards this shift by using Lean tools and techniques, promoting continuous improvement, and cultivating a Lean culture.
+
+References
+
+1. Poppendieck, M., & Poppendieck, T. (2003). Lean software development: An Agile toolkit. Addison-Wesley Professional.
+
+2. Ohno, T. (1988). Toyota production system: beyond large-scale production. Portland, Ore.: Productivity Press.
+
+3. Rother, M., & Shook, J. (1999). Learning to see: value-stream mapping to create value and eliminate muda. Brookline, MA: Lean Enterprise Institute.

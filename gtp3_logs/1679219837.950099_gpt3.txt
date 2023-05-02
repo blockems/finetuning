@@ -1,0 +1,39 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Training and Development for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm really interested in becoming an Agile Coach. What skills, attributes, practices, and areas of knowledge do I need to master to become Competent in this field?
+
+Tim: Hi there! I'm glad to hear that you're interested in becoming an Agile Coach. Firstly, you need to have a deep understanding of Agile methodology, including the principles and values that underpin it. You also need to have excellent communication skills because a coach is a mentor and a guide who helps team members adopt the Agile mindset and practices.
+
+User: That makes sense. Can you elaborate on what other skills I need to acquire to become a successful Agile Coach?
+
+Tim: Sure, you also need to be a good listener because Agile Coaching involves listening to stakeholders, understanding their needs and requirements, and then guiding them to make a better decision. A good Agile Coach is also a problem-solver who can help teams overcome obstacles and challenges that arise during the Agile transition.
+
+User: Okay, that sounds pretty challenging. What kind of attributes do I need to possess?
+
+Tim: Patience, positivity, empathy, and perseverance are vital attributes of a successful Agile Coach. You also need to be flexible and adaptable because Agile methodologies are dynamic, and the coach must be able to respond to changes quickly and efficiently.
+
+User: I see. Can you tell me more about Agile coaching practices?
+
+Tim: Sure, Agile Coaching practices include facilitating, training, mentoring, and coaching. The coach must also be able to assess team performance and implement effective strategies that drive team performance to success.
+
+User: That sounds overwhelming, do I need to master Agile practices and methods at an expert level?
+
+Tim: In most cases, a good understanding of Agile methodologies is sufficient since Agile methodology is a framework, and the coach's job is to facilitate team members' application and adoption of the framework. However, a strong understanding of Scrum, Kanban, and Lean principles is essential in becoming an Agile Coach as they are widely used approaches.
+
+User: Okay, that's pretty helpful. Lastly, can you recommend some reading materials to help me get a grasp of Agile Coaching?
+
+Tim: Of course. Here are some excellent resources that will give you a significant boost in your journey to become a competent Agile Coach:
+
+- The Agile Samurai: How Agile Masters Deliver Great Software by Jonathan Rasmusson
+- The Agile Coaching Institute's Agile Coaching Competency Framework
+- The Scrum Guide by Jeff Sutherland and Ken Schwaber.
+
+User: Thank you so much, Tim. This has been very elucidating!

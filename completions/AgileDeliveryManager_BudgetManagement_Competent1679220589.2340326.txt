@@ -1,0 +1,15 @@
+User: Hi Tim, I'm interested in becoming competent in Budget Management for Agile Delivery Manager. What skills, attributes, practices, and areas of knowledge do I need?
+
+Tim: Great question! Firstly, you need to have a strong foundation in financial management principles such as budgeting, costing, forecasting, and variance analysis. Furthermore, knowledge of different budgeting methods like top-down and bottom-up budgeting will be helpful. Practice with tools like Excel or Google Sheets will also come in handy. 
+
+User: Thanks Tim. What attributes do I need to be a successful Agile Delivery Manager in Budget Management?
+
+Tim: Excellent attributes to have as an Agile Delivery Manager include having excellent communication and interpersonal skills, strong problem-solving and analytical skills, and the ability to multitask and manage priorities. Being proactive and adaptable to change is also crucial. 
+
+User: Interesting. How can I develop my skills for Budget Management in Agile projects?
+
+Tim: To develop your skills in budget management for Agile projects, it would help to join communities, attend conferences, and read books on Agile Delivery Management. You could also consider requiring mentorship or coaching from experienced professionals in the field. Additionally, hands-on project experience working with Agile methods and Budget Management will give you practical experience. 
+
+User: Thanks Tim. Are there any areas of knowledge that I should focus on?
+
+Tim: Definitely. The areas of knowledge that you should focus on include Agile project management methodologies, budgeting techniques, financial modelling and analysis, risk management, negotiation, and procurement. You can read books like Agile Project Management with Scrum by Ken Schwaber, The Art of Possibility by Zander and Zander or Budgeting Basics and Beyond by Jae Shim and Joel Siegel as reference.

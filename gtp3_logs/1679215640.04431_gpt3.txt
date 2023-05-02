@@ -1,0 +1,27 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Data Analysis for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To be competent in Data Analysis as a Business Systems Analyst, there are several skills, practices, and areas of knowledge that are necessary. These include:
+
+1. Statistical Analysis Skills: A strong understanding of statistical analysis methods, including regression analysis, correlation, analysis of variance (ANOVA), and covariance is needed to be competent in Data Analysis. These skills will enable the analyst to select appropriate statistical tools for analyzing and interpreting data.
+
+2. Data Visualization Skills: The ability to present data in a visually compelling way, using charts, diagrams, and other techniques is also a critical skill. This skill allows Business Systems Analysts to communicate their findings to stakeholders clearly and concisely.
+
+3. Data Mining and Data Warehousing Knowledge: Business Systems Analysts should have a good understanding of data warehousing concepts, including ETL processes, data modeling, and database design. This skill enables them to understand how to access and manipulate data effectively.
+
+4. Programming Skills: Good programming skills in languages such as Python and R are necessary since these languages have libraries that aid in data analysis. Coding skills are useful when implementing machine learning models and carrying out data analysis work.
+
+5. Domain Expertise: It's essential to have a deep understanding of the domain for which the data is being analyzed. This means that the Business System Analyst must have a comprehensive knowledge of the industry, customers and other domain-specific metrics in the organization.
+
+References:
+
+1. Faure, D., Iyengar, S. S., & Bussin, M. (2015). Business Analytics for Decision Making. Auerbach Publications.
+
+2. Ohlson, J. A. (2014). Big Data, Big Analytics: Emerging Business Intelligence and Analytic Trends for Today's Business. McGraw-Hill Education.
+
+3. Kelleher, J. D., Tierney, B., & Danyluk, A. P. (2018). Data Science: An Introduction. Chapman and Hall/CRC.
+
+4. National Research Council. (2013). Frontiers in Massive Data Analysis. National Academies Press.

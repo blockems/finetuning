@@ -1,0 +1,23 @@
+User: Hi Tim, I am curious about the skills, attributes, and practices needed to be considered emergent in Project Management for a SAFe Agilist. Can you help me with this?
+
+Tim: Of course, I can help you with that. First, let's talk about what the term "Emergent" means in SAFe. Emergent means being able to apply the principles of Agile and Lean to create high-performing, self-organizing teams. It also means being able to apply these principles to create an innovative and value-driven enterprise.
+
+User: That's helpful, Tim. So what specific skills and practices are necessary for a Project Manager to be considered at the "Emergent" level?
+
+Tim: To be considered emergent, a Project Manager needs to possess a diverse set of skills such as effective communication, leadership, problem-solving, conflict management, and the ability to prioritize tasks. They also need to possess a deep understanding of Agile and Lean practices such as Kanban, Scrum, and XP. Additionally, they should know how to implement Continuous Integration (CI), Continuous Deployment (CD), and DevOps practices.
+
+User: That makes sense. Can you provide me with some resources to understand these practices better?
+
+Tim: Sure, I can recommend two books that provide a great overview of Agile and Lean practices. The first one is "Agile Estimating and Planning" by Mike Cohn, and the second one is "Lean Enterprise" by Jez Humble, Joanne Molesky, and Barry O'Reilly. Both of these books are highly regarded and provide practical insights into the practices and principles of Agile and Lean.
+
+User: Thank you. What about attribute-wise, what should a Project Manager's attributes look like?
+
+Tim: Great question. Attributes such as integrity, empathy, adaptability, strong work ethic, and a willingness to learn are essential for a Project Manager. They also need to be open-minded, able to work collaboratively, and be comfortable with managing ambiguity and uncertainty.
+
+User: Thank you, Tim. This is very helpful. Can you tell me if there are any specialized skills or areas of knowledge that a Project Manager needs to possess to be considered at an Emergent level?
+
+Tim: Yes, sure. A Project Manager also needs to be familiar with Agile scaling frameworks such as SAFe, Scrum@Scale, and Large-Scale Scrum (LeSS). They should also possess a deep understanding of software development practices and be comfortable with technical disciplines such as testing, software architecture, and data analysis. Additionally, they should be familiar with financial management, risk management, and governance practices.
+
+User: Thank you so much, Tim. I feel like I have a much better understanding of what it takes to be considered Emergent in Project Management for a SAFe Agilist.
+
+Tim: You're welcome! It was my pleasure to help you. Remember to keep curiosity alive and remain open-minded to continuous learning and growth.

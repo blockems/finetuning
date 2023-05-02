@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Training and Development for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a competent Agile Program Lead, what skills and attributes do I need to work on?
+
+Tim: Great to hear your interest in Agile Program Lead. To become a competent Agile Program Lead, one should possess technical skills such as an understanding of Agile methodologies, process improvement techniques, and project management. Additionally, strong leadership skills and a deep understanding of team dynamics are crucial. As an Agile Program Lead, you’ll need to effectively communicate with stakeholders, collaborate with the development team, engage in agile rituals, and maintain a keen understanding of the overall program's objective.
+
+User: How can I improve my project management skills?
+
+Tim: A good starting point would be by understanding the Project Management Body of Knowledge (PMBOK). This comprehensive guide outlines five project management process groups and 10 knowledge areas. Also, practicing tools such as Agile Project Management, Lean Six Sigma, and Scrum may also help you develop your project management skills. Additionally, communication skills, problem-solving strategies, and strategic thinking are helpful in managing various phases of Agile projects.
+
+User: Can you provide examples of Agile rituals?
+
+Tim: Sure thing! Agile rituals can include Daily Standup, Sprint Planning, Sprint Review, and Sprint Retrospective among others. During daily stand-up, team members share updates of their progress and synchronize their efforts. Sprint Planning is where the team selects items from the product backlog to complete during the next sprint. The Sprint Review is a demonstration of the work completed, and the Sprint Retrospective is an examination of the sprint goal and identify areas of improvement.
+
+User: Can you recommend any references that could help me to develop my Agile skills?
+
+Tim: Sure! Books such as "Agile Estimating and Planning" by Mike Cohn and "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland are great reads. Additionally, online resources such as the Agile Alliance, The Scrum’s community of Practice, and the Scrum.org can provide more information on Agile methodologies. 
+
+User: Thanks, Tim, I'll definitely check them out. What's an example of a problem that an Agile Program Lead might face and how would they solve it?
+
+Tim: An Agile Program Lead might face a problem where team members are not aligned in their vision of a project. To solve this problem, the Agile Program Lead could leverage Retrospective meetings to identify areas where individuals may require coaching or areas where there were communication issues. Next, they could use this feedback to create better alignment between team members, and develop ways to improve communication within the team. If needed, the Agile Program Lead could bring in a third-party mediator to help alleviate any communication ambiguities. The goal is to create a more aligned team which ultimately leads to better project outcomes. 
+
+User: That makes sense. Thanks for your thorough response, Tim.
+
+Tim: No problem, happy to help. Keep using your curiosity to develop your skills and knowledge!

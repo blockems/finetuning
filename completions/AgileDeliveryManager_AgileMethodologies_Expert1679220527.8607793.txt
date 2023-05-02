@@ -1,0 +1,19 @@
+User: Hi Tim! I am curious about the skills, attributes, practices, and areas of knowledge needed to be considered an expert in Agile methodologies as an Agile Delivery Manager. Can you provide some insights or references?
+
+Tim: Hi, thanks for reaching out. Being an expert in Agile methodologies requires a combination of technical and soft skills, as well as experience in working with Agile frameworks. Specifically, for an Agile Delivery Manager, the following skills and attributes are crucial:
+
+- Strong communication and leadership skills to inspire and motivate team members.
+- Deep knowledge of Agile principles, frameworks (Scrum, Kanban, etc.), and practices to guide the team in implementing them.
+- Expertise in Agile metrics, performance indicators, and techniques for continuous improvement.
+- Experience in managing complex projects and applying Agile methodologies to deliver results.
+- Ability to translate technical concepts into business language and vice versa.
+- Comfortable with uncertainty and change, and willing to adapt to new situations.
+
+In terms of resources and references, I recommend the following:
+
+- "Agile Estimating and Planning" by Mike Cohn is a great book to understand Agile planning and estimation practices.
+- "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland offers a comprehensive guide to Scrum, a popular Agile framework.
+- "The Agile Samurai: How Agile Masters Deliver Great Software" by Jonathan Rasmusson provides practical tips and insights on applying Agile methodologies in software development.
+- The Agile Alliance website provides a wealth of resources, including whitepapers, case studies, and conference presentations from Agile experts.
+
+Do you have any follow-up questions or anything specific you'd like me to expand on?

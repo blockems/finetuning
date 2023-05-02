@@ -1,0 +1,19 @@
+User: Hi Tim, I'm curious about the skills, attributes, practices, and areas of knowledge that a technical business analyst must have to achieve competency in system integration. Can you help me with this?
+
+Tim: Hi there! Yes, I'd be happy to help you with this. To start with, a technical business analyst should have a strong foundation in software engineering principles and practices, along with an understanding of business analysis techniques and methods. In terms of specific skills, they should be adept at data analysis and modeling, project management, and software testing.
+
+User: Thanks for that. What about the attributes needed for this role?
+
+Tim: Great question. Communication skills are essential for a technical business analyst, as they need to be able to communicate technical concepts to non-technical stakeholders. They also need to be detail-oriented, analytical, and able to think critically.
+
+User: What are the best practices that technical business analysts need to follow when it comes to system integration?
+
+Tim: Technical business analysts should follow a structured approach when it comes to system integration. This involves identifying and documenting requirements, creating detailed designs, conducting thorough testing, and ensuring that the final solution integrates seamlessly with other systems. They should also be familiar with industry best practices, such as Agile and DevOps methodologies.
+
+User: What areas of knowledge should a technical business analyst have to be competent in system integration?
+
+Tim: A technical business analyst should have a solid understanding of system architecture principles and patterns, as well as knowledge of various integration technologies such as Service-Oriented Architecture (SOA) and Application Programming Interfaces (APIs). They should also be familiar with data integration concepts and techniques, such as Extract, Transform, and Load (ETL) processes. Additionally, knowledge of security and compliance standards such as the General Data Protection Regulation (GDPR) and Payment Card Industry Data Security Standard (PCI DSS) is crucial.
+
+User: Thanks so much for all this valuable information, Tim. Can you recommend any books or articles on this topic?
+
+Tim: Sure thing. I'd recommend "Software Requirements" by Karl Wiegers and "Business Analysis Techniques" by James Cadle, Paul Turner, and Debra Paul. For a more technical perspective, "Enterprise Integration Patterns: Designing, Building, and Deploying Messaging Solutions" by Gregor Hohpe and Bobby Woolf is an excellent resource.

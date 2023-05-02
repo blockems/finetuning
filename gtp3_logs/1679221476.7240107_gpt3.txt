@@ -1,0 +1,27 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Collaboration for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I want to learn more about the skills and practices that are required to be an effective Agile Program Lead specifically for the competency of Collaboration. Can you help me?
+
+Tim: Absolutely! Collaboration is a crucial aspect of Agile program management. To start off, an Agile Program Lead requires strong leadership and communication skills to foster collaboration within the team. This includes the ability to inspire trust, encourage open communication, and facilitate problem-solving sessions. Additionally, active listening and empathy are critical to ensure that everyone's ideas are heard and valued.
+
+User: That makes sense. What other attributes should an Agile Program Lead possess?
+
+Tim: An Agile Program Lead must be adaptable and flexible in their approach, as Agile values responding to change over following a plan. They should also be comfortable with working in a fast-paced environment that requires quick decision-making and problem-solving skills. A curious mindset and a willingness to learn new things are also valuable traits as Agile methodologies are constantly evolving.
+
+User: I see, so it's important to be able to pivot quickly and learn from past experiences. What specific practices should an Agile Program Lead be using?
+
+Tim: One practice is to employ Agile ceremonies such as sprint retrospectives, daily stand-ups, and sprint planning meetings to promote collaboration and effective communication. Another practice is to focus on transparency and visibility, through techniques like kanban boards and burndown charts. This helps teams stay accountable to one another and it also enables continuous improvement.
+
+User: Interesting, can you provide any references or sources to support your points?
+
+Tim: Sure! I highly recommend "Agile Estimating and Planning" by Mike Cohn for more information on Agile ceremonies, and "Scrum: A Pocket Guide" by Gunther Verheyen for tips on improving communication and collaboration. Additionally, "Agile Project Management with Scrum" by Ken Schwaber and "Lean-Agile Pocket Guide for Scrum Teams" by Alex Yakyma provide valuable insights on Agile practices and methodologies.
+
+User: Thank you, Tim! This was very informative.

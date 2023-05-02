@@ -1,0 +1,20 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Degree for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching and program management expert: It's clear that to be competent as a Business Systems Analyst, you need a range of skills and knowledge across several areas. For instance, you need technical, analytical, and communication skills, as well as knowledge of various management frameworks and methodologies. In terms of technical skills, you need proficiency in programming languages, database systems, configuration management, and system testing. Analytical skills include the ability to analyze complex data, design solutions, and identify problem areas.
+
+Additionally, you need excellent communication skills to work effectively with different stakeholders, including technical and non-technical teams. You also need to understand the different management frameworks and methodologies used in IT project management. The most commonly used frameworks include Agile, Waterfall, and DevOps, which are all tied to different business requirements.
+
+To reach the level of competency that defines a Business Systems Analyst, you should have a good understanding of the project life cycle's different stages. It also helps if you have experience using various project management tools and processes such as JIRA, Trello, and Microsoft Project.
+
+Moreover, if you notice the patterns in requirements, the skills need to be effective in the aforementioned areas; critically analyzing problems, brainstorming a range of solutions, and working collaboratively to find the best way forward to meet the business needs (Junglas et al 2017). Communication skills and Emotional Intelligence (EI) is essential for selecting the appropriate output during collaborative decision-making that fosters positive relationships with stakeholders (Breckon et al 2015)
+
+
+Reference:
+
+Junglas, I., Abraham, D., Ives, B., & Seo, E. (2017). A multi-level model of individual decision making in information systems development teams. Journal of Management Information Systems, 34(2), 399-426. 
+
+Breckon, J. D., Lueg, R., & McNeill, R. (2015). The role of emotional intelligence in facilitating team decision-making during collaborative information seeking. Journal of Documentation, 71(3), 611-632.

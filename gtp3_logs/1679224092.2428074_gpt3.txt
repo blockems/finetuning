@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Lean Startup for a Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I was wondering what are the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Lean Startup for a Product Owner (PO)?
+
+Tim: Great question! In order to be a successful Lead for the competency Lean Startup for a Product Owner (PO), there are a few key skills, attributes, practices, and areas of knowledge you should focus on developing. Shall we dive in?
+
+User: Yes, please!
+
+Tim: First and foremost, it's important to have a deep understanding of Lean Startup principles and practices. This includes knowing the methodology's history, philosophy, and key concepts. The Lean Startup, by Eric Ries is a great starting point if you haven't read it already.
+
+User: Ok, that makes sense. What else should I focus on?
+
+Tim: As a Lead, you'll need strong communication skills to articulate Lean Startup concepts and practices to stakeholders across the organization. It's important to be able to communicate the benefits and challenges of Lean Startup to both technical and non-technical audiences. Also, having experience in leading cross-functional teams and managing projects is highly valued.
+
+User: I see. What about attributes?
+
+Tim: You'll need to be resourceful, adaptable, and a strategic thinker. Being able to navigate ambiguity and uncertainty is crucial. Other crucial attributes are high emotional intelligence, leadership, and the ability to influence and inspire teams.
+
+User: That makes sense. What practices should I be using then?
+
+Tim: Practicing customer discovery techniques is essential to ensure that user needs drive product development. User stories, personas, and empathy mapping can all help you better understand the customers you're developing the product for.
+
+User: Thank you. This has been really helpful so far. What about the areas of knowledge?
+
+Tim: You should have a firm grasp of the technical aspects of product development, as well as an understanding of user experience design, agile methodologies, and business process improvement. Understanding market trends and competitive analysis also helps inform product development decisions.
+
+User: Excellent! Thank you so much for your insights, Tim. This is very helpful.
+
+Tim: Of course! Remember, curiosity and a willingness to learn and adapt is essential in order to stay on top of this ever-evolving competency. Best of luck to you!

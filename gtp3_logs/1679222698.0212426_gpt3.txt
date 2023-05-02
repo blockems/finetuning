@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm trying to become more competent in Communication as a Business Systems Analyst. Can you help guide me on the skills, attributes, and areas of knowledge I should focus on?
+
+Tim: Absolutely! Communication is crucial for any Business Systems Analyst. To start, it's important to have strong written and oral communication skills, as well as the ability to present information effectively. Additionally, it's important to have a solid understanding of business terminology and concepts. This includes being familiar with industry-specific jargon, as well as understanding the various stakeholders involved in a business project. 
+
+User: That makes sense. Can you elaborate on what attributes I should develop to improve my communication skills? 
+
+Tim: Sure. As a Business Systems Analyst, it's important to have strong critical thinking and problem-solving skills. This allows you to analyze complex data and present it in a way that's easy for others to understand. It's also important to be open-minded, adaptable, and possessing a strong work ethic. These attributes can help you handle the often-ambiguous nature of business projects and stay focused on achieving successful outcomes. 
+
+User: Thank you, Tim. Do you have any recommended practices or techniques that can enhance my communication skills?
+
+Tim: Definitely. A key practice is active listening. This means focusing on what others are saying, asking clarifying questions, and seeking to understand their perspective. Additionally, practice taking complex information and distilling it into concise, clear messaging. Finally, it's important to practice giving and receiving feedback. This can help you improve your work and enhance your communication skills over time. 
+
+User: Thank you for these great insights, Tim. Do you have any references or additional resources I can review on this topic?
+
+Tim: Yes, I recommend taking a look at "Business Communication: Developing Leaders for a Networked World" by Peter Cardon. This book provides a comprehensive overview of the communication skills necessary for success in today's business world. Additionally, "The Art of Communicating" by Thich Nhat Hanh provides practical guidance on how to communicate effectively in all areas of life.

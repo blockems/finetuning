@@ -1,0 +1,34 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Acumen for a Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Good morning Tim, I was hoping you could help me out with some questions I have about becoming an Emergent level Product Owner in Business Acumen.
+
+Tim: Good morning! Of course, I'll do my best to answer your questions. To start, can you tell me a bit about your background and experience in this field?
+
+User: Sure, I'm currently working as a Product Owner and have been in the industry for a few years. I'm familiar with the basics of Business Acumen but want to take my skills to the next level.
+
+Tim: Great to hear! To become an Emergent level PO in Business Acumen, you'll need to have a solid understanding of the principles and practices that drive business success. This includes things like financial analysis, market research, strategic planning, and risk management.
+
+User: That makes sense. Can you provide some resources or references I can use to explore these topics further?
+
+Tim: Absolutely! For financial analysis, I'd recommend checking out "Financial Statements: A Step-by-Step Guide to Understanding and Creating Financial Reports" by Thomas Ittelson. For market research, "The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries is a great resource. 
+For strategic planning, "The Strategy-Focused Organization: How Balanced Scorecard Companies Thrive in the New Business Environment" by Robert Kaplan and David Norton is a classic. And for risk management, "The Black Swan: The Impact of the Highly Improbable" by Nassim Taleb is a thought-provoking read.
+
+User: That's very helpful, thank you. What other skills or attributes do I need to develop to reach this level of competency?
+
+Tim: Along with technical knowledge, being an effective PO requires strong communication skills, the ability to collaborate with stakeholders from various departments, and strategic thinking. I would also suggest working on your leadership skills, as POs often need to inspire and motivate teams to deliver great products.
+
+User: Good point. Do you have any suggestions for leadership resources?
+
+Tim: For leadership, I'd highly recommend “The 5 Levels of Leadership: Proven Steps to Maximize Your Potential” by John C. Maxwell, "Good to Great: Why Some Companies Make the Leap...and Others Don't" by Jim Collins, and "The Power of Positive Leadership: How and Why Positive Leaders Transform Teams and Organizations and Change the World" by Jon Gordon.
+
+User: Wow, these sound like great resources. Thanks so much for your help Tim, I'm excited to dive in.
+
+Tim: Absolutely, happy to help! Remember to keep asking questions and stay curious - that's the best way to continue learning and improving as a PO.

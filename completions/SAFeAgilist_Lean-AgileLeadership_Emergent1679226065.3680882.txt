@@ -1,0 +1,19 @@
+User: Hi Tim, I am interested in learning the skills, attributes, practices, and areas of knowledge I need to be at the level of Emergent for the competency Lean-Agile Leadership for a SAFe Agilist. Can you help me with that?
+
+Tim: Hello and welcome to the world of Lean-Agile leadership! To qualify for the Emergent level, one needs to possess certain skills, attributes, and knowledge. These include, but are not limited to, effective team collaboration, servant leadership, proactive problem-solving, and strong communication skills. Additionally, it is imperative to have a deep understanding of Agile and Lean principles and practices, as well as the ability to apply them in a variety of contexts.
+
+User: Thank you, Tim. Can you please provide me with some examples of these skills, attributes, and practices?
+
+Tim: Sure. Let's start with the skill of effective team collaboration. This involves understanding how to create and maintain a high-performing team that effectively aligns to the goals of the organization. Attributes such as empathy, active listening, and excellent facilitation skills can help you achieve this.
+
+For servant leadership, you need to focus on being a servant to the team and stakeholders to ensure their needs are met. The practices of Agile coaching and mentoring can be helpful for this.
+
+Proactive problem-solving is essential for a SAFe Agilist. You must be able to recognize issues before they arise and develop effective solutions. The practice of value stream mapping can help you identify areas for improvement, while visual management can help you track progress.
+
+Finally, Communication is key for Lean-Agile leadership. You must be able to communicate effectively with team members, stakeholders and senior management. This can be achieved through techniques such as active listening, visualization, and storytelling.
+
+User: Thank you, Tim. Can you please provide me with some references to gain a deeper understanding of these principles and practices?
+
+Tim: Certainly, I would recommend "The Lean-Agile Enterprise" by Richard Knaster and Dean Leffingwell. This book offers an in-depth understanding of the Lean-Agile principles and how they can be applied in organizations. For Agile Coaching, Lyssa Adkins' "Coaching Agile Teams" is a great resource. Additionally, the SAFe website offers a wealth of resources, including training and certification for Lean-Agile leaders.
+
+I hope this helps, and I encourage you to continue your curiosity and growth in the world of Lean-Agile Leadership.

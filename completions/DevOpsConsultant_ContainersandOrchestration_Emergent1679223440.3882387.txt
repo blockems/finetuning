@@ -1,0 +1,25 @@
+User: Hi Tim, I'm interested in becoming an Emergent level DevOps consultant in Containers and Orchestration. What skills, practices, attributes and knowledge areas do I need to develop to reach this level?
+
+Tim: Hi, great question! To be an Emergent level DevOps consultant in Containers and Orchestration, you should have knowledge and skills in containerization platforms like Docker, Kubernetes for orchestration, scripting languages like Python, and cloud platforms like AWS, Azure, and Google Cloud. It is also essential to have knowledge of continuous integration and delivery practices, infrastructure as code, and monitoring and logging practices in DevOps.
+
+User: Thanks Tim. So, what attributes are needed to be an effective DevOps consultant at this level?
+
+Tim: To be an effective DevOps consultant, you need to have excellent communication, analytical, problem-solving, and critical thinking skills. You should be able to work collaboratively with development, operations and security teams, and be able to lead projects, work under pressure and manage competing priorities.
+
+User: That makes sense. Can you recommend any specific practices or frameworks that I should be familiar with?
+
+Tim: Yes, two popular practices within the DevOps community are Agile and DevOps itself. Agile methodologies help to increase productivity, reduce waste, and improve customer satisfaction. DevOps is an approach that aims to improve collaboration, automation, testing, and monitoring through the entire software delivery pipeline. Knowledge of lean principles, ITIL, and SRE practices can also be beneficial.
+
+User: That's helpful. Can you suggest any resources or references for me to learn more about these topics?
+
+Tim: Sure, here are some resources that might be useful for you:
+- Docker Documentation: https://docs.docker.com/
+- Kubernetes Documentation: https://kubernetes.io/docs/home/
+- AWS Documentation: https://aws.amazon.com/documentation/
+- "The Phoenix Project" by Gene Kim, Kevin Behr and George Spafford (A novel that illustrates DevOps principles)
+- "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley (A book on continuous delivery)
+- "Site Reliability Engineering: How Google Runs Production Systems" by Betsy Beyer, Chris Jones, Jennifer Petoff, and Niall Richard Murphy (A book on SRE practices)
+
+User: Thank you, Tim, I appreciate your guidance and resources.
+
+Tim: You're welcome, happy to help. Remember, remain curious and continuously educate yourself by keeping up to date with emerging technologies and industry practices. Good luck in your DevOps journey!

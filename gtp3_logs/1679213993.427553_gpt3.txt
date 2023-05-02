@@ -1,0 +1,35 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Budget Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile delivery managers need to have a strong understanding of budget management to effectively manage their projects. In order to be considered competent in this competency, they require a combination of skills, practices, and areas of knowledge.
+
+Skills:
+
+1. Financial analysis and forecasting: Agile delivery managers should be able to analyze financial data and recognize trends to make informed predictions about future expenses and resource needs.
+
+2. Negotiation: They must be capable negotiators, able to secure necessary resources and budget approvals from stakeholders.
+
+3. Risk management: They should be able to identify and mitigate financial risks that may impact project budget.
+
+Practices:
+
+1. Budget forecasting: Agile delivery managers should begin each project by creating a projected budget for the entire project.
+
+2. Resource allocation: They should ensure that resources are allocated appropriately throughout the project.
+
+3. Cost tracking and control: Agile delivery managers should monitor costs throughout the project lifecycle and take action to control expenses when necessary.
+
+Areas of knowledge:
+
+1. Financial management: Understanding basic financial principles and practices is crucial for managing project budget.
+
+2. Agile methodologies: Familiarity with agile methodologies and principles is essential for effectively managing budget in an agile environment.
+
+3. Project management: Knowledge of project management processes, tools and techniques enable Agile delivery managers to manage budget with greater efficiency.
+
+Reference:
+
+Project Management Institute. (2017). Agile Practice Guide. 1st ed. Project Management Institute.

@@ -1,0 +1,19 @@
+User: Hi Tim! I'm wondering what kind of skills, attributes, practices and Areas of Knowledge I need to develop to become an expert in Team Management for a Product-Centric Delivery Coach?
+
+Tim: Hi there! That's a great question. In order to become an expert in this area, you should have a strong foundation in project management skills, including planning, scheduling, and resource management, as well as a deep understanding of agile methodologies and product development.
+
+User: Thanks Tim! Can you clarify what you mean by "agile methodologies and product development?"
+
+Tim: Absolutely. Agile methodologies are iterative, incremental approaches to software development that prioritize customer collaboration, fast feedback, and rapid deployment. Product development refers to the entire lifecycle of a product, from ideation to launch and beyond, including market research, user testing, and product iteration.
+
+User: That makes sense. So what are some attributes and practices that are important for a Product-Centric Delivery Coach to possess?
+
+Tim: As a Product-Centric Delivery Coach, it's important to be a strong communicator and collaborator, with an ability to work effectively with cross-functional teams. You should also be comfortable with ambiguity and be skilled in conflict resolution. A "servant leader" mindset is also essential, in which you prioritize the needs of the team and product over your own personal goals.
+
+User: I see. What are some specific examples of Areas of Knowledge that are relevant to this role?
+
+Tim: Relevant Areas of Knowledge include lean principles, user experience design, data analysis and interpretation, and software development practices, including continuous integration and deployment. It's also important to have a good understanding of market trends, consumer behavior, and industry best practices.
+
+User: Thanks Tim! Do you have any recommended reading or resources for me to check out as I continue to develop my expertise in this area?
+
+Tim: Absolutely. I recommend checking out "Scrum Mastery" by Geoff Watts, "The Lean Startup" by Eric Ries, and "The Agile Samurai" by Jonathan Rasmusson. Additionally, the Agile Alliance and Product Management Institute offer a wealth of resources and training programs for expanding your knowledge and skills. Good luck!

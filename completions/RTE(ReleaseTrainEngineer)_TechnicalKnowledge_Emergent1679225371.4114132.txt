@@ -1,0 +1,37 @@
+User: Hi Tim, I would like to know more about the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Technical Knowledge for a RTE (Release Train Engineer). Can you help me out?
+
+Tim: Sure, let's get started. For Technical Knowledge to reach the level of Emergent for RTE, one must acquire a broad range of technical expertise and proficiency in various areas such as DevOps practices, Cloud Computing, Infrastructure, Security, and Deployments. Additionally, an RTE must be able to navigate various technical issues and ensure that the technical teams are well-coordinated and on track. 
+
+User: How one can develop such broad technical expertise?
+
+Tim: To develop technical expertise, an individual should pursue relevant coursework, read industry articles, attend conferences and events, and participate in hackathons and coding challenges. One great way to acquire knowledge is by joining technical communities and learning from experts in the field. 
+
+User: What are the specific skills that an RTE must possess?
+
+Tim: Some key skills that an RTE should possess are: 
+
+1. Strong problem-solving skills
+2. Excellent communication skills
+3. Flexibility in handling complex technical details
+4. Strong analytical skills
+5. Ability to delegate and manage teams effectively
+
+User: Can you give an example of how an RTE could leverage their technical knowledge to manage a release train?
+
+Tim: Sure. Let's say there is a technical issue that arises during the release train process. The RTE, with their technical knowledge and expertise, can assess the situation, identify the root cause of the problem, and collaborate with the appropriate technical teams to find a solution. 
+
+User: That makes sense. Are there any specific practices that an RTE must adhere to?
+
+Tim: Agile practices such as Scrum, Kanban, and Lean are essential for an RTE to master. Additionally, an RTE must work towards building a culture of continuous improvement and innovation.
+
+User: Great, I appreciate your insight. Can you recommend any relevant reading materials?
+
+Tim: Absolutely. Here are some resources that may be helpful: 
+
+1. "The Phoenix Project" by Gene Kim, Kevin Behr, and George Spafford
+2. "The DevOps Handbook" by Gene Kim, Patrick Debois, John Willis, and Jez Humble
+3. "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley.
+
+User: Thank you, Tim. I appreciate your time and guidance. 
+
+Tim: You're welcome. Keep learning and stay curious!

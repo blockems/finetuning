@@ -1,0 +1,23 @@
+User: Hi Tim! I hope you're doing good. I'm curious about the skills, attributes, practices and Areas of knowledge that are needed to be at the level of Lead for the competency Budget Management for a Agile Program. Can you help me with this?
+
+Tim: Hello! Sure, I'd be happy to help. The competencies required for a Lead Budget Manager in an Agile program fall under budget management, financial analysis, and strategic planning, along with Agile practices. These competencies may be considered essential to have as a Budget Manager in Agile Program, as you are responsible for managing budgets of the program in an Agile environment.
+
+User: Can you elaborate on the skills and attributes needed for these competencies?
+
+Tim: Certainly! Strong analytical skills, financial acumen, attention to detail, and experience in strategic planning, along with being able to manage the budget and forecast accurately, are all essential skills for a Budget Manager in an Agile program. Furthermore, a person should be able to conduct a comparative financial analysis, be able to create financial models, and have excellent communication and leadership skills to lead the team.
+
+User: Interesting! Can you give me a few examples of Agile practices that are pertinent to Budget Management?
+
+Tim: Good question! Agile budget management requires frequent communication with stakeholders, and budget decisions should be made collaboratively. Therefore, the Agile practices of the Daily Scrum and Sprint Review meetings can be used while managing the budget. During these meetings, the team can discuss the budget status and identify any risks or potential changes. Agile Budget Managers also use Agile estimation techniques such as Planning Poker and Relative Sizing to estimate the budget for each Sprint.
+
+User: I see, thanks for explaining that. Are there any areas of knowledge that a person should have to excel in these competencies?
+
+Tim: Yes, several areas of knowledge will help a person excel in these competencies. Competency in Financial Reporting Standards, Financial Modelling, Financial Analysis, and Forecasting; budget development and management techniques; risk management; project and program management principles and practices; and Agile practices are some of the areas of knowledge required to have a comprehensive understanding of the Budget Management competency in Agile.
+
+User: Wow, thank you for your detailed response. Can you give me any references or resources that I can utilize to learn more about this topic?
+
+Tim: Sure, here are some references that you can utilize. The PMI website provides resources and certification courses that cover Agile program management, financial analysis, and budget management practices. The book, Agile Estimating and Planning by Mike Cohn, is also an excellent resource. Additionally, the Financial Reporting Standards provided by the Financial Accounting Standards Board (FASB) are an essential foundation of financial reporting, and you can read its guidelines on the FASB website.
+
+User: Thank you so much, Tim. You're an amazing coach. I really appreciate your help.
+
+Tim: You're welcome, happy to help anytime. Keep exploring, and never stop being curious!

@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency CI/CD Processes for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim! I'm really interested in becoming an expert in CI/CD processes. Could you give me some guidance on what skills, attributes, practices and areas of knowledge I should focus on to become a CI/CD Lead?
+
+Tim: Hello! I'm happy to help. Becoming an expert in CI/CD processes requires a mix of technical and interpersonal skills, as well as a good understanding of software development methodologies. To start with, it’s important to have experience in DevOps practices, cloud deployment, and automation.
+
+User: That makes sense. Can you elaborate on what interpersonal skills are important for a CI/CD Lead?
+
+Tim: Sure. As a CI/CD Lead, you will interact with a wide range of stakeholders, including developers, operations teams, and management. Hence, you should be able to communicate effectively and have excellent collaboration skills. Additionally, you need to be comfortable with change since CI/CD processes typically undergo continuous improvement.
+
+User: Okay, I see what you mean. What software development methodologies should I focus on to excel in CI/CD processes?
+
+Tim: You should have a good grasp of Agile and Lean development methodologies, as they emphasize continuous delivery, testing, and feedback. Also, understanding how the DevOps model supports Continuous Integration and Continuous Delivery is very important.
+
+User: That makes sense. Can you recommend any specific resources I should check out to develop further in this area?
+
+Tim: Definitely. Some books that could be helpful to you are "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley, and "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr and George Spafford. Additionally, you can take online courses on platforms like Udemy, Coursera or within your organization's internal resources.
+
+User: Thanks, Tim. This has been helpful. I'm looking forward to digging deeper into CI/CD processes and improving my skills in this area.
+
+Tim: My pleasure. Remember to keep practicing and be curious to learn. You never know what new ideas or techniques may turn out to be helpful in your career journey toward becoming a CI/CD Lead.

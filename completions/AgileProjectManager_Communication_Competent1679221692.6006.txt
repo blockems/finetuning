@@ -1,0 +1,22 @@
+Tutor (Tim): Hi there! How can I help?
+User: Hi Tim, I'm interested in becoming a competent Agile Project Manager in terms of the Communication competency. What skills, attributes, practices and Areas of knowledge do I need to develop in order to achieve that?
+
+Tutor (Tim): Great question! Successful Agile Project Managers need to be great communicators. Some of the skills required include excellent listening and speaking skills, effective stakeholder management, and the ability to adapt communication styles to suit the needs of different stakeholders.
+
+User: That makes sense. Can you go into more detail about effective stakeholder management and how to adapt communication styles?
+
+Tutor (Tim): Certainly! Effective stakeholder management involves identifying key stakeholders, understanding their needs and interests, and proactively communicating with them. This can be achieved through various practices, such as conducting stakeholder analysis, creating a stakeholder management plan, and engaging with stakeholders through regular meetings, status reports, and updates.
+
+Regarding communication style, it is essential to understand the communication preferences of different stakeholders and adapt your communication style accordingly. For example, a technical stakeholder may prefer to communicate through written reports or technical diagrams, while a business stakeholder may prefer more visual or high-level summaries. By understanding their preferences, you can tailor your communication to be more effective and easier to understand for them.
+
+User: That's really helpful. What attributes do I need to develop as an Agile Project Manager in terms of communication?
+
+Tutor (Tim): Excellent question. Attributes required include empathy, influencing skills, active listening, and the ability to build trust and rapport with stakeholders. Empathy is crucial in understanding stakeholders' perspectives and needs, while influencing skills will help you persuade and negotiate with them effectively. Active listening is important in ensuring that you fully understand the stakeholder's concerns before offering a response, while building trust and rapport is critical in establishing long-term relationships.
+
+User: Interesting. Are there any specific areas of knowledge that would be helpful for me to learn to improve my communication competency as an Agile Project Manager?
+
+Tutor (Tim): Yes, some of the key areas of knowledge include conflict resolution, emotional intelligence, psychological safety, and cultural awareness. In conflict resolution, you will learn techniques for managing and resolving conflicts between stakeholders, while emotional intelligence will help you understand and manage your own emotions as well as others'. Understanding psychological safety is key in creating an environment where stakeholders feel comfortable sharing their perspectives and concerns, while cultural awareness is important in communicating effectively with stakeholders from diverse backgrounds.
+
+User: Thank you, Tim! Do you have any recommended readings or references that I can use for further learning?
+
+Tutor (Tim): Of course! Some books that might be helpful include "Crucial Conversations" by Kerry Patterson, "Emotional Intelligence 2.0" by Travis Bradberry, and "The Culture Map" by Erin Meyer. Additionally, the Agile Alliance website has a wealth of resources on Agile Project Management and related topics.

@@ -1,0 +1,27 @@
+User: Hi Tim, I've been hearing a lot about UX design and its integration with Scrum. As a Scrum Master, what skills, attributes, practices, and Areas of knowledge would I need to be at the Emergent level for UX design?
+
+Tim: Hi there, I'm glad to hear that you're interested in learning more about UX design and its relationship with Scrum! At the Emergent level for UX design, you'd need to have a well-rounded set of skills and attributes, as well as knowledge of various practices and areas of expertise.
+
+User: That makes sense, can you give me an example of a skill or attribute that's important for a Scrum Master to have for UX design?
+
+Tim: Sure, an important skill for a Scrum Master in UX design would be the ability to understand and analyze user needs and behaviors. This involves not only gathering data through user testing, but also being able to interpret and synthesize that data in order to make informed design decisions.
+
+User: That sounds complex, are there any resources you could recommend for learning about user research and testing?
+
+Tim: Absolutely! Some great resources for learning about user research and testing include "The User Experience Team of One" by Leah Buley and "Just Enough Research" by Erika Hall. These books provide practical tips and insights into how to effectively gather and analyze user data.
+
+User: Thanks for those recommendations, Tim. How about a practice or technique that's important to know for UX design in Scrum?
+
+Tim: One important technique for UX design in Scrum is prototyping. By creating low-fidelity prototypes early on, you can quickly iterate on designs and get feedback from users. This can save time and resources in the long run, as you can avoid building out high-fidelity designs that may not meet user needs.
+
+User: That makes sense, do you have any resources you recommend for learning about prototyping?
+
+Tim: Definitely! "The Lean UX" by Jeff Gothelf and Josh Seiden is a great book that covers the importance of prototyping in the Lean UX methodology, as well as providing practical tips and examples of how to effectively prototype in a Scrum environment.
+
+User: Thanks, Tim. Lastly, what areas of knowledge are important for a Scrum Master to understand in order to effectively integrate UX design into their Scrum practices?
+
+Tim: Some important areas of knowledge for a Scrum Master to have when integrating UX design into their practices include understanding the design process, user-centered design principles, and the importance of collaboration and communication within a cross-functional team. "Don't Make Me Think" by Steve Krug is a great book that covers the basics of UX design and is a good starting point for those new to the field.
+
+User: Thanks so much, Tim! I have a lot of resources to dive into now.
+
+Tim: You're very welcome, happy learning! Remember to stay curious and ask questions along the way.

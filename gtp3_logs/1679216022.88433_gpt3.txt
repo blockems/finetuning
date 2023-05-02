@@ -1,0 +1,59 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Cybersecurity for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction:
+
+Cybersecurity is a crucial competency for Business Systems Analysts, who are responsible for identifying business needs and implementing technology solutions. In today's hyper-connected business environment, cybersecurity is an essential component of any technology solution, and as such, Business Systems Analysts must be well-versed in cybersecurity practices and principles. This debate will examine the skills, practices, and areas of knowledge that Business Systems Analysts must master to operate at an emergent level in the area of cybersecurity.
+
+Skillset for Emergent Level Competency:
+
+At the emergent level competency, a Business Systems Analyst must have a deep understanding of cybersecurity principles, standards, and best practices. They also need to have the following skill set:
+
+1. Risk assessment and management: Business Systems Analysts must be able to conduct comprehensive risk assessments to understand the potential cybersecurity threats and vulnerabilities of a given system. They must also be skilled in developing and implementing effective risk management strategies to mitigate those risks.
+
+2. Security architecture: Business Systems Analysts need to be highly skilled in designing cybersecurity solutions that align with an organization's overall security architecture. This involves a deep understanding of network security, data security, and application security principles.
+
+3. Incident response and recovery: Business Systems Analysts must have a thorough understanding of incident response and recovery processes. They should be skilled in developing and implementing incident response plans to mitigate the impact of a cybersecurity incident and restore business operations in a timely manner.
+
+4. Compliance and regulation: Business Systems Analysts need to have a strong understanding of industry regulations and compliance standards, including NIST, HIPAA, and GDPR. They should be able to assess and adjust cybersecurity processes to ensure compliance with these standards.
+
+Practices for Emergent Level Competency:
+
+Business Systems Analysts must follow the industry's best practices to ensure that their organizations are protected from potential cyber-attacks. Best practices for emergent level cybersecurity competency include:
+
+1. Continuous monitoring: Business Systems Analysts need to continuously monitor systems, networks, and applications for potential security threats. They should employ a range of tools and techniques to detect and prevent security breaches.
+
+2. Regular testing: Business Systems Analysts should regularly conduct penetration testing and vulnerability scans to identify potential weaknesses in cybersecurity systems and fix them before they can be exploited.
+
+3. Security training: Business Systems Analysts should provide cybersecurity training to all employees within an organization to ensure that everyone understands the importance of cybersecurity and how to properly apply it to their work.
+
+4. Incident response drills and simulations: Business Systems Analysts should conduct regular incident response drills and simulations to ensure that the organization is prepared to respond quickly and effectively to a real cybersecurity incident.
+
+Areas of Knowledge for Emergent Level Competency:
+
+Business Systems Analysts must have a deep understanding of the following areas to operate at an emergent level in cybersecurity:
+
+1. Cybersecurity threats: Business Systems Analysts must have a comprehensive understanding of the latest cybersecurity threats and how they can impact an organization.
+
+2. Security policies and procedures: Business Systems Analysts should be familiar with industry security policies and practices, such as the OWASP Top 10, CIS Controls, and NIST SP 800-53.
+
+3. Security technologies: Business Systems Analysts must have an in-depth knowledge of security technologies such as firewalls, intrusion detection/prevention systems, and security information and event management (SIEM) systems.
+
+4. Data privacy laws: Business Systems Analysts must be fully aware of national and international laws concerning data privacy, including the EU’s General Data Protection Regulation (GDPR) and the United States’ Health Insurance Portability and Accountability Act (HIPAA).
+
+Conclusion:
+
+Business Systems Analysts are critical players in ensuring that their organizations are secure from cyber threats. To achieve an emergent level of cybersecurity competency, Business Systems Analysts must possess a range of skills, including risk assessment and management, incident response and recovery, and security architecture. They must also adhere to best practices such as continuous monitoring, regular testing, security training and incident response drills. They should have a deep understanding of cybersecurity threats, security policies and procedures, security technologies, and data privacy laws. By mastering these skills, practices, and areas of knowledge, Business Systems Analysts can effectively safeguard their organizations from cyber-attacks. 
+
+References:
+
+1. Gollmann, D. (2011). Computer security. John Wiley & Sons.
+
+2. Kim, D. (2016). The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations. IT Revolution.
+
+3. Pfleeger, C. P., Pfleeger, S. L., & Margulies, J. (2015). Security in computing. Pearson.
+
+4. Pratt, P., & Gopalakrishnan, S. (2015). Security in cloud computing. Communications of the ACM, 58(1), 56-63.

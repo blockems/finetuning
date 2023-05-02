@@ -1,0 +1,55 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Facilitation for agile program leads is a crucial competency that helps in ensuring the successful implementation of an agile program. To be competent in facilitating an agile program, one needs to possess a blend of skills, practices, and areas of knowledge. This debate will outline the essential skills, practices, and areas of knowledge required for a competent agile program lead.
+
+Skills Needed for Competent Facilitation
+
+The following are the essential skills needed to become a competent agile program lead:
+
+1. Communication: Communication is vital in any program management role. The agile program lead must communicate effectively with team members, stakeholders, and sponsors to ensure clear understanding of the program's goals, objectives, and progress.
+
+2. Leadership: An agile program lead should possess strong leadership skills to ensure that the program operates smoothly. Such skills include conflict resolution, decision-making, and problem-solving.
+
+3. Coaching and Mentoring: Coaching and mentoring skills are important in helping team members and stakeholders understand agile methodologies, techniques, and practices. The agile program lead should inspire and motivate the team to achieve success by providing guidance, training, and support as required.
+
+4. Collaboration: The agile program lead should have the ability to work collaboratively with team members, stakeholders, and management. Collaboration enables the team to solve problems, provide quality input, and share workloads more effectively.
+
+Practices Needed for Competent Facilitation
+
+The following agile practices are essential for a competent facilitator:
+
+1. Agile Leadership: An agile program lead should continuously lead, inspire, and motivate the team members towards achieving the program’s goals.
+
+2. Agile Coaching: Agile coaching helps the agile program lead to teach team members or stakeholders how to apply agile principles successfully, apply techniques, and facilitate value delivery.
+
+3. Facilitation: Being able to facilitate team meetings, feedback sessions, retrospectives, and workshops are essential skills needed for a competent agile program lead.
+
+4. Value Stream Mapping: Value stream mapping is a critical practice for identifying potential bottlenecks or issues within the program. It also enables the program lead to identify areas where process improvements can be made.
+
+Areas of Knowledge Required for Competent Facilitation
+
+To be competent in facilitation for an agile program lead, one needs to have a good understanding of the following areas:
+
+1. Agile Methodologies: The agile program lead should have a deep understanding of various agile methodologies such as Scrum, Lean, and Kanban.
+
+2. Agile Principles: A competent agile program lead should be well-versed in the 12 Agile principles as they help guide the agile delivery framework.
+
+3. Program Management: The agile program lead should possess in-depth knowledge of program management practices such as project management, risk management, and change management.
+
+4. Continuous Learning: A competent agile program lead should always seek to improve their knowledge and stay up-to-date with the latest industry trends, tools, techniques, and practices.
+
+Conclusion
+
+To be competent in facilitating for an agile program lead, one must possess a blend of skills, practices, and areas of knowledge. The skills discussed include communication, leadership, coaching, and collaboration. Practices include agile leadership, coaching, facilitation, and value stream mapping. Areas of knowledge include agile methodologies, agile principles, program management, and continuous learning. All these are critical for an agile program lead to ensure successful implementation of an agile program. 
+
+References: 
+
+1. Agile program management: http://agilemanifesto.org/ 
+2. The Scrum Guide, July 2013: http://www.scrumguides.org/
+3. Lean Software Development: An Agile Toolkit by Mary Poppendieck and Tom Poppendieck. 
+4. Agile Project Management with Scrum by Ken Schwaber. 
+5. Agile Risk Management by Alan Moran.

@@ -1,0 +1,31 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Coach is a key role in supporting organizational agility. According to the Agile Alliance, the goals of the Agile coach are to, "improve Agile practices, guide Agile teams, and lead organizational adoption." Continuous Improvement is a core competency for an Agile Coach\cite{AA}.
+
+The Agile Coach should possess skills and practices around creating a continuous learning culture within the organization, managing change and executing improvement initiatives.
+
+One of the primary skills an Agile Coach should possess is active listening. Active listening requires the coach to listen to the team and other stakeholders to identify areas for improvement. A Coach should ask questions to facilitate deep conversations with team members to fully understand the problems being faced \cite{AL}.
+
+The Coach should also possess the skill of facilitation. During continuous improvement initiatives, the coach should plan and facilitate various workshops, retrospectives, and other meetings. The coach should also help team members learn facilitation techniques that they can use to become more self-sufficient \cite{Michael}.
+
+In addition to facilitation, the Agile Coach must be skilled in collaboration. A coach needs to work closely with teams, stakeholders, and management to develop a culture where everyone is involved in continuous improvement efforts. Collaboration enables a coach to build trust and open communication channels with individuals and teams\cite{Yulia}.
+
+An Agile Coach must also have a deep understanding of Agile frameworks and methodologies. An Agile Coach should be familiar with Scrum, Kanban, and Lean methodologies. Coupled with this, the coach should be knowledgeable in Agile tools that support continuous development, such as Agile metrics, retrospectives and visual management \cite{MA}.
+
+Finally, an Agile Coach should be able to lead change efforts within the organization. Change is constant in an Agile environment, and a coach should have experience developing and demonstrating Agile adoption strategies. Agile Coaches should possess knowledge of organizational psychology and use this knowledge to work with people at all levels of the organization \cite{Shikhar}.
+
+In conclusion, An Agile Coach must have a diverse skillset that includes active listening, facilitation, collaboration, Agile methodologies, and change management. The coach should actively create a learning culture, manage change, and deploy improvement initiatives to enable the team to reach high levels of performance. 
+
+References:
+\begin{enumerate}[label=(\alph*)]
+\item Agile Alliance. Agile Coaching Competency Framework.
+\item Active Listening Techniques for Agile Coaches. Agile Alliance.
+\item Michael Sahota. "Agile Transformation". Retrieved from https://www.agilitrix.com/
+\item Yulia Kovalenko. "8 Key Skills of an Agile Coach". Retrieved from https://www.scrum.org/resources/blog/8-key-skills-agile-coach
+\item Martin Alaimo. "Continuous Improvement for Agile Teams". Retrieved from https://blog.proxcellence.net/continuous-improvement-for-agile-teams/
+\item Shikhar Verma. "The Agile Coach Role-What's Expected & How to Succeed?". Retrieved from https://www.scrum.org/resources/blog/agile-coach-role-whats-expected-how-succeed
+\end{enumerate}

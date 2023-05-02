@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Continuous Improvement for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a competent Agile Program Lead. What skills, attributes, practices and areas of knowledge should I focus on to improve my continuous improvement competency?
+
+Tim: Hi! Great to hear that you're interested in continuous improvement as an Agile Program Lead. In terms of skills, I recommend that you develop your ability to analyze data, identify areas for improvement and measure progress towards improvement goals. It's also important to have strong communication, collaboration and leadership skills, as you will be responsible for leading teams through continuous improvement efforts. 
+
+User: Thanks Tim. Can you recommend any specific practices that I should learn more about?
+
+Tim: Sure. One practice that Agile Program Leads often use is retrospective meetings. Retrospectives are a way for teams to reflect on their work and identify areas for improvement. Another helpful practice is value stream mapping, which helps teams to identify process inefficiencies and bottlenecks. You might also find it helpful to learn more about Lean principles, which emphasize reducing waste and maximizing value delivery.
+
+User: Those sound like great practices to learn. Can you recommend any specific areas of knowledge that I should focus on?
+
+Tim: Definitely. I'd recommend learning about change management, as that is a key aspect of leading continuous improvement efforts. You might also want to learn about different improvement methodologies, such as Six Sigma or Kaizen. Additionally, having a solid understanding of Agile methodologies, such as Scrum, can help you to better coordinate continuous improvement efforts across multiple teams.
+
+User: Thank you for the recommendations, Tim. Can you suggest any references that you think could be helpful?
+
+Tim: Absolutely. For change management, I recommend "Leading Change" by John Kotter. For Lean principles, I recommend "The Lean Startup" by Eric Ries. And for Scrum, I recommend "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland. These books are all great resources for developing a deeper understanding of the topics we've discussed.

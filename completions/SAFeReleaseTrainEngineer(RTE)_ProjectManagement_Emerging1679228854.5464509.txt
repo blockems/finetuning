@@ -1,0 +1,25 @@
+Tutor (Tim): Good afternoon! How can I help you today?
+
+User: Hi Tim, I'm hoping to pick your brain a bit about the skills, attributes, practices and Areas of knowledge needed to be at the level of Emerging for the competency Project Management for a SAFe Release Train Engineer (RTE).
+
+Tutor (Tim): Of course! Let's start with some foundational knowledge. SAFe Release Train Engineer (RTE) is a critical role in the execution of SAFe. The RTE is responsible for facilitating Agile Release Trains (ARTs) and program level events, and driving the continuous improvement of the organization. Therefore, the Project Management competence is critical for success in this role.
+
+User: That makes sense. Can you give me some guidance on what skills and attributes are important for someone in this role?
+
+Tutor (Tim): Certainly. It is important that the RTE possess strong communication skills to facilitate collaboration between teams, stakeholders and executives. Additionally, strong problem-solving and analytical skills are necessary to understand complex product and program requirements. A good RTE should also have a deep understanding of the Agile manifesto and principles, enterprise systems thinking, and a strong grasp of project management methodologies.
+
+User: Thank you for your insights, Tim. Are there any particular practices that you find helpful in this role?
+
+Tutor (Tim): In my experience, the RTE should adopt an Agile mindset which helps them in responding to change, delivering value to the customers and maximizing the product and system flow. He or she should seek to understand organizational structure, culture and dynamics in order to remove impediments and facilitate progress. Event facilitation techniques, such as Lean coffee or Open Space, are also helpful for driving collaboration and team engagement. 
+
+User: That all makes a lot of sense, Tim. Are there any particular areas of knowledge that are key for someone to have at the Emerging level in this competence?
+
+Tutor (Tim): At an emerging level, the RTE should seek to possess knowledge in foundational Agile framework, process and methodology, including SAFe framework and DevOps principles, as well as familiarity with PMP and other project management methodologies. They should also be familiar with Metrics-driven performance management, Kanban Systems, and Continuous Delivery Pipelines, as well as continuous improvement and problem-solving methodologies such as PDCA.
+
+User: This has all been really helpful, Tim. Do you have any specific references or resources that I can explore further on this topic?
+
+Tutor (Tim): Absolutely! The SAFe RTE (Release Train Engineer) page provides detailed information of the role, including its competencies, knowledge and skills. The Agile Alliance and Project Management Institute are also great resources to explore foundational Agile framework, processes and methodologies. Additionally, the book "The Lean Product Playbook" by Dan Olsen provides great insight into the Product Management aspect of the job. 
+
+User: Wow, thank you Tim for all the resources and insights. It was great chatting with you!
+
+Tutor (Tim): You're welcome! Remember, curiosity is key in any learning experience. Don't hesitate to reach out with any further questions or insights.

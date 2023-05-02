@@ -1,0 +1,23 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Risk Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Debating the skills, practices, and areas of knowledge required for an Agile Delivery Manager to achieve the level of "Emergent" in risk management competency requires a deep consideration of the application of Agile principles in managing risks. To achieve an Emergent level, Agile Delivery Managers must demonstrate an understanding of risk management principles that are specific to Agile project delivery.
+
+Agile Delivery Managers require skills such as critical thinking, problem-solving, and the ability to prioritize risk management processes. They should have a deep understanding of Agile principles, including Agile frameworks such as Kanban, Scrum, and Lean. They also need a thorough understanding of Agile risk management frameworks such as Risk Poker, Risk Audits, and Risk Mitigation Plans.
+
+Additionally, Agile Delivery Managers require knowledge of Agile practices in risk management such as Dependency Management, Test-Driven Development (TDD), Continuous Integration (CI), and Continuous Deployment (CD). These practices require that an Agile Delivery Manager has a strong foundation in technical practices and development tools to understand how risks can impact various aspects of the project delivery process.
+
+The Agile Delivery Manager must be able to apply various techniques specific to Agile risk management such as Agile Risk Management Frameworks, Retrospectives, and Agile Risk and Issue Management Processes. These techniques help to identify, analyze, and mitigate the risks effectively.
+
+Moreover, to achieve an Emergent level of risk management competency, an Agile Delivery Manager must be continuously learning and adapting. This requires keeping up to date with emerging Agile principles, practices, and trends, and actively participating in the Agile community. They must also be familiar with Agile risk management certifications such as PMI-ACP, ICAgile, and SAFe Agile for risk management.
+
+To summarize, an Agile Delivery Manager who has Emergent level of risk management competency requires a unique set of skills, knowledge, and practices. They must have a deep understanding of Agile principles, practices, and frameworks, coupled with technical competence and continuous learning. References that support these concepts include: 
+
+1. Agile Risk Management Handbook - https://confluence.atlassian.com/marketplace/agile-risk-management-handbook-360677877.html
+2. Agile Risk Management and Governance - https://www.pmi.org/learning/library/agile-risk-management-governance-10159
+3. Agile Project Management: Concepts, Methodologies, Tools, and Practices - https://www.pmi.org/learning/publications/books/agile-project-management
+
+Overall, an Agile Risk Manager who can successfully navigate complex projects with agility requires a unique combination of skills and practices, with a deep understanding of Agile principles and continuous learning.

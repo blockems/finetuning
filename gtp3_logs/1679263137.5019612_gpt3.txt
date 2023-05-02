@@ -1,0 +1,34 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Blockchain for a Tech Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about the skills, attributes, practices, and areas of knowledge needed to be at the level of Emergent for the competency Blockchain for a Tech Lead. 
+
+Tim: Hi, great question! To be an Emergent-level Tech Lead in the area of Blockchain, you would need a strong foundation in computer science, cryptography, and distributed systems. Additionally, skills in software engineering, understanding of the blockchain ecosystem, and experience in smart contract development are essential. 
+
+User: Can you provide some examples of practices that would be important to adopt in this role?
+
+Tim: Absolutely! A Tech Lead at the Emergent level should be practicing agile project management methodologies to manage the development of blockchain-based projects. Additionally, they should prioritize continuous learning and reflection, attending industry conferences, and seeking out opportunities to learn from those with more expertise. It's critical to stay up to date with the latest advancements in the field to lead a team effectively.
+
+User: That makes sense. What about attributes that are important for a Tech Lead in this space?
+
+Tim: Collaboration, communication, and emotional intelligence are essential attributes for a Tech Lead in the blockchain space. The emergent-level Tech Lead needs to be able to communicate complex concepts to technical and non-technical team members alike, foster a culture of experimentation and innovation, and motivate their team to achieve their goals. 
+
+User: Fascinating. What areas of knowledge should I focus on to improve my proficiency in this area?
+
+Tim: There are several crucial areas of knowledge to focus on for an Emergent-level Tech Lead in the blockchain space. Firstly, you should have a deep understanding of how blockchain works, its various applications, and strengths and limitations. Secondly, knowledge of the economic principles that underpin blockchain applications would also be valuable, as many blockchain projects require the use of cryptocurrencies. You should also make an effort to learn more about smart contract development, consensus algorithms, and the broader landscape of blockchain regulation and governance. 
+
+User: Thank you, Tim. This was really helpful. Do you have any recommended sources of information or any further reading to suggest?
+
+Tim: Sure! Here are a few recommendations to get you started:
+1. "Mastering Blockchain" by Imran Bashir
+2. "Building Blockchain Projects" by Narayan Prusty
+3. "Blockchain Basics: A Non-Technical Introduction in 25 Steps" by Daniel Drescher
+4. "The Business Blockchain" by William Mougayar.
+I hope this helps!

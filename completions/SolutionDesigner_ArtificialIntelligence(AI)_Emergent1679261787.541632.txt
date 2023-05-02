@@ -1,0 +1,19 @@
+User: Hi Tim, I'm interested in becoming competent in Artificial Intelligence (AI) as a Solution Designer. Can you tell me what skills, attributes, practices and Areas of knowledge I need to have to be at the level of Emergent in this competency?
+
+Tim: Hi! That's a great question. To become competent in AI as a Solution Designer, you need to have a solid background in mathematics, statistics, and computer science. In terms of skills, you need to be proficient in programming, algorithms, and data analytics. Additionally, you need to possess strong problem solving, communication, and critical thinking skills. Lastly, it is important to have a deep understanding of AI technologies and their applications.
+
+User: Thanks for the response, Tim. Can you further elaborate on the specific practices I need to master to become competent in AI?
+
+Tim: Sure, mastering AI requires continuous learning and practice. You need to stay updated with the latest development and trends in the field. You need to have the ability to recognize opportunities and challenges and propose solutions that apply AI techniques. Learning to use and understand the popular AI tools like TensorFlow or Keras, and Python libraries for Statistical Learning is also important. Additionally, developing the capability to handle sensitive AI data, model fairness and privacy concerns are also key practices.
+
+User: That makes sense. Are there any particular areas of knowledge I should focus on to gain this competence?
+
+Tim: There are several areas of knowledge you need to focus on. Firstly, it's essential to understand the AI application in different domains such as healthcare, finance, education or transportation. Secondly, mastering the different AI techniques such as supervised or unsupervised learning, decision trees and clustering algorithms is critical. Thirdly, having knowledge of cloud platforms and big data management is a plus.
+
+User: Thanks, Tim. Are there any resources you would recommend as supporting references so I can learn more about AI and its practical applications?
+
+Tim: Absolutely. Stanford University – Machine Learning course and Introduction to AI – Columbia University are good starting points. Additionally, “Python Machine Learning” by Sebastian Raschka and “Fundamentals of Deep Learning” by Nikhil Buduma are also excellent books to refer to. There are also online resources like Coursera, edX or Kaggle which include a variety of online courses, challenges, reading material and discussion forums to help you stay connected with the community. 
+
+User: Thanks, Tim, for the comprehensive response, and guidance. I'm excited to learn more and apply it to my career as a Solution Designer.
+
+Tim: You're welcome! I look forward to hearing about your progress in AI as a Solution Designer. Remember to keep curious, practice and for sure reference additional sources via School Library or online sources. Good luck!

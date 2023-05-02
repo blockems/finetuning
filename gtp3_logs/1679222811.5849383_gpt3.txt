@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Cybersecurity for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor Tim: Hi there! How's it going? Are you ready to talk cybersecurity for business systems analysts?
+
+User: Yes, I am! I've been trying to learn more about it, but I'm not sure where to start.
+
+Tutor Tim: No worries! I'm here to help. First things first, let's talk about the skills needed for competency in cybersecurity for business systems analysts. Some skills that are essential are analytical thinking, problem-solving, attention to detail, technical literacy, and communication skills.
+
+User: That makes sense. What about attributes? Are there any characteristics that would make someone more suitable for this work?
+
+Tutor Tim: Absolutely. Some attributes that are highly desirable include a strong work ethic, adaptability, resourcefulness, critical thinking, and creativity. And, of course, a passion for cybersecurity is always a plus.
+
+User: Interesting. What kind of practices should one engage in to improve in this competency?
+
+Tutor Tim: There are numerous practices that a business systems analyst can use to improve their cybersecurity skills. These include staying up-to-date on industry trends and best practices, continuously learning and expanding your knowledge base, participating in cybersecurity conferences and networking events, and engaging in real-world experience through internships, apprenticeships, or other forms of on-the-job training.
+
+User: That's a lot to consider. What areas of knowledge should I focus on to become competent in cybersecurity as a business systems analyst?
+
+Tutor Tim: In terms of knowledge, it's important to have a deep understanding of information security principles, network security, operating system security, application security, cloud security, and risk management. You'll also want to be familiar with cybersecurity regulations and compliance standards, such as HIPAA, PCI-DSS, and GDPR.
+
+User: Wow, this is a lot to take in. Do you have any references or resources that I can use to deepen my knowledge in these areas?
+
+Tutor Tim: Absolutely! To start, I would recommend checking out the latest industry reports from organizations like the International Association of Computer Science and Information Technology (IACSIT), the International Association of Computer Science and Information Technology (IACSIT), and the International Journal of Cyber-Security and Digital Forensics. You can also look into specialized training courses, certifications, and online resources that are available through organizations like CompTIA, ISACA, and the SANS Institute.
+
+User: Thank you so much for all this information. I'm really looking forward to diving deeper into this and becoming competent in cybersecurity for business systems analysts.
+
+Tutor Tim: You're welcome! And remember: never stop being curious. The world of cybersecurity is constantly changing and evolving, so it's important to stay up-to-date on the latest trends, technologies, and best practices. Always keep learning and exploring!

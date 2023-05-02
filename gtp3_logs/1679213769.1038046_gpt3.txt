@@ -1,0 +1,50 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Training and Development for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching is a skill that requires a range of competencies in order to be successful. In this discussion, we explore the skills, practices and Areas of knowledge needed to be considered competent in the competency of Training and Development for an Agile Coach.
+
+Skills:
+
+1. Facilitation - An Agile Coach needs to be competent in creating a space that encourages participation and collaboration among team members. They should be able to facilitate effective conversations, especially during ceremonies like retrospectives and stand-ups.
+
+2. Active Listening - Agile coaches need to listen actively to team members to understand their perspectives, challenges and pain points. This is important when coaching teams on how to work together effectively within an Agile environment.
+
+3. Conflict Resolution - Conflicts are inevitable when working in a team setting. An Agile Coach should be proficient in identifying and resolving conflicts.
+
+4. Communication - Communication is a crucial skill for an Agile Coach. They should be able to communicate effectively with all stakeholders, especially during Agile ceremonies and other team meetings.
+
+Practices:
+
+1. Coaching - An Agile Coach should be skilled in coaching team members and stakeholders. They should be able to guide and mentor the team on the Agile methodologies and practices, and help them achieve their goals.
+
+2. Agile Facilitation - Agile Facilitation is a practice that helps Agile Coaches facilitate team meetings and ceremonies effectively. An Agile Coach should master this practice to help team members work effectively together.
+
+3. Agile Planning - An Agile Coach should be proficient in Agile planning. They should be able to guide teams on how to create and manage Agile backlogs, and how to facilitate Agile planning ceremonies such as sprint planning and release planning.
+
+4. Process Improvement - Agile Coaches should be skilled in identifying opportunities for process improvements within teams. They should be able to guide the team to improve their processes and help them work more efficiently.
+ 
+
+Areas of Knowledge:
+
+1. Agile Methodologies - Agile Coaches must have a strong understanding of Agile methodologies including Scrum, Kanban, and Lean. A thorough understanding of Agile values, principles, and practices is necessary.
+
+2. Team Dynamics - Agile Coaches need to have a thorough understanding of team dynamics principles for effective coaching. Knowing how to identify team dysfunctions and foster healthy team dynamics is essential.
+
+3. Change Management - Agile coaches should have knowledge of change management practices. They should understand how to lead organizational change through the adoption of Agile methodologies.
+
+4. Organizational Culture - Agile Coaches need to have a deep understanding of organizational culture. They should be able to identify and assess the impact of the organization’s culture on team performance. 
+
+References:
+
+1. Lyssa Adkins. Coaching Agile Teams: A Companion for Scrum Masters, Agile Coaches, and Project Managers in Transition. Addison-Wesley Professional, 2010.
+
+2. Lisa Crispin and Janet Gregory. Agile Testing: A Practical Guide for Testers and Agile Teams. Addison-Wesley Professional, 2009.
+
+3. Jeff Sutherland. Scrum: The Art of Doing Twice the Work in Half the Time. Crown Publishing Group, 2014.
+
+4. David Marquet. Turn The Ship Around!: A True Story of Turning Followers into Leaders. Penguin Books Ltd, 2013. 
+
+In conclusion, Agile Coaches need to be competent in a range of skills, practices, and areas of knowledge. Agile coaching is a complex role, and there are many competencies that an Agile Coach must have in order to be effective. By mastering these competencies, Agile Coaches can help teams achieve their goals and work more efficiently.

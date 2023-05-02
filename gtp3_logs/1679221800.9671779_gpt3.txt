@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm curious about what skills and attributes are needed to become a lead for the competency Strategic Planning as an Agile Project Manager. Can you shed some light on this for me?
+
+Tim: Hi there! Great to hear you’re interested in this topic. Becoming a lead in strategic planning as an Agile Project Manager requires a strong skill set in both Agile methodology and strategic planning. You should also possess excellent communication, collaboration, and leadership skills. To dive deeper, let’s start with Agile methodology. 
+
+User: I am familiar with Agile methodology, but would like to know more about the Agile principles specifically related to strategic planning.
+
+Tim: Excellent. Agile methodology involves a set of values and principles that guide the team towards working collaboratively and producing value at regular intervals. When it comes to strategic planning, the Agile principles of customer collaboration and continuous improvement are especially important. These principles require that you involve stakeholders in the strategic planning process and constantly reassess and refine your plan. 
+
+User: That makes sense. So how can I improve my skills in strategic planning?
+
+Tim: In terms of skills, to become a lead in strategic planning as an Agile Project Manager you must have a solid understanding of market analysis, strong analytical skills, and excellent problem-solving skills. You will also need to develop skills in prioritization, risk management, and project management methodologies. 
+
+User: Can you suggest some practices that could help me improve in these areas?
+
+Tim: Definitely. There are a few practices you could adopt to improve your skills:
+
+1. Reading widely: Stay up to date with industry trends and insights by reading books, journals, and attending seminars and webinars.
+2. Practicing critical thinking: Being able to think critically and strategically is crucial when it comes to strategic planning. You could practice by analyzing industry reports, conducting research and challenging assumptions. 
+3. Continuous learning: Stay curious and keep learning new techniques and technologies that could benefit your organization. You could also consider professional certifications such as SAFe or PMI-ACP to validate your expertise.
+
+User: Thanks for the guidance, Tim. Could you suggest some recommended resources that would be useful for me to read about strategic planning in Agile settings?
+
+Tim: Some of the best resources I would recommend include "Agile Estimating and Planning" by Mike Cohn, "The Lean Startup" by Eric Ries, and "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland. These resources go in-depth on Agile practices and give practical advice on strategic planning. 
+
+User: That's helpful, thanks Tim. Finally, could you give me an example of how you have used your strategic planning skills as an Agile Project Manager?
+
+Tim: Sure! In my experience, there was a project where we were over budget and behind schedule. Using my strategic planning skills, I collaborated with the team leads to reassess our priorities and develop a new plan with milestones that would enable us to complete the project within the remaining budget and timeline. This involved using Agile principles and techniques like Scrum, Lean, and Kanban to deliver value early and often. 
+
+User: That sounds great. Thanks for sharing your experience and expertise, Tim. Your insights have been very helpful!
+
+Tim: You're welcome! It was great to discuss the topic with you. Keep up the good work, and don't hesitate to reach out if you have any more questions!

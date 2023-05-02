@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency DevOps for a RTE (Release Train Engineer).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm trying to gain deep insight on the DevOps competency for a Release Train Engineer. What are the key skills, attributes, practices and areas of knowledge needed to reach the Emergent level?
+
+Tim: Hi there! That's a great question. To begin with, some important skills and attributes required for a Release Train Engineer (RTE) to reach the Emergent level in DevOps include strong problem-solving abilities, excellent communication skills, a collaborative mindset, adaptability, and a deep understanding of Agile and DevOps principles. 
+
+User: That makes sense. Can you elaborate on the practices and areas of knowledge that are critical for an RTE to possess?
+
+Tim: Sure! In terms of practices, RTEs should be adept at continuous integration and deployment, test automation, version control and configuration management, virtualization and containerization, and monitoring and logging. When it comes to areas of knowledge, RTEs should have a deep understanding of the Agile Release Train, Lean-Agile budgeting, the Lean Startup approach, and the principles of Value Stream Mapping.
+
+User: That's helpful, Tim. Can you provide some specific references I can use to explore these concepts further?
+
+Tim: Of course! Here are some references you may find helpful: 
+
+1. "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation" by Jez Humble and David Farley
+2. "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" by Gene Kim, Jez Humble, Patrick Debois, and John Willis
+3. "Agile Estimating and Planning" by Mike Cohn
+4. "The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses" by Eric Ries
+5. "Value Stream Mapping: How to Visualize Work and Align Leadership for Organizational Transformation" by Karen Martin and Mike Osterling. 
+
+I hope these resources are helpful to you in your quest to become an expert Emergent level DevOps RTE!

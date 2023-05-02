@@ -1,0 +1,29 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Agile Methodologies for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Sure, I'd be happy to facilitate this debate! 
+
+To start off, let's define the competency of Agile Methodologies for a CI/CD Lead. 
+
+According to the Agile Alliance, Agile methodology refers to a set of values and principles for software development that prioritize customer satisfaction, collaboration, and responsiveness to change. CI/CD, on the other hand, refers to the practice of continuous integration and continuous delivery, where code changes are automatically built, tested, and deployed to production. 
+
+A CI/CD Lead would therefore need to have a deep understanding of both Agile methodologies and CI/CD practices in order to effectively lead a team or project in this domain. 
+
+So, what specific skills, practices, and areas of knowledge should one have to be considered competent in this competency? 
+
+Let's start with skills. A CI/CD Lead should have strong leadership and communication skills, as they will be leading a team and collaborating with stakeholders across the organization. They should also have a deep understanding of software development lifecycles and be able to identify and implement improvements to the process. Additionally, they should have technical skills related to automation, testing, and deployment processes. 
+
+Moving on to practices - a CI/CD Lead should be well-versed in Agile methodologies such as Scrum, Kanban, and Lean. They should be able to effectively facilitate Agile ceremonies such as sprint planning, daily stand-ups, and retrospectives. In terms of CI/CD practices, they should have experience with tools such as Jenkins, Git, and Docker, and understand how to implement automated testing and deployment pipelines. 
+
+Finally, areas of knowledge. A CI/CD Lead should have a deep understanding of software development methodologies, Cloud computing and DevOps practices, as well as recent technological advancements in the field. They should also be familiar with industry standards and best practices, such as the Continuous Delivery maturity model and the Agile Manifesto. 
+
+To support these arguments, we can reference some reputable sources in the field:
+
+- The Agile Alliance's site (https://www.agilealliance.org/agile101/) provides a comprehensive overview of Agile methodologies 
+- The CI/CD pipeline guide by GitLab (https://about.gitlab.com/continuous-integration/) provides an in-depth look at CI/CD practices 
+- The DevOps Institute's competency framework (https://devopsinstitute.com/competency-framework/) outlines the necessary skills, knowledge, and abilities for DevOps professionals 
+
+Overall, becoming competent in Agile Methodologies for a CI/CD Lead requires a combination of technical skills, leadership abilities, and an understanding of software development methodologies and industry practices.

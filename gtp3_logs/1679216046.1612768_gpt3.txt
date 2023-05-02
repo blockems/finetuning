@@ -1,0 +1,33 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Cloud Computing for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction
+
+Cloud computing has revolutionized the way businesses operate in modern times. As businesses transform their operations to embrace this technology, the demand for competent Cloud Computing Analysts has increased. The competency of such analysts is classified at four levels based on their skills, practices, and knowledge areas. This paper focuses on the skills, practices and knowledge areas required of a Business Systems Analyst to attain the level of Emergent in Cloud Computing competency.
+
+Skills
+
+An Emergent Business Systems Analyst should possess skills in Cloud Computing areas, including Infrastructure as a Service (IaaS), Platform as a Service (PaaS), Software as a Service (SaaS), Virtualization, and Cloud Security. The analyst must be able to identify, analyze and evaluate the feasibility of cloud computing solutions in various areas of the business. This involves a good understanding of modern virtualization technologies, programming languages, and software development tools that are common in cloud environments. The IIBA (2020) identifies the need for Business Analysis (BA) certification to develop essential cloud computing skills.
+
+Practices
+
+Practicing agile methodologies to implementation of cloud computing solutions is paramount, and Business Systems Analysts must be familiar with Agile and DevOps practices. They should be able to work in teams in agile environments, develop user stories, and create product backlogs. Additionally, they should be familiar with cloud governance, cloud service management, and industry best practices such as ITIL and COBIT (Cloud Security Alliance, 2020). By embracing DevOps, they can ensure continuous delivery of reliable and robust cloud-based applications and services.
+
+Knowledge Areas
+
+An effective approach for Emergent Business Systems Analysts in Cloud Computing is to identify the knowledge areas that are pertinent in their career. They should be fluent in cloud computing architectures, including cloud-specific design principles, multi-tenant environments, and migration strategies (Hassan & Shahzad, 2019). They should also possess cloud computing knowledge spanning across various technical domains such as networking, databases, and storage. Besides technical knowledge, Business System Analysts should also have a fundamental understanding of Cloud Economics, Cloud Cost Management, and Regulatory and Compliance issues.
+
+Conclusion
+
+In conclusion, achieving Emergent level of competency for a Business Systems Analyst in Cloud Computing requires a wide range of skills, practices, and knowledge areas. The analyst should have a strong understanding of IaaS, PaaS, and SaaS, and should be familiar with Cloud Security. The adoption of agile methodologies and practices such as DevOps increases the effectiveness of the analyst in delivering reliable and high-performing cloud solutions. Finally, the Analyst should have a comprehensive understanding of cloud computing architectures and economic models, among other factors.
+
+References
+
+International Institute of Business Analysis. (2020). BABOK Guide: Business analysis for cloud computing. Toronto, ON: IIBA.
+
+Cloud Security Alliance. (2020). Cloud control matrix. Retrieved from https://cloudsecurityalliance.org/artifacts/ccm/
+
+Hassan, M., & Shahzad, B. (2019). Cloud computing: Principles and paradigms (2nd ed.). Boca Raton, FL: CRC Press.

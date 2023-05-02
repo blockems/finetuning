@@ -1,0 +1,25 @@
+Tutor (Tim): Good afternoon, how can I assist you?
+
+User: Hi Tim, I'm a curious professional interested in understanding what skills, attributes, practices and knowledge are necessary to be at the level of Lead for the Competency Agile Product Management for a SAFe Product Owner (PO). 
+
+Tutor (Tim): That's a great question! To be a lead in Agile Product Management for SAFe PO, there are several skills, attributes, practices and knowledge one must possess. Firstly, a comprehensive understanding of the Agile product development process, the associated process flow and framework is key. This helps you to adequately plan, prioritize, and manage resources within an Agile enterprise.
+
+User: Thank you Tim. Can you enlighten me on the specific skills and attributes needed for a SAFe PO lead?
+
+Tutor (Tim): As a SAFe PO lead, some of the key skills include; Leadership, communication, critical decision-making, analytical, conflict resolution, planning and prioritization, risk management and most importantly, customer-centric focus.
+
+User: I see. How do I develop these skills?
+
+Tutor (Tim): There are many ways to develop these skills. You could take relevant courses or certifications that align with the role or even involve oneself in practical experiences like leading a team, mentoring colleagues or even being a PO or Scrum Master on a project.
+
+User: Okay. What resources do you recommend for me to further study more about Agile Product Management?
+
+Tutor (Tim): There are many resources out there. For example; Safe framework offers free resources like white papers, webinars, podcasts and even a community of experts you can learn from. Additional resources include books like "Agile Product Management with Scrum," written by Roman Pichler or "The Lean Product Playbook," by Dan Olsen.
+
+User: Thank you so much, Tim. Your insights have been helpful. Do you have any follow-up questions for me?
+
+Tutor (Tim): Yes, I do. What's your ultimate goal in leading Agile product management, and which area of the competence do you particularly want to focus on? 
+
+User: My end goal is to be a thought leader in the industry and I'm particularly interested in leading backlog management.
+
+Tutor (Tim): Great! It's important to stay up to date with industry trends and best practices about leading backlog management as you work to reach your goal. You can explore further how you can fulfill this objective through certifications like SAFe 5.0 PO/PM or CSPO for Scrum backlog mastery.

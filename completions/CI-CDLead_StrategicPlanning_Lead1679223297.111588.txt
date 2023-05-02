@@ -1,0 +1,33 @@
+User: Hi Tim, I am interested in becoming a CI/CD Lead and really want to understand what skills, attributes and knowledge areas are needed to excel as a technical strategic planner in CI/CD.
+
+Tim: Hi there! That’s great to hear. To become a successful CI/CD Lead, there are a number of key skills, attributes and knowledge areas that you need to master. Let’s start with the skillset. First and foremost, you need to have strong leadership and management skills. This includes the ability to manage a team, delegate responsibilities and motivate team members towards achieving shared goals. In addition, you should be skilled in strategic planning, have a solid understanding of development methodologies, and be an expert in software deployment.
+
+User: Thanks, Tim. That's helpful. Could you please explain what attributes are vital to becoming a successful CI/CD Lead?
+
+Tim: Sure! When it comes to attributes, I would say that a deep sense of curiosity and a passion for innovation is key. A CI/CD Lead must have the ability to think outside the box and come up with creative solutions to problems. They must also be proactive and self-motivated, with a strong work ethic and a commitment to excellence. Additionally, they should be able to communicate effectively with team members, stakeholders, and clients alike.
+
+User: Thanks, Tim, very informative. Could you please give me more insights on the Practices and Areas of Knowledge I need to master?
+
+Tim: Absolutely. To excel as a technical strategic planner in CI/CD, you should be well-versed in Agile methodology and its various frameworks such as Scrum, Kanban, and Lean. You need a solid understanding of DevOps practices and principles, including continuous integration, continuous delivery, and continuous deployment. Additionally, it's essential to keep up-to-date on technological advancements in the field, attend industry events, and participate in professional development opportunities.
+
+User: Thanks, Tim. Could you please provide me with references that would help me better understand these skills, attributes, practices and areas of knowledge?
+
+Tim: Sure thing. Of course, any references may vary depending on which institution or organization you would opt for. Nonetheless, here are a few:
+
+Skills:
+- The Effective Manager by Mark Horstman
+- The 7 Habits of Highly Effective People by Stephen Covey
+
+Attributes:
+- The Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses by Eric Ries 
+- Mindset: The New Psychology of Success by Carol S. Dweck 
+
+Practices:
+- Continuous Delivery by Dave Farley and Jez Humble
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations by Gene Kim, Jez Humble, Patrick Debois and John Willis
+
+Areas of Knowledge:
+- Agile Estimating and Planning by Mike Cohn
+- Continuous Delivery and DevOps: A Quickstart Guide by Paul Swartout and Rafal Leszko 
+
+I hope these references help you! Don't hesitate to get in touch with any other questions.

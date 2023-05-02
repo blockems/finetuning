@@ -1,0 +1,31 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaches and program managers agree on the importance of communication for business systems analysts. Communication is one of the most important competencies for BAs, as the job requires communicating with a variety of stakeholders with different backgrounds, technical expertise, and expectations. The International Institute of Business Analysis (IIBA) identifies communication as one of the key competencies for business analysts, stating that "Effective communication is the key to the success of any project, and business analysts must excel at communication" (IIBA, 2015, p. 49).
+
+To reach the level of competency as a communicator, business systems analysts must possess a number of skills which include:
+
+1. Verbal Communication Skills: BAs must be able to articulate their ideas to stakeholders in a clear and concise manner, while also being able to actively listen and understand stakeholder feedback.
+
+2. Written Communication Skills: BAs should be able to write effectively by creating clear, concise, and comprehensive documents like requirement specifications, functional requirements documentation, and user stories.
+
+3. Interpersonal Communication Skills: BAs should have strong interpersonal skills to build and maintain relationships with stakeholders. This requires strong human relation skills to manage conflict, build rapport and create positive change in individuals.
+
+4. Effective Presentation Skills: BAs must learn to create stunning and effective presentations to be able to convey complex ideas.
+
+5. Active Listening Skills: BAs should be able to actively listen to stakeholders' concerns, feedback, and requirements. This requires being an effective listener by paying attention to non-verbal communication, asking the right questions to understand stakeholders' perspectives and perspectives, and understanding that requirements may not be exact the way it was communicated.
+
+6. Negotiation Skills: Business systems analysts need to handle negotiations with stakeholders, which requires a flexible and collaborative approach to deal with divergent viewpoints.
+
+7. Conflict Management Skills: Business systems analysts need to have conflict management skills to manage conflicts among stakeholders that may arise during a project. It is important to help everyone reach a mutually beneficial agreement by leveraging emotional intelligence and change management principles.
+
+In conclusion, communication is a critical competency that business systems analysts must possess to be successful in their role. The previously mentioned competencies embody the level at which competencies for BAs are encountered. The IIBA Business Analysis Competency Framework outlines many of the necessary skills a BA requires to be Compentent in communication. By continuously sharpening their communication skills, BAs can create an effective partnership with stakeholders, even under difficult conditions.
+
+References:
+
+IIBA. (2015). A guide to the business analysis body of knowledge (BABoK guide) (Version 3.0 ed.). International Institute of Business Analysis. 
+
+Young, R., & E. Kubiak, D. (2015). Earn Your Business Analyst Certification, A Step-by-Step Guide to IIBA Certification. Exalt Press.

@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Leadership for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, can you advise me on what skills, attributes, practices and Areas of Knowledge are required to be at the Lead level for the competency Leadership for a Agile Project Manager?
+
+Tim: Hi there! Great question. To be at the Lead level for the competency Leadership for an Agile Project Manager, one must possess a wide range of skills, attributes, practices and Areas of Knowledge. 
+
+User: Can you be more specific about what's required?
+
+Tim: Sure. Some of the key skills includes strong communication skills, the ability to lead and inspire a team, the ability to manage complex projects, and the ability to think strategically. One must also be an expert in Agile methodologies, and be proficient in various Agile tools and techniques.
+
+User: That sounds great. What about the attributes?
+
+Tim: Some of the key attributes required include being adaptable, having strong problem-solving skills, being able to work well under pressure, being a good listener, and having strong leadership skills.
+
+User: Can you suggest any practices that would be helpful to develop these attributes and skills?
+
+Tim: Absolutely. Practicing active listening, taking time to reflect on experiences, taking charge of difficult conversations through mediation, and building strong relationships with team members and stakeholders can really help in developing these attributes and skills.
+
+User: That makes sense. What about the Areas of Knowledge?
+
+Tim: Knowledge of Agile methodologies and principles, project management, team management, strategic planning, risk management, and stakeholder engagement are all essential areas of knowledge for a Lead Agile Project Manager. 
+
+User: Thank you for the thorough response, Tim. Do you have any references to support this information?
+
+Tim: Sure. Some great resources to refer to include the Agile Alliance website, the Scrum Alliance website, and the Project Management Institute’s Agile Practice Guide. Additionally, the book “Agile Estimation and Planning” by Mike Cohn is a great resource for Agile Project Managers.

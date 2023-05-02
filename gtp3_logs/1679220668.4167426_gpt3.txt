@@ -1,0 +1,45 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Risk Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, thanks for chatting with me today. I'm really interested in understanding the skills and attributes necessary to be at the level of Emergent for the competency of Risk Management for an Agile Delivery Manager. Could you provide any insights?
+
+Tim: Hi User, great to hear from you. Being an Agile Delivery Manager requires a range of skills to manage and mitigate risks effectively. Some of the critical skills and attributes required include:
+
+1. Understanding of Agile methodologies and their application in managing risks
+2. Ability to identify potential risks and implement strategies to mitigate them
+3. Strong project management and communication skills to ensure risks are addressed in a timely and effective manner
+
+In addition to the above, an Agile Delivery Manager must have knowledge and expertise in various areas such as:
+
+1. Risk identification and assessment
+2. Risk analysis and prioritization
+3. Risk mitigation and management strategies
+4. Compliance and regulations related to risk management
+
+User: Thank you, Tim. Could you provide me with some references to support these skills and areas of knowledge?
+
+Tim: Sure, here are a few references:
+
+1. Scaled Agile Framework (SAFe) – https://www.scaledagileframework.com/
+2. AgileRiskManagement.com – https://www.agileriskmanagement.com/
+3. Project Management Institute (PMI) – https://www.pmi.org/
+
+These resources cover a range of topics related to Agile methodology, risk management, and project management, and provide practical insights and guidance for Agile Delivery Managers.
+
+User: Thanks Tim, this is great. Can you provide me some follow up questions to help me spur my curiosity around this topic?
+
+Tim: Absolutely! Here are some questions that you can explore:
+
+1. What are the challenges that an Agile Delivery Manager can face while mitigating risks?
+2. How can Agile methodology support risk management in complex projects?
+3. What role does effective communication play in managing risks in an Agile environment?
+4. How can an Agile Delivery Manager ensure that risks are continuously monitored and addressed throughout the project's lifecycle?
+
+These are just a few starting points to explore the topic further. Let me know if you have any other questions, or need any additional assistance.

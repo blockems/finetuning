@@ -1,0 +1,34 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming a DevOps consultant, and I have some questions about the Communication competency. Can you give me an overview of the skills, attributes, practices, and areas of knowledge needed to be competent in Communication as a DevOps consultant?
+
+Tim: Hi. That's a great question! Being competent in Communication as a DevOps consultant requires a combination of technical and soft skills, as well as certain practices and areas of knowledge. Let's start with the technical skills. Technical skills are essential in DevOps consultancy as you need to understand, among other things, automation, continuous integration, and continuous delivery.
+
+You must also have strong soft skills to interact with various stakeholders on different levels. I recommend that you start by improving your written and verbal communication skills as you will be expected to communicate effectively with your clients, team members, and other stakeholders in the organization. Additionally, problem-solving and teamwork are highly valued soft skills in DevOps consultancy.
+
+To improve your Communication competence, you should also learn and practice the best communication practices. For instance, active listening, collaboration, and feedback frameworks, which are essential components of DevOps methodologies, such as Agile and Lean.
+
+When it comes to areas of knowledge, I highly recommend that you familiarize yourself with different DevOps practices and methodologies, such as Agile, Scrum, and Lean. This knowledge will help you to understand the different roles and responsibilities involved in DevOps consultancy, as well as the necessary tools and techniques that support effective communication in DevOps teams.
+
+User: Thank you, Tim. This is very helpful. Could you recommend any specific resources or materials I could use to improve my Communication skills in DevOps?
+
+Tim: Of course, happy to help! There are plenty of resources that you can use to improve your communication skills in DevOps consultancy. Here are a few that I would recommend:
+- The book "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win"
+- The DevOps Institute’s “Effective Communication & Collaboration” certification course.
+- Online courses or tutorials on DevOps methodologies, communication, and collaboration such as Udemy, Coursera or edX.
+
+These are just a few of the many resources available. I recommend doing your own research to find resources that align best with your learning style and interests.
+
+User: Thanks again, Tim. I'll definitely look into those resources. Is there anything else that you can tell me that would be helpful to know?
+
+Tim: One thing that you should keep in mind is that communication is the key to successful DevOps consultancy, so always make an effort to improve your communication skills. Also, be adaptable, be patient and remember that change can take time! Finally, I recommend that you stay up-to-date with the latest industry trends and best practices by attending conferences, networking with fellow professionals, and reading industry publications.
+
+I am confident that this information will help you in your pursuit to become a successful DevOps consultant. Don't hesitate to reach out if you have any additional questions or concerns.

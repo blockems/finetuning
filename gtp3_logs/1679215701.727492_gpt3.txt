@@ -1,0 +1,41 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Problem-Solving and Decision-Making for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Business systems analysts often find themselves in situations where they need to make decisions and solve problems quickly and effectively. The competency of Problem-Solving and Decision-Making is therefore critical for a competent Business Systems Analyst. This competency is all about being able to analyze issues, assess the alternatives, and take appropriate actions to achieve the desired results.
+
+The following skills are important for a Business Systems Analyst to be competent in Problem-Solving and Decision-Making:
+
+1. Analytical skills: The ability to analyze information and break it down into its component parts to better understand a problem and identify potential solutions.
+
+2. Decision-making skills: The ability to make informed decisions based on data analysis and evaluation of alternative options.
+
+3. Communication skills: The ability to present ideas clearly and effectively to stakeholders, team members, and other involved parties.
+
+4. Strategic thinking: The ability to think creatively and strategically about the problem and potential solutions, and set actionable goals.
+
+5. Technical knowledge and expertise: It is essential for a Business Systems Analyst to have a deep understanding of the technical aspects of the systems they work with, as well as the business processes and policies they impact.
+
+Various practices that can assist a Business Systems Analyst in strengthening their problem-solving and decision-making ability include:
+
+1. Root Cause Analysis - a structured method of identifying the underlying causes of problems and addressing them directly.
+
+2. SWOT Analysis - a structured method of analyzing the Strengths, Weaknesses, Opportunities, and Threats of a particular situation or problem.
+
+3. Creative Problem-Solving Techniques - Innovating and using innovative problem-solving techniques such as brainstorming, mind-mapping, and design thinking for solutions.
+
+4. Decision-Making Frameworks - These frameworks provide a standardized approach for evaluating and making decisions.
+
+Areas of knowledge typically associated with problem-solving and decision-making that are relevant to a Business Systems Analyst include:
+
+1. Business Process Design - the development of business processes that enable organizations to operate effectively and efficiently.
+
+2. Data Analysis - the ability to analyze data to derive insights that inform decision-making and solve problems.
+
+3. Communication Management - the ability to communicate effectively to all stakeholders involved in the decision-making process.
+
+4. Change Management - the ability to manage changes to a system, process or policy in a way that minimizes disruption and maximizes benefits.
+
+In conclusion, a Business Systems Analyst’s competency in Problem-Solving and Decision-Making is crucial in supporting the organization's objectives. The skills, practices, and areas of knowledge described here provide a basis for understanding the key elements of Problem-Solving and Decision-Making competency in a Business Systems Analyst's context. References: [K. Cruz, 2018], [A. Radhakrishnan, 2017]

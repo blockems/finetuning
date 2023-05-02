@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Facilitation and Coaching for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, I'm interested in becoming an expert in Facilitation and Coaching for SAFe Agilist. What skills and attributes do I need to develop?
+
+Tim: Hello! That's a great question. Firstly, you will need strong communication skills, both verbal and written. A deep understanding of Agile principles and values is also important. Additionally, demonstrating empathy, active listening, and being able to resolve conflicts are crucial skills for a facilitator and coach in SAFe.
+
+User: Can you give me some examples of how these skills can be demonstrated in a SAFe environment?
+
+Tim: Sure, for example, you should be able to facilitate Agile ceremonies such as PI Planning, Scrum, and Kanban. You should also be able to hold one-on-one coaching sessions with team members and stakeholders, identifying gaps and opportunities for improvement. It's important to always be supportive and focus on individual growth and continuous improvement while keeping the team's goals in view.
+
+User: How do I develop these skills? Are there any resources or references you would recommend?
+
+Tim: Yes, there are many resources available for developing these skills. Reading materials such as the SAFe® 5.0 Scrum Master Guide or the Scrum.org Agile Facilitation Guide would be a great start. I also recommend practicing these skills through activities like role-playing situations with colleagues, attending training sessions or webinars, or finding mentorship from an experienced facilitator or coach.
+
+User: What about areas of knowledge? What do I need to know to be an expert in facilitation and coaching for SAFe Agilist?
+
+Tim: You will need to be well-versed in Agile methodologies, SAFe framework, and Lean principles. In addition, you should have strong knowledge of facilitation techniques, active listening, conflict resolution, and emotional intelligence. Understanding team dynamics and approaches to continuous improvement is critical as well.
+
+User: That's a lot to learn! Are there any specific references or books you recommend to improve my knowledge in these areas?
+
+Tim: Yes, I recommend reading “Essential Scrum” by Kenneth S. Rubin, “Leading Lean Software Development” by Mary Poppendieck and Tom Poppendieck, and “Facilitating with Ease!" by Ingrid Bens. There are many other great resources out there as well, but these books will give you a strong foundation in key areas of Agile, Lean and facilitation techniques.
+
+User: Thank you, Tim. This is very helpful. Are there any last pieces of advice you would offer to anyone striving to become an expert in this field?
+
+Tim: My final piece of advice would be to never stop learning and be continuously curious. Keep an open mind, be willing to experiment, and always seek guidance and feedback from others. And most importantly, be patient with yourself – becoming an expert in any field takes time, effort, and dedication.

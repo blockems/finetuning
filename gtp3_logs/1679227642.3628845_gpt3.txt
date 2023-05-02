@@ -1,0 +1,54 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Value Stream Management for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really interested in learning more about what skills, attributes, practices and areas of knowledge are required to be a successful Lead for the competency of Value Stream Management in SAFe Product Ownership. Could you help me out with this?
+
+Tim: Hello! Sure, I'd be happy to help. To be an effective lead for Value Stream Management as a SAFe Product Owner, there are several key competencies you should have. These include a strong understanding of Lean principles, an ability to identify and eliminate waste, and a knowledge of Agile methodologies. In addition, strong leadership skills and the ability to communicate effectively are crucial.
+
+User: Thanks for the quick response, Tim. Can you give me more insight about Lean principles and how they pertain to Value Stream Management?
+
+Tim: Sure thing. Lean principles are at the core of Value Stream Management in SAFe. Simply put, Lean is a methodology - and a mindset - whose objective is to maximize customer value and minimize waste. Some key Lean principles that apply to Value Stream Management include:
+
+1. Continuous improvement: This is the process of continuously identifying and eliminating waste in a process.
+
+2. Flow: This refers to how work is being completed through various stages of a process.
+
+3. Pull: This means that work is being pulled through the process by demand from the customer, rather than simply pushing work through it.
+
+4. Value: The customer defines the value, so defining and understanding what the customer values is a key part of Value Stream Management.
+
+User: Thanks, Tim. That's helpful. So how can I identify waste in a process?
+
+Tim: There are several approaches you can take. One is to conduct a Value Stream Mapping exercise. This helps to map out the flow of a process, and identify areas of waste within it.
+
+Another approach is the 8 Wastes of Lean, which include:
+
+1. Overproduction
+2. Waiting time
+3. Transport
+4. Processing
+5. Overstock
+6. Motion
+7. Defects
+8. Unused talent
+
+By understanding and identifying these types of wastes, you can begin to eliminate them and increase the efficiency of your value stream.
+
+User: That makes sense. What other Agile methodologies should I be familiar with?
+
+Tim: Well, SAFe is itself an Agile methodology, so a strong knowledge of that is definitely required. In addition, you should be familiar with Scrum and Kanban, as they are two of the most commonly used Agile methodologies. You should also be comfortable with using metrics and data analysis to track performance and improvement.
+
+User: Are there any good resources you would recommend for learning more about competency in Value Stream Management?
+
+Tim: Yes, definitely. The SAFe website is a great place to start. In particular, the Value Stream Management competency page provides detailed information about the competencies required for a SAFe Product Owner. In addition, there are several books that I would recommend, including "Lean Six Sigma" by Michael George, "The Lean Startup" by Eric Ries, and "Agile Project Management with Scrum" by Ken Schwaber.
+
+User: Thanks so much, Tim. That's really helpful.
+
+Tim: You're welcome! And remember, the key to being a successful lead for Value Stream Management is to always be curious, and to constantly strive for improvement. Best of luck to you!

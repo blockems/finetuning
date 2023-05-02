@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I’m interested in becoming a competent agile coach. Can you help me understand the skills, attributes, practices and areas of knowledge I need to have for the competency of communication?
+
+Tim: Hello, sure! To start with, the foundational skill for effective communication is active listening. This skill enables one to understand others’ perspectives and build trust. Additionally, clear and precise verbal and written communication skills are crucial for an agile coach. A coach should also be able to articulate ideas in a structured and coherent way so that they are easily understood.
+
+User: Interesting, can you offer any references for enhancing listening and articulation skills?
+
+Tim: Of course! Two excellent books for improving listening skills are “Active Listening” by Michael H. Hoppe and “The Lost Art of Listening” by Michael P. Nichols. As for enhanced articulation skills, the book “Say It Like Shakespeare: How to Give a Speech Like Hamlet, Persuade Like Henry V, and Other Secrets from the World's Greatest Communicator” by Thomas Leech is a great resource.
+
+User: Thank you for the resources. What about the attributes an agile coach should have for communication?
+
+Tim: An agile coach should possess empathy, emotional intelligence, and nonverbal communication skills. Empathy allows the coach to understand and relate to the perspectives of others. Emotional intelligence helps the coach navigate complex interpersonal situations and build trust. Excellent nonverbal communication skills allow the coach to be in tune with team dynamics and adjust their approach accordingly.
+
+User: That makes sense. Is there any practice or methodology that I can follow to incorporate these skills into my communication style?
+
+Tim: Yes, one of the practices for enhancing communication skills is “active observation.” This practice requires the coach to observe and listen to others in a non-judgmental manner. Additionally, utilizing role-playing and debriefing techniques can help the coach to identify communication pitfalls and improve their approach. There are several methodologies that can help the coach improve their communication skills, such as Neuro-linguistic programming (NLP) and Crucial Conversations.
+
+User: I’m interested in learning more about NLP and Crucial Conversations. Can you recommend any literature about them?
+
+Tim: Absolutely, “NLP for Dummies” by R. Bandler and Colin Harrison is a great reference for NLP. As for “Crucial Conversations: Tools for Talking When Stakes Are High” by Kerry Patterson, Joseph Grenny, Ron McMillan, and Al Switzler, it is an excellent book for learning communication techniques and strategies for navigating difficult conversations.
+
+User: Thank you very much for your time and thorough responses, Tim. I’ll make sure to incorporate your recommendations into my studies.
+
+Tim: You’re welcome, happy studying!

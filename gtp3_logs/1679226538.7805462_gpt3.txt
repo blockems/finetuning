@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Relevant Certification for a SAFe Lean Portfolio Manager (LPM).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming a SAFe Lean Portfolio Manager (LPM). What are the key skills and attributes needed to be competent in this role?
+
+Tim: Hi there, great to hear you are interested in becoming a SAFe LPM. In order to be competent in this role, one would need a combination of technical, interpersonal, and strategic skills. Some of the key technical skills include understanding the principles and practices of Lean, Agile, and SAFe frameworks, as well as financial analysis and portfolio management.
+
+User: Thanks Tim, can you go into a bit more detail on the interpersonal and strategic skills needed?
+
+Tim: Of course. The interpersonal skills that are important for an LPM include communication, collaboration, leadership, and facilitation. Effective communication is key in order to establish trust with stakeholders and align the organization around the portfolio strategy. Collaboration and leadership skills are needed to facilitate decision-making and problem-solving across multiple teams and departments. The strategic skills needed include creating and executing a portfolio vision, driving innovation, and risk management.
+
+User: That makes sense. Are there any best practices or areas of knowledge that are particularly important for a SAFe LPM?
+
+Tim: Yes, there are several. In terms of best practices, one would need to have a thorough understanding of SAFe portfolio management as well as experience in implementing portfolio management processes. Knowledge of portfolio prioritization techniques such as Weighted Shortest Job First (WSJF) is also important. For areas of knowledge, it would be beneficial to have knowledge of product development, systems thinking, and Lean-Agile budgeting and funding. An understanding of strategic planning, value stream mapping, and PI planning would also be beneficial.
+
+User: Thank you, Tim. Could you provide some references or resources that I can use to further my understanding?
+
+Tim: Absolutely. Here are some resources and references that might be useful:
+
+1. SAFe Lean Portfolio Manager (LPM) certification page: https://www.scaledagile.com/certification/certified-lean-portfolio-manager/
+2. SAFe 5.0 Portfolio Management: https://www.scaledagileframework.com/portfolio/
+3. Lean-Agile Budgeting: https://www.scaledagileframework.com/budgeting/
+4. SAFe for Lean Enterprises: https://www.scaledagileframework.com/lean-enterprise/
+5. Value Stream Mapping: https://www.lean.org/Workshops/WorkshopDescription.cfm?WorkshopEventId=168
+
+I hope these resources are helpful. Let me know if you have any other questions or if there is anything else I can assist you with.

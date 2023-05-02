@@ -1,0 +1,27 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Security for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm really curious about what it takes to be at the Emergent level for Security competency as a CI/CD lead. Could you give me an idea of the skills, attributes, practices, and areas of knowledge I should focus on? 
+
+Tim: Hi there! Great to see your curiosity. In order to be at the Emergent level for Security competency as a CI/CD lead, there are a few crucial skills, attributes, practices, and areas of knowledge that you should pay attention to. 
+
+Firstly, you should have a strong understanding of secure coding practices, threat modeling, and vulnerability assessments. As a CI/CD lead, you will be responsible for ensuring that the code and infrastructure you develop and deploy is secure and resilient. This means being able to identify potential vulnerabilities and threats, and implementing procedures and practices to mitigate them.
+
+In terms of skills, attention to detail, critical thinking, analysis, and problem-solving are key. You should be able to analyze complex systems and identify points of failure, as well as be able to communicate complex security concepts and practices to non-technical stakeholders.
+
+Attributes such as accountability, responsibility, and trustworthiness are also important. As a CI/CD lead, you must take ownership of the security of the systems you develop, and be trusted by your team to do so.
+
+In terms of practices, implementing processes such as continuous delivery, boundary testing, and containerization can help ensure the secure deployment and operation of your systems.
+
+Finally, there are several areas of knowledge that are crucial for success in this field. These include network security, cryptography, identity and access management, and secure application development. Familiarity with compliance frameworks such as SOC2 and GDPR will also be useful.
+
+I'd recommend further reading in these areas to gain a more in-depth understanding of each topic. Some fantastic references include the "OWASP Top 10" for application security, "The CISSP Study Guide" by Eric Conrad for general security knowledge, and "Security Engineering" by Ross Anderson for a more theoretical overview of security concepts. 
+
+Hope this helps!

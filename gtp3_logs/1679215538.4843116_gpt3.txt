@@ -1,0 +1,43 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Innovation for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile project managers play a critical role in leading innovation in today's dynamic business environment. To excel in this role, a lead Agile project manager must possess a set of key skills, practices, and areas of knowledge that enable them to drive innovation and deliver value to the organization.
+
+Skills
+
+1. Strategic Thinking: The ability to think strategically and align innovation initiatives with the broader organizational goals is a critical skill for a Lead Agile project manager. They must possess the capability to analyze market trends, understand customer needs and devise strategies that help the team develop innovative solutions that satisfy customer needs.
+
+2. Communication and Influence: Excellent communication and influencing skills are vital in a lead Agile project manager’s role. They must be able to communicate complex technical concepts in simple terms and persuade stakeholders to support their innovation initiatives. They should be skilled in negotiating across business units and stakeholders.
+
+3. Collaboration: Collaboration is the key to success in agile projects, and a lead agile project manager must possess excellent collaboration skills to facilitate collaboration within and across teams.
+
+4. Creativity: Lead Agile project managers must also possess a high degree of creativity to generate new product and process ideas that drive innovation within the organization.
+
+5. Resilience: The lead Agile project manager must possess resilience and be able to drive change in the face of resistance.
+
+Practices
+
+1. Lean Startup Methodology: The Lead Agile project manager should leverage the Lean startup methodology to test and validate product ideas before investing in them fully. The lean startup methodology is a framework for developing a hypothesis about a product and then testing it with customers before committing to the full product development process.
+
+2. Design Thinking: Design thinking helps teams generate new product concepts and drive innovation. This approach coalesces on framing problems, generating insights, ideation, prototyping, and testing.
+
+Areas of Knowledge
+
+1. Agile Methodologies: A lead Agile project manager must be proficient in various Agile methodologies such as Scrum, Kanban, and Lean to manage Agile projects effectively.
+
+2. Innovation Management: Knowledge of the principles of Innovation management is also essential for a lead Agile project manager. It includes creativity techniques such as lateral thinking and executing innovation initiatives.
+
+3. Product Management: Knowledge of product management principles such as the product lifecycle, product-market fit, product roadmap, and backlog management is essential for a lead Agile project manager.
+
+4. Business Acumen: Understanding business management concepts such as value proposition, cost-benefit analysis, revenue model fit, and portfolio management is important to drive innovation initiatives successfully.
+
+In conclusion, a Lead Agile project manager requires a set of skills, practices, and areas of knowledge that equip them to drive innovation successfully. They must possess excellent collaboration skills, creativity, resilience, and strategic thinking. Leveraging practices such as Lean startup methodology and design thinking can help them generate new product concepts, while knowledge of Agile methodologies, innovation management, product management, and business management can enable them to manage innovation projects effectively. Understanding these competencies at the university level is crucial for preparing students to excel in their role as an Agile project manager. 
+
+References:
+1. Collins, J. (2001). Good to Great: Why Some Companies Make the Leap and Others Don't. HarperCollins Publishers. 
+2. Koen, P.A., Ajamian, G.M., Burkart, R., Clamen, A., Davidson, J., D'Amore, R., Elkins, C., Herald, K., Incorvia, M., Johnson, A., Karol, R., Seibert, R., Slavejkov, A., &Waits, B. (2001). Providing clarity and a common language to the "fuzzy front end." Research technology management, 44(2), 46-55.
+3. Maurya, A. (2012). Running Lean: Iterate from Plan A to a Plan that Works: O'Reilly Media, Inc.
+4. Osterwalder, A., & Pigneur, Y. (2010). Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers: John Wiley & Sons.

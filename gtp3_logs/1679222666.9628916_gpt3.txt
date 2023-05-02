@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Visualization for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm a business systems analyst looking to improve my data visualization skills. Can you tell me what it takes to be at the level of Emergent for the competency of Data Visualization?
+
+Tim: Hi there, glad to hear that you're interested in improving your skills. For Data Visualization, an Emergent Business Systems Analyst should be able to effectively communicate complex data using visual tools. They must possess good design skills, understand data structures and be familiar with popular visualization tools. 
+
+User: Can you explain more about what design skills are needed for data visualization?
+
+Tim: In terms of design skills, understanding concepts such as color theory, typography, and layout is important for effective data visualization. These skills will help you create charts and graphs that are easy to read, easy on the eyes and are professionally designed. Here are some references that you might find useful:
+
+- Stephen Few's "Show Me the Numbers"
+- Edward Tufte's "The Visual Display of Quantitative Information"
+- Alberto Cairo's "The Functional Art: An Introduction to Information Graphics and Visualization" 
+
+User: What about understanding data structures? Can you give an example of this?
+
+Tim: Understanding data structures is crucial for effective data visualization. For example, if you were working with a database, you would need to know how to write SQL queries to retrieve your data. You should also be familiar with databases such as SQL Server, Oracle, and MySQL. In addition, you should be able to work with flat-file formats such as CSV, JSON and XML. 
+
+User: What popular visualization tools should I be familiar with?
+
+Tim: The most popular visualization tools include Tableau, Power BI, QlikView, and Excel. Familiarity with these tools will help you to create dynamic visualizations that can effectively communicate complex data to a wide range of audiences. Here are some references that you might find useful:
+
+- Andy Cotgreave's "The Big Book of Dashboards"
+- Walter R. Scott's "Data Visualization: A Successful Design Process"
+- Data Visualization Society's "Toolkit" 
+
+User: Thank you so much for all the helpful references, Tim. Do you have any final advice on becoming an Emergent Business Systems Analyst in Data Visualization?
+
+Tim: Absolutely! My advice would be to never stop learning. Read blogs and books, watch videos and join online communities where you can share your work and learn from others. The field of data visualization is always evolving, and it's important to stay up-to-date with the latest trends and technologies. Keep practicing to hone your skills, and never be afraid to try new things.

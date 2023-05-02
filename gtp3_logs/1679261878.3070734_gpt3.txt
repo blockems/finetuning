@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Cybersecurity for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I understand that to be considered Emergent in the Cybersecurity competency as a Solution Designer, certain skills, attributes, practices, and areas of knowledge must be in place. Can you tell me more about each of these?
+
+Tim: Sure, to begin with, some of the key skills required include strong problem-solving and critical thinking abilities, as well as excellent communication and leadership skills. It’s also important to have a strong understanding of security protocols, network architecture, and data protection laws.
+
+User: That makes sense, but what about the attributes and practices that are needed?
+
+Tim: Good question. As for attributes, a cybersecurity solution designer should have a strong sense of ethics and integrity since they deal with sensitive information. Being resilient and adaptable to change is also important since cybersecurity threats are constantly evolving. In terms of practices, staying up to date with the latest technology and techniques is crucial, and regularly testing and updating security protocols and software is a must.
+
+User: I see, and what areas of knowledge should one be proficient in?
+
+Tim: Well, to excel in cybersecurity as a solution designer, you should have a deep understanding of programming languages and software development. It’s also important to know encryption methods and digital forensics, as well as understanding cybercriminal tactics and risk management.  Additionally, a solid foundation in networking and cloud computing technologies is a plus.
+
+User: Thank you, Tim. Can you recommend some credible sources to learn and improve in these areas?
+
+Tim: Certainly. For a thorough understanding of programming languages, check out Codeacademy and MIT OpenCourseWare. For courses in cybersecurity and risk management, the SANS Institute offers industry-renowned certifications and training. Additionally, resources such as the International Association of Computer Investigative Specialists and the National Cybersecurity Center of Excellence provide access to best practices and standards in cybersecurity.

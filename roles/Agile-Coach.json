@@ -1,0 +1,100 @@
+{
+    "Role": "Agile Coach",
+    "Description":"An Agile Coach is a professional who helps organizations and teams adopt Agile methodologies and practices. Their role is to guide and support teams and individuals through the Agile adoption process, providing coaching and mentoring on best practices, facilitating ceremonies, and promoting continuous improvement. They should have deep technical expertise in Agile methodologies, as well as strong leadership and communication skills.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Agile Methodologies",
+                "SkillDescription": "Deep understanding of Agile methodologies, and the ability to guide organizations in implementing and optimizing these practices",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Coaching and Mentoring",
+                "SkillDescription": "Strong coaching and mentoring skills, and the ability to work with individuals and teams to promote continuous improvement and self-organizing teams",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Change Management",
+                "SkillDescription": "Expertise in change management, and the ability to help organizations navigate change and overcome resistance to change",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Facilitation",
+                "SkillDescription": "Strong facilitation skills, and the ability to lead meetings and workshops that promote effective communication and collaboration",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Leadership",
+                "SkillDescription": "Ability to provide leadership and mentorship to individuals and teams, and to create a culture of innovation and continuous improvement",
+                "SkillLevel": "Expert"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Scrum Framework",
+                "SkillDescription": "Expertise in Scrum framework and the ability to guide teams in implementing and optimizing Scrum practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Kanban Methodology",
+                "SkillDescription": "Understanding of Kanban methodology and experience in implementing and optimizing Kanban practices for software development and other areas",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Lean Principles",
+                "SkillDescription": "Understanding of Lean principles, and the ability to guide organizations in implementing and optimizing Lean practices",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Agile Scaling Frameworks",
+                "SkillDescription": "Understanding of Agile scaling frameworks such as SAFe, LeSS, and Scrum@Scale, and the ability to guide organizations in implementing and optimizing these frameworks",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Collaboration",
+                "SkillDescription": "Ability to facilitate effective collaboration among individuals and teams, and to promote a culture of knowledge sharing and cross-functional teamwork",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Communication",
+                "SkillDescription": "Strong communication skills, including the ability to communicate effectively with technical and non-technical stakeholders at all levels of the organization",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Project Management",
+                "SkillDescription": "Understanding of project management principles, and the ability to manage Agile projects and programs",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Training and Development",
+                "SkillDescription": "Ability to design and deliver effective Agile training and development programs for individuals and teams",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Team Management",
+                "SkillDescription": "Ability to manage and lead teams of Agile coaches, and to coordinate coaching efforts across multiple teams and departments",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Continuous Improvement",
+                "SkillDescription": "Ability to drive continuous improvement for Agile practices and tools, and to identify opportunities for optimization and efficiency gains",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Strategic Planning",
+                "SkillDescription": "Ability to develop and execute strategic plans for Agile transformation and implementation, and to align these plans with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Innovation",
+                "SkillDescription": "Ability to foster a culture of innovation and creativity within teams, and to promote the development of new and innovative solutions",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Strong understanding of the business context in which Agile practices are implemented, and the ability to align Agile practices with the goals and objectives of the organization",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

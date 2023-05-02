@@ -1,0 +1,31 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in understanding the skills, attributes, practices and areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a Scrum Master. Any suggestions on where to start?
+
+Tim: Great to see your interest in Data Analysis for Scrum Master. To be at the Emergent level, you need a combination of skills, attributes, and practices. Let's start with skills. You must have a strong foundation in statistical analysis, data visualization, and data modeling techniques. Do you have any prior knowledge or experience in these areas?
+
+User: I have a basic understanding of statistical analysis, but I'm not familiar with data modeling techniques. Can you provide any reference material or courses to begin learning about this?
+
+Tim: Sure, a good place to start with data modeling is the book "The Data Model Resource Book: A Library of Universal Data Models for All Enterprises" by Len Silverston. And for statistical analysis, I recommend "Statistics for Data Science" by James D. Miller. It's also worth considering courses on data analysis offered by Coursera, edX, or Udacity.
+
+Now, let's talk about attributes. As a Scrum Master, you should have the ability to understand and interpret data, be detail-oriented, and have excellent communication skills. How do you rate yourself on these attributes?
+
+User: I think I have good communication skills and attention to detail, but I haven't had much experience with data interpretation. Can you provide any tips on how to improve this attribute?
+
+Tim: Sure, one way to improve your data interpretation skills is to practice analyzing data sets. You could start with simple data sets and gradually move towards more complex ones. There are also books on data analysis techniques that provide practical exercises for you to work on. I recommend "Data Analysis with Open Source Tools" by Philipp K. Janert for its hands-on approach.
+
+Finally, let's discuss practices. You should be familiar with agile methodologies and scrum framework. Do you have any experience working in an agile environment and using the scrum framework?
+
+User: Yes, I have a few years of experience working in agile environments and using the scrum framework. But, I'm not sure how data analysis fits into this framework. Can you help explain this?
+
+Tim: As a Scrum Master, you will be responsible for facilitating team meetings, including sprint reviews, retrospectives, and daily stand-ups. During these meetings, you will need to provide insights derived from data analysis to help the team make informed decisions. For example, analyzing the team's velocity data can help identify areas for improvement and aid in sprint planning. 
+
+In conclusion, to be at the Emergent level for the competency Data Analysis for a Scrum Master, you must have a combination of strong foundational skills, desirable attributes, and practical experience in agile methodologies and scrum framework. I hope this helps you in your journey towards becoming a proficient Scrum Master.

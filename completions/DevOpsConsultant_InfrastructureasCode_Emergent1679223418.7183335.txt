@@ -1,0 +1,25 @@
+User: Hi Tim, I'm interested in becoming an Emergent professional for the competency Infrastructure as Code for a DevOps Consultant. Can you guide me on the skills, attributes, practices and Areas of knowledge I need to be at that level?
+
+Tim: Hi, glad to hear your curiosity in this field. To be an Emergent professional in this competency, you must have a good understanding of programming languages, specifically in scripting languages such as Ruby, Python, and Perl. Additionally, you need to have a strong hold on coding principles and practices, such as SOLID principles, code modularity, and software design patterns.
+
+User: Thanks, Tim. Can you explain SOLID principles and why are they important?
+
+Tim: SOLID principles are an acronym for Single Responsibility Principle, Open/Closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle. These principles are essential for object-oriented programming and play a crucial role in software design patterns. They help to make your code more modular, maintainable, and extensible.
+
+User: That makes sense. How about the practice of TDD (Test Driven Development)? Is it relevant in this field?
+
+Tim: Definitely. TDD is a crucial practice in the DevOps field. TDD ensures that software functions as intended and it improves the reliability of the software. In TDD, developers write tests for a small piece of code before writing the actual code. This approach results in better quality software and reduces the cost of maintenance and bug-fixes in the production phase.
+
+User: Thanks, Tim. Are there any specific tools or frameworks that I should be familiar with to be an Emergent professional in this field?
+
+Tim: Yes, there are several tools and frameworks that are frequently used in this field. For instance, tools such as Puppet, Chef, and Ansible for server configuration management, Docker for containerization, and Terraform for cloud infrastructure management. To know more about these tools and frameworks, you can go through the documentation available online and learn from experience.
+
+User: Thanks, Tim for the detailed response. Can you suggest any additional references or resources that I can refer to in order to improve my competency in this field?
+
+Tim: Sure. Apart from the documentation of the tools and frameworks, you can refer to the following books which provide an in-depth understanding of DevOps practices and Infrastructure as Code:
+
+1. The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win
+2. Infrastructure as Code: Managing Servers in the Cloud
+3. Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation.
+
+I hope this helps you on your journey to becoming an Emergent professional in this field. Good luck!

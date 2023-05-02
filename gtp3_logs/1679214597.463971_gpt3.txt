@@ -1,0 +1,33 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Innovation for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Manager, in its core, is responsible for the successful delivery of value to the customers while ensuring the Agile principles and values are followed. A key competency for an Agile Delivery Manager is Innovation, which involves generating new ideas and solutions that can improve the products or services delivered to the customers. To be considered an Emergent level Agile Delivery Manager with the competency of Innovation, they must exhibit a range of skills, practices and areas of knowledge.
+
+Skills:
+- Creativity: Ability to think outside the box and come up with new ideas, inspired by customer needs and market trends.
+- Problem-solving: Ability to analyze and identify the root cause of problems, and then use innovative methods to develop effective solutions.
+- Collaborative: Ability to work well in a team and leverage the diverse viewpoints of team members to generate creative solutions.
+- Strategic thinking: Ability to see the bigger picture and adopt a long-term perspective on innovation, in terms of how it can benefit the organization as a whole.
+
+Practices:
+- Agile practices: Agile Delivery Managers must not only be familiar with Agile methodologies like Scrum or Kanban, but also implement Agile practices like user stories, sprints, automated testing, and continuous delivery.
+- Lean Startup approach: Agile Delivery Manager should be familiar with the Lean Startup approach and techniques like Minimum Viable Product (MVP), Experimentation and Validation, as these are key for quickly testing the feasibility of innovative ideas and pivot if necessary.
+- Design thinking: Agile teams benefit from a human-centric design approach that involves empathizing with customers, identifying their needs, and prototype solutions that solve their problems.
+- Innovation frameworks: Agile Delivery Managers should be familiar with established innovation frameworks such as the Innovation Value Chain, Design Thinking and Lean Six Sigma, as these help to guide the innovation process and ensure the ideas have the required impact on the organization.
+
+Areas of Knowledge:
+- Human-centric Design: Agile Delivery Managers should have an understanding of the unique needs and pain-points of customers to create solutions that solve their problems.
+- Customer Insights: They should also have an eye for customer insights and data-backed evidence to justify innovative solutions that will provide value to the customers.
+- Market Trends: Agile Delivery Managers should be aware of market trends and emerging technologies that may impact the products or services delivered by the organization.
+- Business Strategy: An Agile Delivery Manager must understand the business strategy to identify areas to enhance customer value, which inevitably leads to a more innovative organization that can stay competitive in the market. 
+
+In conclusion, to become an Emergent level Agile Delivery Manager with a competency of Innovation, professionals must know what skills, practices and areas of knowledge they need to exhibit, and ensure they implement these in real-world situations. By developing these abilities, Agile Delivery Managers can ensure they are delivering value to customers, and solving problems and creating a culture of continuous innovation in the organization.
+
+References:
+- Sutherland, J. (2014). Scrum: The Art of Doing Twice the Work in Half the Time. Random House.
+- Blank, S. (2013). The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses. Crown Business.
+- Brown, T. (2008). Design Thinking. Harvard Business Review, 86(6), 84-92.
+- Khoshafian, S., & Løwendahl, B. (2014). BPMN 2.0 Handbook Second Edition: Methods, Concepts, Case Studies and Standards in Business Process Management Notation. Future Strategies Inc.

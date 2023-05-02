@@ -1,0 +1,25 @@
+Tutor: Hello! I'm Tim, and I'm here to answer any questions you may have on the skills, attributes and knowledge you need to acquire to be at the level of Emergent for the competency Product Marketing for a Product Owner (PO). What specific questions do you have?
+
+User: Hi Tim, thanks for reaching out. To start, can you please define what you mean by "Emergent" in this context?
+
+Tutor: Of course! The competency level Emergent represents the ability to apply the knowledge and skills in a defined context or project. It means that you have a general understanding of the concepts and can apply them with some guidance. Your performance is limited in certain situations that require more in-depth knowledge and skills.
+
+User: Thank you for clarifying that, Tim. Can you tell me what skills I need to acquire to be at this level?
+
+Tutor: To be at the Emergent level of competency in Product Marketing for a Product Owner, you need skills in market segmentation, buyer personas, value proposition, and effective messaging. These skills involve analyzing market research, identifying target markets and creating a messaging strategy that resonates with potential customers. 
+
+User: I see. Can you recommend any resources for me to study these skills in-depth?
+
+Tutor: Yes! There are several excellent books and online courses you can use to study these skills. Some recommended books are "Crossing the Chasm" by Geoffrey Moore and "The Lean Product Playbook" by Dan Olsen. Additionally, the courses "Product Marketing Essentials" on Udemy and "Marketing Foundations" on LinkedIn Learning are great resources.
+
+User: Thank you very much for these recommendations, Tim. Can you also tell me about the attributes that are important to develop for competence in Product Marketing for a Product Owner?
+
+Tutor: Sure! Effective communication, collaboration, strategic thinking, and adaptability are some of the attributes required for competence in this area. Being able to adapt to the changing market and customer needs and having strong communication and collaboration skills are critical for success.
+
+User: Thank you again, Tim. One more question - can you recommend some practices I can follow to develop my competence in this area?
+
+Tutor: Of course! To develop your competence in Product Marketing for a Product Owner, you can engage in activities such as attending industry events, reading industry publications, and staying up to date on market trends. You may also consider seeking out mentorship or coaching, practicing your messaging and communication skills, and working on cross-functional teams to build your collaboration and leadership skills.
+
+User: These are all great suggestions, Tim. Thank you for all of your thorough responses! 
+
+Tutor: My pleasure! Remember, curiosity is key in developing any competency. Keep asking questions and exploring new resources to continuously improve your skills and knowledge.

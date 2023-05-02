@@ -1,0 +1,47 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Technical Acumen for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Business systems analysts are responsible for analyzing business problems and opportunities, designing solutions, and helping to implement them within an organization. Technical acumen, the understanding of and proficiency with technical tools, systems and methods, is a critical competency for a business systems analyst to have. In this debate, we will explore the skills, practices and areas of knowledge that are necessary for a business systems analyst to be competent in technical acumen.
+
+Skills:
+
+1. Analytical skills: A business analyst must be able to identify business problems and opportunities and analyze them from a technical standpoint. This requires strong analytical skills and the ability to break down complex issues into smaller parts.
+
+2. Communication skills: Effective communication with stakeholders, users, developers and project managers is key to the success of any project. As a business analyst, having the ability to communicate technical information in a clear and concise manner is important.
+
+3. Problem-solving skills: The ability to identify issues and generate creative solutions is another important skill for a business analyst to have. Technical acumen allows analysts to identify technical issues and work with the technical team to develop a solution.
+
+4. Attention to detail: A business analyst must have a keen eye for detail, particularly concerning technical specifications and requirements.
+
+Practices:
+
+1. Keeping up-to-date with the latest technical trends and advancements: Technology is constantly evolving and it is important for business systems analysts to stay up-to-date with the latest trends and advancements in technology.
+
+2. Collaborating with technical experts: Collaboration with technical experts, such as software developers, is critical to ensure technical requirements are met and technically feasible solutions are developed.
+
+3. Performing technical analysis: Performing technical analysis, such as data modeling and system requirement analysis, is another important practice for business systems analysts.
+
+4. Participating in technical workshops and training sessions: Engaging in technical workshops and training sessions to learn new tools, practices and methodology is essential.
+
+Areas of knowledge:
+
+1. Technology architecture: Business systems analysts must have knowledge of technology architecture and understand how different systems interact with each other.
+
+2. Programming languages: A basic understanding of programming languages, such as Java or Python, is important for a business systems analyst to communicate effectively with the technical team.
+
+3. Database management: The ability to manage databases and design data models is critical to the successful implementation of technical solutions.
+
+4. Understanding of software development methodologies: An understanding of agile, Scrum or other development methodologies will foster collaboration between the business analyst and technical teams.
+
+References:
+
+1. International Institute of Business Analysis. (2021). Business Analysis Body of Knowledge (BABOK) Guide Version 3. https://www.iiba.org/v3/BABOK/
+
+2. Chamika, H. (2018). 7 Essential Skills for a Business Analyst to be Effective. https://www.businessanalystlearnings.com/bal/7-essential-skills-for-a-business-analyst-to-be-effective
+
+3. Techopedia. (2021). Technical Acumen. https://www.techopedia.com/definition/32243/technical-acumen.
+
+4. Amazon. (2019). So You Want to be a Business Systems Analyst. https://www.amazon.com/Business-Systems-Analyst-Career-Guide-ebook/dp/B07VZ5966B.

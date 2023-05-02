@@ -1,0 +1,27 @@
+User: Hi Tim, I was wondering what skills and attributes are needed to be at the Emergent level for UX design as an SAFe Lean Portfolio Manager?
+
+Tim: That's a great question! At the Emergent level, it's important to have a deep understanding of user-centered design principles, a strong visual design skills, proficiency in UX research techniques, and the ability to evaluate and analyze user feedback. Additionally, excellent communication and collaboration skills are also vital. 
+
+User: Can you elaborate on what you mean by user-centered design principles?
+
+Tim: Sure! User-centered design (UCD) is a design approach in which the needs, wants, and limitations of end users of a product, service, or system are given extensive attention at each stage of the design process. Some principles of UCD include empathy for the user, iterative design, and usability testing.
+
+User: Are there any specific techniques or practices that a UX designer should be proficient in at this level?
+
+Tim: At the Emergent level, it's important to be proficient in various UX research techniques such as user interviews, surveys, and usability tests. Additionally, wireframing, prototyping, and visual design skills are necessary for creating high-quality mockups and prototypes.
+
+User: How do you evaluate and analyze user feedback effectively?
+
+Tim: Evaluating and analyzing user feedback involves using various techniques such as data analysis and heuristics evaluation. For instance, a UX designer might use data analysis tools to quantify and categorize user feedback, and then prioritize and address the most recurring themes. Heuristics evaluation is a method to evaluate the usability of a product, based on predefined usability standards.
+
+User: Can you suggest any sources to learn more about these concepts?
+
+Tim: There are many books and resources available online. For user-centered design and usability testing, I'd recommend "Don't Make Me Think" by Steve Krug, "The Elements of User Experience" by Jesse James Garrett, and "Rocket Surgery Made Easy" by Steve Krug. For visual design, I'd recommend "The Non-Designer's Design Book" by Robin Williams.
+
+User: Thank you for the suggestions, Tim. Are there any particular areas of knowledge that a UX designer should be up-to-date with for SAFe Lean Portfolio Management?
+
+Tim: SAFe is a framework for scaling agile development across an organization, therefore, it's essential to stay current with the latest developments and best practices in Agile methodology, Lean thinking, and Design thinking. Additionally, knowing the roles and responsibilities of various SAFe roles, such as product management, release management, and program management, can be helpful for collaborating effectively with other teams within an organization.
+
+User: Thank you, Tim, for the detailed response. I appreciate your insights and suggestions!
+
+Tim: You're welcome, happy to help! Remember to stay curious and continue learning, it's essential for growth and professional development.

@@ -1,0 +1,55 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Mentoring and Coaching for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To achieve competency in mentoring and coaching for Agile delivery managers, one needs to acquire and master a set of skills and practices from various areas of knowledge. In this regard, the following are some of the critical considerations to achieving competence in mentoring and coaching for an Agile Delivery Manager.
+
+Skills:
+
+1. Active Listening: Mentoring and Coaching for Agile Delivery Managers require active listening skills. Active listening enables one to gather information, understand another person's perspective and empathize with them.
+
+2. Empathy: Empathy involves understanding another person's feelings and situation. It is a critical skill required for mentoring and coaching for Agile Delivery Managers because it can foster trust, build relationships, and help individuals feel heard.
+
+3. Communication: Effective communication is necessary for mentoring and coaching Agile Delivery Managers. Communication skills such as questioning, feedback, and confrontation enable the mentor or coach to give guidance and provide solutions to problems.
+
+4. Conflict Management: Mentoring and Coaching for Agile Delivery Managers can involve conflict resolution. A mentor or coach should be equipped with conflict resolution skills such as negotiation, mediation, and collaboration.
+
+5. Emotional Intelligence: Mentoring and Coaching Agile Delivery Managers require emotional intelligence. Emotional intelligence helps coaches and mentors to manage their emotions and those of their mentees. It enables them to lead with empathy, better manage stress, and adapt to change.
+
+6. Problem-Solving: Mentoring and Coaching Agile Delivery Managers involve problem-solving skills. A mentor or coach should be able to identify the root cause of a problem and provide solutions to it. This goes beyond technical knowledge and into developing creative, flexible, and innovative solutions.
+
+Practices:
+
+1. Active Listening: As an Agile Delivery Manager mentor, active listening involves concentrating on the speaker, asking clarifying questions for better understanding, and summarizing information received to ensure clarity. This practice would lead to better engagement, trust, and improved communication.
+
+2. Feedback: Giving and receiving feedback is essential in mentoring and coaching Agile Delivery Managers. A mentor or coach should provide constructive feedback that addresses specific issues and supports growth and development.
+
+3. Best Practices: Sharing best practices is essential because Agile Delivery Managers need to learn from others' experiences. The mentor or coach should share their own experiences and encourage the mentee to share theirs.
+
+4. Personal Development: Mentoring and Coaching Agile Delivery Managers include personal development. The coach or mentor should encourage self-reflection, identify areas for personal improvement, and facilitate opportunities for skill-building.
+
+5. Support: Mentoring and Coaching Agile Delivery Managers should provide support to their mentees. The coach or mentor should provide guidance, encouragement, and support as their mentee develops new skills or takes on new responsibilities.
+
+Areas of knowledge:
+
+1. Agile Software Development: An Agile Delivery Manager mentor or coach should have a deep understanding of Agile software development principles, values, and practices. This knowledge would enable the mentor or coach to evaluate the mentee's performance against industry standards, best practices, and provide targeted feedback.
+
+2. Project Management: Mentoring and Coaching Agile Delivery Manager requires knowledge of project management principles and practices. It would help to identify challenges that the mentee is facing and propose solutions to address the challenges.
+
+3. Leadership: Leadership skills are crucial for Agile Delivery Manager mentoring and coaching. A mentor or coach should have leadership qualities such as vision, charisma, motivation, and decision-making.
+
+4. Communication: Effective communication is paramount for mentoring and coaching Agile Delivery Managers. A mentor or coach should have excellent communication skills such as active listening, speaking effectively, providing feedback, and conflict management.
+
+References:
+
+1. Cockburn, A. (2002). Agile Software Development. Addison-Wesley Professional.
+
+2. Schwaber, K. (2004). Agile Project Management with Scrum. Microsoft Press.
+
+3. Goleman, D. (1995). Emotional Intelligence. Bantam Books.
+
+4. Collins, J. (2001). Good to Great: Why Some Companies Make the Leap...and Others Don't. New York: HarperCollins.
+
+5. Whitmore, J. (2017). Coaching for Performance: The Principles and Practice of Coaching and Leadership. Nicholas Brealey Publishing.

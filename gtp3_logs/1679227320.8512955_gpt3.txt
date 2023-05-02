@@ -1,0 +1,21 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Business Acumen for a SAFe Product Owner (PO).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am a curious professional and would like to understand the skills and attributes necessary to be at the Emergent level for Business Acumen competency for a SAFe Product Owner (PO).
+
+Tim: Hi, glad to hear that! To be at the Emergent level for Business Acumen competency, a PO must have a comprehensive understanding of the market landscape, customer needs and preferences, industry trends, and competitive environment. They must have knowledge of financial concepts, business models, and the ability to identify and analyze data to make informed decisions. These skills are essential for effective product ownership, which drives growth and profitability.
+
+User: Thanks for the insights, Tim. Could you please elaborate on some practices and areas of knowledge that a PO at Emergent level should be proficient in as per SAFe?
+
+Tim: Sure. The SAFe Business Acumen competency is divided into several areas of knowledge, such as Competitor Analysis, Market Segmentation and Analysis, Financial Management, Business Model Canvas, and Customer Journey Mapping. A PO at Emergent level should be proficient in these areas, as well as in practices such as data-driven decision making, business case development, and product portfolio management. They should also have skills in identifying revenue streams and pricing models, understanding the cost and impact of technical debt, and forecasting growth and profitability.
+
+User: Thank you, Tim. That was very helpful. Could you please suggest some references for me to study in-depth?
+
+Tim: Absolutely! For a comprehensive understanding of the market landscape and customer needs, I recommend the book "The Lean Product Playbook" by Dan Olsen. For financial concepts, I suggest "Finance for Non-Financial Managers" by Gene Siciliano. To learn about business models and customer journey mapping, I recommend "Business Model Generation" by Alexander Osterwalder and Yves Pigneur. Lastly, for SAFe-specific knowledge, I suggest reading the SAFe 5.0 Framework Guide, which covers all the competencies and practices in detail.

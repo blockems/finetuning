@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency UX Design for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in understanding what it takes to be considered Emergent in the competency of UX Design for a Solution Designer. 
+
+Tim: Hello! That's a great question. Being considered Emergent in the competency of UX Design for a Solution Designer requires a few key skills, attributes, practices, and areas of knowledge. For starters, you need to have excellent design thinking skills, be proficient in user research techniques, and have a deep understanding of human-computer interaction principles.
+
+User: Can you give me some examples of design thinking skills and how I can develop them?
+
+Tim: Sure. Design thinking involves empathizing with users, defining problems, ideating and prototyping solutions, and testing and iterating on those solutions. One way to develop these skills is to take a course on design thinking methodology. Books like "Design Thinking: Understanding How Designers Think and Work" by Nigel Cross and "The Design of Business: Why Design Thinking is the Next Competitive Advantage" by Roger Martin are excellent references.
+
+User: What about user research techniques?
+
+Tim: User research involves understanding the needs, goals, and behaviors of your target users through various methods like surveys, interviews, usability testing, and observation. To develop your user research skills, you can attend workshops, take online courses or read books like "Observing the User Experience: A Practitioner's Guide to User Research" by Mike Kuniavsky and "Interviewing Users: How to Uncover Compelling Insights" by Steve Portigal.
+
+User: And what about human-computer interaction principles?
+
+Tim: Excellent knowledge of human-computer interaction principles is essential to designing effective user interfaces. This includes understanding cognitive processes, information architecture, visual hierarchy, and interaction design patterns. Some great resources to get started with this are the book "Designing Interfaces: Patterns for Effective Interaction Design" by Jenifer Tidwell and the online course "Human-Computer Interaction: An Introduction" by Scott Klemmer from Coursera.
+
+User: I see. Can you recommend any best practices that would help me become Emergent?
+
+Tim: Absolutely. To be Emergent, you must be continuously learning and improving your skills by staying up-to-date with the latest industry trends and technologies. You can join online communities like UX Designers Slack or Interaction Design Foundation, attend meetups and conferences, network with other professionals and collaborate on projects that challenge you to stretch beyond your comfort zone.
+
+User: Thank you, Tim. This has been very informative!
+
+Tim: You're welcome! Always be curious and keep learning. I'm happy to discuss any further questions you may have in the future.

@@ -1,0 +1,21 @@
+Imagine a detailed conversation between two expert on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Coaching and Mentoring for a Agile Coach.
+The conversation should be at university scholar level of expertise, and include support knowledge and references.
+
+
+==========
+
+Expert 1: To become an expert-level Agile coach, one needs to have a deep understanding of coaching and mentoring practices and principles. One should also possess strong interpersonal and influencing skills, be able to deal with complex situations, and have the ability to lead and drive change effectively. 
+
+Expert 2: Absolutely. Additionally, expert Agile coaches should have solid knowledge of Agile frameworks, such as Scrum, Kanban, or SAFe, and be familiar with the Agile Manifesto and principles. They should have experience implementing Agile practices, such as Agile planning, continuous improvement, and team empowerment.
+
+Expert 1: You're right. Agile coaches at the expert level should also have a deep understanding of facilitation and conflict resolution skills. They need to be able to manage group dynamics, foster collaboration and effective communication, and help teams identify and resolve conflicts.
+
+Expert 2: Yes, and expert Agile coaches should also have knowledge of various Agile metrics and be able to measure and communicate the outcomes and impacts of their coaching and mentoring. They should contribute to the professionalization of the Agile coaching community by sharing best practices and mentoring other coaches.
+
+Expert 1: Exactly. To achieve such a high level of expertise, Agile coaches need to continuously develop their skills and knowledge, attend conferences and workshops, and leverage peer-to-peer learning and coaching through various professional associations such as the International Coaching Federation or the Agile Alliance.
+
+Expert 2: Absolutely. There are also many excellent books that Agile coaches should study, such as "Coaching Agile Teams" by Lyssa Adkins or "Agile Coaching" by Rachel Davies and Liz Sedley. And there are certifications such as the Agile Coaching Institute's Agile Coach Bootcamp or the International Coaching Federation's PCC certification, that can provide validation of an Agile coach's expertise.
+
+Expert 1: Indeed. Becoming an expert level Agile coach takes time and dedication, but the rewards of helping teams achieve their goals while increasing their agility make it all worthwhile.
+
+Expert 2: Couldn't agree more. The combination of strong Agile knowledge and effective coaching and mentoring skills can empower teams to work together more effectively and achieve their goals more efficiently.

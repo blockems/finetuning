@@ -1,5 +1,0 @@
-Role: agile coach
-Topic: Advanced Agile Concepts
-SubTopic: Agile Maturity Models and Assessments
-
-Lesson Outline: 

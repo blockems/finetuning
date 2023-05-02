@@ -1,0 +1,43 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Collaboration for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+The competency of Collaboration is essential for a CI/CD Lead as it involves working with various stakeholders, such as developers, operations team, testers, project managers, and business users, to deliver software continuously and effectively. At the competent level, a CI/CD Lead must possess specific skills, practices, and areas of knowledge to excel in collaboration.
+
+Skills:
+
+At the competent level, a CI/CD Lead must have excellent communication and interpersonal skills to deal with people from diverse backgrounds and functions. Clear and concise communication helps develop trust, minimize misunderstandings, and facilitate collaboration. Additionally, active listening is a critical skill that helps understand others' perspectives, identify problems, and seek solutions collaboratively.
+
+Furthermore, a CI/CD Lead must be adept at conflict resolution and negotiation as there may be conflicting objectives, priorities, or resources. By understanding the needs and interests of the stakeholders, a CI/CD Lead can find mutually beneficial solutions that satisfy everyone's goals. Additionally, an agile mindset is critical to foster collaboration by encouraging open communication, flexibility, and continuous learning and improvement.
+
+Practices:
+
+Several practices can help foster effective collaboration in CI/CD, such as agile ceremonies, continuous feedback, and collaborative decision-making. For instance, daily stand-up meetings promote transparency, accountability, and alignment among the team. Retrospectives provide an opportunity to reflect on the past work, identify areas of improvement, and make changes proactively.
+
+Additionally, continuous feedback helps identify issues early and fosters a culture of continuous improvement. Regular feedback from stakeholders, such as developers, testers, and users, helps refine the product, identify areas of improvement, and enhance collaboration. Collaborative decision-making involves involving stakeholders in the decision-making process by seeking feedback, evaluating options, and selecting the best course of action.
+
+Areas of Knowledge:
+
+A CI/CD Lead must possess knowledge in various areas, such as software development life cycle, agile methodologies, DevOps practices, and collaboration tools. For instance, a thorough understanding of the software development life cycle helps identify the stakeholders, their roles and responsibilities, and their expectations. Similarly, an in-depth knowledge of agile methodologies, such as Scrum, Kanban, and Lean, helps foster collaboration by promoting teamwork, collaboration, and customer satisfaction.
+
+DevOps practices, such as continuous integration, continuous delivery, and continuous deployment, help streamline the software delivery process, reduce waste, and enhance collaboration. Finally, knowledge of collaboration tools, such as chat applications, video conferencing, and collaboration software, help enhance communication, promote transparency, and improve teamwork.
+
+References:
+
+1. Agile Alliance. (n.d.). Agile Manifesto. Retrieved from https://agilemanifesto.org/principles.html
+
+2. Cooper, R. G. (2011). Winning at New Products: Creating Value Through Innovation. New York: Basic Books.
+
+3. DeMarco, T. & Lister, T. (2013). Peopleware: Productive Projects and Teams. Upper Saddle River, NJ: Addison-Wesley Professional.
+
+4. Humble, J., & Farley, D. (2010). Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation. Upper Saddle River, NJ: Addison-Wesley Professional.
+
+5. Kniberg, H. (2015). Scrum and XP from the Trenches (2nd ed.). Stockholm, Sweden: Lulu.com.
+
+6. Leffingwell, D. (2018). SAFe(R) 4.5 Distilled: Applying the Scaled Agile Framework(R) for Lean Enterprises. Upper Saddle River, NJ: Addison-Wesley Professional.
+
+7. Rubin, K. (2013). Essential Scrum: A Practical Guide to the Most Popular Agile Process. Upper Saddle River, NJ: Addison-Wesley Professional.
+
+8. Sutherland, J. (2014). Scrum: The Art of Doing Twice the Work in Half the Time. New York: Crown Business.

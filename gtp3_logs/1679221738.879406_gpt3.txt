@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Facilitation for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I wanted to know more about the skills, attributes, practices, and areas of knowledge needed for being competent in the Facilitation competency for Agile Project Managers.
+
+Tim: Hi there! That's a great question. First, let's define what is meant by the Facilitation competency in the context of Agile Project Management. According to the Agile Alliance, Facilitation is the ability to lead and guide a group through a process of discussion, decision making or higher-level thinking. Specifically, Agile facilitators help Agile teams to prioritize work, communicate with stakeholders, and remove impediments to progress. As an Agile Project Manager, developing your facilitation skills can help your team achieve its goals more efficiently and effectively.
+
+User: Thank you, that's really helpful. What skills and attributes are necessary to achieve this competency?
+
+Tim: There are several skills and attributes that can help you excel at Agile facilitation, including active listening, empathy, communication, and problem-solving. Active listening is the ability to give full attention to someone speaking with the goal of understanding their perspective. Empathy is the ability to understand and share the feelings of others. Communication is the ability to express ideas clearly and effectively. Problem-solving is the ability to identify, analyze, and come up with solutions to problems. 
+
+User: That makes sense. What practices should I focus on to develop these skills?
+
+Tim: One of the best ways to develop these skills is through practice. For active listening, try practicing with a friend or colleague and taking turns listening to each other and summarizing what was said. For empathy, practice putting yourself in other people's shoes and imagining how they might feel. For communication, practice making clear and concise messages in a variety of mediums. For problem-solving, practice working through problems with a group or alone and considering multiple solutions. 
+
+User: And what areas of knowledge do I need to have to be effective at Agile facilitation?
+
+Tim: There are several areas of knowledge that can help you excel at Agile facilitation, including Agile methodologies, group dynamics, conflict resolution, and decision-making techniques. Additionally, it can be helpful to have a basic understanding of psychology, sociology, and communication theory. 
+
+User: Wow, that's really thorough! Do you have any references or resources that I could use to dive deeper into these topics?
+
+Tim: Absolutely! For Agile methodologies, the Agile Manifesto and the Scrum Guide are great starting points. For group dynamics, the book "Facilitating with Ease!" by Ingrid Bens is a classic resource. For conflict resolution, "Crucial Conversations" by Kerry Patterson et al. is an excellent reference. For decision-making techniques, "Thinking, Fast and Slow" by Daniel Kahneman is a good book to consider. Finally, for psychology, sociology, and communication theory, "The Social Animal" by David Brooks is a great read. 
+
+User: Thank you so much, Tim. This is going to be so helpful in my career development as an Agile Project Manager.
+
+Tim: Of course! Keep up the curiosity and eagerness to learn. That's the key to success in any field!

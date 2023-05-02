@@ -1,0 +1,33 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Kanban Methodology for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Introduction
+
+The Kanban methodology is a visual system that is used to manage and improve workflow in an organization. It is a lean approach that emphasizes continuous improvement and making incremental changes. The Kanban methodology is widely used in Agile project management, and it requires a set of skills, practices, and areas of knowledge for an Agile project manager to achieve the level of Emergent competency. In this debate, we will discuss the skills, practices, and areas of knowledge that are necessary for an Agile project manager to become proficient in the Kanban methodology.
+
+Skills
+
+To achieve the level of Emergent competency in the Kanban methodology, an Agile project manager must possess certain skills. The first skill is communication. The Agile project manager must be able to communicate effectively with team members, stakeholders, and customers. They must be able to convey ideas clearly, listen attentively, and negotiate effectively. The second skill is leadership. The Agile project manager must be able to lead the team and facilitate collaboration. They must be able to provide guidance, set expectations, and empower team members. The third skill is problem-solving. The Agile project manager must be able to identify problems and find solutions. They must be able to think creatively and use data-driven approaches to solve problems. Finally, the fourth skill is continuous improvement. The Agile project manager must be committed to continuous improvement and encourage the team to make incremental changes to improve their processes.
+
+Practices
+
+To achieve the level of Emergent competency in the Kanban methodology, an Agile project manager must follow certain practices. The first practice is visualizing work. The team must have a visual representation of the work they need to complete, such as a Kanban board. The second practice is limiting work in progress. The team must limit the amount of work they are doing at any given time to improve focus and efficiency. The third practice is managing flow. The team must manage the flow of work through their process, identifying bottlenecks and working to eliminate them. The fourth practice is making process policies explicit. The team must have clearly defined policies for their process, such as how work is prioritized or how decisions are made. Finally, the fifth practice is implementing feedback loops. The team must have mechanisms in place to gather feedback and make adjustments to their process.
+
+Areas of Knowledge
+
+To achieve the level of Emergent competency in the Kanban methodology, an Agile project manager must have knowledge in certain areas. The first area is Agile principles and values. The Agile project manager must understand the Agile manifesto and the principles that underpin it, such as valuing individuals and interactions over processes and tools. The second area is the Kanban method. The Agile project manager must have a deep understanding of the Kanban method, including its core principles, practices, and techniques. The third area is systems thinking. The Agile project manager must understand how the system works as a whole and how changes in one part of the system can affect the entire process. The fourth area is data analysis. The Agile project manager must be able to collect and analyze data to make informed decisions about process improvements. Finally, the fifth area is change management. The Agile project manager must have knowledge and skills in change management to lead their team through process improvements and changes.
+
+References
+
+Anderson, D. (2010). Kanban: Successful evolutionary change for your technology business. Blue Hole Press.
+
+Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley Professional.
+
+Poppendieck, M., & Poppendieck, T. (2003). Lean software development: An agile toolkit. Addison-Wesley Professional.
+
+Reinertsen, D. G. (2009). The principles of product development flow: second generation lean product development. Celeritas Publishing.
+
+Sutherland, J. (2011). Scrum: The art of doing twice the work in half the time. Random House.

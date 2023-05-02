@@ -1,0 +1,41 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Software Development Life Cycle (SDLC) for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User:
+Hi Tim, I'm currently working as an Agile Delivery Manager and I'm interested in developing my skills to be at the level of Emergent for the competency Software Development Life Cycle (SDLC). What skills and attributes do I need to focus on to achieve this level?
+
+Tim:
+Hi there! That's a great goal to have. To be at the Emergent level for the SDLC competency, you need to have a deep understanding of Agile methodologies and be able to apply them effectively in your work. You also need to possess strong leadership and communication skills, as well as a strong attention to detail.
+
+Do you have experience with Agile methodologies? And have you had any formal training in this subject?
+
+User:
+Yes, I've been working with Agile methodologies for a few years now and have completed some formal training courses as well.
+
+Tim:
+Great! To further develop your skills and climb the levels of the SDLC competency, I'd recommend focusing on developing your coaching and mentoring skills. As an Agile Delivery Manager, you'll be responsible for leading and guiding your team, so it's essential that you can effectively coach and mentor them to achieve their goals.
+
+In addition, you should also focus on honing your technical skills, as this will help you better understand the development process and communicate more effectively with your team. It's important to continually be learning about new technologies and tools that can improve the development process.
+
+User:
+That makes sense. Can you recommended any resources or references for me to learn more about these areas?
+
+Tim:
+Certainly. For coaching and mentoring, I recommend checking out the book "Coaching Agile Teams" by Lyssa Adkins. It provides a great framework for developing coaching skills within an Agile context.
+
+For technical skills, I recommend exploring online courses or tutorials on programming languages, databases, and other technologies that are relevant to your work. It's also helpful to attend conferences and network with other professionals in the tech industry to stay up to date on new developments.
+
+Finally, I recommend regularly reading blogs and articles on Agile methodologies and software development best practices. Some great resources to check out include the Agile Alliance website and the Scrum.org blog.
+
+User:
+Thank you, Tim. This has been really helpful. I'll be sure to check out those resources and continue my learning journey.
+
+Tim:
+You're welcome! Remember, the key to success in Agile Delivery Management is to never stop learning and improving. Keep up the curiosity and you'll be well on your way to achieving your goals.

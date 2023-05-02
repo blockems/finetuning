@@ -1,0 +1,58 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Scrum Framework for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching and program management require a range of skills, practices, and areas of knowledge to be effective. For an Agile coach, reaching the level of Emergent in the competency Scrum Framework requires a deep understanding of Agile principles, coaching best practices, program management techniques, and project management methodologies.
+
+Skills:
+
+An effective Agile coach needs to possess several skills at the Emergent level, including:
+
+1. Facilitation and conflict resolution skills: The coach should be able to facilitate discussions and meetings to help teams identify and overcome issues. They should also be able to resolve conflicts effectively while maintaining team dynamics.
+
+2. Communication and listening skills: A coach must have excellent communication and active listening skills to ensure that they understand the team's unique challenges and are able to communicate their ideas effectively.
+
+3. Coaching and mentoring skills: A coach should be able to coach and mentor team members to help them improve their skills, practices, and areas of knowledge.
+
+4. Leadership skills: Leadership skills are vital to guide teams effectively and to ensure they are aligned with organizational goals.
+
+References:
+
+- "Agile Coaching Competency Framework" by Agile Coaching Institute
+- "Coaching Agile Teams: A Companion for ScrumMasters, Agile Coaches, and Project Managers in Transition" by Lyssa Adkins
+
+Practices:
+
+An Agile coach at the Emergent level should have a deep understanding of Agile practices and techniques. These practices include:
+
+1. Agile planning and estimation techniques: A coach should be proficient in Agile planning and estimation techniques, such as user stories, story points, and velocity.
+
+2. Agile frameworks: A coach should have a deep understanding of different Agile frameworks, including Scrum, Kanban, and AgileXP, and be able to apply them in different contexts.
+
+3. Continuous improvement: An effective coach should be able to help teams and organizations implement continuous improvement practices, such as retrospectives, to facilitate ongoing learning and improvement.
+
+References:
+
+- "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland
+- "Agile Estimating and Planning" by Mike Cohn
+
+Areas of knowledge:
+
+An Agile coach should have a sound understanding of various areas of knowledge to be able to guide teams effectively. These areas of knowledge include:
+
+1. Agile principles and values: A deep understanding of the Agile principles and values is essential for an Agile coach, as it represents the foundation of Agile methodologies.
+
+2. Software development: An Agile coach should have a thorough understanding of software development processes, methodologies, and technologies.
+
+3. Lean and Kanban: A coach should be familiar with Lean principles and Kanban methodologies, as they complement Agile practices and enable continuous improvement.
+
+References:
+
+- "Agile Manifesto for Software Development"
+- "Lean Software Development: An Agile Toolkit" by Mary and Tom Poppendieck
+
+Conclusion:
+
+Becoming an Agile coach at the Emergent level requires a range of skills, practices, and areas of knowledge. A deep understanding of Agile principles, coaching best practices, program management techniques, and project management methodologies is vital to be able to guide teams effectively. The Agile Coaching Competency Framework is an excellent source that outlines the necessary skills, practices, and areas of knowledge, and provides a clear path to improve and advance as an Agile coach.

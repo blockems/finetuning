@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emerging for the competency Collaboration and Communication for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I was hoping we could chat about what it takes to be an emerging-level Scrum Master in terms of collaboration and communication competencies.
+
+Tim: Sure thing! To start with, I would suggest having a solid understanding of Agile principles and the role of a Scrum Master in facilitating collaboration and communication within the team. This would include a strong understanding of the Scrum framework, as well as the ability to facilitate Scrum events effectively.
+
+User: That makes sense, I have a decent theoretical understanding of Scrum but how can I improve my skills in facilitating events effectively?
+
+Tim: Great question! One approach is to focus on active listening, as it's crucial for effective communication and collaboration. You also need to be able to ask the right questions to guide the team in the right direction. Being able to use workshop facilitation techniques and collaboration tools (like Kanban boards or retrospective templates) can also be beneficial in facilitating Scrum events.
+
+User: That sounds like good advice. I want to know more about why active listening is such a big part of collaboration and communication.
+
+Tim: Good question! Active listening involves giving your full attention to the person who is speaking, asking clarifying questions, and taking the time to fully understand their perspective. It's important in Scrum because it enables you to develop a shared understanding of the challenges the team is facing, and helps to build empathy and trust between team members.
+
+User: Makes sense. So, what other attributes and practices are required for a Scrum Master to be successful in terms of collaboration and communication?
+
+Tim: Scrum Masters should also have strong problem-solving and conflict management skills. You need to be able to facilitate discussions that lead to effective problem resolution, while also being able to manage conflicts that arise within the team. Additionally, having excellent written and verbal communication skills is essential, as the Scrum Master is responsible for communicating with stakeholders and facilitating discussions between team members.
+
+User: Alright, I see how all these competencies are closely intertwined. Could you recommend any resources for me to learn more in-depth about Scrum Master roles and competencies?
+
+Tim: Of course, there are many resources available! The Scrum.org website has a wealth of information on the Scrum framework and Scrum Master role. I highly recommend the book "Scrum Mastery" by Geoff Watts, it goes into great depth on the skills and attributes needed for success as a Scrum Master.
+
+User: Thanks Tim, I appreciate the advice and the references. I'm excited to continue learning and developing my skills in collaboration and communication as a Scrum Master.
+
+Tim: You're welcome! Remember to keep asking those clarifying questions and stay curious in your learning journey.

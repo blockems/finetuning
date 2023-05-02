@@ -1,0 +1,19 @@
+User: Hi Tim, I'm currently working as a Technical Business Analyst and I'm interested in getting to the Emergent level of competency in Artificial Intelligence. What skills, attributes, practices, and areas of knowledge do I need to focus on to get there? 
+
+Tim: Hello! It's great to hear that you're interested in AI and striving for Emergent competency level. To get there, you'll need a solid foundation in mathematics, statistics, and computer science. Additionally, having knowledge of machine learning algorithms, data structures, and analytical tools is essential. Being able to communicate effectively with technical and non-technical stakeholders is also critical. 
+
+User: Thank you for your response, Tim. Could you recommend any specific courses or books that can help me with this?
+
+Tim: Sure, for mathematics, I recommend "Essential Mathematics for AI" by Jeff Heaton, and "Probability and Statistics for Data Science" by Brian Spiering. For computer science, "Introduction to Algorithms" by Thomas Cormen, "Data Structures and Algorithms in C++" by Adam Drozdek, and "Computer Science: An Overview" by J.Glenn Brookshear are all excellent resources. Additionally, "Python Machine Learning" by Sebastian Raschka and "Hands-On Machine Learning with Scikit-Learn, Keras and TensorFlow" by Aurélien Géron are great books to learn about machine learning algorithms. 
+
+User: Thank you, Tim. That's extremely helpful. What are some common practices or techniques that are used in the industry?
+
+Tim: Some common practices in the industry include exploratory data analysis, data preprocessing, model selection, and performance evaluation. Exploratory data analysis involves examining the data to understand its properties, detect patterns and anomalies, and gain insight into its distribution. Data preprocessing involves cleaning and transforming the data, such as removing duplicates, filling in missing values, and scaling the data. Model selection involves choosing the best algorithm for the task, and tuning its hyperparameters for optimal performance. Performance evaluation involves using metrics such as accuracy, precision, recall, and F1-score to assess the performance of the model. 
+
+User: Thank you again for your response, Tim. I think I understand the skills and practices needed to achieve the Emergent level of competency. Are there any specific attributes that I should be working on to succeed?
+
+Tim: Yes, there are certain attributes that can help you excel in this field. One important attribute is having a genuine curiosity and a willingness to learn. In AI, new techniques and technologies are constantly emerging, so being able to keep up with the latest trends and developments is essential. Having strong problem-solving skills is also critical, as AI involves tackling complex problems and developing innovative solutions. Additionally, being a good team player and having excellent communication skills can help you work effectively with diverse stakeholders, such as data scientists, engineers, and business leaders. 
+
+User: Thank you for your thorough response, Tim. I appreciate your time and expertise in this matter. 
+
+Tim: My pleasure, always happy to help! Let me know if you have any more questions or if there's anything else I can assist you with.

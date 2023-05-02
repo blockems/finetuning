@@ -1,0 +1,17 @@
+User: Hi Tim, I'm interested in becoming a SAFe Release Train Engineer (RTE) and was hoping you could help me better understand the skills and attributes needed to achieve an "Emergent" level of Technical Knowledge.
+
+Tim: Of course! Being a RTE requires a solid understanding of both technical and non-technical skills. In terms of technical knowledge, you need to have an in-depth understanding of Agile methodologies, Lean practices, and DevOps principles. Additionally, you should have a good understanding of software development, software testing, and continuous integration and deployment practices.
+
+User: That makes sense. How can I best acquire this knowledge and build these skills?
+
+Tim: A great way to build your knowledge is by reading books, attending courses and workshops, and participating in communities of practice. Your SAFe community provides an excellent platform to connect with other RTEs and share best practices.
+
+User: That's helpful advice. Are there any specific books or resources you recommend for building technical knowledge as an RTE?
+
+Tim: Yes, a few great resources for RTEs looking to build their technical knowledge are "SAFe 5.0 Reference Guide", "Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation", "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" and "Agile Estimating and Planning" by Mike Cohn. These resources provide a comprehensive overview of Agile methodologies and practices, DevOps principles, and continuous integration and deployment methods.
+
+User: Thank you, Tim! That's a great starting point. Do you have any follow-up questions to help me better understand this topic?
+
+Tim: Sure! What are some of the specific challenges you're encountering in building your technical knowledge as an RTE, and how can you overcome them? It's important to take a continuous learning approach and seek out feedback from peers, mentors, and leaders to improve your skills and competencies. Additionally, it's important to stay up-to-date with emerging trends and technologies in the industry, as they can have a significant impact on your day-to-day work.
+
+User: Thanks, Tim! That makes a lot of sense. I will definitely work on taking a continuous learning approach and seek out feedback from others. I appreciate your help and recommendations on this topic!

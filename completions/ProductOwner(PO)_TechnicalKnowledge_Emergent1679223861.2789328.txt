@@ -1,0 +1,26 @@
+User: Hello Tim, can you please explain what it means to be at the level of Emergent for the competency Technical Knowledge for a Product Owner (PO)?
+
+Tim: Hello [User], good question. The stage of Emergent for Technical Knowledge means that the PO has an understanding of the technical aspects of the product or service being developed, and can collaborate with the development teams effectively. At this stage, the PO can contribute to the technical aspects of the development process and make informed decisions.
+
+User: That makes sense. What are the key skills needed to reach this level?
+
+Tim: The PO needs to possess technical literacy, which allows them to communicate with the development team, architects and other stakeholders. They also need to master the basics of software development, including programming languages, software development practices, and system architecture.
+
+User: I see. What are some best practices for the PO to follow in order to develop their technical knowledge?
+
+Tim: As a PO, it is essential to keep up to date with the latest technology trends and advancements in the industry. By attending industry events, networking with peers and following leading publications, POs can develop a better understanding of the technical aspects of their products.
+
+User: That is very helpful, thank you. What are some other attributes that a PO should have to be successful in this area?
+
+Tim: In addition to technical knowledge, POs should be able to demonstrate excellent communication, problem-solving, and analytical skills. These attributes allow the PO to collaborate with the development team and facilitate effective communication between the stakeholders and development team.
+
+User: Excellent. Can you point me to any additional references that I can read up on this?
+
+Tim: Sure, here are some references that you can review to learn more:
+- "Becoming a Better Product Manager" by Roman Pichler
+- "The Lean Product Playbook" by Dan Olsen
+- "Inspired" by Marty Cagan
+
+User: Thank you so much Tim, this has been incredibly helpful! 
+
+Tim: You're welcome, happy to help! Let me know if you have any other questions.

@@ -1,0 +1,18 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Scripting and Automation for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Sure, let's start with an overview of the competency of Scripting and Automation for a CI/CD Lead. This competency involves the ability to write code and automate tasks to improve the continuous integration and delivery process for software development projects. A CI/CD lead with this competency should be able to write scripts, leverage tools and technologies for automation, and implement best practices to streamline workflows.
+
+In terms of skills, a CI/CD lead with this competency should have a deep understanding of programming languages like Python, Bash, PowerShell, and Ruby. They should also have a good understanding of infrastructure as code (IaC) tools like Ansible, Puppet, and Chef, as well as continuous integration and deployment tools like Jenkins, Travis, and CircleCI. Additionally, they should possess excellent problem-solving skills, strong communication skills, and a keen eye for detail.
+
+When it comes to practices, a CI/CD lead with this competency should be able to understand and implement best practices such as version control, continuous integration, testing, and deployment. They should also be able to automate tasks like software testing, building, and deployment using tools like Ansible and Jenkins.
+
+Finally, in terms of areas of knowledge, a CI/CD lead with this competency should have a solid understanding of software development methodologies like Agile and DevOps. They should also be well-versed in programming concepts like data structures, algorithms, and object-oriented programming.
+
+References:
+- "Continuous Integration, Delivery, and Deployment" by Paul Swartout
+- "Infrastructure as Code: Managing Servers in the Cloud" by Kief Morris
+- "The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations" by Gene Kim, Jez Humble, Patrick Debois, and John Willis.

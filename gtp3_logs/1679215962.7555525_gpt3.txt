@@ -1,0 +1,27 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency User Experience (UX) Design for a Business Systems Analyst.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+As an Agile coach and program management expert, I believe that there are several skills, practices and areas of knowledge that are essential for a Business Systems Analyst to be at the level of Emergent for the competency User Experience (UX) Design. 
+
+Firstly, a Business Systems Analyst must have a strong understanding of user-centered design principles and techniques. This includes an understanding of persona development, user research, usability testing, and information architecture. The analyst must be able to effectively translate the information gathered from these activities into requirements that can be used by development teams.
+
+Secondly, the analyst must understand the importance of collaboration and communication with stakeholders and team members. This includes the ability to facilitate meetings and workshops, as well as effectively communicate design decisions and recommendations to development teams. The analyst must also be able to work closely with designers and developers to ensure that the user experience vision is realized in the final product.
+
+Thirdly, the analyst must be familiar with designing for accessibility and responsive design. This includes knowledge of the various screen sizes and orientations available on different devices, as well as designing for users with physical or cognitive disabilities.
+
+Finally, the analyst must have a strong understanding of Agile methodologies and practices, particularly with regards to user experience design. This includes a familiarity with user stories, acceptance criteria, and the role of UX design in Agile development.
+
+References:
+
+1. Hassenzahl, M. (2010). Experience design: Technology for all the right reasons. Morgan & Claypool Publishers.
+
+2. Cooper, A. (2014). About Face 3: The Essentials of Interaction Design. Wiley.
+
+3. Norman, D. A. (2013). The Design of Everyday Things: Revised and Expanded Edition. Basic Books.
+
+4. Agile Alliance. (2019). Agile Glossary.  Retrieved from https://www.agilealliance.org/glossary/ 
+
+In conclusion, the skills, practices and areas of knowledge outlined above are essential for a Business Systems Analyst to be at the level of Emergent for the competency User Experience (UX) Design. By cultivating these competencies, analysts can help ensure that the user experience of software products is optimized and provides maximum value to end-users.

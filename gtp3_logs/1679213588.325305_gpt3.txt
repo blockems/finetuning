@@ -1,0 +1,32 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Kanban Methodology for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile coaching is an increasingly popular approach to project management that emphasizes collaboration, flexibility, and adapting to change. Kanban methodology is one of the frameworks used in agile coaching, and is focused on visualizing the work process and limiting work in progress. Achieving the Emergent level of competency in Kanban methodology as an agile coach requires a combination of skills, practices, and areas of knowledge.
+
+Skills:
+- Communication: Agile coaches need to effectively communicate the principles, values, and practices of Kanban methodology to team members, stakeholders, and clients.
+- Facilitation: Agile coaches need to facilitate meetings, workshops, and other collaborative activities to help teams achieve their goals and improve their processes.
+- Leadership: Agile coaches need to lead by example, embodying the principles of Kanban methodology and encouraging team members to do the same.
+- Problem-solving: Agile coaches need to be able to identify and solve problems that arise during the implementation of Kanban methodology, using data-driven and evidence-based approaches.
+- Coaching: Agile coaches need to have strong coaching skills, helping team members improve their practices and achieve their goals through continuous learning and improvement.
+
+Practices:
+- Visualizing work: Kanban methodology emphasizes visualizing the work process, using tools like Kanban boards to track the progress of tasks and limit work in progress.
+- Limiting work in progress: Kanban methodology also focuses on limiting work in progress and using flow metrics to optimize the flow of work.
+- Pull-based workflow: In Kanban methodology, work is pulled through the workflow based on demand, rather than being pushed through based on pre-determined deadlines or quotas.
+- Continuous improvement: Kanban methodology emphasizes ongoing learning and improvement, using techniques like retrospectives and Kaizen events to identify areas for improvement and implement changes.
+
+Areas of knowledge:
+- Systems thinking: Agile coaches need to have a deep understanding of systems thinking, which involves understanding how the different parts of a system interact with each other and how changes in one part of the system can affect the entire system.
+- Lean principles: Kanban methodology is based on lean principles, which emphasize minimizing waste, optimizing flow, and continuously improving processes.
+- Metrics and data analysis: Kanban methodology relies on using data to track progress and identify areas for improvement. Agile coaches need to be proficient in metrics and data analysis techniques to effectively implement Kanban methodology.
+- Change management: Implementing Kanban methodology often involves change management, as team members may need to adjust their processes, mindset, and behavior. Agile coaches need to have a solid understanding of change management principles and techniques to successfully implement Kanban methodology.
+
+References:
+- Anderson, D. J. (2010). Kanban: Successful evolutionary change for your technology business. Blue Hole Press.
+- Liker, J. K. (2004). The Toyota Way: 14 management principles from the world's greatest manufacturer. McGraw-Hill Education.
+- Poppendieck, M. (2003). Lean software development: An agile toolkit. Addison-Wesley.
+- Reinertsen, D. G. (1997). The principles of product development flow: Second generation lean product development. Celeritas Publishing.

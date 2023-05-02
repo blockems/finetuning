@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Lead for the competency Vendor Management for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I was wondering if you could help me better understand the skills, attributes, practices, and areas of knowledge needed to be at the level of Lead for the competency Vendor Management in a SAFe Agilist framework.
+
+Tim: Sure, I'd be happy to help you with that! Firstly, when it comes to vendor management in a SAFe context, it is important to have a solid understanding of vendor evaluation and selection, contract management, risk management, and establishing and maintaining a productive relationship with vendors. These skills require an adept understanding of project management best practices, financial management, and communication skills with stakeholders.
+
+User: That makes sense. Are there any particular skills that are essential when it comes to managing vendors in an Agile environment?
+
+Tim: Absolutely. When it comes to working with vendors, the ability to be adaptive and quick on your feet is a key skill to have. This can involve being able to pivot priorities or methods quickly, as well as effectively communicating any changes to vendors. In addition, an Agile vendor management approach requires a collaborative mindset, strong negotiation skills, and the ability to balance vendor objectives with project objectives.
+
+User: Can you elaborate on the attributes an individual should possess in order to lead a vendor management team in a SAFe framework?
+
+Tim: Certainly. An effective vendor management lead in a SAFe framework should be a strong communicator and a skilled problem solver. They must be able to oversee team performance, multitask, and create a collaborative work culture. Furthermore, vendor management leads should have exemplary organizational skills, financial acuity, the ability to make critical decisions, and a positive attitude to lead a high-performing team.
+
+User: Thank you. What are some of the areas of knowledge that would be helpful for someone who wants to lead a vendor management team in a SAFe framework?
+
+Tim: An individual should have a strong understanding of vendor risk management, contract negotiations, project management methodologies, Agile methodology, industry regulations, and vendor selection best practices. In addition, they should also have a solid grasp of enterprise architecture and financial management, as well as the flexibility to adapt to unpredictable scenarios.
+
+User: Thanks, Tim. Do you have any recommended sources I could use to further my understanding of vendor management in a SAFe context?
+
+Tim: Absolutely. I would recommend checking out the SAFe framework and the Project Procurement and Vendor Management competency guide. Additionally, the PMBOK guide and the Certified Scrum Master Handbook offer highly relevant and valuable insights to support your journey towards becoming a lead vendor management expert.

@@ -1,0 +1,120 @@
+{
+    "Role": "SAFe Product Owner (PO)",
+    "Description":"A SAFe Product Owner (PO) is a key member of the Agile Release Train (ART) responsible for defining and prioritizing the features of the product or system to be developed. The SAFe PO works with stakeholders to define the product vision and roadmap, creates and maintains the product backlog, and collaborates with the development team to ensure that features are developed and delivered in a timely and effective manner. The SAFe PO is also responsible for accepting and validating completed work, making decisions about what is delivered, and ensuring that the delivered product meets the business and customer requirements. The SAFe PO is a champion of the product, driving its development and success through effective leadership, communication, and collaboration with all stakeholders.",
+    "Skills": {
+        "Required": [
+            {
+                "SkillName": "Product Management",
+                "SkillDescription": "Experience in product management, and the ability to define and manage the product vision, roadmap, and backlog",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Agile and SAFe Methodologies",
+                "SkillDescription": "Strong understanding of Agile and SAFe methodologies and experience in implementing and managing these practices at the enterprise level",
+                "SkillLevel": "Expert"
+            },
+            {
+                "SkillName": "Lean Portfolio Management",
+                "SkillDescription": "Understanding of Lean Portfolio Management principles and techniques, and the ability to align product development with portfolio strategy and investment funding",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "User and Customer Needs Analysis",
+                "SkillDescription": "Ability to identify and analyze user and customer needs, and to translate these needs into product features and requirements",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Agile Release Train Planning and Execution",
+                "SkillDescription": "Experience in Agile Release Train planning and execution, and the ability to collaborate with Agile teams to deliver value to customers",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Stakeholder Management",
+                "SkillDescription": "Ability to identify and manage stakeholders, and to ensure that their needs are reflected in the product backlog and prioritization",
+                "SkillLevel": "Competent"
+            }
+        ],
+        "Recommended": [
+            {
+                "SkillName": "Relevant Certification",
+                "SkillDescription": "Certification in SAFe methodologies, such as SAFe Agilist (SA), SAFe Product Owner/Product Manager (POPM), or SAFe Program Consultant (SPC)",
+                "SkillLevel": "Competent"
+            },
+            {
+                "SkillName": "Lean-Agile Leadership",
+                "SkillDescription": "Experience in Lean-Agile leadership, including the ability to drive organizational change and to build a Lean-Agile culture",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Business Acumen",
+                "SkillDescription": "Understanding of business concepts and the ability to align product development with business objectives and priorities",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Technical Knowledge",
+                "SkillDescription": "Understanding of technical concepts and the ability to communicate effectively with technical team members and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Market Analysis",
+                "SkillDescription": "Ability to analyze market trends and competition, and to use this information to inform product strategy and development",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Risk Management",
+                "SkillDescription": "Understanding of risk management principles and techniques, and the ability to identify and mitigate potential risks associated with product development",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Analysis",
+                "SkillDescription": "Ability to analyze data and metrics related to product performance and customer feedback, and to use this information to improve product development and strategy",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "User Experience (UX) Design",
+                "SkillDescription": "Understanding of User Experience (UX) design principles and the ability to work effectively with UX designers to improve the user experience of Agile and SAFe products and applications",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Data Science",
+                "SkillDescription": "Understanding of data science concepts and the ability to work effectively with data scientists to improve the data-driven decision-making of product development teams and stakeholders",
+                "SkillLevel": "Emergent"
+            },
+            {
+                "SkillName": "Agile Product Management",
+                "SkillDescription": "Knowledge of Agile product management principles and techniques, and the ability to apply these practices to manage the product backlog and prioritize product features",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Ownership",
+                "SkillDescription": "Experience in owning and managing products through their entire lifecycle, from ideation to release and maintenance",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Value Stream Management",
+                "SkillDescription": "Understanding of value stream management principles and techniques, and the ability to optimize the value stream for the product or product line",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Development",
+                "SkillDescription": "Experience in product development, and the ability to work effectively with Agile development teams to deliver high-quality products",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Business Model Innovation",
+                "SkillDescription": "Ability to develop and implement innovative business models and pricing strategies that drive revenue and customer satisfaction",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Marketing",
+                "SkillDescription": "Understanding of product marketing principles and techniques, and the ability to effectively market and position products to target customers and markets",
+                "SkillLevel": "Lead"
+            },
+            {
+                "SkillName": "Product Line Management",
+                "SkillDescription": "Experience in managing a product line, and the ability to develop and implement product line strategies that maximize revenue and profitability",
+                "SkillLevel": "Lead"
+            }
+        ]
+    }
+}

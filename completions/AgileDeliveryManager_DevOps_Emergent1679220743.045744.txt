@@ -1,0 +1,31 @@
+User: Hi Tim, I was wondering if you could help me understand what skills and attributes I should aim for if I want to become an Emergent level Agile Delivery Manager for DevOps?
+
+Tim: Hi there! Great to hear from you. To become an Emergent level Agile Delivery Manager, there are several skills and attributes you should aim to develop. 
+
+First and foremost, you should have a deep understanding of Agile principles and practices. This includes a solid knowledge of Scrum and Kanban as well as other Agile frameworks. Additionally, you should be skilled in applying DevOps practices and have a strong technical background. 
+
+You should also have strong communication and collaboration skills, as you will need to work closely with cross-functional teams to ensure the success of the DevOps initiatives. A good DevOps Delivery Manager should be able to facilitate effective communication and encourage collaboration among different teams.
+
+Furthermore, you should be able to lead by example and inspire others to embrace the DevOps culture. This requires strong leadership and management skills, as well as excellent problem-solving abilities. 
+
+Finally, it is important to be proficient in data analytics, metrics, and continuous improvement processes. This will allow you to measure the effectiveness of your DevOps initiatives and make necessary improvements.
+
+User: That's really helpful. Do you have any specific examples of how these skills and attributes can be put into practice? 
+
+Tim: Sure! For example, a DevOps Delivery Manager could start by facilitating daily stand-up meetings with their team, using Agile methodologies to ensure everyone is aware of what needs to be done for that day. They could also foster collaboration among different teams by encouraging regular catch-ups to exchange ideas and feedback. 
+
+In terms of leadership, a DevOps Delivery Manager can engage their team by setting goals and expectations and offering mentorship opportunities. For instance, they could organize cross-functional workshops where team members can learn from each other and work on improving their skills.
+
+Finally, using metrics and data analytics, a DevOps Delivery Manager can conduct thorough performance analysis of their team, identify what works well and where improvement is needed. Based on these findings, they could adjust their DevOps initiatives and strategies and communicate this to their team.
+
+User: That makes sense. Do you have any references or recommended reading for me to deepen my understanding of these concepts? 
+
+Tim: Yes, certainly. For Agile principles and practices, I recommend the "Agile Manifesto" (http://agilemanifesto.org/). This is a foundational document that outlines the values and principles of Agile software development. 
+
+For Scrum, the "Scrum Guide" (https://www.scrum.org/resources/scrum-guide) is an excellent resource to understand the framework and its processes. 
+
+For Kanban, I suggest reading "Kanban: Successful Evolutionary Change for Your Technology Business" by David J. Anderson. This book provides an in-depth understanding of the Kanban method and its practical applications. 
+
+For DevOps practices, I recommend "The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win" by Gene Kim, Kevin Behr, and George Spafford. This book provides a comprehensive overview of DevOps practices and their importance in modern organizations.
+
+Finally, "Measure What Matters" by John Doerr is a fantastic resource for understanding how to measure the effectiveness of your DevOps initiatives and continuous improvement practices.

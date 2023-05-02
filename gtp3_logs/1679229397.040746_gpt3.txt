@@ -1,0 +1,40 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Technical Knowledge for a Scrum Master.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am eager to learn more about the Emergent level of Technical Knowledge for a Scrum Master. Can you please tell me about the skills, attributes, practices, and areas of knowledge required to achieve this level?
+
+Tim: Sure! The Emergent level of Technical Knowledge for a Scrum Master requires a holistic understanding of Scrum and its technical aspects. One must possess technical expertise to manage the work and facilitate the team.
+
+User: That makes sense. Can you please explain the technical expertise required?
+
+Tim: The Technical Knowledge required includes proficiency in agile software development methodologies, knowledge of software development processes, and the ability to communicate technical information effectively. Technical expertise also encompasses the ability to manage risks, identify technical debt, and mitigate technical challenges faced by the team.
+
+User: Interesting. What practices can one utilize to acquire the technical expertise needed?
+
+Tim: One effective practice is continuous learning. Learning through reading books, attending technical seminars, and participating in online technical forums will help build technical knowledge. Another practice is on-the-job learning, where one learns from experience and by working closely with technical experts. Also, pairing with team members who are technically strong may help bridge the gap in technical knowledge.
+
+User: Those are great suggestions. What personal attributes or qualities are helpful to master the technical knowledge required for a Scrum Master?
+
+Tim: It's important to have a curious mind, intellectual humility, and a willingness to learn. Having technical creativity and being able to troubleshoot problems effectively will come in handy as well. A Scrum Master with good interpersonal skills, who can facilitate team communication, can make technical issues easier to resolve.
+
+User: That makes sense. Can you tell me more about the areas of knowledge needed?
+
+Tim: The areas of knowledge required are vast and include software engineering, databases, devops, testing, security, and infrastructure. The Scrum Master should not be a specialist in all the technical skills, but rather have an understanding of the relationship between these skills and how they impact the project.
+
+User: Thank you for your detailed response, Tim. Do you have any references that you can share with me to further explore this topic on my own?
+
+Tim: Sure, here are some references you may find helpful:
+- Agile Software Development with Scrum by Ken Schwaber and Mike Beedle
+- The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin
+- Testing Extreme Programming by Lisa Crispin and Kent Beck
+- Continuous Delivery: Reliable Software Releases through Build, Test, and Deployment Automation by Dave Farley and Jez Humble
+- Infrastructure as Code by Kief Morris
+
+Do let me know if you have any other questions or if there's anything else I can help you with.

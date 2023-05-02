@@ -1,0 +1,29 @@
+User: Hi Tim, I'm interested in becoming a Scrum Master and I'm curious about the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the Relevant Certification. Can you help me with that?
+
+Tim: Hi there, of course I can help. The Scrum.org website offers a comprehensive guide outlining the skills and knowledge required to become a certified Scrum Master. According to Scrum.org, a Scrum Master should have a deep understanding of the Scrum framework, agile principles and values, and the ability to facilitate and coach a team using Scrum. 
+
+User: Thank you Tim. Can you explain the Scrum framework in more detail?
+
+Tim: The Scrum framework is an Agile approach to project management that focuses on collaborative teamwork and delivering value to the customer. It is founded on empirical process control and constant inspection and adaptation. The framework has three roles: Product Owner, Development Team, and Scrum Master. These roles work together to deliver a potentially shippable product increment at the end of each Sprint. To become competent in Scrum, you should have a strong grasp of the framework, and understand how to facilitate and guide the team using Scrum practices.
+
+User: I see. What are the Scrum practices that a Scrum Master should know?
+
+Tim: Scrum practices include Daily Scrum, Sprint Review, Sprint Retrospective, Product Backlog Refinement, Sprint Planning, and Definition of Done. As a Scrum Master, you should be able to facilitate and coach these practices with the Development Team, and help them to improve their outputs during each Sprint. 
+
+User: That makes sense. What knowledge areas should I focus on to become a competent Scrum Master?
+
+Tim: A competent Scrum Master should have a good understanding of Agile principles and values, Product Development Flow, Lean Thinking, Coaching and Facilitation techniques, Teaming and Collaborative Techniques, and Scrum Framework and Practices. Additionally, you should focus on developing soft skills, such as communication, empathy, and leadership, which are essential for effective coaching and facilitation. 
+
+User: Thank you Tim. Can you provide me with some references for further reading?
+
+Tim: Sure thing! Here are some of my favorite resources for learning more about Scrum and Agile:
+
+- Scrum.org - The official Scrum.org website has a wealth of resources, including the Scrum Guide, which outlines the Scrum framework and practices in depth, and a comprehensive guide to the Scrum Master role.
+
+- Agile Manifesto - The Agile Manifesto is the foundation for Agile principles and values. It outlines the mindset and values behind Agile methodologies, and is essential reading for anyone interested in Agile.
+
+- Coaching Agile Teams by Lyssa Adkins - This book provides a comprehensive guide to coaching Agile teams, and is essential reading for anyone interested in becoming a Scrum Master.
+
+- The Lean Startup by Eric Ries - While not specifically about Scrum, The Lean Startup is a valuable read for understanding Lean principles and the principles of product development flow, which are important for any Agile practitioner.
+
+I hope that helps, let me know if you have any other questions.

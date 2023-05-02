@@ -1,0 +1,35 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Leadership for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Manager is a key role in Agile software development organizations. It involves leading and managing the Agile software delivery process along with the team members. Leadership is a key competency for Agile Delivery Managers who are expected to provide guidance and direction for the team members to facilitate the effective delivery of value to the customers. As an Agile Delivery Manager, an individual should have expertise in various skills, practices, and areas of knowledge to become an expert in leadership competency. 
+
+Skills:
+The essential skills that an Agile Delivery Manager should have to become an expert in leadership competency include:
+- Communication: It is important to have excellent communication skills to influence and motivate the team in the right direction.
+- Conflict Management: The ability to resolve conflicts constructively and reach a mutual agreement between team members is key.
+- Coaching and Mentoring: Agile Delivery Managers should be able to coach team members, provide guidance and support, and mentor them to improve their skills.
+- Facilitation: The ability to facilitate meetings, collaborative sessions, and workshops is crucial for the delivery manager to guide the team towards achieving business value.
+
+Practices:
+The following Agile practices are important for an Agile Delivery Manager to become an expert in leadership competency:
+- Daily Stand-ups: Conducting daily stand-ups or daily scrums promotes effective communication and collaboration within the team.
+- Sprint Planning: Sprint planning helps the team and the delivery manager to identify the goals, priorities, and commitments for the sprint.
+- Retrospectives: Retrospectives help the delivery manager to identify areas of improvement and to facilitate a continuous improvement culture.
+
+Areas of knowledge:
+To become an expert in leadership competency, an Agile Delivery Manager should have a strong grasp of the following concepts:
+- Agile Methodologies: Scrum, Kanban, Lean, and other Agile methodologies should be well understood by the delivery manager to guide the team effectively.
+- Agile Metrics: Agile Delivery Managers should know how to leverage Agile metrics such as Velocity, Burn-down, and Burn-up charts to track the progress of work done by their team.
+- Agile Values, Principles, and Manifesto: An Agile Delivery Manager should understand and embody the values, principles, and manifesto of the Agile methodology to support and guide the team effectively.
+
+Conclusion:
+Leadership competency is critical for an Agile Delivery Manager to guide and direct the team towards achieving business goals. This discussion focused on the skills, practices, and areas of knowledge required for an Agile Delivery Manager to become an expert in the leadership competency. By developing these competencies, Agile Delivery Managers can lead their teams effectively and contribute to delivering value to customers in an Agile organization. 
+
+References:
+- Agile Alliance. (n.d.). The Agile Manifesto. Retrieved September 23, 2021, from https://www.agilealliance.org/agile101/the-agile-manifesto/
+- Agile Alliance. (n.d.). Agile Metrics. Retrieved September 23, 2021, from https://www.agilealliance.org/agile101/agile-metrics/
+- Scrum Alliance. (n.d.). Agile Methodologies. Retrieved September 23, 2021, from https://www.scrumalliance.org/why-scrum/agile-methodologies
+- Scrum.org. (n.d.). Scrum Framework. Retrieved September 23, 2021, from https://www.scrum.org/resources/scrum-framework.

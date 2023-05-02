@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Monitoring and Logging for a CI/CD Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, hope you're doing well. I was hoping you could help me out with something.
+
+Tim: Hey there! Of course, what do you need help with?
+
+User: I'm currently working as a CI/CD lead and I feel like I'm lacking in some skills and knowledge. I want to reach the Emergent level in Monitoring and Logging competency. Do you have any advice for me?
+
+Tim: That's great that you're looking to improve your skills and knowledge! To reach the Emergent level, you'll need to have a deep understanding of the technical aspects of Monitoring and Logging. It's important that you can effectively analyze complex systems and identify problem areas. You should also be knowledgeable about the most effective tools and solutions for Monitoring and Logging in a CI/CD environment.
+
+User: That makes sense. Can you provide some examples of the technical knowledge and skills I should have?
+
+Tim: Sure, some important technical knowledge and skills that you should have include: familiarity with monitoring and logging tools such as Prometheus, Fluentd, Elasticsearch, Graylog, etc; understanding of metrics and statistics, including how to set thresholds and alerts; experience with distributed systems, microservices and containerized applications; familiarity with log analysis techniques such as pattern recognition and anomaly detection. 
+
+User: Thanks for the advice. What are some of the attributes and practices needed to be successful in this area?
+
+Tim: In addition to technical knowledge, it's also important to have certain attributes and practices. You'll need to have a curious and analytical mindset, always investigating and trying to understand the root causes of issues. It's also important to have good communication and collaboration skills, as Monitoring and Logging often involves coordinating with multiple team members. And as with any technical role, you need to always be willing to learn and stay up-to-date with the latest tools and practices in the field.
+
+User: That's helpful! Do you have any recommended resources for me to learn more about this area?
+
+Tim: Absolutely! Some excellent resources include the book "Monitoring with Prometheus" by Brian Brazil, the website "The Elastic Stack" which has extensive guides and tutorials on Elasticsearch and Logstash, and the blog "Logz.io" which covers a variety of topics related to logging and monitoring. Additionally, some popular conferences in this area include the Prometheus Conference and the Fluentd Ecosystem conference.
+
+User: Thank you so much, Tim! This has been incredibly helpful.
+
+Tim: You're welcome! Always happy to help encourage curiosity in the pursuit of knowledge. Let me know if you have any other questions or if there's anything else I can do to help.

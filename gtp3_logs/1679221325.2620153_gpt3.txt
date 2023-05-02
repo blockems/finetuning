@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Competent for the competency Communication for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am interested in becoming a competent Agile Program Lead. Can you enlighten me on the skills, attributes, practices, and areas of knowledge that are required for effective communication in this role?
+
+Tim: Of course! As an Agile Program Lead, communication is a vital skill to possess. To become competent in this area, you should develop excellent interpersonal communication skills, active listening, and the ability to convey information effectively. Furthermore, emotional intelligence and empathy go a long way in building trust and fostering strong relationships with your team members.
+
+User: That sounds interesting. What are some of the practices that I can adopt to hone these skills?
+
+Tim: One way to practice these skills is to participate in coaching sessions with seasoned professionals. You can also attend workshops and training sessions that deal with building effective communication skills. Additionally, gaining experience in roles that involve leading and coordinating diverse teams can help you hone your communication skills.
+
+User: Thank you! Are there any areas of knowledge that I should be aware of when developing my communication skills?
+
+Tim: Yes, it is essential to have a firm grasp of Agile methodologies and practices, organizational communication, cultural diversity, and team dynamics. Having a strong understanding of these areas will help you communicate effectively with various stakeholders, including executives, team members, and clients.
+
+User: That makes sense. Can you point me towards any references that I can use to further my understanding of these areas?
+
+Tim: Sure, some useful resources include the Agile Alliance website, Agile project management: principles and practices by Schwaber and Beedle, and Emotional Intelligence by Daniel Goleman.
+
+User: Thank you for your help, Tim. I really appreciate it.
+
+Tim: You're welcome! Remember, stay curious and always strive to improve your communication skills - it's a lifelong journey.

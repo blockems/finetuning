@@ -1,0 +1,25 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Expert for the competency Team Management for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Project Managers need a wide range of skills and knowledge to effectively manage teams in an Agile environment. In order to be an expert in Team Management, the Agile Project Manager needs to have a combination of technical, leadership and interpersonal skills. 
+
+Technical Skills:
+Agile Project Managers need to have technical knowledge of Agile methodologies and frameworks, such as Scrum, Kanban, and Lean. They should be able to understand the principles and practices of Agile and how to apply them in different situations. Agile Project Managers also need to have technical expertise in software development, in order to understand the technical aspects of the project and support the team in designing and developing the software.
+
+Leadership Skills:
+Agile Project Managers need to have strong leadership skills in order to effectively guide and motivate the team. They need to be able to create a clear vision and set objectives for the team, communicate effectively, and manage conflict. Agile Project Managers also need to have a proactive approach to problem-solving and decision-making, and be able to lead the team in finding solutions to complex problems.
+
+Interpersonal Skills:
+Agile Project Managers need to possess excellent communication, collaboration, and negotiation skills. They need to foster a culture of trust, openness, and transparency, and be able to build strong relationships with team members and stakeholders. Agile Project Managers also need to be able to advocate for the team, manage expectations, and navigate organizational politics.
+
+To achieve expert-level competency in Team Management, Agile Project Managers should continually develop their skills and knowledge in these areas. They can do this through various training and development activities, such as attending Agile conferences, reading Agile literature, and participating in Agile communities of practice.
+
+References:
+- Beck, K., Beedle, M., van Bennekum, A., Cockburn, A., Cunningham, W., Fowler, M., ... & Thomas, D. (2001). Manifesto for agile software development.
+- Cohn, M. (2005). Agile estimating and planning. Prentice Hall Press.
+- DeMarco, T., & Lister, T. (1999). Peopleware: Productive Projects and Teams. Dorset House.
+- Highsmith, J., & Cockburn, A. (2001). Agile Software Development: The Business of Innovation. Addison-Wesley Professional.
+- Schwaber, K. (2004). Agile Project Management with Scrum. Microsoft Press.

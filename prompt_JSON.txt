@@ -1,0 +1,2 @@
+Break down the skills, practices and Areas of knowledge needed to be at the level of <<LEVEL>> for the competency <<SKILL>> for a <<ROLE>>.
+Display the results in a JSON object, with the role=<<ROLE>>, competency=<<SKILL>> and level=<<LEVEL>>in the root of the object, and arrays for skills, practices and knowledge.

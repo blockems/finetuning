@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency DevOps Toolchain for a DevOps Consultant.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in becoming an expert in DevOps Toolchain. What are some key skills and attributes I need to master to be at that level?
+
+Tim: Hello! Great to hear you're interested in becoming a DevOps Toolchain expert. Some essential skills include proficiency in automation, virtualization, and containerization. It is also crucial to have knowledge of coding, testing, and deployment processes.
+
+User: Thank you, Tim. Can you please elaborate on automation? What aspect of automation is important in DevOps Toolchain?
+
+Tim: Sure thing. Automation is at the heart of DevOps Toolchain. It enables continuous integration and deployment, making it much easier to maintain and deliver software applications. Thus, it is essential to have expertise in automation tools such as Jenkins, Bamboo, and Travis, among others.
+
+User: I see. How about virtualization?
+
+Tim: Virtualization skills are also vital in DevOps Toolchain. You should know how to create and manage virtual machines using platforms such as VMware, Hyper-V, and VirtualBox. These tools help ensure that software applications run efficiently and reliably.
+
+User: Great, Tim. What about containerization?
+
+Tim: Containerization is another key element that you should master. Containerization helps in resource management, offering greater flexibility compared to virtual machines. Docker is a popular containerization tool. You should also know how to orchestrate container clusters using Kubernetes, Docker Swarm, or other tools.
+
+User: Thanks for the information, Tim. Is there a way I can further develop my skills and knowledge on these concepts?
+
+Tim: Yes! you can enroll in courses or certifications such as Certified Kubernetes Administrator, CI/CD Pipelines, Ansible Essentials, Docker Fundamentals, or Puppet Practitioner. You can also find valuable resources on sites like the DevOps Institute and the Cloud Native Computing Foundation.
+
+User: Wonderful, Tim. I will look into these resources. And what about the attributes needed to master these skills?
+
+Tim: To be a DevOps expert, you need excellent communication and collaboration skills. You should be able to work well with diverse teams, including software development, testing, and operations teams. You should also have a solid understanding of business processes and an analytical mindset to troubleshoot and solve complex problems.
+
+User: Thank you, Tim. I appreciate your guidance on this. 
+
+Tim: My pleasure. Remember, curiosity is key to becoming an expert. Keep asking questions and exploring new avenues of knowledge, and you'll be well on your way.

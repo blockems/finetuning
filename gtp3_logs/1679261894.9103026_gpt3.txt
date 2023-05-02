@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Internet of Things (IoT) for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I am curious about what skills, attributes, practices, and areas of knowledge are required to be considered Emergent for the competency of IoT for a Solution Designer?
+
+Tim: Great question! To be considered Emergent in the competency of IoT for a Solution Designer, one must have proficiency in key areas such as data security, cloud computing, and machine learning. You must also have a strong understanding of software and hardware integration, network architecture, and the ability to design and implement IoT solutions that align with business needs.
+
+User: Could you provide some examples of these skills in practice?
+
+Tim: Sure. A Solution Designer with Emergent proficiency in IoT should be able to develop and implement an end-to-end IoT solution that includes device integration, data processing, and insights generation. They should be skilled in selecting appropriate platforms and technologies to ensure efficient data management and analysis. Additionally, they should have experience designing secure and scalable IoT solutions that meet industry standards.
+
+User: How would someone develop these skills and attributes?
+
+Tim: It starts with a solid foundation in computer engineering, programming languages, and Internet protocols. It is also important to have a diverse set of experiences in software and hardware development, network design, and project management. One can build skills and competencies through continuous learning, practical experimentation, and seeking mentorship from experienced IoT Solution Designers.
+
+User: Are there any specific best practices or methodologies that would be useful to learn?
+
+Tim: Definitely! Agile methodologies such as Scrum and Lean can be valuable for IoT Solution Designers as they promote iterative development and a customer-centric approach. DevOps practices can also help automate systems and streamline processes. In addition, Design Thinking can provide a framework for ideation and problem-solving.
+
+User: Those are great suggestions. Can you provide some references that I can use to further my understanding?
+
+Tim: Some resources that I recommend include "Internet of Things: A Hands-On Approach" by Arshdeep Bahga and Vijay Madisetti, "IoT Fundamentals: Networking Technologies, Protocols, and Use Cases for the Internet of Things" by David Hanes, and "Enterprise IoT: Strategies and Best Practices for Connected Products and Services" by Dirk Slama, Frank Puhlmann, and Jim Morrish. These books provide a comprehensive overview of IoT concepts, strategies, and implementation best practices.

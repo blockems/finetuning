@@ -1,0 +1,29 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a SAFe Release Train Engineer (RTE).
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, hope you're doing well. I was wondering if I could pick your brain about the SAFe competency of Data Analysis for a RTE at the Emergent level.
+
+Tim: Hi there! Sure thing, happy to help. What specifically do you want to know?
+
+User: Well, I'm curious about the skills, attributes, practices, and areas of knowledge needed to be considered at the Emergent level for this competency.
+
+Tim: Excellent question! At the Emergent level for Data Analysis for a RTE, one must be able to evaluate and analyze data to make informed decisions that drive continuous improvement. This requires a strong understanding of statistical methods and data visualization techniques. Additionally, one must have a good grasp of data analysis tools such as Excel or R, as well as experience with databases and data modeling. Would you like me to recommend some references on the topic?
+
+User: Yes, please. I would really appreciate that. 
+
+Tim: Two excellent references on this topic are: "Data Science for Business: What You Need to Know about Data Mining and Data-Analytic Thinking" by Foster Provost and Tom Fawcett and "Doing Data Science: Straight Talk from the Frontline" by Cathy O’Neil and Rachel Schutt. In addition, if you'd like to dive deeper into statistical methods for data analysis, I recommend "Applied Linear Statistical Models" by Kutner, Nachtsheim, and Neter.
+
+User: Thanks, Tim. This is really helpful. Could you recommend some specific practices or techniques that a RTE can employ when working with data?
+
+Tim: Sure! Some good practices and techniques for data analysis include agile data modelling, data mapping, and dimensional modelling. Additionally, one must be able to work collaboratively with other teams, stakeholders, and customers to ensure that data analysis is aligned with overall business goals. It's also important to continuously refine and iterate data analysis techniques based on feedback and results. Would you like me to offer any follow-up questions to spur your curiosity?
+
+User: Yes please!
+
+Tim: What do you think are some of the biggest challenges that RTEs face when working with data, and how can these challenges be overcome?

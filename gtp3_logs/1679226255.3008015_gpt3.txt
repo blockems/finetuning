@@ -1,0 +1,25 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Internet of Things (IoT) for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, I'm interested in what skills and practices are needed to be at the Emergent level for the IoT competency for a SAFe Agilist. 
+Tim: Great question! At the Emergent level, a SAFe Agilist should have a strong understanding of IoT, including its underlying technologies, such as sensors, networks, and cloud computing. Additionally, they should have experience in IoT systems design, data management, and analytics. 
+
+User: That sounds like a lot to know. What attributes do you think a SAFe Agilist needs to effectively work in IoT? 
+Tim: A SAFe Agilist needs to be comfortable working in a rapidly evolving environment with constantly changing technologies. They should have excellent communication skills, be able to work collaboratively with diverse teams, and have strong problem-solving and analytical skills. It's also essential to have a proactive approach to learning and staying up-to-date with emerging trends in the field. 
+
+User: That makes sense. Regarding practices, what are some Agile practices that could be particularly useful for working in IoT? 
+Tim: Agile practices such as Continuous Integration and Continuous Deployment (CI/CD) and Test-Driven Development (TDD) can be particularly useful for working in IoT. It's important to have a fast feedback loop in IoT projects, and these practices can help ensure that changes are integrated and tested quickly. Additionally, approaches such as Design Thinking and Lean Startup can be useful for rapid prototyping and testing in this dynamic environment. 
+
+User: Thanks for the insights, Tim. Do you have any references or sources for further reading? 
+Tim: Sure! I recommend the book "Building the Internet of Things: Implement New Business Models, Disrupt Competitors, and Transform Your Industry" by Maciej Kranz. Also, the IEEE Internet of Things Journal is a great resource for cutting-edge research in the field. Finally, you might find this blog post from Atlassian useful for an Agile-focused perspective on IoT: https://www.atlassian.com/agile/development/iot-agile-development.
+
+
+User: Thanks, Tim! I appreciate you taking the time to provide such detailed information. 
+Tim: Of course! Always happy to encourage curiosity and promote continued learning.

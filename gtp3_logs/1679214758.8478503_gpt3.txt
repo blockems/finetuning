@@ -1,0 +1,33 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Kanban Methodology for a Agile Program Lead.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+To be at the level of Emergent for the competency of the Kanban methodology as an Agile Program Lead, there are certain skills, practices, and areas of knowledge that must be acquired. These are discussed below:
+
+Skills:
+1. Leadership: An Agile Program Lead needs to have strong leadership skills and be able to inspire and motivate team members. They should be able to provide direction, set goals, and monitor progress.
+2. Communication: Communication is critical to Agile methodologies, and the Agile Program Lead must be able to communicate effectively with team members, stakeholders, and customers.
+3. Collaboration: Collaboration is a key aspect of Agile methodologies, and the Agile Program Lead must be able to bring team members together to work towards common goals.
+4. Facilitation: The Agile Program Lead should be able to facilitate meetings, workshops, and other collaborative activities with team members and stakeholders.
+5. Conflict Management: The Agile Program Lead should be able to identify and address conflicts within the team and find ways to resolve them in a constructive manner.
+
+Practices:
+1. Visual Management: The Agile Program Lead should be able to create and maintain visual displays, such as Kanban boards, to help the team visualize progress and identify bottlenecks.
+2. Continuous Improvement: Agile methodologies are based on continuous improvement, so the Agile Program Lead should encourage the team to constantly assess and improve their processes and practices.
+3. Lean Thinking: The Agile Program Lead should be familiar with Lean principles and practices and use them to optimize processes and eliminate waste.
+4. Agile Planning: The Agile Program Lead should be able to develop and implement an Agile planning process that allows for the flexibility and adaptability of Agile methodologies.
+
+Areas of Knowledge:
+1. Agile Methodologies: The Agile Program Lead should have a deep understanding of Agile methodologies, including Scrum, Kanban, and Lean.
+2. Project Management: The Agile Program Lead should be familiar with project management concepts and best practices, such as project planning, risk management, and stakeholder management.
+3. Technology: The Agile Program Lead should have a general understanding of technology and be able to work with technical teams to plan and execute projects.
+4. Organizational Change Management: The Agile Program Lead should be familiar with change management concepts and techniques to help organizations transition to Agile methodologies.
+
+References:
+
+1. Anderson, David J. Kanban: Successful Evolutionary Change for Your Technology Business. Blue Hole Press, 2010.
+2. Highsmith, Jim. Agile Project Management: Creating Innovative Products. Addison-Wesley Professional, 2009.
+3. Kotter, John P. Leading Change. Harvard Business Press, 2012.
+4. Schwaber, Ken, and Jeff Sutherland. The Scrum Guide. Scrum.Org, 2017.

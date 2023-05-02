@@ -1,0 +1,59 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Emergent for the competency Data Analysis for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Managers are responsible for overseeing the agile development team's activities and ensuring that the team follows agile principles and practices. As part of their responsibilities, Agile Delivery Managers must have a firm grasp of data analysis. In particular, they should possess emergent competency in data analysis, which involves advanced skills, practices, and areas of knowledge. In this discussion, we will explore the skills, practices, and areas of knowledge required for Agile Delivery Managers to achieve emergent competency in data analysis.
+
+Skills Required for Emergent Competency in Data Analysis
+
+To achieve emergent competency in data analysis, Agile Delivery Managers must possess a range of skills, including:
+
+1. Statistical Analysis: Agile Delivery Managers should be able to perform statistical analysis to identify trends, patterns, and anomalies in data sets. They should have a strong understanding of statistical concepts such as probability, hypothesis testing, regression analysis, and variance analysis.
+
+2. Data Visualization: Agile Delivery Managers should be able to visualize data in meaningful ways, such as through charts, diagrams, and graphs. They should be adept at selecting appropriate visualization tools based on the audience and the data being presented.
+
+3. Data Modeling: Agile Delivery Managers should be able to create and modify data models that accurately reflect the organization's data structures. They should be proficient in data modeling tools and techniques, such as entity-relationship diagrams and data flow diagrams.
+
+4. Data Manipulation: Agile Delivery Managers should be able to manipulate data using tools like SQL, Python, or R. They should be able to perform data extraction, transformation, and loading (ETL) operations, such as cleaning data, merging data sets, and transforming data formats.
+
+5. Business Analysis: Agile Delivery Managers should be able to analyze business processes and identify data-driven solutions to improve them. They should be skilled in requirements gathering, user story mapping, and backlog management.
+
+Practices Required for Emergent Competency in Data Analysis
+
+To achieve emergent competency in data analysis, Agile Delivery Managers should follow best practices in data analysis, such as:
+
+1. Agile Data Governance: Agile Delivery Managers should ensure that data governance practices align with agile principles, including collaboration, transparency, and feedback. They should involve stakeholders in the data governance process and create cross-functional teams to manage data.
+
+2. Data Quality Management: Agile Delivery Managers should establish processes to maintain data quality, such as data cleansing, data validation, and data enrichment. They should implement automated testing and quality checks to ensure data accuracy and consistency.
+
+3. Agile Reporting: Agile Delivery Managers should create agile reports that provide valuable insights to stakeholders. They should use visualizations that are easy to understand and reflect the organization's metrics.
+
+4. Agile Data Management: Agile Delivery Managers should establish agile data management practices, such as continuous integration and continuous deployment of data sets. They should also create data pipelines that automate data processing and ensure data is available to teams in real-time.
+
+Areas of Knowledge Required for Emergent Competency in Data Analysis
+
+To achieve emergent competency in data analysis, Agile Delivery Managers should have a strong understanding of the following areas of knowledge:
+
+1. Data Science: Agile Delivery Managers should have a thorough understanding of data science concepts, such as machine learning, deep learning, and artificial intelligence. They should be able to identify use cases for these technologies and implement them in agile environments.
+
+2. Big Data: Agile Delivery Managers should have knowledge of big data technologies, such as Hadoop, Spark, and NoSQL databases. They should be able to extract insights from big data and use them to drive business decisions.
+
+3. Data Privacy and Security: Agile Delivery Managers should have knowledge of data privacy and security concepts, such as encryption, data masking, and data anonymization. They should be able to implement data protection measures in compliance with data privacy regulations.
+
+4. Agile Methodology: Agile Delivery Managers should have knowledge of agile methodologies, such as Scrum or Kanban. They should have the ability to apply agile principles to data analysis activities and create data-driven solutions in an agile environment.
+
+Conclusion
+
+To conclude, Agile Delivery Managers must possess emergent competency in data analysis to help their organizations gain insights into their data and create data-driven solutions. This requires advanced skills in statistical analysis, data visualization, data modeling, data manipulation, and business analysis. It also requires following best practices in agile data governance, data quality management, agile reporting, and agile data management. Finally, Agile Delivery Managers should have a strong understanding of data science, big data, data privacy and security, and agile methodology. By mastering these skills, practices, and areas of knowledge, Agile Delivery Managers can become effective leaders of agile data analysis initiatives.
+
+References:
+
+1. Agile Alliance. (2019). Agile data science: Creating data-driven solutions. Agile Alliance. Retrieved from https://www.agilealliance.org/resources/sessions/agile-data-science-creating-data-driven-solutions/
+
+2. Fong, E. (2019). Data-driven agility: Using data for continuous improvement. Scrum Alliance. Retrieved from https://www.scrumalliance.org/community/articles/2019/october/data-driven-agility-using-data-for-continuous-imp
+
+3. Agile Data Warehousing Team. (2016). Agile data warehousing: Delivering world-class business intelligence systems using Scrum and XP. Addison-Wesley Professional.
+
+4. Barker, D. (2015). Agile analytics: A value-driven approach to business intelligence and data warehousing. Pearson Education.

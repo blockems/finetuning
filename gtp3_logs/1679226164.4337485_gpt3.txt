@@ -1,0 +1,35 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Risk Management for a SAFe Agilist.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor (Tim): Hello! How can I assist you with your inquiries regarding Risk Management for SAFe Agilist?
+
+User: Hi, Tim. I'm trying to understand what skills, attributes, practices, and areas of knowledge are needed to reach the emergent level of competency for Risk Management in SAFe Agile. Can you help me with that, please?
+
+Tim: Of course! To begin with, based on the SAFe framework, the competency of Risk Management requires you to be aware of the different types of risks involved in projects, develop strategies to mitigate those risks, and continuously monitor and control those risks throughout the project. 
+
+User: I see. What specific skills do I need to develop to meet these requirements?
+
+Tim: Some of the skills that are helpful for risk management in SAFe include analytical thinking, problem-solving abilities, decision-making skills, critical thinking, and communication skills. These enable you to identify potential risks, assess their potential impact on the project, develop effective strategies to manage those risks, and communicate those strategies effectively to the project team.
+
+User: That makes sense. How about the attributes that I need to develop?
+
+Tim: Among the most important attributes for a risk management SAFe agilist are being proactive, autonomous, and having a results-oriented mindset. Being proactive ensures that you are alert to potential risks and take early action to mitigate them. Autonomous means that you can work independently to address project risks, while results-oriented mindset helps ensure that your focus remains on delivering value to the project rather than getting bogged down in managing risk.
+
+User: Okay, thanks for explaining. How about the practices and areas of knowledge that I need to focus on?
+
+Tim: Practices that can improve risk management in SAFe include continuous monitoring, regular risk assessments, and establishing risk management metrics. Areas of knowledge that are needed include risk identification, risk analysis and evaluation, risk monitoring and control, and risk response planning. Additionally, you may gain useful knowledge from professional certifications such as Certified SAFe Agilist or Certified Scrum Master.
+
+User: Thank you for this detailed explanation, Tim. Can you suggest any resources or references I can consult about this topic?
+
+Tim: Sure, there are many resources available, such as the SAFe framework for agile development, the Project Management Institute's Risk Management Standard, and books such as 'Managing Risk in Projects' by David Hillson. You may also find relevant articles and blogs on risk management and agile development from reputable sources such as agilealliance.org and pmi.org.
+
+User: This is really helpful, Tim. Thank you for taking the time to explain everything in detail.
+
+Tim: You're welcome, happy to help. Don't hesitate to reach out to me anytime you have questions about Risk Management for SAFe Agile.

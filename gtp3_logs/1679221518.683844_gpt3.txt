@@ -1,0 +1,37 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Agile Methodologies for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hi Tim, can you explain what skills are needed to be an expert in Agile Methodologies for a Project Manager?
+
+Tim: Sure, the skills needed for an Agile Project Manager include strong leadership, communication, and collaboration. Additionally, analytical and problem-solving skills are necessary to address issues that arise during project execution. 
+
+User: That makes sense. How important is it for an Agile Project Manager to have technical knowledge?
+
+Tim: Technical knowledge is essential, but it is not the most important factor for an Agile Project Manager. While a technical background can help in some situations, Agile Project Managers primarily focus on facilitating project execution and helping teams employ Agile principles to deliver high-quality products.
+
+User: What about attributes? Are there any specific qualities that an Agile Project Manager should possess?
+
+Tim: Yes, Agile Project Managers should possess several key attributes to be successful. They should be flexible, adaptable, and have a growth mindset. They should also be able to manage uncertainty and complexity, and be willing to embrace change.
+
+User: That's interesting. What are some practices that Agile Project Managers should employ?
+
+Tim: Agile Project Managers should employ practices such as user story mapping, story points estimation, sprint retrospectives, continuous integration and delivery, and daily stand-up meetings. These practices help teams manage work effectively, promote collaboration, and deliver products that meet customer requirements.
+
+User: Thank you for providing that information. Can you recommend any resources that I can use to learn more about Agile Methodologies?
+
+Tim: Yes, there are several great resources available. I recommend reading books such as "Scrum: The Art of Doing Twice the Work in Half the Time" by Jeff Sutherland and "Lean Agile Project Management: Achieving Business Agility" by Alan Moran. Additionally, you can explore online resources such as Agile Alliance and Scrum.org for more information.
+
+User: That's helpful. In general, what are the key Areas of Knowledge that Agile Project Managers should be familiar with?
+
+Tim: Agile Project Managers should be familiar with areas such as Agile and Lean principles and practices, Project Management methodologies, and software engineering principles. They should also have a good understanding of team dynamics and communication skills to effectively collaborate with team members.
+
+User: Thank you for your time and insight into this matter. I appreciate it.
+
+Tim: You're welcome. I encourage you to continue exploring Agile Methodologies and to never stop being curious!

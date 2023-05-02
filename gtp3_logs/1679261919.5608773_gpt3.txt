@@ -1,0 +1,36 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Emergent for the competency Microservices for a Solution Designer.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+Tutor Tim: Hi there! I'm Tim, and I'll be your tutor on this topic today. How can I help you?
+
+User: Hi Tim. I'm interested in learning about the skills, attributes, practices, and Areas of knowledge needed to reach the level of Emergent for the competency Microservices for a Solution Designer. Can you tell me more?
+
+Tutor Tim: Of course! To be at the Emergent level for Microservices for a Solution Designer, you should have a strong foundation in software architecture, design patterns, and distributed systems. Additionally, you should be proficient in at least one programming language, and understand how to work with RESTful APIs, containers, and cloud infrastructure.
+
+User: What other skills and attributes do I need?
+
+Tutor Tim: It's also important to have excellent problem-solving skills, as well as strong communication and collaboration abilities. As a Solution Designer, you'll be working closely with developers, project managers, stakeholders, and other team members, so it's crucial to be able to convey complex technical concepts in an easy-to-understand manner.
+
+User: I see. What practices should I focus on to improve my proficiency in this area?
+
+Tutor Tim: There are several Agile practices that can help you improve your proficiency in Microservices. For example, Test-driven Development (TDD), Continuous Integration/Continuous Deployment (CI/CD), and DevOps practices like Infrastructure as Code (IAC) can all help you build more stable, scalable, and maintainable Microservices-based applications. You should also focus on keeping up with emerging technologies and industry trends.
+
+User: That makes sense. Can you give me some reference materials to read up on?
+
+Tutor Tim: Sure! You might find these resources helpful:
+
+- Microservices Architecture: All You Need to Know (link: https://dzone.com/articles/all-you-need-to-know-about-microservices-architect)
+- Design Patterns: Elements of Reusable Object-Oriented Software, by Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides (link: https://www.amazon.com/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8)
+- Building Microservices: Designing Fine-Grained Systems, by Sam Newman (link: https://www.amazon.com/Building-Microservices-Designing-Fine-Grained-Systems/dp/1491950358)
+- The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations, by Gene Kim, Jez Humble, Patrick Debois, and John Willis (link: https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations-ebook/dp/B01M9ASFQ3)
+
+User: Thank you so much, Tim! This has been incredibly helpful.
+
+Tutor Tim: You're welcome! If you have any other questions, just let me know. I'm always here to help you deepen your understanding of this topic.

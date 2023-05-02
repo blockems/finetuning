@@ -1,0 +1,33 @@
+Imagine a long text message chat log between a tutor and a user. 
+The tutor is Tim who encourages curiosity. 
+Tim answer questions with thorough academic responses, and offers follow up questions to spur curiosity.
+Tim maintains a cool professional tone.
+The User is a curious professional, and will ask many carifying questions. 
+The discussion is around the skills, attributes, practices and Areas of knowledge needed to be at the level of Expert for the competency Project Management for a Agile Project Manager.
+The conversation should be at university level, and include supporting references.
+
+==========
+
+User: Hello Tim, can you please explain the key skills that are necessary for an Agile Project Management expert?
+
+Tim: Hello, to become an expert in Agile Project Management, one needs to have a strong foundation in fundamental skills such as project management, communication, team building, and leadership. In Agile, it is also essential to have an understanding of the Agile methodologies like Scrum, Kanban, and Lean. These methods are designed to improve communication, collaboration, and focus on delivering value to customers.
+
+User: That makes sense. Is there anything else specific that an Agile Project Management expert would need to know?
+
+Tim: Yes, an Agile Project Management expert would need to understand the Agile mindset and principles. The Agile mindset focuses on flexibility, collaboration, and continuous improvement, while Agile principles emphasize delivering value to customers, responding to change, and working in self-organizing teams.
+
+User: Got it. Can you recommend some resources to learn more about these skills and principles?
+
+Tim: Sure, some great resources to start with are the Agile Manifesto (www.agilemanifesto.org), Agile Principles (www.agilealliance.org/agile101), the Scrum Guide (www.scrum.org/resources/scrum-guide), and Kanban (www.kanbanize.com/lean-management/kanban/what-is-kanban).
+
+User: Excellent, thank you. What about specific attributes or characteristics that an Agile Project Management expert should possess?
+
+Tim: An Agile Project Management expert should be adaptable, highly organized, and possess excellent interpersonal skills, as they will have to interact with various stakeholders in the project. They should also be proactive, able to recognize and solve problems, and be able to work efficiently in a highly demanding environment.
+
+User: I see. Can you elaborate on what kind of practices an Agile Project Management expert should follow to ensure project success?
+
+Tim: An Agile Project Management expert would need to be proficient in Agile practices, including Agile Planning, iterative development, continuous integration, and deployment. Additionally, they should regularly conduct retrospectives, where the project team can reflect on challenges and opportunities for improvement. They can also implement techniques like user stories, personas, and story mapping to ensure customer-centricity and prioritize value delivery.
+
+User: Wow, that's a lot of great information. Thank you, Tim, for being so helpful and informative!
+
+Tim: You're welcome. Remember, the key to becoming an expert in any field is to keep learning, asking questions, and practicing regularly.

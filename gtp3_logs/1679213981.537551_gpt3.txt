@@ -1,0 +1,46 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Competent for the competency Stakeholder Management for a Agile Delivery Manager.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Agile Delivery Manager is a role that requires strong stakeholder management skills. In order to be competent in this area, an Agile Delivery Manager should possess a set of skills, practices and areas of knowledge that enable effective management of stakeholders. 
+
+Skills:
+1. Communication: Agile Delivery Managers must be able to effectively communicate with both technical and non-technical stakeholders. They must be able to tailor their communication style to suit the audience and ensure that all stakeholders are aware of project progress, issues, and changes.
+
+2. Empathy: Understanding the needs and concerns of stakeholders is essential in stakeholder management. Agile Delivery Managers should have the ability to empathize with stakeholders and develop solutions that meet their needs.
+
+3. Conflict Resolution: Stakeholder management can sometimes lead to conflicts or disagreements. Agile Delivery Managers should have the skills to manage conflicts effectively, identify the root cause of the conflict and find a mutually acceptable solution.
+
+4. Influence: Agile Delivery Managers must have the ability to influence stakeholders to ensure project success. This requires the ability to establish credibility with stakeholders and to understand their motivations and needs.
+
+Practices:
+1. Stakeholder Identification: Agile Delivery Managers should identify all stakeholders involved in the project, whether they are internal or external. They should also identify the level of influence and interest of each stakeholder.
+
+2. Stakeholder Analysis: Agile Delivery Managers must analyze stakeholders to understand their needs, expectations, and concerns. This can be done through surveys, interviews, and observations.
+
+3. Stakeholder Engagement: Regular engagement with stakeholders is critical to stakeholder management. Agile Delivery Managers must ensure that all stakeholders are kept informed about the project progress, changes, and issues.
+
+4. Stakeholder Prioritization: Stakeholders should be prioritized based on their level of influence and interest in the project. This will help Agile Delivery Managers to focus their efforts on the stakeholders that are most important to project success.
+
+Areas of Knowledge:
+1. Stakeholder Management: Knowledge of stakeholder management principles and techniques is essential for Agile Delivery Managers to effectively manage stakeholders.
+
+2. Agile Methodologies: Knowledge of Agile methodologies such as Scrum, Kanban, and XP is important. This will help the Agile Delivery Manager to understand the project management framework and how it can be applied to stakeholder management.
+
+3. Project Management: Knowledge of project management principles and techniques is important for Agile Delivery Managers to effectively manage projects.
+
+4. Systems Thinking: Agile Delivery Managers should have the ability to see the project as a system, understand how it interacts with its environment, and how changes in one area can affect other areas.
+
+References:
+
+1. Agile Practice Guide, Project Management Institute, 2017.
+
+2. Scrum: A Pocket Guide, Gunther Verheyen, 2013.
+
+3. Agile Project Management with Kanban, Eric Brechner, 2015.
+
+4. Project Management Body of Knowledge (PMBOK Guide), Project Management Institute, 2017.
+
+5. Systems Thinking, Peter Senge, 1990.

@@ -1,0 +1,38 @@
+Imagine a detailed debate on the skills, practices and Areas of knowledge needed to be at the level of Lead for the competency Strategic Planning for a Agile Coach.
+The conversation should be at university level, and include supporting references.
+
+
+==========
+
+Let's start by breaking down the competency of Strategic Planning, as it relates to Agile coaching. Strategic Planning involves creating a long-term plan for an organization to achieve specific goals and objectives. In the context of Agile coaching, this means developing a strategic plan that takes into consideration the unique needs, goals, and challenges of an Agile team or organization.
+
+To be effective in this competency, an Agile coach must possess a range of skills and practices, as well as a strong understanding of key areas of knowledge. Some key skills and practices include:
+
+1. Leadership and management skills, including the ability to inspire and motivate a team, delegate responsibilities, and create a collaborative work environment.
+
+2. Strategic thinking skills, which enable an Agile coach to assess an organization's strengths and weaknesses, identify opportunities and threats, and develop a clear and focused strategic plan.
+
+3. Facilitation skills, which enable an Agile coach to lead meetings, workshops, and other collaborative sessions effectively.
+
+4. Communication skills, including the ability to listen actively, articulate ideas clearly, and provide constructive feedback to team members.
+
+5. Change management skills, which enable an Agile coach to help organizations navigate through transitions and adapt to new ways of working.
+
+In terms of areas of knowledge, an Agile coach must have a deep understanding of Agile methodologies and practices, as well as broader knowledge of organizational behavior, project management, and business strategy. Some key reference materials to support this knowledge include:
+
+1. Agile Manifesto - https://agilemanifesto.org/
+The Agile Manifesto provides the foundation for Agile methodologies, and outlines the guiding values and principles that Agile coaches should follow.
+
+2. The Scrum Guide - https://www.scrum.org/resources/scrum-guide
+The Scrum Guide provides a detailed framework for implementing Agile principles and practices within Scrum teams.
+
+3. The Lean Startup - https://theleanstartup.com/
+The Lean Startup provides a framework for creating a culture of innovation and experimentation within organizations, which is a key part of Agile coaching.
+
+4. The Art of Possibility - https://www.amazon.com/Art-Possibility-Transforming-Professional-Personal/dp/0142001104
+The Art of Possibility provides powerful insights into leadership, creativity, and communication, which are all essential skills for an Agile coach.
+
+5. Harvard Business Review - https://hbr.org/
+The Harvard Business Review provides a wide range of articles and research on business strategy, organizational behavior, and other related topics that can help Agile coaches develop a comprehensive understanding of the organizations they are working with.
+
+By developing a strong understanding of these skills, practices, and areas of knowledge, an Agile coach can be well-equipped to lead strategic planning efforts within Agile teams and organizations.

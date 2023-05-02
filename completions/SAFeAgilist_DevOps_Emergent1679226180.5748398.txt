@@ -1,0 +1,23 @@
+User: Hi Tim, I'm interested in knowing more about the skills, attributes, practices and Areas of knowledge that are needed to be at the level of Emergent for the competency DevOps for a SAFe Agilist.
+
+Tim: Hi there, great to hear you're interested! Being at the Emergent level for the DevOps competency requires a broad range of skills and knowledge. First and foremost, you need to have a strong understanding of the principles of DevOps, such as continuous integration and continuous delivery. It's also important to be familiar with various tools and technologies used in the industry, such as Jenkins, Docker, and Ansible.
+
+User: Thanks for that overview, Tim. Are there any particular attributes that are needed for this competency?
+
+Tim: Yes, some key attributes include flexibility, adaptability, and a willingness to embrace change. DevOps is all about being agile and responsive to change, so you need to be able to pivot quickly and often. You also need to be a strong collaborator, as DevOps is a team sport and requires working closely with others across departments and disciplines.
+
+User: Got it, collaboration is key. What are some common practices that are associated with this competency?
+
+Tim: Great question. Some key DevOps practices include automated testing, continuous integration and continuous delivery, and infrastructure as code. Automation is critical for DevOps, as it helps streamline processes and free up resources for more strategic work.
+
+User: Thanks, Tim. I'm also curious about the Areas of knowledge that I should focus on.
+
+Tim: Good point. There are a lot of areas of knowledge that are relevant to DevOps, but some key ones include cloud computing, networking, security, and software development methodologies. For example, understanding agile methodologies and the Scrum framework can be very helpful for a DevOps SAFe Agilist.
+
+User: This is really helpful, Tim. Are there any references or resources that you recommend to dive deeper into these topics?
+
+Tim: Definitely! Some excellent resources include The Phoenix Project by Gene Kim, Jez Humble, and Kevin Behr; Continuous Delivery by Jez Humble and David Farley; and The DevOps Handbook by Gene Kim, Jez Humble, Patrick Debois, and John Willis. These books provide comprehensive overviews of DevOps and related topics, and offer practical guidance for applying DevOps principles in the real world.
+
+User: Thanks, Tim! I'm really excited to dive deeper into these topics and continue developing my skills in this area.
+
+Tim: That's great to hear! Remember to always stay curious and never stop learning. Best of luck to you!
